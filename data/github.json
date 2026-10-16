@@ -1,0 +1,277 @@
+{
+  "updated_at": "2026-10-16 14:01:47",
+  "window_days": 7,
+  "repos": [
+    {
+      "repo": "jhaizhou-ops/d2r-mobile",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "desc": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
+      "lang": "C",
+      "stars": 3296,
+      "forks": 976,
+      "created": "2026-10-12"
+    },
+    {
+      "repo": "storytold/craft-launcher",
+      "url": "https://github.com/storytold/craft-launcher",
+      "desc": "The Craft App Launcher",
+      "lang": "Rust",
+      "stars": 2907,
+      "forks": 971,
+      "created": "2026-10-09"
+    },
+    {
+      "repo": "onehumanbeing/esp32-iphone-agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "lang": "C",
+      "stars": 2616,
+      "forks": 343,
+      "created": "2026-10-11"
+    },
+    {
+      "repo": "liseami/CCBaga",
+      "url": "https://github.com/liseami/CCBaga",
+      "desc": "",
+      "lang": "Rust",
+      "stars": 2357,
+      "forks": 238,
+      "created": "2026-10-11"
+    },
+    {
+      "repo": "Arekejoker/qwen21-nsfw-pose-skill",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "desc": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+      "lang": "Python",
+      "stars": 2174,
+      "forks": 440,
+      "created": "2026-10-13"
+    },
+    {
+      "repo": "storytold/figcraft",
+      "url": "https://github.com/storytold/figcraft",
+      "desc": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
+      "lang": "Rust",
+      "stars": 1470,
+      "forks": 657,
+      "created": "2026-10-09"
+    },
+    {
+      "repo": "HeyPuter/everything",
+      "url": "https://github.com/HeyPuter/everything",
+      "desc": "We're rebuilding and open-sourcing the world’s software from scratch.",
+      "lang": "JavaScript",
+      "stars": 1400,
+      "forks": 193,
+      "created": "2026-10-13"
+    },
+    {
+      "repo": "shaongitbd/doory",
+      "url": "https://github.com/shaongitbd/doory",
+      "desc": "Open source canva alternative",
+      "lang": "TypeScript",
+      "stars": 1348,
+      "forks": 89,
+      "created": "2026-10-10"
+    },
+    {
+      "repo": "ahwootech/BRUTAL",
+      "url": "https://github.com/ahwootech/BRUTAL",
+      "desc": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency ",
+      "lang": "C#",
+      "stars": 1264,
+      "forks": 65,
+      "created": "2026-10-14"
+    },
+    {
+      "repo": "opengeos/RustGIS",
+      "url": "https://github.com/opengeos/RustGIS",
+      "desc": "A fast, free and open-source GIS in pure Rust.",
+      "lang": "Rust",
+      "stars": 1239,
+      "forks": 171,
+      "created": "2026-10-10"
+    },
+    {
+      "repo": "chenglou/handwired",
+      "url": "https://github.com/chenglou/handwired",
+      "desc": "Turn your regular JavaScript code into a neural net.",
+      "lang": "TypeScript",
+      "stars": 1206,
+      "forks": 90,
+      "created": "2026-10-15"
+    },
+    {
+      "repo": "rociiu/talorys",
+      "url": "https://github.com/rociiu/talorys",
+      "desc": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no tel",
+      "lang": "TypeScript",
+      "stars": 1194,
+      "forks": 105,
+      "created": "2026-10-10"
+    },
+    {
+      "repo": "deeplethe/solid-glass",
+      "url": "https://github.com/deeplethe/solid-glass",
+      "desc": "A design system for AI applications. Material, physical, tactile, technical.",
+      "lang": "TypeScript",
+      "stars": 1121,
+      "forks": 16,
+      "created": "2026-10-12"
+    },
+    {
+      "repo": "marclou/mailcheap",
+      "url": "https://github.com/marclou/mailcheap",
+      "desc": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
+      "lang": "JavaScript",
+      "stars": 1073,
+      "forks": 279,
+      "created": "2026-10-10"
+    },
+    {
+      "repo": "zhuyansen/new-term-radar",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "desc": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "lang": "Python",
+      "stars": 1035,
+      "forks": 406,
+      "created": "2026-10-12"
+    },
+    {
+      "repo": "feder-cr/open_scion",
+      "url": "https://github.com/feder-cr/open_scion",
+      "desc": "Open-source version of Scion: version control built for coding agents.",
+      "lang": "Go",
+      "stars": 1015,
+      "forks": 107,
+      "created": "2026-10-15"
+    },
+    {
+      "repo": "chenwei810/Semiconductor_Manufacturing_Introduction",
+      "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
+      "desc": "Introduction to Semiconductor Manufacturing",
+      "lang": "Python",
+      "stars": 951,
+      "forks": 91,
+      "created": "2026-10-11"
+    },
+    {
+      "repo": "SubmitGame/awesome-decomp-games",
+      "url": "https://github.com/SubmitGame/awesome-decomp-games",
+      "desc": "Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.",
+      "lang": "Python",
+      "stars": 900,
+      "forks": 39,
+      "created": "2026-10-09"
+    },
+    {
+      "repo": "fyzugx/DEsk",
+      "url": "https://github.com/fyzugx/DEsk",
+      "desc": "",
+      "lang": "C",
+      "stars": 865,
+      "forks": 24,
+      "created": "2026-10-10"
+    },
+    {
+      "repo": "outcrawlai/scout",
+      "url": "https://github.com/outcrawlai/scout",
+      "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "lang": "TypeScript",
+      "stars": 854,
+      "forks": 26,
+      "created": "2026-10-13"
+    },
+    {
+      "repo": "YeonwooSung/my-claude-code-mods",
+      "url": "https://github.com/YeonwooSung/my-claude-code-mods",
+      "desc": "Custom Claude Code Mods that I need",
+      "lang": "TypeScript",
+      "stars": 844,
+      "forks": 4,
+      "created": "2026-10-09"
+    },
+    {
+      "repo": "Caho1/open-claude-ui",
+      "url": "https://github.com/Caho1/open-claude-ui",
+      "desc": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。纯手写 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+      "lang": "TypeScript",
+      "stars": 828,
+      "forks": 194,
+      "created": "2026-10-14"
+    },
+    {
+      "repo": "jwuthri-cloud/Tracely-ai",
+      "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+      "desc": "",
+      "lang": "Python",
+      "stars": 824,
+      "forks": 107,
+      "created": "2026-10-11"
+    },
+    {
+      "repo": "h0m3us3r/w1700k-sdr",
+      "url": "https://github.com/h0m3us3r/w1700k-sdr",
+      "desc": "",
+      "lang": "C",
+      "stars": 800,
+      "forks": 80,
+      "created": "2026-10-11"
+    },
+    {
+      "repo": "CoolkHz/gptibo",
+      "url": "https://github.com/CoolkHz/gptibo",
+      "desc": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "lang": "TypeScript",
+      "stars": 799,
+      "forks": 476,
+      "created": "2026-10-13"
+    },
+    {
+      "repo": "Supermedo/uncharted_pc",
+      "url": "https://github.com/Supermedo/uncharted_pc",
+      "desc": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+      "lang": "C++",
+      "stars": 758,
+      "forks": 36,
+      "created": "2026-10-15"
+    },
+    {
+      "repo": "n1tr00-10/tiktok-web-signature",
+      "url": "https://github.com/n1tr00-10/tiktok-web-signature",
+      "desc": "tiktok web signature reverse engineer generates valid tiktok signatures for API requets",
+      "lang": "Python",
+      "stars": 713,
+      "forks": 1,
+      "created": "2026-10-09"
+    },
+    {
+      "repo": "AjncSystem/ShadowOfTheColossus-PC",
+      "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
+      "desc": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.",
+      "lang": "C++",
+      "stars": 684,
+      "forks": 31,
+      "created": "2026-10-12"
+    },
+    {
+      "repo": "zeusinsight/FinderSearch",
+      "url": "https://github.com/zeusinsight/FinderSearch",
+      "desc": "A native macOS file browser with fast fuzzy filename search, powered by fsearch.",
+      "lang": "Swift",
+      "stars": 671,
+      "forks": 20,
+      "created": "2026-10-09"
+    },
+    {
+      "repo": "nateherkai/roast-room",
+      "url": "https://github.com/nateherkai/roast-room",
+      "desc": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
+      "lang": "JavaScript",
+      "stars": 633,
+      "forks": 140,
+      "created": "2026-10-10"
+    }
+  ],
+  "note": ""
+}

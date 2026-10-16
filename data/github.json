@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16 15:26:00",
+  "updated_at": "2026-10-16 15:36:07",
   "window_days": 7,
   "repos": [
     {
@@ -7,8 +7,8 @@
       "url": "https://github.com/jhaizhou-ops/d2r-mobile",
       "desc": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
       "lang": "C",
-      "stars": 3341,
-      "forks": 985,
+      "stars": 3346,
+      "forks": 987,
       "created": "2026-10-12"
     },
     {
@@ -16,7 +16,7 @@
       "url": "https://github.com/storytold/craft-launcher",
       "desc": "The Craft App Launcher",
       "lang": "Rust",
-      "stars": 2916,
+      "stars": 2917,
       "forks": 972,
       "created": "2026-10-09"
     },
@@ -25,7 +25,7 @@
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
       "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "lang": "C",
-      "stars": 2664,
+      "stars": 2667,
       "forks": 348,
       "created": "2026-10-11"
     },
@@ -34,7 +34,7 @@
       "url": "https://github.com/liseami/CCBaga",
       "desc": "",
       "lang": "Rust",
-      "stars": 2359,
+      "stars": 2360,
       "forks": 239,
       "created": "2026-10-11"
     },
@@ -43,8 +43,8 @@
       "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
       "desc": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
       "lang": "Python",
-      "stars": 2230,
-      "forks": 448,
+      "stars": 2234,
+      "forks": 449,
       "created": "2026-10-13"
     },
     {
@@ -52,7 +52,7 @@
       "url": "https://github.com/storytold/figcraft",
       "desc": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
       "lang": "Rust",
-      "stars": 1494,
+      "stars": 1495,
       "forks": 662,
       "created": "2026-10-09"
     },
@@ -61,8 +61,8 @@
       "url": "https://github.com/HeyPuter/everything",
       "desc": "We're rebuilding and open-sourcing the world’s software from scratch.",
       "lang": "JavaScript",
-      "stars": 1424,
-      "forks": 197,
+      "stars": 1426,
+      "forks": 199,
       "created": "2026-10-13"
     },
     {
@@ -79,7 +79,7 @@
       "url": "https://github.com/ahwootech/BRUTAL",
       "desc": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency ",
       "lang": "C#",
-      "stars": 1286,
+      "stars": 1288,
       "forks": 66,
       "created": "2026-10-14"
     },
@@ -88,7 +88,7 @@
       "url": "https://github.com/chenglou/handwired",
       "desc": "Turn your regular JavaScript code into a neural net.",
       "lang": "TypeScript",
-      "stars": 1252,
+      "stars": 1257,
       "forks": 93,
       "created": "2026-10-15"
     },
@@ -97,7 +97,7 @@
       "url": "https://github.com/opengeos/RustGIS",
       "desc": "A fast, free and open-source GIS in pure Rust.",
       "lang": "Rust",
-      "stars": 1250,
+      "stars": 1251,
       "forks": 174,
       "created": "2026-10-10"
     },
@@ -106,7 +106,7 @@
       "url": "https://github.com/rociiu/talorys",
       "desc": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no tel",
       "lang": "TypeScript",
-      "stars": 1208,
+      "stars": 1210,
       "forks": 106,
       "created": "2026-10-10"
     },
@@ -115,7 +115,7 @@
       "url": "https://github.com/deeplethe/solid-glass",
       "desc": "A design system for AI applications. Material, physical, tactile, technical.",
       "lang": "TypeScript",
-      "stars": 1165,
+      "stars": 1166,
       "forks": 17,
       "created": "2026-10-12"
     },
@@ -124,7 +124,7 @@
       "url": "https://github.com/marclou/mailcheap",
       "desc": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
       "lang": "JavaScript",
-      "stars": 1081,
+      "stars": 1084,
       "forks": 283,
       "created": "2026-10-10"
     },
@@ -160,7 +160,7 @@
       "url": "https://github.com/SubmitGame/awesome-decomp-games",
       "desc": "Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.",
       "lang": "Python",
-      "stars": 911,
+      "stars": 912,
       "forks": 39,
       "created": "2026-10-09"
     },
@@ -169,8 +169,8 @@
       "url": "https://github.com/fyzugx/DEsk",
       "desc": "",
       "lang": "C",
-      "stars": 883,
-      "forks": 24,
+      "stars": 886,
+      "forks": 25,
       "created": "2026-10-10"
     },
     {
@@ -205,8 +205,8 @@
       "url": "https://github.com/jwuthri-cloud/Tracely-ai",
       "desc": "",
       "lang": "Python",
-      "stars": 824,
-      "forks": 107,
+      "stars": 825,
+      "forks": 116,
       "created": "2026-10-11"
     },
     {
@@ -232,7 +232,7 @@
       "url": "https://github.com/Supermedo/uncharted_pc",
       "desc": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
       "lang": "C++",
-      "stars": 784,
+      "stars": 788,
       "forks": 37,
       "created": "2026-10-15"
     },
@@ -250,7 +250,7 @@
       "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
       "desc": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.",
       "lang": "C++",
-      "stars": 691,
+      "stars": 693,
       "forks": 31,
       "created": "2026-10-12"
     },

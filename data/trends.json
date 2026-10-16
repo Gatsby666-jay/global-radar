@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16 15:36:07",
+  "updated_at": "2026-10-16 15:41:19",
   "platforms": {
     "appstore": {
       "name": "App Store 美国区免费榜",
@@ -73,8 +73,8 @@
           "url": "https://apps.apple.com/us/app/pinedrama-short-dramas/id6754134922?uo=2",
           "category": "Entertainment",
           "rank": 8,
-          "signal": "up",
-          "delta": 2
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "Threads",
@@ -82,8 +82,8 @@
           "url": "https://apps.apple.com/us/app/threads/id6446901002?uo=2",
           "category": "Social Networking",
           "rank": 9,
-          "signal": "down",
-          "delta": 1
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "Google Gemini",
@@ -91,8 +91,8 @@
           "url": "https://apps.apple.com/us/app/google-gemini/id6477489729?uo=2",
           "category": "Productivity",
           "rank": 10,
-          "signal": "down",
-          "delta": 1
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "Kalshi: Trade Football & more",
@@ -118,8 +118,8 @@
           "url": "https://apps.apple.com/us/app/kick-live-streaming/id6446202561?uo=2",
           "category": "Photo & Video",
           "rank": 13,
-          "signal": "new",
-          "delta": null
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "Google",
@@ -127,8 +127,8 @@
           "url": "https://apps.apple.com/us/app/google/id284815942?uo=2",
           "category": "Utilities",
           "rank": 14,
-          "signal": "down",
-          "delta": 1
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "Depop - Buy & Sell Clothes",
@@ -136,8 +136,8 @@
           "url": "https://apps.apple.com/us/app/depop-buy-sell-clothes/id518684914?uo=2",
           "category": "Shopping",
           "rank": 15,
-          "signal": "up",
-          "delta": 3
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "WhatsApp Messenger",
@@ -145,8 +145,8 @@
           "url": "https://apps.apple.com/us/app/whatsapp-messenger/id310633997?uo=2",
           "category": "Social Networking",
           "rank": 16,
-          "signal": "down",
-          "delta": 2
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "Temu: Shop Like a Billionaire",
@@ -154,8 +154,8 @@
           "url": "https://apps.apple.com/us/app/temu-shop-like-a-billionaire/id1641486558?uo=2",
           "category": "Shopping",
           "rank": 17,
-          "signal": "up",
-          "delta": 2
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "Gmail - Email by Google",
@@ -163,8 +163,8 @@
           "url": "https://apps.apple.com/us/app/gmail-email-by-google/id422689480?uo=2",
           "category": "Productivity",
           "rank": 18,
-          "signal": "down",
-          "delta": 3
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "Google Maps",
@@ -172,8 +172,8 @@
           "url": "https://apps.apple.com/us/app/google-maps/id585027354?uo=2",
           "category": "Navigation",
           "rank": 19,
-          "signal": "down",
-          "delta": 2
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "Shop: Track, Pay, Discover",
@@ -190,8 +190,8 @@
           "url": "https://apps.apple.com/us/app/capital-one-mobile/id407558537?uo=2",
           "category": "Finance",
           "rank": 21,
-          "signal": "up",
-          "delta": 2
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "Whatnot: Shop, Sell, Connect",
@@ -199,8 +199,8 @@
           "url": "https://apps.apple.com/us/app/whatnot-shop-sell-connect/id1488269261?uo=2",
           "category": "Shopping",
           "rank": 22,
-          "signal": "up",
-          "delta": 3
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "TikTok - Videos, Shop & LIVE",
@@ -208,8 +208,8 @@
           "url": "https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320?uo=2",
           "category": "Entertainment",
           "rank": 23,
-          "signal": "down",
-          "delta": 7
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "Netflix Game Controller",
@@ -217,8 +217,8 @@
           "url": "https://apps.apple.com/us/app/netflix-game-controller/id6447582581?uo=2",
           "category": "Entertainment",
           "rank": 24,
-          "signal": "new",
-          "delta": null
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "X",
@@ -226,8 +226,8 @@
           "url": "https://apps.apple.com/us/app/x/id333903271?uo=2",
           "category": "News",
           "rank": 25,
-          "signal": "new",
-          "delta": null
+          "signal": "same",
+          "delta": 0
         }
       ]
     },
@@ -239,177 +239,177 @@
           "title": "《绝区零》菲欧妮角色展示 | 不要死挑战",
           "url": "https://www.bilibili.com/video/BV1d5JQ6pEFS",
           "author": "绝区零",
-          "views": 532301,
+          "views": 547131,
           "rank": 1,
-          "signal": "new",
-          "delta": null
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "BV1KiJk67EQ9",
           "title": "我造了一块会飞的滑板...",
           "url": "https://www.bilibili.com/video/BV1KiJk67EQ9",
           "author": "神奇阿宇Ayu",
-          "views": 1450435,
+          "views": 1461396,
           "rank": 2,
-          "signal": "up",
-          "delta": 7
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "BV1AyJy6SESw",
           "title": "AI消失前的最后一天……",
           "url": "https://www.bilibili.com/video/BV1AyJy6SESw",
           "author": "鹤吱菌",
-          "views": 641392,
+          "views": 650904,
           "rank": 3,
-          "signal": "new",
-          "delta": null
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "BV1Nep465Eao",
           "title": "【独家】时光代理人 第三季 PartOne 第11集 消失的出口【8月国创】",
           "url": "https://www.bilibili.com/video/BV1Nep465Eao",
           "author": "哔哩哔哩国创",
-          "views": 676547,
+          "views": 678221,
           "rank": 4,
-          "signal": "new",
-          "delta": null
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "BV1BkJm6mEMf",
           "title": "《 官 宣 》",
           "url": "https://www.bilibili.com/video/BV1BkJm6mEMf",
           "author": "伢伢gagako",
-          "views": 157946,
+          "views": 160657,
           "rank": 5,
-          "signal": "new",
-          "delta": null
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "BV1bqJ26AEhD",
           "title": "AL最发愁的居然是不会吵架？拷打Tarzan&Shanks的职业秘辛【视频播客 | 元来如此EP.08】",
           "url": "https://www.bilibili.com/video/BV1bqJ26AEhD",
           "author": "管泽元",
-          "views": 152758,
+          "views": 154989,
           "rank": 6,
-          "signal": "new",
-          "delta": null
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "BV1KYJk6JEDk",
           "title": "挑战拍出刃牙原作没有的剧情！！宫本武藏vs郭海皇！！",
           "url": "https://www.bilibili.com/video/BV1KYJk6JEDk",
           "author": "大晶本人",
-          "views": 1080317,
+          "views": 1085296,
           "rank": 7,
-          "signal": "new",
-          "delta": null
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "BV1odJk6YEn2",
           "title": "社会终于来毒打我父母了！！！！",
           "url": "https://www.bilibili.com/video/BV1odJk6YEn2",
           "author": "小小段砸",
-          "views": 930339,
+          "views": 933870,
           "rank": 8,
-          "signal": "new",
-          "delta": null
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "BV1gEps62E1e",
           "title": "《啦嗒铛》1.0正式发售宣传片 | GSE",
           "url": "https://www.bilibili.com/video/BV1gEps62E1e",
           "author": "香港GSE",
-          "views": 1533628,
+          "views": 1536935,
           "rank": 9,
-          "signal": "new",
-          "delta": null
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "BV1aFJX6QE7c",
           "title": "硫磺桂花揭秘，这个你敢吃不？",
           "url": "https://www.bilibili.com/video/BV1aFJX6QE7c",
           "author": "渔猎齐哥",
-          "views": 142939,
+          "views": 145476,
           "rank": 10,
-          "signal": "new",
-          "delta": null
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "BV1VyWw6sEAg",
           "title": "宵禁｜鼓敲满一千下，长安城会发生什么（4K成片）",
           "url": "https://www.bilibili.com/video/BV1VyWw6sEAg",
           "author": "来龙去脉LLQM",
-          "views": 1027982,
+          "views": 1033825,
           "rank": 11,
-          "signal": "new",
-          "delta": null
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "BV1JQJk6TEPQ",
           "title": "光膀子扫脸=裸聊🤳？“人脸识别”背后，会有活人看见你的裸体吗？【柴知道】",
           "url": "https://www.bilibili.com/video/BV1JQJk6TEPQ",
           "author": "柴知道",
-          "views": 165177,
+          "views": 165746,
           "rank": 12,
-          "signal": "new",
-          "delta": null
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "BV1zVJ26UEfT",
           "title": "《二重螺旋》行于破晓版本前瞻研发面谈回放",
           "url": "https://www.bilibili.com/video/BV1zVJ26UEfT",
           "author": "二重螺旋",
-          "views": 104504,
+          "views": 108385,
           "rank": 13,
-          "signal": "new",
-          "delta": null
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "BV1ctJC6kEGb",
           "title": "⚡️鬼畜者联盟，集合！【宗主豪华版】⚡️",
           "url": "https://www.bilibili.com/video/BV1ctJC6kEGb",
           "author": "Crazy-face",
-          "views": 672704,
+          "views": 676120,
           "rank": 14,
-          "signal": "new",
-          "delta": null
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "BV1T6J26cE5g",
           "title": "一天天的就不能消停会 Ep.26 【AI全民制作人】",
           "url": "https://www.bilibili.com/video/BV1T6J26cE5g",
           "author": "桃子carena",
-          "views": 305080,
+          "views": 307537,
           "rank": 15,
-          "signal": "new",
-          "delta": null
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "BV1VsJy6YEu1",
           "title": "你 抓 不 到 我 你 信 吗",
           "url": "https://www.bilibili.com/video/BV1VsJy6YEu1",
           "author": "萝太永不破防",
-          "views": 450058,
+          "views": 451948,
           "rank": 16,
-          "signal": "new",
-          "delta": null
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "BV1j9JQ6oEeE",
           "title": "特斯拉Roadster会飞！发布会超全总结来了！",
           "url": "https://www.bilibili.com/video/BV1j9JQ6oEeE",
           "author": "天上一颗大星星",
-          "views": 186648,
+          "views": 189734,
           "rank": 17,
-          "signal": "new",
-          "delta": null
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "BV1SMJC6sE6R",
           "title": "《最有耐心の杀手》",
           "url": "https://www.bilibili.com/video/BV1SMJC6sE6R",
           "author": "伤心欲茄222",
-          "views": 2601064,
+          "views": 2606641,
           "rank": 18,
           "signal": "same",
           "delta": 0
@@ -419,20 +419,20 @@
           "title": "全新Roadster登场⚡️",
           "url": "https://www.bilibili.com/video/BV12eJQ6zEN1",
           "author": "Tesla特斯拉中国",
-          "views": 171036,
+          "views": 174588,
           "rank": 19,
-          "signal": "new",
-          "delta": null
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "BV1sKJ26WEJN",
           "title": "根本没有这种祀频",
           "url": "https://www.bilibili.com/video/BV1sKJ26WEJN",
           "author": "苦力怕到此一游",
-          "views": 65084,
+          "views": 73821,
           "rank": 20,
-          "signal": "new",
-          "delta": null
+          "signal": "same",
+          "delta": 0
         }
       ]
     },
@@ -444,7 +444,7 @@
           "title": "Muse Spark Open",
           "url": "https://research.meta.ai/blog/muse-spark-open",
           "discuss": "https://news.ycombinator.com/item?id=50107379",
-          "points": 772,
+          "points": 773,
           "comments": 392
         },
         {
@@ -452,8 +452,8 @@
           "title": "Neural networks are clean",
           "url": "https://already-clean.goodfire.com/",
           "discuss": "https://news.ycombinator.com/item?id=50105647",
-          "points": 641,
-          "comments": 237
+          "points": 644,
+          "comments": 238
         },
         {
           "rank": 3,
@@ -461,14 +461,14 @@
           "url": "https://github.com/fyzugx/DEsk",
           "discuss": "https://news.ycombinator.com/item?id=50103338",
           "points": 587,
-          "comments": 230
+          "comments": 232
         },
         {
           "rank": 4,
           "title": "What I self-host",
           "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
           "discuss": "https://news.ycombinator.com/item?id=50109715",
-          "points": 430,
+          "points": 434,
           "comments": 271
         },
         {
@@ -476,7 +476,7 @@
           "title": "Jev meets the Trolley Problem",
           "url": "https://zachlandes.com/trolley-problem/",
           "discuss": "https://news.ycombinator.com/item?id=50106023",
-          "points": 428,
+          "points": 429,
           "comments": 178
         },
         {
@@ -484,7 +484,7 @@
           "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
           "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
           "discuss": "https://news.ycombinator.com/item?id=50108872",
-          "points": 317,
+          "points": 319,
           "comments": 142
         },
         {
@@ -500,7 +500,7 @@
           "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
           "url": "https://libreboot.org/news/libreboot2610.html",
           "discuss": "https://news.ycombinator.com/item?id=50102923",
-          "points": 278,
+          "points": 279,
           "comments": 170
         },
         {
@@ -508,7 +508,7 @@
           "title": "Celebrating 70 Years of Fortran",
           "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
           "discuss": "https://news.ycombinator.com/item?id=50104726",
-          "points": 263,
+          "points": 264,
           "comments": 108
         },
         {
@@ -517,7 +517,7 @@
           "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
           "discuss": "https://news.ycombinator.com/item?id=50109375",
           "points": 255,
-          "comments": 169
+          "comments": 170
         },
         {
           "rank": 11,
@@ -532,8 +532,8 @@
           "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
           "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
           "discuss": "https://news.ycombinator.com/item?id=50111852",
-          "points": 212,
-          "comments": 85
+          "points": 214,
+          "comments": 86
         },
         {
           "rank": 13,
@@ -541,15 +541,15 @@
           "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
           "discuss": "https://news.ycombinator.com/item?id=50104299",
           "points": 174,
-          "comments": 154
+          "comments": 155
         },
         {
           "rank": 14,
           "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
           "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
           "discuss": "https://news.ycombinator.com/item?id=50065859",
-          "points": 165,
-          "comments": 37
+          "points": 169,
+          "comments": 38
         },
         {
           "rank": 15,
@@ -557,14 +557,14 @@
           "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
           "discuss": "https://news.ycombinator.com/item?id=50105777",
           "points": 161,
-          "comments": 72
+          "comments": 73
         },
         {
           "rank": 16,
           "title": "Why I Wrote PGP (1991, revised 1999)",
           "url": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
           "discuss": "https://news.ycombinator.com/item?id=50084674",
-          "points": 148,
+          "points": 149,
           "comments": 51
         },
         {
@@ -581,7 +581,7 @@
           "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
           "discuss": "https://news.ycombinator.com/item?id=50112330",
           "points": 129,
-          "comments": 40
+          "comments": 41
         },
         {
           "rank": 19,
@@ -596,8 +596,8 @@
           "title": "'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds",
           "url": "https://www.polygon.com/order-of-the-sinking-star-impressions/",
           "discuss": "https://news.ycombinator.com/item?id=50072119",
-          "points": 112,
-          "comments": 55
+          "points": 113,
+          "comments": 58
         }
       ]
     },

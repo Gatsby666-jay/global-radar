@@ -153,12 +153,43 @@ def build():
         return items
 
     def youtube():
-        """YouTube Trending 页面解析（无官方免费 API，尽力而为，失败走 error 降级）。
-
-        兼容多种页面结构：videoRenderer / gridVideoRenderer（普通视频）、
-        reelItemRenderer / shortsLockupViewModel（Shorts）。带 consent Cookie 避免
-        被重定向到同意页。
-        """
+        """YouTube Trending 自动源（实验性）：优先 Invidious 公开实例 Trending API，
+        失败则回退 ytInitialData 页面解析。两路都失败由 safe_platform 降级为 error。"""
+        instances = [
+            "https://inv.nadeko.net",
+            "https://yewtu.be",
+            "https://invidious.nerdvpn.de",
+            "https://iv.ggtyler.dev",
+        ]
+        last_err = None
+        for inst in instances:
+            try:
+                r = requests.get(
+                    f"{inst}/api/v1/trending?type=Default&region=US",
+                    headers={"User-Agent": UA},
+                    timeout=12,
+                )
+                r.raise_for_status()
+                arr = r.json()
+                items = []
+                for i, it in enumerate(arr[:25]):
+                    if not it.get("title") or not it.get("videoId"):
+                        continue
+                    items.append({
+                        "rank": len(items) + 1,
+                        "name": it["videoId"],
+                        "title": it["title"],
+                        "url": f"https://www.youtube.com/watch?v={it['videoId']}",
+                        "channel": it.get("author", ""),
+                        "views": (f"{int(it['viewCount']):,} 次观看" if it.get("viewCount") else ""),
+                        "published": it.get("publishedText", ""),
+                    })
+                if items:
+                    return items
+                last_err = "empty items"
+            except Exception as ex:
+                last_err = f"{type(ex).__name__}: {str(ex)[:80]}"
+        # 兜底：页面解析
         r = requests.get(
             YOUTUBE_TRENDING,
             headers={
@@ -172,7 +203,7 @@ def build():
         r.raise_for_status()
         m = re.search(r"ytInitialData\s*=\s*(\{.+?\})\s*;", r.text, re.S)
         if not m:
-            raise RuntimeError("ytInitialData not found")
+            raise RuntimeError(f"ytInitialData not found (invidious: {last_err})")
         data = json.loads(m.group(1))
 
         def walk(node, out):
@@ -232,7 +263,7 @@ def build():
                 "published": published,
             })
         if not items:
-            raise RuntimeError("no video renderer found")
+            raise RuntimeError(f"no video renderer found (invidious: {last_err})")
         return items
 
     out["platforms"]["appstore"] = safe_platform("appstore", "App Store 美国区免费榜", appstore)

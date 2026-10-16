@@ -1,0 +1,73 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero">
+  <h1>全球热点雷达</h1>
+  <p class="lead">科技 · 金融 · 世界格局 要闻聚合 ｜ GitHub 趋势与科技爱好者周刊 ｜ 全球流行内容与产品追踪 —— 每日自动更新</p>
+</section>
+
+{% set ed_items = editorial.get('items', []) %}
+{% if ed_items %}
+<section class="card">
+  <h2>{{ editorial.get('title', '编辑精选') }}</h2>
+  {% if editorial.get('summary') %}<p class="muted">{{ editorial.get('summary') }}</p>{% endif %}
+  <ul class="clean">
+    {% for it in ed_items %}
+    <li><a href="{{ it.get('url') }}" target="_blank" rel="noopener">{{ it.get('title') }}</a>{% if it.get('tag') %}<span class="tag">{{ it.get('tag') }}</span>{% endif %}</li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+<div class="grid2">
+  <section class="card">
+    <h2><a href="news.html">今日要闻</a></h2>
+    <ol class="news">
+      {% for it in news.get('items', [])[:6] %}
+      <li>
+        <a href="{{ it.get('url') }}" target="_blank" rel="noopener">{{ it.get('title') }}</a>
+        <div class="meta">{{ it.get('source') }} · {{ cat_labels.get(it.get('category'), it.get('category')) }} · {{ it.get('published_cn') }}</div>
+      </li>
+      {% endfor %}
+    </ol>
+  </section>
+
+  <section class="card">
+    <h2><a href="github.html">GitHub 每周涨星</a></h2>
+    <ol class="news">
+      {% for r in github.get('repos', [])[:6] %}
+      <li>
+        <a href="{{ r.get('url') }}" target="_blank" rel="noopener">{{ r.get('repo') }}</a>
+        <div class="meta">{{ r.get('lang') }} · ★ {{ r.get('stars') }} · fork {{ r.get('forks') }}</div>
+      </li>
+      {% endfor %}
+    </ol>
+  </section>
+</div>
+
+<section class="card">
+  <h2>科技爱好者周刊 · <a href="{{ weekly.issue_url }}" target="_blank" rel="noopener">{{ weekly.title }}</a></h2>
+  <p class="muted">开源周刊仓库：<a href="{{ weekly.url }}" target="_blank" rel="noopener">github.com/ruanyf/weekly</a>{% if weekly.date %} · {{ weekly.date }} 发布{% endif %}</p>
+</section>
+
+<section class="card">
+  <h2><a href="trends.html">爆火追踪 · 平台热度</a></h2>
+  <div class="grid3">
+    {% for pkey, plat in trends.get('platforms', {}).items() %}
+    {% set p_items = plat.get('items', []) %}
+    {% if p_items %}
+    <div>
+      <h3>{{ plat.get('name') }}</h3>
+      <ul class="clean small">
+        {% for it in p_items[:5] %}
+        <li>
+          {% if it.get('signal') %}<span class="sig sig-{{ it.get('signal') }}">{{ it.get('signal')|signal_label }}</span>{% endif %}
+          <a href="{{ it.get('url') }}" target="_blank" rel="noopener">{{ it.get('title') or it.get('name') }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+</section>
+{% endblock %}

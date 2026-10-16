@@ -1,0 +1,52 @@
+{
+  "title": "今日编辑精选（10月16日）",
+  "summary": "今日焦点：Meta 的 Muse 新品登顶 App Store 美区免费榜，「Muse Spark Open」同时刷屏 Hacker News；特斯拉发布官方称可飞行的全新 Roadster；美联储官员措辞谨慎，全球央行「同步紧缩」引发关注；霍尔木兹海峡商船遇袭，航运风险升温。",
+  "items": [
+    {
+      "title": "Meta 新品 Muse 登顶 App Store 美区免费榜，「Muse Spark Open」刷屏 HN",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "tag": "科技·AI"
+    },
+    {
+      "title": "特斯拉发布全新 Roadster：官方称它真的会飞",
+      "url": "https://www.ifanr.com/1684619",
+      "tag": "科技·汽车"
+    },
+    {
+      "title": "美联储 Warsh：未暗示本月加息，但肯定全球央行「同步紧缩」",
+      "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
+      "tag": "金融"
+    },
+    {
+      "title": "新加坡一商船在霍尔木兹海峡被击沉，其余船只仍继续通行",
+      "url": "https://www.cnbc.com/2026/10/16/strait-hormuz-singapore-ships-attacked.html",
+      "tag": "世界格局"
+    },
+    {
+      "title": "Benchmark 承认：AI 正在侵蚀风投「不投竞争对手」的默契",
+      "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+      "tag": "科技·创投"
+    }
+  ],
+  "articles": [
+    {
+      "title": "Using AI to reverse engineer hardware",
+      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "source": "GNOME 博客",
+      "why": "用 AI 做硬件逆向的新实践，开发者社区高分热帖"
+    },
+    {
+      "title": "Meta 新商业条款将允许抓取新闻网站（10月30日生效）",
+      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "source": "Nieman Lab",
+      "why": "内容版权与 AI 抓取的关键法律动态，值得持续关注"
+    },
+    {
+      "title": "Neural networks are clean",
+      "url": "https://already-clean.goodfire.com/",
+      "source": "Goodfire",
+      "why": "神经网络可解释性前沿演示（HN 高分帖）"
+    }
+  ],
+  "trend_note": "今日热度信号：① App Store 美区免费榜榜首易主——Meta 的 Muse 新品上榜即登顶，值得观察后续排名；② Hacker News 前五被 AI 主题占据：Muse Spark Open、AI 可解释性、AI 硬件逆向；③ B站全站热门以《绝区零》《异环》等新游内容与国创动画领跑，游戏内容仍是 B 站热度基本盘；④ 值得注意的小趋势：拟物化设计回归（HN 上的 skeuomorphic Wayland 桌面项目 DEsk）。"
+}

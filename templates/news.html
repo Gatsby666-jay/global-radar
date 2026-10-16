@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero">
+  <h1>今日要闻</h1>
+  <p class="lead">信源白名单 RSS 聚合 · 更新时间 {{ news.get('updated_at') }}</p>
+  {% set failures = news.get('feed_failures', []) %}
+  {% if failures %}
+  <p class="muted small">部分信源暂不可用：{{ failures | join('；') }}</p>
+  {% endif %}
+</section>
+
+{% for cat in news.get('categories', []) %}
+<section class="card">
+  <h2>{{ cat_labels.get(cat, cat) }}</h2>
+  <ul class="news">
+    {% for it in news.get('items', []) if it.get('category') == cat %}
+    <li>
+      <a href="{{ it.get('url') }}" target="_blank" rel="noopener">{{ it.get('title') }}</a>
+      <div class="meta">{{ it.get('source') }} · {{ it.get('published_cn') }}{% if it.get('summary') %} · {{ it.get('summary')[:60] }}{% endif %}</div>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endfor %}
+{% endblock %}

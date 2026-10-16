@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16 15:41:19",
+  "updated_at": "2026-10-16 23:08:38",
   "platforms": {
     "appstore": {
       "name": "App Store 美国区免费榜",
@@ -50,31 +50,31 @@
           "delta": 0
         },
         {
-          "name": "McDonald's",
-          "title": "McDonald's",
-          "url": "https://apps.apple.com/us/app/mcdonalds/id922103212?uo=2",
-          "category": "Food & Drink",
-          "rank": 6,
-          "signal": "same",
-          "delta": 0
-        },
-        {
           "name": "Claude by Anthropic",
           "title": "Claude by Anthropic",
           "url": "https://apps.apple.com/us/app/claude-by-anthropic/id6473753684?uo=2",
           "category": "Productivity",
-          "rank": 7,
-          "signal": "same",
-          "delta": 0
+          "rank": 6,
+          "signal": "up",
+          "delta": 1
         },
         {
           "name": "PineDrama - Short Dramas",
           "title": "PineDrama - Short Dramas",
           "url": "https://apps.apple.com/us/app/pinedrama-short-dramas/id6754134922?uo=2",
           "category": "Entertainment",
+          "rank": 7,
+          "signal": "up",
+          "delta": 1
+        },
+        {
+          "name": "McDonald's",
+          "title": "McDonald's",
+          "url": "https://apps.apple.com/us/app/mcdonalds/id922103212?uo=2",
+          "category": "Food & Drink",
           "rank": 8,
-          "signal": "same",
-          "delta": 0
+          "signal": "down",
+          "delta": 2
         },
         {
           "name": "Threads",
@@ -185,40 +185,40 @@
           "delta": 0
         },
         {
-          "name": "Capital One Mobile",
-          "title": "Capital One Mobile",
-          "url": "https://apps.apple.com/us/app/capital-one-mobile/id407558537?uo=2",
-          "category": "Finance",
+          "name": "TikTok - Videos, Shop & LIVE",
+          "title": "TikTok - Videos, Shop & LIVE",
+          "url": "https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320?uo=2",
+          "category": "Entertainment",
           "rank": 21,
-          "signal": "same",
-          "delta": 0
+          "signal": "up",
+          "delta": 2
+        },
+        {
+          "name": "DramaWave - Dramas & Reels",
+          "title": "DramaWave - Dramas & Reels",
+          "url": "https://apps.apple.com/us/app/dramawave-dramas-reels/id6670430706?uo=2",
+          "category": "Entertainment",
+          "rank": 22,
+          "signal": "new",
+          "delta": null
         },
         {
           "name": "Whatnot: Shop, Sell, Connect",
           "title": "Whatnot: Shop, Sell, Connect",
           "url": "https://apps.apple.com/us/app/whatnot-shop-sell-connect/id1488269261?uo=2",
           "category": "Shopping",
-          "rank": 22,
-          "signal": "same",
-          "delta": 0
-        },
-        {
-          "name": "TikTok - Videos, Shop & LIVE",
-          "title": "TikTok - Videos, Shop & LIVE",
-          "url": "https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320?uo=2",
-          "category": "Entertainment",
           "rank": 23,
-          "signal": "same",
-          "delta": 0
+          "signal": "down",
+          "delta": 1
         },
         {
-          "name": "Netflix Game Controller",
-          "title": "Netflix Game Controller",
-          "url": "https://apps.apple.com/us/app/netflix-game-controller/id6447582581?uo=2",
-          "category": "Entertainment",
+          "name": "Capital One Mobile",
+          "title": "Capital One Mobile",
+          "url": "https://apps.apple.com/us/app/capital-one-mobile/id407558537?uo=2",
+          "category": "Finance",
           "rank": 24,
-          "signal": "same",
-          "delta": 0
+          "signal": "down",
+          "delta": 3
         },
         {
           "name": "X",
@@ -239,7 +239,7 @@
           "title": "《绝区零》菲欧妮角色展示 | 不要死挑战",
           "url": "https://www.bilibili.com/video/BV1d5JQ6pEFS",
           "author": "绝区零",
-          "views": 547131,
+          "views": 1631041,
           "rank": 1,
           "signal": "same",
           "delta": 0
@@ -249,190 +249,190 @@
           "title": "我造了一块会飞的滑板...",
           "url": "https://www.bilibili.com/video/BV1KiJk67EQ9",
           "author": "神奇阿宇Ayu",
-          "views": 1461396,
+          "views": 3217535,
           "rank": 2,
           "signal": "same",
           "delta": 0
         },
         {
-          "name": "BV1AyJy6SESw",
-          "title": "AI消失前的最后一天……",
-          "url": "https://www.bilibili.com/video/BV1AyJy6SESw",
-          "author": "鹤吱菌",
-          "views": 650904,
+          "name": "BV1dvJX6ZEde",
+          "title": "【昨日海】YW-EX-1至YW-EX-8突袭 摆完挂机 简单好抄",
+          "url": "https://www.bilibili.com/video/BV1dvJX6ZEde",
+          "author": "萧然Q",
+          "views": 651966,
           "rank": 3,
-          "signal": "same",
-          "delta": 0
+          "signal": "new",
+          "delta": null
         },
         {
-          "name": "BV1Nep465Eao",
-          "title": "【独家】时光代理人 第三季 PartOne 第11集 消失的出口【8月国创】",
-          "url": "https://www.bilibili.com/video/BV1Nep465Eao",
-          "author": "哔哩哔哩国创",
-          "views": 678221,
+          "name": "BV1ocJm61ERF",
+          "title": "“闪身哆嗦毛”",
+          "url": "https://www.bilibili.com/video/BV1ocJm61ERF",
+          "author": "我是真的张與息",
+          "views": 1455378,
           "rank": 4,
-          "signal": "same",
-          "delta": 0
-        },
-        {
-          "name": "BV1BkJm6mEMf",
-          "title": "《 官 宣 》",
-          "url": "https://www.bilibili.com/video/BV1BkJm6mEMf",
-          "author": "伢伢gagako",
-          "views": 160657,
-          "rank": 5,
-          "signal": "same",
-          "delta": 0
-        },
-        {
-          "name": "BV1bqJ26AEhD",
-          "title": "AL最发愁的居然是不会吵架？拷打Tarzan&Shanks的职业秘辛【视频播客 | 元来如此EP.08】",
-          "url": "https://www.bilibili.com/video/BV1bqJ26AEhD",
-          "author": "管泽元",
-          "views": 154989,
-          "rank": 6,
-          "signal": "same",
-          "delta": 0
-        },
-        {
-          "name": "BV1KYJk6JEDk",
-          "title": "挑战拍出刃牙原作没有的剧情！！宫本武藏vs郭海皇！！",
-          "url": "https://www.bilibili.com/video/BV1KYJk6JEDk",
-          "author": "大晶本人",
-          "views": 1085296,
-          "rank": 7,
-          "signal": "same",
-          "delta": 0
-        },
-        {
-          "name": "BV1odJk6YEn2",
-          "title": "社会终于来毒打我父母了！！！！",
-          "url": "https://www.bilibili.com/video/BV1odJk6YEn2",
-          "author": "小小段砸",
-          "views": 933870,
-          "rank": 8,
-          "signal": "same",
-          "delta": 0
-        },
-        {
-          "name": "BV1gEps62E1e",
-          "title": "《啦嗒铛》1.0正式发售宣传片 | GSE",
-          "url": "https://www.bilibili.com/video/BV1gEps62E1e",
-          "author": "香港GSE",
-          "views": 1536935,
-          "rank": 9,
-          "signal": "same",
-          "delta": 0
-        },
-        {
-          "name": "BV1aFJX6QE7c",
-          "title": "硫磺桂花揭秘，这个你敢吃不？",
-          "url": "https://www.bilibili.com/video/BV1aFJX6QE7c",
-          "author": "渔猎齐哥",
-          "views": 145476,
-          "rank": 10,
-          "signal": "same",
-          "delta": 0
-        },
-        {
-          "name": "BV1VyWw6sEAg",
-          "title": "宵禁｜鼓敲满一千下，长安城会发生什么（4K成片）",
-          "url": "https://www.bilibili.com/video/BV1VyWw6sEAg",
-          "author": "来龙去脉LLQM",
-          "views": 1033825,
-          "rank": 11,
-          "signal": "same",
-          "delta": 0
-        },
-        {
-          "name": "BV1JQJk6TEPQ",
-          "title": "光膀子扫脸=裸聊🤳？“人脸识别”背后，会有活人看见你的裸体吗？【柴知道】",
-          "url": "https://www.bilibili.com/video/BV1JQJk6TEPQ",
-          "author": "柴知道",
-          "views": 165746,
-          "rank": 12,
-          "signal": "same",
-          "delta": 0
-        },
-        {
-          "name": "BV1zVJ26UEfT",
-          "title": "《二重螺旋》行于破晓版本前瞻研发面谈回放",
-          "url": "https://www.bilibili.com/video/BV1zVJ26UEfT",
-          "author": "二重螺旋",
-          "views": 108385,
-          "rank": 13,
-          "signal": "same",
-          "delta": 0
+          "signal": "new",
+          "delta": null
         },
         {
           "name": "BV1ctJC6kEGb",
           "title": "⚡️鬼畜者联盟，集合！【宗主豪华版】⚡️",
           "url": "https://www.bilibili.com/video/BV1ctJC6kEGb",
           "author": "Crazy-face",
-          "views": 676120,
-          "rank": 14,
-          "signal": "same",
-          "delta": 0
+          "views": 1069807,
+          "rank": 5,
+          "signal": "up",
+          "delta": 9
         },
         {
-          "name": "BV1T6J26cE5g",
-          "title": "一天天的就不能消停会 Ep.26 【AI全民制作人】",
-          "url": "https://www.bilibili.com/video/BV1T6J26cE5g",
-          "author": "桃子carena",
-          "views": 307537,
-          "rank": 15,
-          "signal": "same",
-          "delta": 0
+          "name": "BV17YJX6FE6F",
+          "title": "肾里长的石头，医生是怎么取出来的？",
+          "url": "https://www.bilibili.com/video/BV17YJX6FE6F",
+          "author": "亿点点不一样",
+          "views": 343368,
+          "rank": 6,
+          "signal": "new",
+          "delta": null
         },
         {
-          "name": "BV1VsJy6YEu1",
-          "title": "你 抓 不 到 我 你 信 吗",
-          "url": "https://www.bilibili.com/video/BV1VsJy6YEu1",
-          "author": "萝太永不破防",
-          "views": 451948,
-          "rank": 16,
-          "signal": "same",
-          "delta": 0
+          "name": "BV15BJX6dEoR",
+          "title": "营销噱头还是黑科技?Roadster 2造车门槛是什么？专利、商业解读",
+          "url": "https://www.bilibili.com/video/BV15BJX6dEoR",
+          "author": "三驱兄弟",
+          "views": 234296,
+          "rank": 7,
+          "signal": "new",
+          "delta": null
         },
         {
-          "name": "BV1j9JQ6oEeE",
-          "title": "特斯拉Roadster会飞！发布会超全总结来了！",
-          "url": "https://www.bilibili.com/video/BV1j9JQ6oEeE",
-          "author": "天上一颗大星星",
-          "views": 189734,
-          "rank": 17,
-          "signal": "same",
-          "delta": 0
+          "name": "BV1WFWA6VEoS",
+          "title": "你敢信苏联真的做过人猿杂交实验？走进地图上不存在的国家，探访那座被废弃的实验基地",
+          "url": "https://www.bilibili.com/video/BV1WFWA6VEoS",
+          "author": "小钟Johnny",
+          "views": 5299892,
+          "rank": 8,
+          "signal": "new",
+          "delta": null
         },
         {
-          "name": "BV1SMJC6sE6R",
-          "title": "《最有耐心の杀手》",
-          "url": "https://www.bilibili.com/video/BV1SMJC6sE6R",
-          "author": "伤心欲茄222",
-          "views": 2606641,
-          "rank": 18,
-          "signal": "same",
-          "delta": 0
+          "name": "BV1AyJy6SESw",
+          "title": "AI消失前的最后一天……",
+          "url": "https://www.bilibili.com/video/BV1AyJy6SESw",
+          "author": "鹤吱菌",
+          "views": 1496374,
+          "rank": 9,
+          "signal": "down",
+          "delta": 6
         },
         {
           "name": "BV12eJQ6zEN1",
           "title": "全新Roadster登场⚡️",
           "url": "https://www.bilibili.com/video/BV12eJQ6zEN1",
           "author": "Tesla特斯拉中国",
-          "views": 174588,
-          "rank": 19,
-          "signal": "same",
-          "delta": 0
+          "views": 859357,
+          "rank": 10,
+          "signal": "up",
+          "delta": 9
         },
         {
-          "name": "BV1sKJ26WEJN",
-          "title": "根本没有这种祀频",
-          "url": "https://www.bilibili.com/video/BV1sKJ26WEJN",
-          "author": "苦力怕到此一游",
-          "views": 73821,
+          "name": "BV1xYJQ63E3G",
+          "title": "传祺越7满油满电不补能，上海温州往返1000公里能行吗？",
+          "url": "https://www.bilibili.com/video/BV1xYJQ63E3G",
+          "author": "NMNP陈璟",
+          "views": 195192,
+          "rank": 11,
+          "signal": "new",
+          "delta": null
+        },
+        {
+          "name": "BV1KoJX6CEGT",
+          "title": "挑战全程扛共享单车登顶峨眉山金顶",
+          "url": "https://www.bilibili.com/video/BV1KoJX6CEGT",
+          "author": "爱健身小庞",
+          "views": 243428,
+          "rank": 12,
+          "signal": "new",
+          "delta": null
+        },
+        {
+          "name": "BV1bqJ26AEhD",
+          "title": "AL最发愁的居然是不会吵架？拷打Tarzan&Shanks的职业秘辛【视频播客 | 元来如此EP.08】",
+          "url": "https://www.bilibili.com/video/BV1bqJ26AEhD",
+          "author": "管泽元",
+          "views": 526292,
+          "rank": 13,
+          "signal": "down",
+          "delta": 7
+        },
+        {
+          "name": "BV1eaJU65Ed4",
+          "title": "操 控 买 瓜 2.0",
+          "url": "https://www.bilibili.com/video/BV1eaJU65Ed4",
+          "author": "岩罗Crv",
+          "views": 617043,
+          "rank": 14,
+          "signal": "new",
+          "delta": null
+        },
+        {
+          "name": "BV1SDJC6dEKH",
+          "title": "【绝密大坝】猛攻哥来了！！！",
+          "url": "https://www.bilibili.com/video/BV1SDJC6dEKH",
+          "author": "超级蓝狼狼",
+          "views": 512935,
+          "rank": 15,
+          "signal": "new",
+          "delta": null
+        },
+        {
+          "name": "BV1T6J26cE5g",
+          "title": "一天天的就不能消停会 Ep.26 【AI全民制作人】",
+          "url": "https://www.bilibili.com/video/BV1T6J26cE5g",
+          "author": "桃子carena",
+          "views": 599975,
+          "rank": 16,
+          "signal": "down",
+          "delta": 1
+        },
+        {
+          "name": "BV1CPWA66EHq",
+          "title": "我对不同假期的态度",
+          "url": "https://www.bilibili.com/video/BV1CPWA66EHq",
+          "author": "粤知一二",
+          "views": 1709877,
+          "rank": 17,
+          "signal": "new",
+          "delta": null
+        },
+        {
+          "name": "BV1BkJm6mEMf",
+          "title": "《 官 宣 》",
+          "url": "https://www.bilibili.com/video/BV1BkJm6mEMf",
+          "author": "伢伢gagako",
+          "views": 550330,
+          "rank": 18,
+          "signal": "down",
+          "delta": 13
+        },
+        {
+          "name": "BV1TXJX6jENT",
+          "title": "片酬20万吴孟达为何还要演《流浪地球》？黄金配角的孤注一掷！【大结局】",
+          "url": "https://www.bilibili.com/video/BV1TXJX6jENT",
+          "author": "食影双修",
+          "views": 217729,
+          "rank": 19,
+          "signal": "new",
+          "delta": null
+        },
+        {
+          "name": "BV1Fspj66E66",
+          "title": "“这波秒开仙人，直接把六小龄童看呆了！”",
+          "url": "https://www.bilibili.com/video/BV1Fspj66E66",
+          "author": "荒草音乐",
+          "views": 3274932,
           "rank": 20,
-          "signal": "same",
-          "delta": 0
+          "signal": "new",
+          "delta": null
         }
       ]
     },
@@ -444,160 +444,160 @@
           "title": "Muse Spark Open",
           "url": "https://research.meta.ai/blog/muse-spark-open",
           "discuss": "https://news.ycombinator.com/item?id=50107379",
-          "points": 773,
-          "comments": 392
+          "points": 881,
+          "comments": 442
         },
         {
           "rank": 2,
           "title": "Neural networks are clean",
           "url": "https://already-clean.goodfire.com/",
           "discuss": "https://news.ycombinator.com/item?id=50105647",
-          "points": 644,
-          "comments": 238
+          "points": 761,
+          "comments": 297
         },
         {
           "rank": 3,
           "title": "Wayland desktop for Linux with skeuomorphic design",
           "url": "https://github.com/fyzugx/DEsk",
           "discuss": "https://news.ycombinator.com/item?id=50103338",
-          "points": 587,
-          "comments": 232
+          "points": 665,
+          "comments": 270
         },
         {
           "rank": 4,
-          "title": "What I self-host",
-          "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-          "discuss": "https://news.ycombinator.com/item?id=50109715",
-          "points": 434,
-          "comments": 271
+          "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
+          "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
+          "discuss": "https://news.ycombinator.com/item?id=50065859",
+          "points": 627,
+          "comments": 199
         },
         {
           "rank": 5,
           "title": "Jev meets the Trolley Problem",
           "url": "https://zachlandes.com/trolley-problem/",
           "discuss": "https://news.ycombinator.com/item?id=50106023",
-          "points": 429,
-          "comments": 178
+          "points": 572,
+          "comments": 230
         },
         {
           "rank": 6,
-          "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
-          "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
-          "discuss": "https://news.ycombinator.com/item?id=50108872",
-          "points": 319,
-          "comments": 142
-        },
-        {
-          "rank": 7,
-          "title": "Krea 3 – An image model built for editing at scale",
-          "url": "https://www.krea.ai/krea-3",
-          "discuss": "https://news.ycombinator.com/item?id=50105648",
-          "points": 294,
-          "comments": 95
-        },
-        {
-          "rank": 8,
-          "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
-          "url": "https://libreboot.org/news/libreboot2610.html",
-          "discuss": "https://news.ycombinator.com/item?id=50102923",
-          "points": 279,
-          "comments": 170
-        },
-        {
-          "rank": 9,
-          "title": "Celebrating 70 Years of Fortran",
-          "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
-          "discuss": "https://news.ycombinator.com/item?id=50104726",
-          "points": 264,
-          "comments": 108
-        },
-        {
-          "rank": 10,
-          "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-          "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
-          "discuss": "https://news.ycombinator.com/item?id=50109375",
-          "points": 255,
-          "comments": 170
-        },
-        {
-          "rank": 11,
-          "title": "Delta’s Biscoff cookies were supposed to be temporary",
-          "url": "https://www.seriouseats.com/biscoff-history-12168161",
-          "discuss": "https://news.ycombinator.com/item?id=50080155",
-          "points": 214,
-          "comments": 165
-        },
-        {
-          "rank": 12,
           "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
           "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
           "discuss": "https://news.ycombinator.com/item?id=50111852",
-          "points": 214,
-          "comments": 86
+          "points": 411,
+          "comments": 150
         },
         {
-          "rank": 13,
-          "title": "Using AI to reverse engineer hardware",
-          "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-          "discuss": "https://news.ycombinator.com/item?id=50104299",
-          "points": 174,
-          "comments": 155
-        },
-        {
-          "rank": 14,
-          "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
-          "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
-          "discuss": "https://news.ycombinator.com/item?id=50065859",
-          "points": 169,
-          "comments": 38
-        },
-        {
-          "rank": 15,
-          "title": "BIPM decides to stop adding leap seconds to UTC",
-          "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
-          "discuss": "https://news.ycombinator.com/item?id=50105777",
-          "points": 161,
-          "comments": 73
-        },
-        {
-          "rank": 16,
-          "title": "Why I Wrote PGP (1991, revised 1999)",
-          "url": "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
-          "discuss": "https://news.ycombinator.com/item?id=50084674",
-          "points": 149,
-          "comments": 51
-        },
-        {
-          "rank": 17,
+          "rank": 7,
           "title": "Any window from your Mac, on your iPhone and iPad",
           "url": "https://github.com/Saffsanity/sill",
           "discuss": "https://news.ycombinator.com/item?id=50112739",
-          "points": 130,
-          "comments": 27
+          "points": 212,
+          "comments": 55
         },
         {
-          "rank": 18,
+          "rank": 8,
           "title": "RPKI now protects 70% of internet routes",
           "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
           "discuss": "https://news.ycombinator.com/item?id=50112330",
-          "points": 129,
-          "comments": 41
+          "points": 199,
+          "comments": 84
         },
         {
-          "rank": 19,
+          "rank": 9,
+          "title": "Yet another way to invoke functions without parentheses",
+          "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
+          "discuss": "https://news.ycombinator.com/item?id=50077225",
+          "points": 183,
+          "comments": 70
+        },
+        {
+          "rank": 10,
           "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
           "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
           "discuss": "https://news.ycombinator.com/item?id=50068203",
-          "points": 119,
-          "comments": 79
+          "points": 172,
+          "comments": 127
+        },
+        {
+          "rank": 11,
+          "title": "The Folders Programming Language",
+          "url": "https://danieltemkin.com/esolangs/folders",
+          "discuss": "https://news.ycombinator.com/item?id=50114342",
+          "points": 157,
+          "comments": 26
+        },
+        {
+          "rank": 12,
+          "title": "I Love Software Rendering",
+          "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+          "discuss": "https://news.ycombinator.com/item?id=50117746",
+          "points": 129,
+          "comments": 89
+        },
+        {
+          "rank": 13,
+          "title": "The Economic Complexity of the Western Roman Empire",
+          "url": "https://www.michelecoscia.com/?p=2613",
+          "discuss": "https://news.ycombinator.com/item?id=50084790",
+          "points": 101,
+          "comments": 16
+        },
+        {
+          "rank": 14,
+          "title": "Two-Stack Sliding-Window Aggregation",
+          "url": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
+          "discuss": "https://news.ycombinator.com/item?id=50072485",
+          "points": 94,
+          "comments": 17
+        },
+        {
+          "rank": 15,
+          "title": "New 'Super Ice' 10 Times Stronger, Bringing It Close to the Strength of Concrete",
+          "url": "https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete",
+          "discuss": "https://news.ycombinator.com/item?id=50079280",
+          "points": 66,
+          "comments": 37
+        },
+        {
+          "rank": 16,
+          "title": "AI-assisted PCB design for KiCad 10",
+          "url": "https://github.com/mixelpixx/Konnect",
+          "discuss": "https://news.ycombinator.com/item?id=50085553",
+          "points": 66,
+          "comments": 22
+        },
+        {
+          "rank": 17,
+          "title": "Hello Toronto – Waymo Is En Route",
+          "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+          "discuss": "https://news.ycombinator.com/item?id=50118981",
+          "points": 27,
+          "comments": 26
+        },
+        {
+          "rank": 18,
+          "title": "Seized server Autistici/Inventati (A/I) in Amsterdam for U.S. authorities",
+          "url": "https://nltimes.nl/2026/10/14/amsterdam-server-seized-request-us-authorities-antifa-allegations",
+          "discuss": "https://news.ycombinator.com/item?id=50117952",
+          "points": 27,
+          "comments": 18
+        },
+        {
+          "rank": 19,
+          "title": "Gyroscopes Got So Small [video]",
+          "url": "https://www.youtube.com/watch?v=0Zc_6xB5W3Y",
+          "discuss": "https://news.ycombinator.com/item?id=50104965",
+          "points": 27,
+          "comments": 2
         },
         {
           "rank": 20,
-          "title": "'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds",
-          "url": "https://www.polygon.com/order-of-the-sinking-star-impressions/",
-          "discuss": "https://news.ycombinator.com/item?id=50072119",
-          "points": 113,
-          "comments": 58
+          "title": "Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]",
+          "url": "https://www.youtube.com/watch?v=eF6bMSjPepM",
+          "discuss": "https://news.ycombinator.com/item?id=50111752",
+          "points": 24,
+          "comments": 5
         }
       ]
     },

@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero">
+  <h1>前沿精选</h1>
+  <p class="lead">值得花十分钟读的科技 / 金融深度文章（每周更新，由编辑精选）</p>
+</section>
+
+<section class="card">
+  {% set arts = editorial.get('articles', []) %}
+  {% if arts %}
+  <ul class="clean">
+    {% for a in arts %}
+    <li>
+      <a href="{{ a.get('url') }}" target="_blank" rel="noopener"><b>{{ a.get('title') }}</b></a>
+      {% if a.get('source') %}<span class="tag">{{ a.get('source') }}</span>{% endif %}
+      {% if a.get('why') %}<div class="meta">推荐理由：{{ a.get('why') }}</div>{% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+  <p class="muted">本周精选正在整理中，敬请期待。</p>
+  {% endif %}
+</section>
+
+<section class="card">
+  <h2>今日要闻中的高分链接</h2>
+  <ul class="clean">
+    {% for it in news.get('items', [])[:10] %}
+    <li><a href="{{ it.get('url') }}" target="_blank" rel="noopener">{{ it.get('title') }}</a><span class="tag">{{ cat_labels.get(it.get('category'), it.get('category')) }}</span></li>
+    {% endfor %}
+  </ul>
+</section>
+{% endblock %}

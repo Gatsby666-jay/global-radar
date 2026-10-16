@@ -131,6 +131,26 @@ td a:hover { color: var(--accent); text-decoration: underline; }
 }
 .site-foot a { color: var(--muted); }
 
+/* social trends (爆火追踪·编辑观察) */
+.social-block {
+  border-top: 1px dashed var(--line);
+  padding: 10px 0 4px;
+  margin-top: 8px;
+}
+.social-block:first-of-type { border-top: none; }
+.social-block h3 { font-size: 15px; color: var(--ink); margin: 8px 0 4px; }
+.social-block h4 { font-size: 13px; margin: 12px 0 4px; color: var(--muted); }
+.trend-list { list-style: none; margin: 0; padding: 0; }
+.trend-list li { padding: 8px 0; border-bottom: 1px dashed var(--line); }
+.trend-list li:last-child { border-bottom: none; }
+.trend-list p { margin: 4px 0 0; }
+.factor-block { margin-top: 14px; }
+.factor-block h3 { font-size: 15px; color: var(--ink); margin: 10px 0 4px; }
+.factor-list { list-style: none; margin: 0; padding: 0; }
+.factor-list li { padding: 8px 0; border-bottom: 1px dashed var(--line); font-size: 14px; }
+.factor-list li:last-child { border-bottom: none; }
+.factor-list p { margin: 4px 0 0; }
+
 @media (max-width: 720px) {
   .grid2 { grid-template-columns: 1fr; }
   .head-inner { flex-direction: column; align-items: flex-start; }

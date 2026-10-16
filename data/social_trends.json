@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-16",
+  "generated_by": "editor",
+  "note": "模式 B：每日由编辑调研全球社交平台公开信息后人工更新。信号含义：rising=正在升温/将爆火，falling=热度降温/不再流行。factor 影响因子：tech=新兴科技，celebrity=名人效应，news=全球实时新闻，geo=全球格局影响。",
+  "platforms": {
+    "x": {
+      "name": "X (Twitter) · 项目与 Post 关注度",
+      "note": "AI 个人助手成为 X 上讨论最密集的科技主线：Meta Muse 上线 13 天登顶美区 App Store，发布当日 Meta 股价 +11.43%；OpenAI Dots、Atlassian AMP、Oracle Fusion Claw、SAP 企业 Agent 两周内集中发布。同时 X 自身加速平台化：统一订阅套餐（含免费档与 AI 额度）、AI 广告工具 X Lift、美国区 Cashtags 直接炒股。",
+      "rising": [
+        {"name": "个人 AI Agent（Muse / Dots / 端侧 Agent）", "desc": "Meta Muse 9月8日发布、13 天登顶美区免费榜；OpenAI Dots 与 Atlassian AMP 带「有归属、有权限、可审计」的 Agent 10 月集中上市；国内端侧 CIM 芯片同步打响 Agent 竞速。", "factor": "tech", "source": "https://www.asiaict.com/cloud/21136.html"},
+        {"name": "开源 AI Agent 家族（OpenClaw 等）", "desc": "OpenClaw 搜索量 60 天从约 10 涨到 100 万/月；Claude Cowork、Hermes 等开源 Agent 跟随走红，X 上开源 Agent 生态讨论持续升温。", "factor": "tech", "source": "https://www.risingtrends.co/blog/open-source-ai-agents-trend"},
+        {"name": "X 统一订阅套餐（含免费档）", "desc": "X 推出五种一体化套餐，免费档也包含有限聊天与 Agent 请求额度，被视为超级应用化关键一步，引发广泛讨论。", "factor": "tech", "source": "https://www.socialmediatoday.com/topic/twitter/"},
+        {"name": "X Cashtags 站内炒股", "desc": "美国用户可通过 Cashtags 列表在 X 内直接买卖股票（9月上线），X 从社交平台向金融交易延伸。", "factor": "geo", "source": "https://rri.co.id/denpasar/iptek/2766505/x-jadi-platform-serba-bisa-ala-elon-musk"}
+      ],
+      "falling": [
+        {"name": "搬运/聚合账号模式", "desc": "X 8月调整收入分成：重奖原创、惩罚聚合搬运号，纯转载类账号的曝光与激励同步收缩。", "factor": "tech", "source": "https://redessociales.creandopatria.com/categoria/x-twitter"}
+      ]
+    },
+    "tiktok": {
+      "name": "TikTok · 产品爆火追踪",
+      "note": "TikTok Shop 爆品呈「低价小件+即时视觉冲击」特征：迪拜巧克力棒持续霸榜，韩妆工具与腋下护理等细分品类快速起量；11.11 大促从 10 月中旬开始预热，秋装/美妆工具/手机配件/智能家居等十大品类进入升温期。高价大件电子在 TikTok 种草效率走低。",
+      "rising": [
+        {"name": "Dubai Chocolate Bar（迪拜巧克力棒）", "desc": "Kadayif & Pistachio 填充的迪拜巧克力棒持续位列 TikTok Shop 病毒式产品榜首，开箱+拉丝镜头是最强种草形态。", "factor": "celebrity", "source": "https://www.sellthetrend.com/reports/most-viral-tiktok-shop"},
+        {"name": "medicube 胶原 Toner / Ribbon 玻璃发梳", "desc": "韩妆（K-beauty）工具类产品在 TikTok Shop 销量榜靠前：Triple Collagen Toner 与 Ribbon Cherry 玻璃梳均入周榜。", "factor": "tech", "source": "https://www.sellthetrend.com/reports/top-selling-tiktok-shop"},
+        {"name": "腋下/敏感区护理（腋下美白笔等）", "desc": "Moicare Brightening Underarm 等敏感区护理单品东南亚热卖超 20 万件，细分护理品类正在起量。", "factor": "news", "source": "https://m.industry.co.id/read/157147/10-produk-trending-tiktok-shop-affiliate-oktober-2026"},
+        {"name": "USB-C 配件 / LED 灯光 / 便携投影仪", "desc": "TikTok 科技小件以「10 秒演示即种草」的便宜创新为主：充电配件、LED 布置与便携投影构成 gadget 类主力。", "factor": "tech", "source": "https://www.velocityspy.com/trending/gadgets-tech/"}
+      ],
+      "falling": [
+        {"name": "高价大件电子产品种草", "desc": "TikTok 科技内容明显偏向平价小创新而非大件电子，高价品类在该平台的种草转化效率持续走低。", "factor": "tech", "source": "https://www.velocityspy.com/trending/gadgets-tech/"}
+      ]
+    },
+    "instagram": {
+      "name": "Instagram · 内容与风格趋势",
+      "note": "10 月 Reels 趋势集中在「万圣节化玩法 + 励志快切 + 复古/秋日音频」：Miles Morales 天花板对口型、Take that chance 励志混剪、Ghost 万圣节举牌梗都在升温；Goo Goo Muck、we fell in love in october 等音频进入 10 月榜。",
+      "rising": [
+        {"name": "Miles Morales 天花板对口型", "desc": "《蜘蛛侠：平行宇宙》天花板独白变成反转对口型玩法，镜头角度本身就是笑点，是本月少数「值得用心」的趋势。", "factor": "tech", "source": "https://napoleoncat.com/blog/instagram-reels-trends/"},
+        {"name": "Take that chance 励志混剪", "desc": "基于「what you waiting for?」音频的快速切镜叙事，配合逐词字幕讲「冒险与成长」故事，适合个人/IP 账号。", "factor": "news", "source": "https://later.com/blog/instagram-reels-trends/"},
+        {"name": "Things You Should Definitely Ghost（万圣节举牌梗）", "desc": "白床单鬼造型举牌列举行业「坏习惯/误区」，医疗美容等品牌已经开始用，万圣节窗口期品牌玩法升温。", "factor": "news", "source": "https://newengen.com/insights/instagram-trends/"},
+        {"name": "秋日/复古音频轮动", "desc": "we fell in love in october、Goo Goo Muck、STORM II、Last Train to London 等进入 10 月 12-25 日 Reels 音频周榜。", "factor": "news", "source": "https://www.socialpilot.co/blog/instagram-reels-trends"}
+      ],
+      "falling": []
+    },
+    "facebook": {
+      "name": "Facebook · 平台与内容变化",
+      "note": "FB 10 月 13 日发布「Your Algorithm」：用户可用自然语言直接定制 Feed 与 Reels 推荐，算法可见性成为平台主线；此前 6 月已推出 AI Mode 搜索与 AI 创作工具。平台整体在向「可解释推荐 + AI 创作」转型。",
+      "rising": [
+        {"name": "Your Algorithm（自然语言控算法）", "desc": "用户可直接输入想看/少看的内容，系统实时调整 Feed 与 Reels 推荐；三横点菜单新增定制入口，Meta 官方 10 月 13 日发布。", "factor": "tech", "source": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/"},
+        {"name": "AI Mode 搜索与 AI 创作工具", "desc": "Meta AI 驱动的搜索 Tab（答案来自用户公开分享，而非纯链接）+ 相机胶卷分享建议等 AI 工具持续铺开。", "factor": "tech", "source": "https://about.fb.com/news/2026/06/new-ai-tools-to-help-you-make-things-happen-on-facebook/"}
+      ],
+      "falling": []
+    },
+    "youtube": {
+      "name": "YouTube · 视频内容与风格趋势",
+      "note": "Shorts 风格集中在「mini vlog 真实感、万圣节变身、角色化 meme、动物视频意外反转」；AI 视频风格成主线：会说话的物体（AI talking objects）、30 秒无限循环的 AI lo-fi 氛围片在 Shorts 与 Reels 大规模流行。平台侧 Gemini Omni Shorts Remix 与交互式搜索让「跟拍热梗」门槛更低。",
+      "rising": [
+        {"name": "AI talking objects（会说话的物体）", "desc": "咖啡杯/微波炉等日常物件被赋予人脸与吐槽人格，品牌内容常用，是 2026 最典型的 AI 视频风格之一。", "factor": "tech", "source": "https://www.opus.pro/blog/viral-ai-video-styles-2026"},
+        {"name": "AI lo-fi 无限循环", "desc": "雨窗少女、看雪的猫、凌晨咖啡馆等 30 秒氛围循环，设计为自动续播，在 Shorts/Reels 流量巨大。", "factor": "tech", "source": "https://www.opus.pro/blog/viral-ai-video-styles-2026"},
+        {"name": "Mini Vlog + 万圣节变身", "desc": "低成本、无脚本的真实感 mini vlog 与 Halloween transformation 是 10 月 Shorts 两大增长格式。", "factor": "news", "source": "https://www.anijam.ai/blog/youtube-shorts-trends/"},
+        {"name": "Gemini Omni Shorts Remix", "desc": "YouTube 官方支持用提示词与图片重混他人 Shorts（90 年代风格化、把自己放进创作者视频），跟风二创门槛大降。", "factor": "tech", "source": "https://blog.youtube/news-and-events/youtube-news-google-io-2026/"}
+      ],
+      "falling": []
+    },
+    "bilibili": {
+      "name": "Bilibili · 视频内容与风格趋势",
+      "note": "AI 二创成为 B 站最热主线：「华强买瓜」AI 宇宙翻红成鬼畜复兴标志，「名人世界巡演」（黄仁勋等）86 秒 AI 二创火到海外；互动型玩法（电子逗猫棒手势视频）、AI 全民制作人/学科演唱会等新梗持续迭代。AI 视频工具门槛下降是核心驱动。",
+      "rising": [
+        {"name": "AI 名人「世界巡演」二创", "desc": "一张照片+一段素材即可 2 分钟生成名人全球巡演视频，黄仁勋版 86 秒火到海外，国内 AI 视频模型迭代是主要推手。", "factor": "celebrity", "source": "http://m.toutiao.com/group/7695001132153848361/"},
+        {"name": "「华强买瓜」AI 宇宙翻红", "desc": "五年前老梗在 AI 视频工具加持下衍生数百个二创剧情（文学名著/武士剧/琼瑶剧等），与酱板鸭并列 AI 造梗代表。", "factor": "tech", "source": "https://www.donews.com/article/detail/8321/101005.html"},
+        {"name": "电子逗猫棒（手势互动视频）", "desc": "按提示做手势获得即时视觉反馈+卡点 BGM，评论区衍生新玩法，被称「互动天花板」。", "factor": "tech", "source": "https://m.bilibili.com/opus/1196956906686513168"},
+        {"name": "AI 短剧 / AI 全民制作人", "desc": "AI 整活全宇宙、烧心大赛等 AI 短剧与 AI 音乐制作类内容进入 B 站日榜前列。", "factor": "tech", "source": "https://bz.feigua.cn/ranking/DailyHotVideoV2/20260323/1/0.html"}
+      ],
+      "falling": []
+    }
+  },
+  "factors": {
+    "celebrity": {
+      "name": "名人效应",
+      "items": [
+        {"name": "蔡徐坤 × Valentino 首度合作", "desc": "10 月 3-4 日以全套 Valentino 亮相巴黎并出席 2027 春夏大秀，被视为全新奢牌合作信号，带动相关话题热度。", "source": "https://tags.sina.com.cn/star_caixukun"},
+        {"name": "迪丽热巴 Dior 大秀媒体价值 2200 万美元", "desc": "巴黎时装周红色丝绒造型的量化传播力居华人艺人第一，明星看秀仍是品牌传播最强杠杆之一。", "source": "https://tags.sina.com.cn/star_dilireba"},
+        {"name": "李宇春滨江骑行照带火同款打卡", "desc": "10 月 14 日秋日骑行照片引发网友跟风打卡上海滨江路线，生活类名人内容直接带动线下消费场景。", "source": "http://m.toutiao.com/group/7697135337906258451/"},
+        {"name": "公众人物一句话冲击品牌（流量权力）", "desc": "人民网锐评：千万粉丝公众人物的主观评价可对品牌形成巨大冲击，「流量权力」成为舆论焦点。", "source": "http://opinion.people.com.cn/n1/2026/0918/c436867-40801287.html"}
+      ]
+    },
+    "global_news": {
+      "name": "全球实时新闻",
+      "items": [
+        {"name": "个人 Agent 军备竞赛", "desc": "Meta Muse 登顶美区免费榜、OpenAI Dots/Atlassian AMP/Oracle Fusion Claw/SAP 两周内集中发布，全球科技巨头 Agent 产品战白热化。", "source": "https://www.harshrastogi.tech/blog/agentic-ai-october-2026-openai-dots-atlassian-amp-oracle-sap"},
+        {"name": "美联储措辞与全球央行同步紧缩", "desc": "美联储官员未暗示本月加息但肯定「同步紧缩」叙事，全球流动性预期影响风险资产与消费信心。", "source": "https://www.asiaict.com/cloud/21136.html"},
+        {"name": "Meta AI 推荐可解释化（Your Algorithm）", "desc": "Facebook 允许用户用自然语言改写推荐算法，算法透明度成为平台治理与内容生态的新变量。", "source": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/"}
+      ]
+    },
+    "geopolitics": {
+      "name": "全球格局影响",
+      "items": [
+        {"name": "霍尔木兹海峡航运风险升温", "desc": "新加坡商船在霍尔木兹海峡被击沉，航运/能源风险上升，直接影响跨境物流与 TikTok Shop 等电商履约成本。", "source": "https://www.sellthetrend.com/reports/most-viral-tiktok-shop"},
+        {"name": "X 超级应用化与金融化", "desc": "X 在美国推出站内炒股（Cashtags）、统一订阅与 AI 广告，社交平台的金融化趋势对全球监管与内容生态构成新变量。", "source": "https://rri.co.id/denpasar/iptek/2766505/x-jadi-platform-serba-bisa-ala-elon-musk"},
+        {"name": "端侧 AI 芯片路线之争（CIM 双路径）", "desc": "后摩智能官宣 2D CIM+3D CIM 双路径，踩中「个人 Agent 端边落地」拐点，算力路线竞争影响全球 AI 产业链。", "source": "http://m.toutiao.com/group/7697157618535596587/"}
+      ]
+    }
+  }
+}

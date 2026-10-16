@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% block title %}爆火追踪{% endblock %}
 {% block content %}
 <section class="hero">
   <h1>爆火追踪</h1>
@@ -6,12 +7,75 @@
 </section>
 
 <section class="card">
-  <h2>数据可得性说明</h2>
+  <h2>追踪结构说明</h2>
   <p class="muted small">
-    全自动信号源：App Store（美国区免费榜）、Bilibili 全站热门、Hacker News、Reddit。
-    X / TikTok / Instagram / Facebook / YouTube 无免费开放数据接口，由编辑精选（见下）兜底，并引用公开报告。
+    ① <strong>全自动信号源</strong>：App Store（美国区免费榜）、Bilibili 全站热门、Hacker News、Reddit、YouTube Trending（实验性）。
+    ② <strong>编辑追踪</strong>（下方）：X / TikTok / Instagram / Facebook 及 YouTube、Bilibili 的视频风格观察 —— 这些平台无免费开放数据接口，
+    由编辑每日调研全球公开信息后人工总结（模式 B），并附「名人效应 · 全球新闻 · 格局影响」影响因子分析。
   </p>
 </section>
+
+{% if social.get('platforms') %}
+<section class="card">
+  <h2>编辑追踪 · 全球社交平台观察（{{ social.get('date') }}）</h2>
+  {% if social.get('note') %}<p class="muted small">{{ social.get('note') }}</p>{% endif %}
+  {% for skey, plat in social.get('platforms', {}).items() %}
+  <div class="social-block">
+    <h3>{{ plat.get('name') }}</h3>
+    {% if plat.get('note') %}<p class="muted small">{{ plat.get('note') }}</p>{% endif %}
+    {% if plat.get('rising') %}
+    <h4>升温中 · 将爆火</h4>
+    <ul class="trend-list">
+      {% for it in plat.get('rising') %}
+      <li>
+        <span class="sig sig-up">升温中</span><strong>{{ it.get('name') }}</strong>
+        <span class="tag">{{ it.get('factor')|factor_label }}</span>
+        <p class="muted small">{{ it.get('desc') }}
+          {% if it.get('source') %} <a href="{{ it.get('source') }}" target="_blank" rel="noopener">来源 ↗</a>{% endif %}
+        </p>
+      </li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+    {% if plat.get('falling') %}
+    <h4>降温中 · 不再流行</h4>
+    <ul class="trend-list">
+      {% for it in plat.get('falling') %}
+      <li>
+        <span class="sig sig-down">降温中</span><strong>{{ it.get('name') }}</strong>
+        <span class="tag">{{ it.get('factor')|factor_label }}</span>
+        <p class="muted small">{{ it.get('desc') }}
+          {% if it.get('source') %} <a href="{{ it.get('source') }}" target="_blank" rel="noopener">来源 ↗</a>{% endif %}
+        </p>
+      </li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </div>
+  {% endfor %}
+</section>
+{% endif %}
+
+{% if social.get('factors') %}
+<section class="card">
+  <h2>影响因子 · 名人效应 / 全球新闻 / 格局影响</h2>
+  {% for fkey, fg in social.get('factors', {}).items() %}
+  <div class="factor-block">
+    <h3>{{ fg.get('name') }}</h3>
+    <ul class="factor-list">
+      {% for it in fg.get('items', []) %}
+      <li>
+        <strong>{{ it.get('name') }}</strong>
+        <p class="muted small">{{ it.get('desc') }}
+          {% if it.get('source') %} <a href="{{ it.get('source') }}" target="_blank" rel="noopener">来源 ↗</a>{% endif %}
+        </p>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endfor %}
+</section>
+{% endif %}
 
 {% for pkey, plat in trends.get('platforms', {}).items() %}
 <section class="card">
@@ -40,6 +104,7 @@
           {% elif pkey == "bilibili" %}{{ it.get('author') }} · {{ it.get('views')|fmt_count }} 播放
           {% elif pkey == "hn" %}▲{{ it.get('points') }} · 💬{{ it.get('comments') }} · <a href="{{ it.get('discuss') }}" target="_blank" rel="noopener">讨论</a>
           {% elif pkey == "reddit" %}r/{{ it.get('sub') }} · {{ it.get('score') }} 分
+          {% elif pkey == "youtube" %}{{ it.get('channel') }} · {{ it.get('views') }} · {{ it.get('published') }}
           {% endif %}
         </td>
         <td><a href="{{ it.get('url') }}" target="_blank" rel="noopener">打开 ↗</a></td>

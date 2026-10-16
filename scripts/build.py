@@ -14,6 +14,12 @@ STATIC = os.path.join(ROOT, "static")
 
 CAT_LABELS = {"tech": "科技", "finance": "金融", "world": "世界"}
 SIGNAL_LABELS = {"new": "新上榜", "up": "上升", "down": "下降", "same": "持平"}
+FACTOR_LABELS = {
+    "tech": "新兴科技",
+    "celebrity": "名人效应",
+    "news": "全球新闻",
+    "geo": "格局影响",
+}
 BASE_URL = os.environ.get(
     "BASE_URL", "https://<your-name>.github.io/global-radar/"
 ).rstrip("/")
@@ -45,6 +51,7 @@ def build():
     weekly = load_json("weekly.json", {})
     trends = load_json("trends.json", {"platforms": {}})
     editorial = load_json("editorial.json", {"title": "编辑精选", "summary": "", "items": []})
+    social = load_json("social_trends.json", {"platforms": {}, "factors": {}})
 
     env = Environment(
         loader=FileSystemLoader(TEMPLATES),
@@ -53,6 +60,7 @@ def build():
     env.filters["fmt_count"] = fmt_count
     env.filters["fmt_delta"] = fmt_delta
     env.filters["signal_label"] = lambda s: SIGNAL_LABELS.get(s, "—")
+    env.filters["factor_label"] = lambda s: FACTOR_LABELS.get(s, s)
 
     ctx = {
         "news": news,
@@ -60,6 +68,7 @@ def build():
         "weekly": weekly,
         "trends": trends,
         "editorial": editorial,
+        "social": social,
         "cat_labels": CAT_LABELS,
         "built_at": now_cn(),
         "base_url": BASE_URL,

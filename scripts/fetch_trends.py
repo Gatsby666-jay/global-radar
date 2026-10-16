@@ -1,14 +1,19 @@
 # -*- coding: utf-8 -*-
 """平台热度快照 -> data/trends.json
 
-全自动信号源（v0）：
+全自动信号源（v1）：
 - appstore: App Store 美国区免费榜（官方 RSS JSON 接口）→ 新上榜/上升/下降
 - bilibili: B 站全站热门榜（公开接口）→ 同上
 - hn: Hacker News 首页热帖（Algolia 官方 API）
 - reddit: Reddit r/all 当日热帖（公开 JSON）
+- youtube: YouTube Trending 页面解析（ytInitialData）→ 尝试性自动源，失败则 error 降级
 
-X / TikTok / Instagram / Facebook / YouTube 无免费开放数据，由编辑精选兜底（editorial.json）。
+X / TikTok / Instagram / Facebook 无免费开放数据，由编辑精选兜底（social_trends.json，
+模式 B，每日人工调研全球社交平台后写入）。
 """
+import json
+import re
+
 import requests
 
 from common import UA, load_json, now_cn, save_json
@@ -18,6 +23,7 @@ BILI_RANK = "https://api.bilibili.com/x/web-interface/ranking/v2?rid=0&type=all"
 BILI_POP = "https://api.bilibili.com/x/web-interface/popular?ps=20&pn=1"
 HN = "https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=20"
 REDDIT = "https://www.reddit.com/r/all/top.json?t=day&limit=20"
+YOUTUBE_TRENDING = "https://www.youtube.com/feed/trending"
 
 
 def get(url: str, timeout: int = 25, headers=None):
@@ -146,10 +152,74 @@ def build():
             })
         return items
 
+    def youtube():
+        """YouTube Trending 页面解析（无官方免费 API，尽力而为，失败走 error 降级）。"""
+        r = requests.get(
+            YOUTUBE_TRENDING,
+            headers={
+                "User-Agent": UA,
+                "Accept-Language": "en-US,en;q=0.9",
+                "Accept": "text/html,application/xhtml+xml",
+            },
+            timeout=25,
+        )
+        r.raise_for_status()
+        m = re.search(r"ytInitialData\s*=\s*(\{.+?\})\s*;", r.text, re.S)
+        if not m:
+            raise RuntimeError("ytInitialData not found")
+        data = json.loads(m.group(1))
+
+        def walk(node, out):
+            if isinstance(node, dict):
+                vr = node.get("videoRenderer")
+                if isinstance(vr, dict):
+                    out.append(vr)
+                for v in node.values():
+                    walk(v, out)
+            elif isinstance(node, list):
+                for v in node:
+                    walk(v, out)
+
+        found = []
+        walk(data, found)
+        items = []
+        for vr in found[:25]:
+            title = vr.get("title", {})
+            text = None
+            if isinstance(title, dict):
+                runs = title.get("runs")
+                if runs:
+                    text = "".join(x.get("text", "") for x in runs)
+                else:
+                    text = title.get("simpleText")
+            if not text:
+                continue
+            video_id = vr.get("videoId")
+            owner = vr.get("ownerText", {}).get("runs") or []
+            owner_name = owner[0].get("text", "") if owner else ""
+            views = vr.get("viewCountText", {}).get("simpleText", "")
+            pub = (vr.get("publishedTimeText", {}).get("simpleText", "")
+                   or vr.get("publishedTimeText", {}).get("runs", [{}])[0].get("text", ""))
+            items.append({
+                "rank": len(items) + 1,
+                "name": video_id,
+                "title": text,
+                "url": f"https://www.youtube.com/watch?v={video_id}" if video_id else YOUTUBE_TRENDING,
+                "channel": owner_name,
+                "views": views,
+                "published": pub,
+            })
+            if len(items) >= 25:
+                break
+        if not items:
+            raise RuntimeError("no videoRenderer found")
+        return items
+
     out["platforms"]["appstore"] = safe_platform("appstore", "App Store 美国区免费榜", appstore)
     out["platforms"]["bilibili"] = safe_platform("bilibili", "Bilibili 全站热门榜", bilibili)
     out["platforms"]["hn"] = safe_platform("hn", "Hacker News 首页热帖", hn)
     out["platforms"]["reddit"] = safe_platform("reddit", "Reddit r/all 当日热帖", reddit)
+    out["platforms"]["youtube"] = safe_platform("youtube", "YouTube Trending（实验性自动源）", youtube)
 
     save_json("trends.json", out)
     print("[trends]", {k: len(v.get("items", [])) for k, v in out["platforms"].items()})

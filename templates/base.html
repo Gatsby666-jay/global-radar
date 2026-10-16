@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}首页{% endblock %} · global-radar 全球热点雷达</title>
+<meta name="description" content="全球科技、金融与世界格局要闻聚合；GitHub 每周涨星项目与科技爱好者周刊直达；全球流行内容与产品追踪，每日自动更新。">
+<link rel="stylesheet" href="static/style.css">
+</head>
+<body>
+<header class="site-head">
+  <div class="wrap head-inner">
+    <a class="brand" href="index.html">global-radar<span class="brand-sub">全球热点雷达 · 每日更新</span></a>
+    <nav class="nav">
+      <a href="index.html" class="{{ 'on' if page == 'index' }}">首页</a>
+      <a href="news.html" class="{{ 'on' if page == 'news' }}">今日要闻</a>
+      <a href="github.html" class="{{ 'on' if page == 'github' }}">GitHub趋势</a>
+      <a href="articles.html" class="{{ 'on' if page == 'articles' }}">前沿精选</a>
+      <a href="trends.html" class="{{ 'on' if page == 'trends' }}">爆火追踪</a>
+    </nav>
+  </div>
+</header>
+<main class="wrap">
+{% block content %}{% endblock %}
+</main>
+<footer class="site-foot">
+  <div class="wrap">
+    <p>数据来自公开网络（RSS / 官方 API），本站仅做聚合与摘要，观点归原作者所有；AI 生成内容仅供参考。</p>
+    <p>更新时间：{{ built_at }}（北京时间） · 由 GitHub Actions 每日自动更新 · <a href="https://github.com/ruanyf/weekly" target="_blank" rel="noopener">科技爱好者周刊</a></p>
+  </div>
+</footer>
+</body>
+</html>

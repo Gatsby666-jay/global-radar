@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero">
+  <h1>爆火追踪</h1>
+  <p class="lead">全球平台流行内容与产品的升温 / 降温信号 · 更新时间 {{ trends.get('updated_at') }} · 信号：新上榜 / 上升 / 下降</p>
+</section>
+
+<section class="card">
+  <h2>数据可得性说明</h2>
+  <p class="muted small">
+    全自动信号源：App Store（美国区免费榜）、Bilibili 全站热门、Hacker News、Reddit。
+    X / TikTok / Instagram / Facebook / YouTube 无免费开放数据接口，由编辑精选（见下）兜底，并引用公开报告。
+  </p>
+</section>
+
+{% for pkey, plat in trends.get('platforms', {}).items() %}
+<section class="card">
+  <h2>{{ plat.get('name') }}</h2>
+  {% if plat.get('error') %}<p class="muted small">本平台暂不可用：{{ plat.get('error') }}</p>{% endif %}
+  <table>
+    <thead>
+      <tr>
+        <th>#</th>
+        {% if pkey in ("appstore", "bilibili") %}<th>信号</th>{% endif %}
+        <th>内容 / 产品</th>
+        <th>详情</th>
+        <th>链接</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for it in plat.get('items', []) %}
+      <tr>
+        <td>{{ it.get('rank') }}</td>
+        {% if pkey in ("appstore", "bilibili") %}
+        <td><span class="sig sig-{{ it.get('signal') }}">{{ it.get('signal')|signal_label }}</span>{{ it.get('delta')|fmt_delta }}</td>
+        {% endif %}
+        <td><a href="{{ it.get('url') }}" target="_blank" rel="noopener">{{ it.get('title') or it.get('name') }}</a></td>
+        <td class="muted">
+          {% if pkey == "appstore" %}{{ it.get('category') }}
+          {% elif pkey == "bilibili" %}{{ it.get('author') }} · {{ it.get('views')|fmt_count }} 播放
+          {% elif pkey == "hn" %}▲{{ it.get('points') }} · 💬{{ it.get('comments') }} · <a href="{{ it.get('discuss') }}" target="_blank" rel="noopener">讨论</a>
+          {% elif pkey == "reddit" %}r/{{ it.get('sub') }} · {{ it.get('score') }} 分
+          {% endif %}
+        </td>
+        <td><a href="{{ it.get('url') }}" target="_blank" rel="noopener">打开 ↗</a></td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+{% endfor %}
+
+{% if editorial.get('trend_note') %}
+<section class="card">
+  <h2>编辑观察</h2>
+  <p class="muted">{{ editorial.get('trend_note') }}</p>
+</section>
+{% endif %}
+{% endblock %}

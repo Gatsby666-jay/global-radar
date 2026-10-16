@@ -153,13 +153,19 @@ def build():
         return items
 
     def youtube():
-        """YouTube Trending 页面解析（无官方免费 API，尽力而为，失败走 error 降级）。"""
+        """YouTube Trending 页面解析（无官方免费 API，尽力而为，失败走 error 降级）。
+
+        兼容多种页面结构：videoRenderer / gridVideoRenderer（普通视频）、
+        reelItemRenderer / shortsLockupViewModel（Shorts）。带 consent Cookie 避免
+        被重定向到同意页。
+        """
         r = requests.get(
             YOUTUBE_TRENDING,
             headers={
                 "User-Agent": UA,
                 "Accept-Language": "en-US,en;q=0.9",
                 "Accept": "text/html,application/xhtml+xml",
+                "Cookie": "CONSENT=YES+cb.20210328-17-p0.en+FX+678; SOCS=CAI",
             },
             timeout=25,
         )
@@ -171,48 +177,62 @@ def build():
 
         def walk(node, out):
             if isinstance(node, dict):
-                vr = node.get("videoRenderer")
-                if isinstance(vr, dict):
-                    out.append(vr)
+                out.append(node)
                 for v in node.values():
                     walk(v, out)
             elif isinstance(node, list):
                 for v in node:
                     walk(v, out)
 
-        found = []
-        walk(data, found)
+        nodes = []
+        walk(data, nodes)
         items = []
-        for vr in found[:25]:
-            title = vr.get("title", {})
-            text = None
-            if isinstance(title, dict):
-                runs = title.get("runs")
-                if runs:
-                    text = "".join(x.get("text", "") for x in runs)
-                else:
-                    text = title.get("simpleText")
-            if not text:
+        seen = set()
+        for nd in nodes:
+            if len(items) >= 25:
+                break
+            vr = nd.get("videoRenderer") or nd.get("gridVideoRenderer")
+            title = None
+            video_id = None
+            channel = ""
+            views = ""
+            published = ""
+            if isinstance(vr, dict):
+                t = vr.get("title", {})
+                if isinstance(t, dict):
+                    runs = t.get("runs")
+                    title = "".join(x.get("text", "") for x in runs) if runs else t.get("simpleText")
+                video_id = vr.get("videoId")
+                owner = vr.get("ownerText", {}).get("runs") or []
+                if owner:
+                    channel = owner[0].get("text", "")
+                views = (vr.get("viewCountText", {}).get("simpleText", "")
+                         or (vr.get("viewCountText", {}).get("runs") or [{}])[0].get("text", ""))
+                published = (vr.get("publishedTimeText", {}).get("simpleText", "")
+                             or (vr.get("publishedTimeText", {}).get("runs") or [{}])[0].get("text", ""))
+            elif "reelItemRenderer" in nd:
+                rir = nd["reelItemRenderer"]
+                video_id = rir.get("videoId")
+                title = rir.get("headline", {}).get("simpleText")
+            elif "shortsLockupViewModel" in nd:
+                svm = nd["shortsLockupViewModel"]
+                ep = ((svm.get("onTap") or {}).get("innertubeCommand") or {}).get("reelWatchEndpoint") or {}
+                video_id = ep.get("videoId")
+                title = ((svm.get("overlayMetadata") or {}).get("primaryText") or {}).get("content")
+            if not title or not video_id or video_id in seen:
                 continue
-            video_id = vr.get("videoId")
-            owner = vr.get("ownerText", {}).get("runs") or []
-            owner_name = owner[0].get("text", "") if owner else ""
-            views = vr.get("viewCountText", {}).get("simpleText", "")
-            pub = (vr.get("publishedTimeText", {}).get("simpleText", "")
-                   or vr.get("publishedTimeText", {}).get("runs", [{}])[0].get("text", ""))
+            seen.add(video_id)
             items.append({
                 "rank": len(items) + 1,
                 "name": video_id,
-                "title": text,
-                "url": f"https://www.youtube.com/watch?v={video_id}" if video_id else YOUTUBE_TRENDING,
-                "channel": owner_name,
+                "title": title,
+                "url": f"https://www.youtube.com/watch?v={video_id}",
+                "channel": channel,
                 "views": views,
-                "published": pub,
+                "published": published,
             })
-            if len(items) >= 25:
-                break
         if not items:
-            raise RuntimeError("no videoRenderer found")
+            raise RuntimeError("no video renderer found")
         return items
 
     out["platforms"]["appstore"] = safe_platform("appstore", "App Store 美国区免费榜", appstore)

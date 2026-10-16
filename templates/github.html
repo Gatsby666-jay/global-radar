@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+{% block content %}
+<section class="hero">
+  <h1>GitHub 每周涨星 & 科技爱好者周刊</h1>
+  <p class="lead">近 {{ github.get('window_days', 7) }} 天创建、涨星最快的新项目（官方 Search API）· 更新时间 {{ github.get('updated_at') }}</p>
+</section>
+
+<section class="card">
+  <h2>科技爱好者周刊（直达入口）</h2>
+  <p class="big"><a href="{{ weekly.issue_url }}" target="_blank" rel="noopener">{{ weekly.title }}</a></p>
+  <p class="muted">
+    开源仓库：<a href="{{ weekly.url }}" target="_blank" rel="noopener">github.com/ruanyf/weekly</a>
+    {% if weekly.date %} · {{ weekly.date }} 发布{% endif %}
+    {% if weekly.note %} · <span class="muted">{{ weekly.note }}</span>{% endif %}
+  </p>
+</section>
+
+<section class="card">
+  <h2>本周涨星榜 Top 30</h2>
+  {% if github.get('note') %}<p class="muted small">说明：{{ github.get('note') }}</p>{% endif %}
+  <table>
+    <thead>
+      <tr><th>#</th><th>项目</th><th>语言</th><th>描述</th><th>Star</th><th>Fork</th></tr>
+    </thead>
+    <tbody>
+      {% for r in github.get('repos', []) %}
+      <tr>
+        <td>{{ loop.index }}</td>
+        <td><a href="{{ r.get('url') }}" target="_blank" rel="noopener">{{ r.get('repo') }}</a><div class="meta">创建于 {{ r.get('created') }}</div></td>
+        <td>{{ r.get('lang') }}</td>
+        <td>{{ r.get('desc') }}</td>
+        <td>★ {{ r.get('stars') }}</td>
+        <td>{{ r.get('forks') }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+{% endblock %}

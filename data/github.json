@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16 15:21:55",
+  "updated_at": "2026-10-16 15:26:00",
   "window_days": 7,
   "repos": [
     {
@@ -7,7 +7,7 @@
       "url": "https://github.com/jhaizhou-ops/d2r-mobile",
       "desc": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
       "lang": "C",
-      "stars": 3340,
+      "stars": 3341,
       "forks": 985,
       "created": "2026-10-12"
     },
@@ -16,7 +16,7 @@
       "url": "https://github.com/storytold/craft-launcher",
       "desc": "The Craft App Launcher",
       "lang": "Rust",
-      "stars": 2915,
+      "stars": 2916,
       "forks": 972,
       "created": "2026-10-09"
     },
@@ -25,8 +25,8 @@
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
       "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "lang": "C",
-      "stars": 2662,
-      "forks": 347,
+      "stars": 2664,
+      "forks": 348,
       "created": "2026-10-11"
     },
     {
@@ -44,7 +44,7 @@
       "desc": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
       "lang": "Python",
       "stars": 2230,
-      "forks": 447,
+      "forks": 448,
       "created": "2026-10-13"
     },
     {
@@ -52,7 +52,7 @@
       "url": "https://github.com/storytold/figcraft",
       "desc": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
       "lang": "Rust",
-      "stars": 1493,
+      "stars": 1494,
       "forks": 662,
       "created": "2026-10-09"
     },
@@ -61,8 +61,8 @@
       "url": "https://github.com/HeyPuter/everything",
       "desc": "We're rebuilding and open-sourcing the world’s software from scratch.",
       "lang": "JavaScript",
-      "stars": 1423,
-      "forks": 196,
+      "stars": 1424,
+      "forks": 197,
       "created": "2026-10-13"
     },
     {
@@ -84,6 +84,15 @@
       "created": "2026-10-14"
     },
     {
+      "repo": "chenglou/handwired",
+      "url": "https://github.com/chenglou/handwired",
+      "desc": "Turn your regular JavaScript code into a neural net.",
+      "lang": "TypeScript",
+      "stars": 1252,
+      "forks": 93,
+      "created": "2026-10-15"
+    },
+    {
       "repo": "opengeos/RustGIS",
       "url": "https://github.com/opengeos/RustGIS",
       "desc": "A fast, free and open-source GIS in pure Rust.",
@@ -91,15 +100,6 @@
       "stars": 1250,
       "forks": 174,
       "created": "2026-10-10"
-    },
-    {
-      "repo": "chenglou/handwired",
-      "url": "https://github.com/chenglou/handwired",
-      "desc": "Turn your regular JavaScript code into a neural net.",
-      "lang": "TypeScript",
-      "stars": 1248,
-      "forks": 93,
-      "created": "2026-10-15"
     },
     {
       "repo": "rociiu/talorys",
@@ -115,7 +115,7 @@
       "url": "https://github.com/deeplethe/solid-glass",
       "desc": "A design system for AI applications. Material, physical, tactile, technical.",
       "lang": "TypeScript",
-      "stars": 1158,
+      "stars": 1165,
       "forks": 17,
       "created": "2026-10-12"
     },
@@ -125,7 +125,7 @@
       "desc": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
       "lang": "JavaScript",
       "stars": 1081,
-      "forks": 282,
+      "forks": 283,
       "created": "2026-10-10"
     },
     {
@@ -142,7 +142,7 @@
       "url": "https://github.com/feder-cr/open_scion",
       "desc": "Open-source version of Scion: version control built for coding agents.",
       "lang": "Go",
-      "stars": 1021,
+      "stars": 1022,
       "forks": 108,
       "created": "2026-10-15"
     },
@@ -151,8 +151,8 @@
       "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
       "desc": "Introduction to Semiconductor Manufacturing",
       "lang": "Python",
-      "stars": 961,
-      "forks": 92,
+      "stars": 962,
+      "forks": 93,
       "created": "2026-10-11"
     },
     {
@@ -169,7 +169,7 @@
       "url": "https://github.com/fyzugx/DEsk",
       "desc": "",
       "lang": "C",
-      "stars": 882,
+      "stars": 883,
       "forks": 24,
       "created": "2026-10-10"
     },
@@ -196,7 +196,7 @@
       "url": "https://github.com/Caho1/open-claude-ui",
       "desc": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
       "lang": "TypeScript",
-      "stars": 840,
+      "stars": 841,
       "forks": 196,
       "created": "2026-10-14"
     },
@@ -232,7 +232,7 @@
       "url": "https://github.com/Supermedo/uncharted_pc",
       "desc": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
       "lang": "C++",
-      "stars": 783,
+      "stars": 784,
       "forks": 37,
       "created": "2026-10-15"
     },

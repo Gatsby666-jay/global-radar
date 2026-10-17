@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16 23:08:37",
+  "updated_at": "2026-10-17 09:04:37",
   "categories": [
     "tech",
     "finance",
@@ -7,124 +7,354 @@
   ],
   "items": [
     {
-      "title": "SpaceX AI policy leader grilled by NYC Council on Grok safety, sexualized images",
-      "url": "https://www.cnbc.com/2026/10/16/spacex-policy-manger-to-testify-in-nyc-council-ai-safety-investigation.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "SpaceX head of global government affairs for AI Gabriela Castillo Madrid said the company had appropriate safeguards in testimony to the New York City Council.",
-      "published": 1792163035.0,
-      "fetched_at": "2026-10-16 23:08:37",
-      "published_cn": "10-16 15:03"
+      "title": "早报｜iPhone Duo开启预购，发货排到明年/特斯拉超跑发布会现场飞了/华为阔直板出货量超71万台",
+      "url": "https://www.ifanr.com/1684782?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "· 华为云下月调整 AI 专业服务价格，原型开发基础版升至 85.12 万元\n· 17 岁研究员陈广宇离开 Kimi，否认将加入 Anthropic\n· 四部门要求车企规范产品宣传，不得诱导驾驶人忽视安全责任<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1792196798.0,
+      "fetched_at": "2026-10-17 09:04:33",
+      "published_cn": "10-17 00:26"
     },
     {
-      "title": "A fake WhatsApp clone is showing up before the real version on the Play Store",
-      "url": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
+      "title": "All the news about the iPhone Duo",
+      "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
       "source": "The Verge",
       "category": "tech",
-      "summary": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority",
-      "published": 1792162943.0,
-      "fetched_at": "2026-10-16 23:08:35",
-      "published_cn": "10-16 15:02"
+      "summary": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. ",
+      "published": 1792193786.0,
+      "fetched_at": "2026-10-17 09:04:35",
+      "published_cn": "10-16 23:36"
     },
     {
-      "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
-      "url": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "AI \"amplifies\" existing cybersecurity risks toward U.S. digital infrastructure, Clayton said on \"Squawk Box.\"",
-      "published": 1792162894.0,
-      "fetched_at": "2026-10-16 23:08:37",
-      "published_cn": "10-16 15:01"
-    },
-    {
-      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
       "source": "The Verge",
       "category": "tech",
-      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC",
-      "published": 1792162800.0,
-      "fetched_at": "2026-10-16 23:08:35",
-      "published_cn": "10-16 15:00"
+      "summary": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X use",
+      "published": 1792191082.0,
+      "fetched_at": "2026-10-17 09:04:35",
+      "published_cn": "10-16 22:51"
     },
     {
-      "title": "Sickle cell gene therapies offer new hope, but access remains a major challenge",
-      "url": "https://www.cnbc.com/2026/10/16/sickle-cell-gene-therapies-offer-new-hope-accessing-them-is-hard.html",
+      "title": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
+      "url": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
       "source": "CNBC",
       "category": "finance",
-      "summary": "FDA-approved gene therapies for sickle cell disease offer a chance to help patients, but factors including cost and access have slowed their use.",
-      "published": 1792161789.0,
-      "fetched_at": "2026-10-16 23:08:37",
-      "published_cn": "10-16 14:43"
+      "summary": "Apple’s $1,999 iPhone Duo is drawing early demand as analysts assess whether the foldable can lift iPhone pricing and revenue.",
+      "published": 1792189886.0,
+      "fetched_at": "2026-10-17 09:04:36",
+      "published_cn": "10-16 22:31"
     },
     {
-      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
-      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "title": "Katie Zacharia out as Trump's White House press secretary",
+      "url": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Zacharia was on shaky ground from her first White House press conference and over questions about her claims of being a lawyer despite not passing a bar exam.",
+      "published": 1792185975.0,
+      "fetched_at": "2026-10-17 09:04:36",
+      "published_cn": "10-16 21:26"
+    },
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "source": "TechCrunch",
       "category": "tech",
-      "summary": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-      "published": 1792160811.0,
-      "fetched_at": "2026-10-16 23:08:34",
-      "published_cn": "10-16 14:26"
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+      "published": 1792185748.0,
+      "fetched_at": "2026-10-17 09:04:35",
+      "published_cn": "10-16 21:22"
     },
     {
-      "title": "Blue Origin plans $330 million Florida expansion to ramp New Glenn launches",
-      "url": "https://www.cnbc.com/2026/10/16/blue-origin-new-glenn-florida-expansion.html",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "The actions could have resulted in criminal charges had humans been behind the keyboard.",
+      "published": 1792184341.0,
+      "fetched_at": "2026-10-17 09:04:35",
+      "published_cn": "10-16 20:59"
+    },
+    {
+      "title": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
+      "url": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published ",
+      "published": 1792183827.0,
+      "fetched_at": "2026-10-17 09:04:35",
+      "published_cn": "10-16 20:50"
+    },
+    {
+      "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
+      "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technolog",
+      "published": 1792183744.0,
+      "fetched_at": "2026-10-17 09:04:35",
+      "published_cn": "10-16 20:49"
+    },
+    {
+      "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
+      "url": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
       "source": "CNBC",
       "category": "finance",
-      "summary": "Blue Origin said it's targeting multiple flights per week of its New Glenn rocket by the end of the decade.",
-      "published": 1792160765.0,
-      "fetched_at": "2026-10-16 23:08:37",
-      "published_cn": "10-16 14:26"
+      "summary": "Ukrainian officials complained this week that SpaceX had limited internet connectivity without advance notice.",
+      "published": 1792182490.0,
+      "fetched_at": "2026-10-17 09:04:36",
+      "published_cn": "10-16 20:28"
     },
     {
-      "title": "The incredible flying Tesla Roadster is just for show",
-      "url": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
-      "source": "The Verge",
+      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+      "source": "Ars Technica",
       "category": "tech",
-      "summary": "Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \"kickflip\" over a lineup of Teslas, and landing via cold-gas thrusters. Th",
-      "published": 1792160129.0,
-      "fetched_at": "2026-10-16 23:08:35",
-      "published_cn": "10-16 14:15"
+      "summary": "Discord user flagged AI CSAM, triggering arrest of New Jersey deputy AG.",
+      "published": 1792182007.0,
+      "fetched_at": "2026-10-17 09:04:35",
+      "published_cn": "10-16 20:20"
     },
     {
-      "title": "Meta’s new terms may allow it to train AI on news sites for free",
-      "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "source": "The Verge",
+      "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
+      "url": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "U.S. crude oil prices rose sharply Friday as Iran escalated attacks in the Strait of Hormuz this week.",
+      "published": 1792180941.0,
+      "fetched_at": "2026-10-17 09:04:36",
+      "published_cn": "10-16 20:02"
+    },
+    {
+      "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
+      "url": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
+      "source": "Ars Technica",
       "category": "tech",
-      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, whic",
-      "published": 1792159360.0,
-      "fetched_at": "2026-10-16 23:08:35",
-      "published_cn": "10-16 14:02"
+      "summary": "There are still significant hurdles ahead, both technical and legislative.",
+      "published": 1792179678.0,
+      "fetched_at": "2026-10-17 09:04:35",
+      "published_cn": "10-16 19:41"
     },
     {
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+      "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+      "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
       "source": "TechCrunch",
       "category": "tech",
-      "summary": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
-      "published": 1792159200.0,
-      "fetched_at": "2026-10-16 23:08:34",
-      "published_cn": "10-16 14:00"
+      "summary": "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.",
+      "published": 1792179600.0,
+      "fetched_at": "2026-10-17 09:04:35",
+      "published_cn": "10-16 19:40"
     },
     {
-      "title": "Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger speculation",
-      "url": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
+      "title": "Here's who Netflix just brought in to run content — and what it means for the streamer",
+      "url": "https://www.cnbc.com/2026/10/16/netflix-peter-rice-chief-content-officer.html",
       "source": "CNBC",
       "category": "finance",
-      "summary": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
-      "published": 1792158292.0,
-      "fetched_at": "2026-10-16 23:08:37",
-      "published_cn": "10-16 13:44"
+      "summary": "Peter Rice brings a wealth of experience in TV and film, including scripted and unscripted shows, live sports, prestige television and theatrical distribution.",
+      "published": 1792179600.0,
+      "fetched_at": "2026-10-17 09:04:36",
+      "published_cn": "10-16 19:40"
     },
     {
-      "title": "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations",
-      "url": "https://www.cnbc.com/2026/10/16/coreweave-openai-anthropic-perps.html",
+      "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
+      "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
+      "source": "卫报·世界",
+      "category": "world",
+      "summary": "<p>Forest clearance at smallest total since records began in 1988 in success for Lula ahead of presidential run-off</p><p>Deforestation in the Brazilian Amazon has fallen to its lowest level since records began, new gove",
+      "published": 1792179473.0,
+      "fetched_at": "2026-10-17 09:04:37",
+      "published_cn": "10-16 19:37"
+    },
+    {
+      "title": "Wall Street's fear gauge is ripping. Traders see it going even higher",
+      "url": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
       "source": "CNBC",
       "category": "finance",
-      "summary": "The spread is widening between AI leaders OpenAI and Anthropic as a sell-off in CoreWeave leads neocloud stocks lower.",
-      "published": 1792158233.0,
-      "fetched_at": "2026-10-16 23:08:37",
-      "published_cn": "10-16 13:43"
+      "summary": "The sell-off in AI-related stocks pushed the VIX above 22 for the first time in four months. A cluster of trades suggests it could go even higher.",
+      "published": 1792178890.0,
+      "fetched_at": "2026-10-17 09:04:36",
+      "published_cn": "10-16 19:28"
+    },
+    {
+      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+      "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "The bug is fixed, but privacy concerns remain.",
+      "published": 1792177910.0,
+      "fetched_at": "2026-10-17 09:04:35",
+      "published_cn": "10-16 19:11"
+    },
+    {
+      "title": "Why Apple is finally making its own smart home devices",
+      "url": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door",
+      "published": 1792175427.0,
+      "fetched_at": "2026-10-17 09:04:35",
+      "published_cn": "10-16 18:30"
+    },
+    {
+      "title": "Why Trump and the GOP's billion-dollar midterm blitz isn’t working",
+      "url": "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Trump-aligned groups and Elon Musk have poured hundreds of millions into the midterm election, but the GOP spending surge has barely moved polls or the map.",
+      "published": 1792173305.0,
+      "fetched_at": "2026-10-17 09:04:36",
+      "published_cn": "10-16 17:55"
+    },
+    {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "published": 1792173144.0,
+      "fetched_at": "2026-10-17 09:04:35",
+      "published_cn": "10-16 17:52"
+    },
+    {
+      "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
+      "url": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "FDA scientists said none of the popular drugs have been proven safe or effective.",
+      "published": 1792170359.0,
+      "fetched_at": "2026-10-17 09:04:35",
+      "published_cn": "10-16 17:05"
+    },
+    {
+      "title": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
+      "url": "https://www.theguardian.com/world/2026/oct/16/brazil-lula-age-criminal-responsibility",
+      "source": "卫报·世界",
+      "category": "world",
+      "summary": "<p>Lula reverses position on age of responsibility for ‘heinous’ crimes in what many see as a desperate electoral gambit</p><p>Brazil’s president, Luiz Inácio Lula da Silva, has announced that he now supports lowering th",
+      "published": 1792169255.0,
+      "fetched_at": "2026-10-17 09:04:37",
+      "published_cn": "10-16 16:47"
+    },
+    {
+      "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+      "url": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+      "published": 1792169178.0,
+      "fetched_at": "2026-10-17 09:04:36",
+      "published_cn": "10-16 16:46"
+    },
+    {
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, an",
+      "published": 1792168200.0,
+      "fetched_at": "2026-10-17 09:04:35",
+      "published_cn": "10-16 16:30"
+    },
+    {
+      "title": "Waymo’s robotaxis are headed to Canada",
+      "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
+      "published": 1792166798.0,
+      "fetched_at": "2026-10-17 09:04:35",
+      "published_cn": "10-16 16:06"
+    },
+    {
+      "title": "The new Apple TV 4K just got its first (very small) discount",
+      "url": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November",
+      "published": 1792166542.0,
+      "fetched_at": "2026-10-17 09:04:35",
+      "published_cn": "10-16 16:02"
+    },
+    {
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
+      "published": 1792166497.0,
+      "fetched_at": "2026-10-17 09:04:35",
+      "published_cn": "10-16 16:01"
+    },
+    {
+      "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+      "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
+      "published": 1792166400.0,
+      "fetched_at": "2026-10-17 09:04:35",
+      "published_cn": "10-16 16:00"
+    },
+    {
+      "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
+      "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
+      "published": 1792166400.0,
+      "fetched_at": "2026-10-17 09:04:35",
+      "published_cn": "10-16 16:00"
+    },
+    {
+      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
+      "published": 1792165260.0,
+      "fetched_at": "2026-10-17 09:04:35",
+      "published_cn": "10-16 15:41"
+    },
+    {
+      "title": "Apple&#8217;s HomeView has an app problem",
+      "url": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always conne",
+      "published": 1792165097.0,
+      "fetched_at": "2026-10-17 09:04:35",
+      "published_cn": "10-16 15:38"
+    },
+    {
+      "title": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
+      "url": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Analogue announced new versions of its Super Nt and Mega Sg retro consoles today with a \"reworked industrial design\" and built-in wireless connectivity for controllers and accessories. Like the original versions, the new",
+      "published": 1792163318.0,
+      "fetched_at": "2026-10-17 09:04:35",
+      "published_cn": "10-16 15:08"
+    },
+    {
+      "title": "Polymarket saw $600 million in election trades after the elections were over",
+      "url": "https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Millions kept changing hands long after the election outcomes were effectively settled.",
+      "published": 1792160362.0,
+      "fetched_at": "2026-10-17 09:04:35",
+      "published_cn": "10-16 14:19"
+    },
+    {
+      "title": "Tesla turns to 50-year-old stunt technology as it tries to Roadster again",
+      "url": "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "If you want to make a car spin in the air, compressed gas is a good way to do it.",
+      "published": 1792159405.0,
+      "fetched_at": "2026-10-17 09:04:35",
+      "published_cn": "10-16 14:03"
     },
     {
       "title": "预售 16.98 万元起，MONA L05 攻入小鹏主品牌腹地",
@@ -133,68 +363,8 @@
       "category": "tech",
       "summary": "倒反天罡了。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792158173.0,
-      "fetched_at": "2026-10-16 23:08:33",
+      "fetched_at": "2026-10-17 09:04:33",
       "published_cn": "10-16 13:42"
-    },
-    {
-      "title": "This stretchy MagSafe storage pouch gives your phone a sizable trunk",
-      "url": "https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "There's a new storage upgrade option for smartphones compatible with wireless chargers and other magnetic accessories, but it won't help if you've run out of room for apps, pics, and videos. The MagSafe Flex Pouch looks ",
-      "published": 1792157601.0,
-      "fetched_at": "2026-10-16 23:08:35",
-      "published_cn": "10-16 13:33"
-    },
-    {
-      "title": "iPhone Duo orders are already delayed into 2027",
-      "url": "https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Delivery estimates for the iPhone Duo slipped into next year in less than an hour after Apple opened preorders for it at 8AM ET on Friday. At the time of writing we are seeing late January delivery dates for every config",
-      "published": 1792156211.0,
-      "fetched_at": "2026-10-16 23:08:35",
-      "published_cn": "10-16 13:10"
-    },
-    {
-      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-      "published": 1792155309.0,
-      "fetched_at": "2026-10-16 23:08:34",
-      "published_cn": "10-16 12:55"
-    },
-    {
-      "title": "The Sony Xperia 10 VI won’t be getting a promised update to Android 17",
-      "url": "https://www.theverge.com/tech/1012789/sony-xperia-10-vi-smartphone-android-17-update-security",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "When the midrange Sony Xperia 10 VI was announced over two years ago with a Qualcomm Snapdragon 6 Gen 1 chipset and Android 14, Sony promised three major OS updates which would have included this year's Android 17 releas",
-      "published": 1792154171.0,
-      "fetched_at": "2026-10-16 23:08:35",
-      "published_cn": "10-16 12:36"
-    },
-    {
-      "title": "Fed's Warsh withholds rate signal, praises recent global tightening",
-      "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Warsh refrained from signaling another interest rate hike this month, pointed to a \"synchronous tightening\" by central banks in the fight against inflation.",
-      "published": 1792154160.0,
-      "fetched_at": "2026-10-16 23:08:37",
-      "published_cn": "10-16 12:36"
-    },
-    {
-      "title": "The first vibe-coded gun is here",
-      "url": "https://www.theverge.com/tech/1011950/vibe-coded-3d-printed-gun-ai-generated-cody-wilson",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Since gun-rights activist and alt-right-friendly agitator Cody Wilson made the first 3D-printed firearm 13 years ago, he's helped usher in a chaotic era of untraceable ghost guns. Now he's claiming another first: \"the fi",
-      "published": 1792153800.0,
-      "fetched_at": "2026-10-16 23:08:35",
-      "published_cn": "10-16 12:30"
     },
     {
       "title": "英伟达RTX Spark笔记本首发实测，我实现了WorkBuddy额度自由",
@@ -203,18 +373,8 @@
       "category": "tech",
       "summary": "给了我们一个换电脑的理由<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792152495.0,
-      "fetched_at": "2026-10-16 23:08:33",
+      "fetched_at": "2026-10-17 09:04:33",
       "published_cn": "10-16 12:08"
-    },
-    {
-      "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
-      "url": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Microsoft promises one machine for dev, AI, and gaming, and mostly gets there.",
-      "published": 1792152005.0,
-      "fetched_at": "2026-10-16 23:08:35",
-      "published_cn": "10-16 12:00"
     },
     {
       "title": "石油出口放緩之際 霍爾木茲海峽輪船遇襲案件創新高",
@@ -223,7 +383,7 @@
       "category": "world",
       "summary": "BBC事實查核（BBC Verify）對英國海事機構數據的分析顯示，過去一星期內有12艘船隻遭到襲擊。",
       "published": 1792151089.0,
-      "fetched_at": "2026-10-16 23:08:37",
+      "fetched_at": "2026-10-17 09:04:36",
       "published_cn": "10-16 11:44"
     },
     {
@@ -233,18 +393,8 @@
       "category": "tech",
       "summary": "8 年磨一座 Vice City<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792149058.0,
-      "fetched_at": "2026-10-16 23:08:33",
+      "fetched_at": "2026-10-17 09:04:33",
       "published_cn": "10-16 11:10"
-    },
-    {
-      "title": "Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer",
-      "url": "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "The pioneering reusable upper stage for Stoke Space's Nova rocket ships out for testing.",
-      "published": 1792148453.0,
-      "fetched_at": "2026-10-16 23:08:35",
-      "published_cn": "10-16 11:00"
     },
     {
       "title": "本周看什么 | 最近值得一看的 13 部作品",
@@ -253,28 +403,8 @@
       "category": "tech",
       "summary": "📅本周新预告《哥斯拉-0.0》终极预告10月11日，电影《哥斯拉-0.0》发布了终极预告，将于11月3日在日本上映、11月6日在北美上映。该片为首部为IMAX拍摄的日本电影，山崎贵执导、编剧，神木隆之 ...<a href=\"https://sspai.com/post/116423\" target=\"_blank\">查看全文</a>",
       "published": 1792146067.0,
-      "fetched_at": "2026-10-16 23:08:34",
+      "fetched_at": "2026-10-17 09:04:34",
       "published_cn": "10-16 10:21"
-    },
-    {
-      "title": "Blue Origin is going all in on the New Glenn rocket",
-      "url": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "The infrastructure is designed to support multiple flights per week by the end of the decade.",
-      "published": 1792144854.0,
-      "fetched_at": "2026-10-16 23:08:35",
-      "published_cn": "10-16 10:00"
-    },
-    {
-      "title": "Googlebook review: Android on a laptop is still Android",
-      "url": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Android laptops are here, but Google has a lot of work ahead to make them good.",
-      "published": 1792144832.0,
-      "fetched_at": "2026-10-16 23:08:35",
-      "published_cn": "10-16 10:00"
     },
     {
       "title": "‘Opening the lid of a horrible secret’: Jamaicans confront enslavement with taboo-busting stories on screen",
@@ -283,18 +413,8 @@
       "category": "world",
       "summary": "<p>As violent spirits are unleashed in Sky’s Possession, observers see confident creatives reclaiming the island’s narratives in a form of ‘cultural reparation’   </p><p>A woman opens a 300‑year‑old box, unleashing a vio",
       "published": 1792144802.0,
-      "fetched_at": "2026-10-16 23:08:37",
+      "fetched_at": "2026-10-17 09:04:37",
       "published_cn": "10-16 10:00"
-    },
-    {
-      "title": "Trump says he won't use nuclear weapons or send ground troops to Iran",
-      "url": "https://www.cnbc.com/2026/10/16/us-iran-war-trump-hormuz.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Trump said he would not use nuclear weapons against Iran or send ground troops as the U.S. reportedly weighs new strike options.",
-      "published": 1792144014.0,
-      "fetched_at": "2026-10-16 23:08:37",
-      "published_cn": "10-16 09:46"
     },
     {
       "title": "「我今年12歲，該嘗試蛋白粉嗎？」",
@@ -303,7 +423,7 @@
       "category": "world",
       "summary": "BBC詢問專家，兒童和青少年服用蛋白質補充劑是否安全。",
       "published": 1792142924.0,
-      "fetched_at": "2026-10-16 23:08:37",
+      "fetched_at": "2026-10-17 09:04:36",
       "published_cn": "10-16 09:28"
     },
     {
@@ -313,7 +433,7 @@
       "category": "tech",
       "summary": "家庭正在重新变成科技公司寻找下一个 AI 落点的地方<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792141224.0,
-      "fetched_at": "2026-10-16 23:08:33",
+      "fetched_at": "2026-10-17 09:04:33",
       "published_cn": "10-16 09:00"
     },
     {
@@ -323,7 +443,7 @@
       "category": "world",
       "summary": "薩塞克斯公爵伉儷已經好幾年沒有在英國本土舉辦過類似諾丁漢當天那樣的活動了。",
       "published": 1792138468.0,
-      "fetched_at": "2026-10-16 23:08:37",
+      "fetched_at": "2026-10-17 09:04:36",
       "published_cn": "10-16 08:14"
     },
     {
@@ -333,7 +453,7 @@
       "category": "tech",
       "summary": "当你下次在屏幕前看到两台赛车撞得粉身碎骨、而车手淡定地推开残骸向看台挥手致意时，希望你能想起今天的故事。<a href=\"https://sspai.com/post/114836\" target=\"_blank\">查看全文</a>",
       "published": 1792131887.0,
-      "fetched_at": "2026-10-16 23:08:34",
+      "fetched_at": "2026-10-17 09:04:34",
       "published_cn": "10-16 06:24"
     },
     {
@@ -343,7 +463,7 @@
       "category": "world",
       "summary": "法國總理暗示學生的憤怒情緒正被武器化，因為工會和其他抗議者也準備走上街頭。法國是否瀕臨崩潰？",
       "published": 1792131691.0,
-      "fetched_at": "2026-10-16 23:08:37",
+      "fetched_at": "2026-10-17 09:04:36",
       "published_cn": "10-16 06:21"
     },
     {
@@ -353,18 +473,8 @@
       "category": "tech",
       "summary": "最后一辆给人开的特斯拉，起飞。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792128791.0,
-      "fetched_at": "2026-10-16 23:08:33",
+      "fetched_at": "2026-10-17 09:04:33",
       "published_cn": "10-16 05:33"
-    },
-    {
-      "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
-      "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
-      "published": 1792127806.0,
-      "fetched_at": "2026-10-16 23:08:34",
-      "published_cn": "10-16 05:16"
     },
     {
       "title": "一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验",
@@ -373,7 +483,7 @@
       "category": "tech",
       "summary": "从正面的手感与显示聊起，再翻到背面看看换图的玩法。<a href=\"https://sspai.com/post/115679\" target=\"_blank\">查看全文</a>",
       "published": 1792125665.0,
-      "fetched_at": "2026-10-16 23:08:34",
+      "fetched_at": "2026-10-17 09:04:34",
       "published_cn": "10-16 04:41"
     },
     {
@@ -383,18 +493,8 @@
       "category": "tech",
       "summary": "从微信读书的 3 万条划线出发，我做了一个让阅读笔记重新回到日常的 App。<a href=\"https://sspai.com/post/115688\" target=\"_blank\">查看全文</a>",
       "published": 1792117118.0,
-      "fetched_at": "2026-10-16 23:08:34",
+      "fetched_at": "2026-10-17 09:04:34",
       "published_cn": "10-16 02:18"
-    },
-    {
-      "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
-      "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
-      "published": 1792113463.0,
-      "fetched_at": "2026-10-16 23:08:34",
-      "published_cn": "10-16 01:17"
     },
     {
       "title": "「日子難熬」：美國人苦苦應對不斷上漲的通貨膨脹",
@@ -403,7 +503,7 @@
       "category": "world",
       "summary": "美國通膨持續攀升，本月漲幅超乎預期。以下是一些人如何應對的方法。",
       "published": 1792110449.0,
-      "fetched_at": "2026-10-16 23:08:37",
+      "fetched_at": "2026-10-17 09:04:36",
       "published_cn": "10-16 00:27"
     },
     {
@@ -413,7 +513,7 @@
       "category": "world",
       "summary": "聖誕節臨近，我們追蹤兒童玩具從中國工廠到美國貨架的整個過程。",
       "published": 1792110444.0,
-      "fetched_at": "2026-10-16 23:08:37",
+      "fetched_at": "2026-10-17 09:04:36",
       "published_cn": "10-16 00:27"
     },
     {
@@ -423,7 +523,7 @@
       "category": "tech",
       "summary": "SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。<a href=\"https://sspai.com/post/116355\" target=\"_blank\">查看全文</a>",
       "published": 1792110192.0,
-      "fetched_at": "2026-10-16 23:08:34",
+      "fetched_at": "2026-10-17 09:04:34",
       "published_cn": "10-16 00:23"
     },
     {
@@ -433,28 +533,8 @@
       "category": "tech",
       "summary": "· iPhone Duo 维修价格公布，内屏损坏预估 7998 元\n· 蚂蚁阿福与支付宝 AI 支付入选《时代》年度最佳发明\n· Anthropic IPO 估值预期降温，部分投资者讨论 1.5 万亿美元<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792109240.0,
-      "fetched_at": "2026-10-16 23:08:33",
+      "fetched_at": "2026-10-17 09:04:33",
       "published_cn": "10-16 00:07"
-    },
-    {
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
-      "published": 1792107896.0,
-      "fetched_at": "2026-10-16 23:08:34",
-      "published_cn": "10-15 23:44"
-    },
-    {
-      "title": "And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems",
-      "url": "https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.",
-      "published": 1792107225.0,
-      "fetched_at": "2026-10-16 23:08:34",
-      "published_cn": "10-15 23:33"
     },
     {
       "title": "Mission S 正式发布，保时捷向世人展示了一台超级跑车应该有的模样",
@@ -463,78 +543,8 @@
       "category": "tech",
       "summary": "Mission S is all you need.<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792106597.0,
-      "fetched_at": "2026-10-16 23:08:33",
+      "fetched_at": "2026-10-17 09:04:33",
       "published_cn": "10-15 23:23"
-    },
-    {
-      "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
-      "url": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "KDE celebrates 30 years with a new Plasma release, a farewell to X11, and a movie.",
-      "published": 1792102866.0,
-      "fetched_at": "2026-10-16 23:08:35",
-      "published_cn": "10-15 22:21"
-    },
-    {
-      "title": "Plex now helps sell movie theater tickets",
-      "url": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Discovery data from Plex users will help studios, advertisers.",
-      "published": 1792099335.0,
-      "fetched_at": "2026-10-16 23:08:35",
-      "published_cn": "10-15 21:22"
-    },
-    {
-      "title": "Hegseth’s dubious low-T screening may flag up to 25 percent of the Army",
-      "url": "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Medical experts explicitly recommend against blanket screenings.",
-      "published": 1792098597.0,
-      "fetched_at": "2026-10-16 23:08:35",
-      "published_cn": "10-15 21:09"
-    },
-    {
-      "title": "Amazon devices chief Panos Panay on the importance of failure and bouncing back from it",
-      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.",
-      "published": 1792096693.0,
-      "fetched_at": "2026-10-16 23:08:34",
-      "published_cn": "10-15 20:38"
-    },
-    {
-      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
-      "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.",
-      "published": 1792096361.0,
-      "fetched_at": "2026-10-16 23:08:35",
-      "published_cn": "10-15 20:32"
-    },
-    {
-      "title": "Nicolás Maduro tells New York court new torture allegations are ‘false’",
-      "url": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores",
-      "source": "卫报·世界",
-      "category": "world",
-      "summary": "<p>Rewritten indictment accuses ex-Venezuela president and wife Cilia Flores of leading campaign of torture</p><p>Nicolás Maduro insisted on Thursday during an appearance in a New York court that torture allegations in a",
-      "published": 1792082312.0,
-      "fetched_at": "2026-10-16 23:08:37",
-      "published_cn": "10-15 16:38"
-    },
-    {
-      "title": "大电池+低能耗！宝马新世代 i3 跑了 1213 公里，百公里能耗只有 8.8 度？",
-      "url": "https://www.ifanr.com/1684510?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "大圆柱电池是个好东西。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1792081045.0,
-      "fetched_at": "2026-10-16 23:08:33",
-      "published_cn": "10-15 16:17"
     },
     {
       "title": "特朗普叫停網上直播處決胡德堡槍擊案槍手",
@@ -543,7 +553,7 @@
       "category": "world",
       "summary": "特朗普表示，有些人「寧願不觀看」對尼達爾·哈桑的處決。這將是60多年來首次執行軍事死刑槍決。",
       "published": 1792080918.0,
-      "fetched_at": "2026-10-16 23:08:37",
+      "fetched_at": "2026-10-17 09:04:36",
       "published_cn": "10-15 16:15"
     },
     {
@@ -553,7 +563,7 @@
       "category": "finance",
       "summary": "刘远举：事故和灾难一般带有偶然性，但之后的反应和处理方式是带有组织行为特征的、系统性的，所以，更能反映现象背后的东西。",
       "published": 1792080000.0,
-      "fetched_at": "2026-10-16 23:08:37",
+      "fetched_at": "2026-10-17 09:04:36",
       "published_cn": "10-15 16:00"
     },
     {
@@ -563,7 +573,7 @@
       "category": "finance",
       "summary": "内地楼市需求疲弱，建材价格下跌、煤炭成本回升，华润建材预计首九个月股东应占亏损最高达8.5亿元。",
       "published": 1792080000.0,
-      "fetched_at": "2026-10-16 23:08:37",
+      "fetched_at": "2026-10-17 09:04:36",
       "published_cn": "10-15 16:00"
     },
     {
@@ -573,7 +583,7 @@
       "category": "finance",
       "summary": "在今年伦敦弗里兹艺博会的全新单元“The Code Universe”中，汇集的八位背景迥异的艺术家，以在地、鲜活的个体经验，回应套用单一理论工具分类全球创作的视角。",
       "published": 1792080000.0,
-      "fetched_at": "2026-10-16 23:08:37",
+      "fetched_at": "2026-10-17 09:04:36",
       "published_cn": "10-15 16:00"
     },
     {
@@ -583,7 +593,7 @@
       "category": "finance",
       "summary": "何越：如果把1945年艾德礼政府建立战后社会契约、1979年撒切尔政府重塑国家与市场关系，视为英国两次深刻转向，那么现在伯纳姆正在尝试发起第三次。",
       "published": 1792080000.0,
-      "fetched_at": "2026-10-16 23:08:37",
+      "fetched_at": "2026-10-17 09:04:36",
       "published_cn": "10-15 16:00"
     },
     {
@@ -593,7 +603,7 @@
       "category": "finance",
       "summary": "李沧东在捍卫一种守旧的立场：真、善、美在根本上不可分割，它们关乎人的存在本身。当一个人习惯谎言和作恶，他必然已经失去了某种东西，即便他未必会因此遭遇社会意义上的失败，但他的生命已经发生了某种“残缺”。",
       "published": 1792080000.0,
-      "fetched_at": "2026-10-16 23:08:37",
+      "fetched_at": "2026-10-17 09:04:36",
       "published_cn": "10-15 16:00"
     },
     {
@@ -603,7 +613,7 @@
       "category": "finance",
       "summary": "江南的秋天，用一整个季节的清爽与舒畅让一切重新调整，慢慢适应年末的厚重。世间很多时候最怕的是意料之外，哪怕是欢乐，若是猝不及防也会让人无所适从。",
       "published": 1792080000.0,
-      "fetched_at": "2026-10-16 23:08:37",
+      "fetched_at": "2026-10-17 09:04:36",
       "published_cn": "10-15 16:00"
     },
     {
@@ -613,7 +623,7 @@
       "category": "finance",
       "summary": "处境艰难的德国总理展示不屈姿态，坚称他不会辞职，而是将继续推动通过争议性的福利改革，并阻止极右翼政党执掌德国。",
       "published": 1792080000.0,
-      "fetched_at": "2026-10-16 23:08:37",
+      "fetched_at": "2026-10-17 09:04:36",
       "published_cn": "10-15 16:00"
     },
     {
@@ -623,18 +633,8 @@
       "category": "finance",
       "summary": "投资者对AI投资热潮带来的营收是否足以支撑巨额债务正在失去信心，为美国一些最大数据中心融资的债券已跌入压力区。",
       "published": 1792080000.0,
-      "fetched_at": "2026-10-16 23:08:37",
+      "fetched_at": "2026-10-17 09:04:36",
       "published_cn": "10-15 16:00"
-    },
-    {
-      "title": "Milei adviser claims UK being ‘colonised by Islam’ as Falklands row grows",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/15/falklands-javier-milei-adviser-santiago-caputo-uk-islam-argentina",
-      "source": "卫报·世界",
-      "category": "world",
-      "summary": "<p>Santiago Caputo cites election of Sagal Abdi-Wali as MP and calls UK a threat to the west in post shared by Argentina’s president</p><p>The chief adviser to Argentina’s president, Javier Milei, has cited the election ",
-      "published": 1792076423.0,
-      "fetched_at": "2026-10-16 23:08:37",
-      "published_cn": "10-15 15:00"
     },
     {
       "title": "中朝新鴨綠江大橋通車：北京、平壤與莫斯科的新格局",
@@ -643,7 +643,7 @@
       "category": "world",
       "summary": "連接中國丹東與朝鮮新義州的新鴨綠江大橋建成12年後正式通車。大橋此前遭長期閒置，被觀察人士視為中朝關係起伏的一個象徵。",
       "published": 1792064364.0,
-      "fetched_at": "2026-10-16 23:08:37",
+      "fetched_at": "2026-10-17 09:04:36",
       "published_cn": "10-15 11:39"
     },
     {
@@ -653,7 +653,7 @@
       "category": "tech",
       "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/116246\" target=\"_blank\">查看全文</a>",
       "published": 1792055414.0,
-      "fetched_at": "2026-10-16 23:08:34",
+      "fetched_at": "2026-10-17 09:04:34",
       "published_cn": "10-15 09:10"
     },
     {
@@ -663,7 +663,7 @@
       "category": "tech",
       "summary": "四年前，我们发布了《少数派创作手册》（manual.sspai.com），旨在让作者更快捷地获得创作过程中所需的信息，以及更一致地传达对于内容选编的标准和主张。四年来，《创作手册》获得了作者们的广泛查 ...<a href=\"https://sspai.com/post/116181\" target=\"_blank\">查看全文</a>",
       "published": 1792051752.0,
-      "fetched_at": "2026-10-16 23:08:34",
+      "fetched_at": "2026-10-17 09:04:34",
       "published_cn": "10-15 08:09"
     },
     {
@@ -673,7 +673,7 @@
       "category": "world",
       "summary": "<p>At least 320 people detained for ‘acts against nature’ after law criminalising homosexuality toughened, HRW reports</p><p>Mass arrests, forced HIV testing and barriers to legal representation are part of an escalating",
       "published": 1792051225.0,
-      "fetched_at": "2026-10-16 23:08:37",
+      "fetched_at": "2026-10-17 09:04:37",
       "published_cn": "10-15 08:00"
     },
     {
@@ -683,7 +683,7 @@
       "category": "tech",
       "summary": "快捷指令一直被视为苹果用户必备的效率利器。不仅网络上已有大量的指令可供下载，如果能根据自己的需求，从零开始构建一条快捷指令，就不用在iPhone/Mac上频繁手动操作，可以节省大量时间。然而想要熟练掌 ...<a href=\"https://sspai.com/post/116182\" target=\"_blank\">查看全文</a>",
       "published": 1792045800.0,
-      "fetched_at": "2026-10-16 23:08:34",
+      "fetched_at": "2026-10-17 09:04:34",
       "published_cn": "10-15 06:30"
     },
     {
@@ -693,7 +693,7 @@
       "category": "world",
       "summary": "<p>Article in Atlantic claims The Blue Fighter was artificially generated, days after it won Caine prize for African writers</p><p>The Zimbabwean writer Simbarashe Kundizeza has denied using AI to write a prize-winning s",
       "published": 1792004489.0,
-      "fetched_at": "2026-10-16 23:08:37",
+      "fetched_at": "2026-10-17 09:04:37",
       "published_cn": "10-14 19:01"
     },
     {
@@ -703,7 +703,7 @@
       "category": "world",
       "summary": "<p>Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK Jr</p><p><a href=\"https://www.theguardian.com/world/guinea-bissau\">Guinea-Bissau</a> has not approved the contro",
       "published": 1791983790.0,
-      "fetched_at": "2026-10-16 23:08:37",
+      "fetched_at": "2026-10-17 09:04:37",
       "published_cn": "10-14 13:16"
     },
     {
@@ -713,7 +713,7 @@
       "category": "world",
       "summary": "<p>Recommended dose of hepatitis B vaccine will be withheld from thousands of newborns by Danish researchers</p><p>A controversial research trial that will withhold hepatitis B vaccines from some African newborns was giv",
       "published": 1791581778.0,
-      "fetched_at": "2026-10-16 23:08:37",
+      "fetched_at": "2026-10-17 09:04:37",
       "published_cn": "10-09 21:36"
     },
     {
@@ -723,11 +723,12 @@
       "category": "world",
       "summary": "<p>Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza</p><p></p><p>The Nobel peace prize has been awarded to Navi Pillay, the South African former UN",
       "published": 1791563409.0,
-      "fetched_at": "2026-10-16 23:08:37",
+      "fetched_at": "2026-10-17 09:04:37",
       "published_cn": "10-09 16:30"
     }
   ],
   "feed_failures": [
-    "虎嗅: ReadTimeout HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=20)"
+    "虎嗅: ReadTimeout HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=20)",
+    "华尔街见闻: HTTPError 404 Client Error: Not Found for url: https://wallstreetcn.com/rss"
   ]
 }

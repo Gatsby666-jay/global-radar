@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18 16:28:52",
+  "updated_at": "2026-10-18 22:15:20",
   "window_days": 7,
   "repos": [
     {
@@ -7,8 +7,8 @@
       "url": "https://github.com/jhaizhou-ops/d2r-mobile",
       "desc": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
       "lang": "C",
-      "stars": 3753,
-      "forks": 1065,
+      "stars": 3791,
+      "forks": 1071,
       "created": "2026-10-12"
     },
     {
@@ -16,8 +16,8 @@
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
       "desc": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
       "lang": "C",
-      "stars": 3039,
-      "forks": 392,
+      "stars": 3075,
+      "forks": 399,
       "created": "2026-10-11"
     },
     {
@@ -25,8 +25,8 @@
       "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
       "desc": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
       "lang": "Python",
-      "stars": 2680,
-      "forks": 512,
+      "stars": 2706,
+      "forks": 521,
       "created": "2026-10-13"
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/liseami/CCBaga",
       "desc": "",
       "lang": "Rust",
-      "stars": 2610,
-      "forks": 264,
+      "stars": 2628,
+      "forks": 266,
       "created": "2026-10-11"
     },
     {
@@ -43,8 +43,8 @@
       "url": "https://github.com/HeyPuter/everything",
       "desc": "We're rebuilding and open-sourcing the world’s software from scratch.",
       "lang": "JavaScript",
-      "stars": 2102,
-      "forks": 301,
+      "stars": 2145,
+      "forks": 307,
       "created": "2026-10-13"
     },
     {
@@ -52,7 +52,7 @@
       "url": "https://github.com/deeplethe/solid-glass",
       "desc": "A design system for AI applications. Material, physical, tactile, technical.",
       "lang": "TypeScript",
-      "stars": 1910,
+      "stars": 2002,
       "forks": 25,
       "created": "2026-10-12"
     },
@@ -61,8 +61,8 @@
       "url": "https://github.com/ahwootech/BRUTAL",
       "desc": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency ",
       "lang": "C#",
-      "stars": 1822,
-      "forks": 97,
+      "stars": 1856,
+      "forks": 99,
       "created": "2026-10-14"
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/chenglou/handwired",
       "desc": "Turn your regular JavaScript code into a neural net.",
       "lang": "TypeScript",
-      "stars": 1690,
-      "forks": 136,
+      "stars": 1704,
+      "forks": 139,
       "created": "2026-10-15"
     },
     {
@@ -79,8 +79,17 @@
       "url": "https://github.com/Supermedo/uncharted_pc",
       "desc": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
       "lang": "C++",
-      "stars": 1325,
-      "forks": 68,
+      "stars": 1370,
+      "forks": 71,
+      "created": "2026-10-15"
+    },
+    {
+      "repo": "feder-cr/git-ai",
+      "url": "https://github.com/feder-cr/git-ai",
+      "desc": "Git designed for AI agents.",
+      "lang": "Go",
+      "stars": 1322,
+      "forks": 157,
       "created": "2026-10-15"
     },
     {
@@ -88,26 +97,17 @@
       "url": "https://github.com/Caho1/open-claude-ui",
       "desc": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
       "lang": "TypeScript",
-      "stars": 1159,
-      "forks": 255,
+      "stars": 1192,
+      "forks": 258,
       "created": "2026-10-14"
-    },
-    {
-      "repo": "feder-cr/git-ai",
-      "url": "https://github.com/feder-cr/git-ai",
-      "desc": "Git designed for AI agents.",
-      "lang": "Go",
-      "stars": 1157,
-      "forks": 124,
-      "created": "2026-10-15"
     },
     {
       "repo": "chenwei810/Semiconductor_Manufacturing_Introduction",
       "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
       "desc": "Introduction to Semiconductor Manufacturing",
       "lang": "Python",
-      "stars": 1132,
-      "forks": 112,
+      "stars": 1148,
+      "forks": 115,
       "created": "2026-10-11"
     },
     {
@@ -115,7 +115,7 @@
       "url": "https://github.com/zhuyansen/new-term-radar",
       "desc": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
       "lang": "Python",
-      "stars": 1092,
+      "stars": 1098,
       "forks": 422,
       "created": "2026-10-12"
     },
@@ -124,44 +124,53 @@
       "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
       "desc": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.",
       "lang": "C++",
-      "stars": 1015,
-      "forks": 48,
+      "stars": 1027,
+      "forks": 49,
       "created": "2026-10-12"
+    },
+    {
+      "repo": "Gathin23/tv-vibehack",
+      "url": "https://github.com/Gathin23/tv-vibehack",
+      "desc": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
+      "lang": "Java",
+      "stars": 1011,
+      "forks": 113,
+      "created": "2026-10-17"
     },
     {
       "repo": "jwuthri-cloud/Tracely-ai",
       "url": "https://github.com/jwuthri-cloud/Tracely-ai",
       "desc": "Trace-native CI/CD for AI agents: grade production traces, cluster failures, freeze them into replayable regression tests, and block PRs that regress. Self-hostable.",
       "lang": "Python",
-      "stars": 962,
+      "stars": 988,
       "forks": 140,
       "created": "2026-10-11"
-    },
-    {
-      "repo": "outcrawlai/scout",
-      "url": "https://github.com/outcrawlai/scout",
-      "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "lang": "TypeScript",
-      "stars": 944,
-      "forks": 29,
-      "created": "2026-10-13"
     },
     {
       "repo": "rohit267/net-merge",
       "url": "https://github.com/rohit267/net-merge",
       "desc": "Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)",
       "lang": "Go",
-      "stars": 895,
-      "forks": 34,
+      "stars": 987,
+      "forks": 36,
       "created": "2026-10-12"
+    },
+    {
+      "repo": "outcrawlai/scout",
+      "url": "https://github.com/outcrawlai/scout",
+      "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "lang": "TypeScript",
+      "stars": 945,
+      "forks": 29,
+      "created": "2026-10-13"
     },
     {
       "repo": "h0m3us3r/w1700k-sdr",
       "url": "https://github.com/h0m3us3r/w1700k-sdr",
       "desc": "",
       "lang": "C",
-      "stars": 829,
-      "forks": 84,
+      "stars": 835,
+      "forks": 83,
       "created": "2026-10-11"
     },
     {
@@ -169,7 +178,7 @@
       "url": "https://github.com/CoolkHz/gptibo",
       "desc": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
       "lang": "TypeScript",
-      "stars": 824,
+      "stars": 825,
       "forks": 497,
       "created": "2026-10-13"
     },
@@ -178,44 +187,53 @@
       "url": "https://github.com/xscreensaver-official/xscreensaver",
       "desc": "There is no official XScreenSaver GitHub repository.",
       "lang": "—",
-      "stars": 778,
-      "forks": 21,
+      "stars": 805,
+      "forks": 22,
       "created": "2026-10-16"
+    },
+    {
+      "repo": "LiCinCan/blender-ai-mcp-addon",
+      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy",
+      "lang": "Python",
+      "stars": 738,
+      "forks": 344,
+      "created": "2026-10-15"
     },
     {
       "repo": "Leonxlnx/earshot",
       "url": "https://github.com/Leonxlnx/earshot",
       "desc": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "lang": "Python",
-      "stars": 715,
-      "forks": 43,
+      "stars": 734,
+      "forks": 44,
       "created": "2026-10-15"
-    },
-    {
-      "repo": "MyLuxy/overdrive",
-      "url": "https://github.com/MyLuxy/overdrive",
-      "desc": "Overdrive, a PS5 homebrew game store with 1,800+ games.",
-      "lang": "C++",
-      "stars": 693,
-      "forks": 161,
-      "created": "2026-10-14"
     },
     {
       "repo": "Zfinix/eleven",
       "url": "https://github.com/Zfinix/eleven",
       "desc": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
       "lang": "TypeScript",
-      "stars": 688,
-      "forks": 108,
+      "stars": 730,
+      "forks": 112,
       "created": "2026-10-13"
     },
     {
-      "repo": "anujasid/blender-ai-mcp-addon",
-      "url": "https://github.com/anujasid/blender-ai-mcp-addon",
-      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy",
+      "repo": "MyLuxy/overdrive",
+      "url": "https://github.com/MyLuxy/overdrive",
+      "desc": "Overdrive, a PS5 homebrew game store with 1,800+ games.",
+      "lang": "C++",
+      "stars": 717,
+      "forks": 170,
+      "created": "2026-10-14"
+    },
+    {
+      "repo": "Tencent-Hunyuan/Hy-Memory",
+      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
+      "desc": "",
       "lang": "Python",
-      "stars": 685,
-      "forks": 233,
+      "stars": 703,
+      "forks": 60,
       "created": "2026-10-15"
     },
     {
@@ -223,26 +241,26 @@
       "url": "https://github.com/threerocks/sweety-handdraw-video",
       "desc": "从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。",
       "lang": "JavaScript",
-      "stars": 673,
+      "stars": 680,
       "forks": 129,
       "created": "2026-10-12"
     },
     {
-      "repo": "Tencent-Hunyuan/Hy-Memory",
-      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
-      "desc": "",
-      "lang": "Python",
-      "stars": 637,
-      "forks": 59,
-      "created": "2026-10-15"
+      "repo": "Noniv/web-ocean",
+      "url": "https://github.com/Noniv/web-ocean",
+      "desc": "Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whitecaps, sun glitter, physically based sunset sky with clouds, free camera. Built with Claude Code (Opus 5.5). Opens from ",
+      "lang": "HTML",
+      "stars": 620,
+      "forks": 100,
+      "created": "2026-10-16"
     },
     {
       "repo": "overdriveps5/overdrive-releases",
       "url": "https://github.com/overdriveps5/overdrive-releases",
       "desc": "Overdrive releases for jailbroken PS5",
       "lang": "—",
-      "stars": 614,
-      "forks": 120,
+      "stars": 618,
+      "forks": 121,
       "created": "2026-10-12"
     },
     {
@@ -250,27 +268,9 @@
       "url": "https://github.com/datalab-to/indra",
       "desc": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
       "lang": "Python",
-      "stars": 600,
-      "forks": 49,
+      "stars": 612,
+      "forks": 51,
       "created": "2026-10-13"
-    },
-    {
-      "repo": "yeyuxin777/baoyan-agent-benchmark",
-      "url": "https://github.com/yeyuxin777/baoyan-agent-benchmark",
-      "desc": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
-      "lang": "Python",
-      "stars": 599,
-      "forks": 0,
-      "created": "2026-10-12"
-    },
-    {
-      "repo": "Gathin23/tv-vibehack",
-      "url": "https://github.com/Gathin23/tv-vibehack",
-      "desc": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher. Built in an afternoon with Claude Code.",
-      "lang": "Java",
-      "stars": 579,
-      "forks": 54,
-      "created": "2026-10-17"
     }
   ],
   "note": ""

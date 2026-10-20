@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 09:36:13",
+  "updated_at": "2026-10-20 17:03:20",
   "categories": [
     "tech",
     "finance",
@@ -7,13 +7,223 @@
   ],
   "items": [
     {
+      "title": "France curfews calm unrest as Macron faces criticism over Gulf trip",
+      "url": "https://www.cnbc.com/2026/10/20/france-protests-curfews-macron-gulf-trip.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Prime Minister Sébastien Lecornu said Tuesday some areas would remain under curfew after a weekend of violent rioting.",
+      "published": 1792486113.0,
+      "fetched_at": "2026-10-20 17:03:20",
+      "published_cn": "10-20 08:48"
+    },
+    {
+      "title": "普京提議中美俄「三方會談」：特朗普響應，北京未表態，基輔反對",
+      "url": "https://www.bbc.com/zhongwen/articles/cmlyl0j445peo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "在普京建議三方於APEC期間進行會談後，特朗普表示願意參與，強調會談重點將是無核化問題。目前中方尚未就三方會談表態。",
+      "published": 1792485609.0,
+      "fetched_at": "2026-10-20 17:03:20",
+      "published_cn": "10-20 08:40"
+    },
+    {
+      "title": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
+      "url": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "U.S. Department of Homeland Security has banned DeepSeek-related technology from federal civilian agency IT systems.",
+      "published": 1792484234.0,
+      "fetched_at": "2026-10-20 17:03:20",
+      "published_cn": "10-20 08:17"
+    },
+    {
+      "title": "U.S. Treasury yields move lower as investors await housing, employment data",
+      "url": "https://www.cnbc.com/2026/10/20/us-treasury-yields-investors-economy.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "U.S. Treasury yields inched lower on Tuesday as investors awaited economic data and weighed the inflationary backdrop ahead of the rate decision next week.",
+      "published": 1792482194.0,
+      "fetched_at": "2026-10-20 17:03:20",
+      "published_cn": "10-20 07:43"
+    },
+    {
+      "title": "美國下令政府系統禁用DeepSeek：中美AI競爭繼續升溫",
+      "url": "https://www.bbc.com/zhongwen/articles/cmy0r4kd2462o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "DeepSeek的免費聊天機器人應用程式在Apple App Store下載排行榜上名列前茅，其AI模型也被美國科技企業採用。Snowflake、Vercel及OpenRouter等公司都已將DeepSeek整合至其提供給客戶的服務中。",
+      "published": 1792482165.0,
+      "fetched_at": "2026-10-20 17:03:20",
+      "published_cn": "10-20 07:42"
+    },
+    {
+      "title": "What’s making Europe so angry? The frustration behind the protests",
+      "url": "https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Protests broke out in France and several European countries as people railed against living costs, poor schooling conditions, and a housing crisis.",
+      "published": 1792480756.0,
+      "fetched_at": "2026-10-20 17:03:20",
+      "published_cn": "10-20 07:19"
+    },
+    {
+      "title": "CNBC Daily Open: Tech rebounds in the U.S., but Asia isn’t buying it yet",
+      "url": "https://www.cnbc.com/2026/10/20/daily-open-tech-stocks-rebound.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "The Nasdaq Composite gained more than 1% after last week’s sell-off, led by advances in Tesla, Nvidia and Alphabet.",
+      "published": 1792480467.0,
+      "fetched_at": "2026-10-20 17:03:20",
+      "published_cn": "10-20 07:14"
+    },
+    {
+      "title": "从「空间扩展」到「等比放大」：我如何为 MacBook Pro 搭建双屏桌面",
+      "url": "https://sspai.com/post/116661",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "原厂屏幕之外最省心的搭档。<a href=\"https://sspai.com/post/116661\" target=\"_blank\">查看全文</a>",
+      "published": 1792480074.0,
+      "fetched_at": "2026-10-20 17:03:18",
+      "published_cn": "10-20 07:07"
+    },
+    {
+      "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+      "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
+      "published": 1792479660.0,
+      "fetched_at": "2026-10-20 17:03:19",
+      "published_cn": "10-20 07:01"
+    },
+    {
+      "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
+      "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
+      "published": 1792475996.0,
+      "fetched_at": "2026-10-20 17:03:19",
+      "published_cn": "10-20 05:59"
+    },
+    {
+      "title": "Alberta voters reject plan for referendum to leave Canada, CBC projects",
+      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "source": "卫报·世界",
+      "category": "world",
+      "summary": "<p>Projection delivers a victory for prime minister Mark Carney and supporters of Canadian unity</p><p>Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin a process toward independence, the nation",
+      "published": 1792475403.0,
+      "fetched_at": "2026-10-20 17:03:20",
+      "published_cn": "10-20 05:50"
+    },
+    {
+      "title": "香港演員鍾雪瑩、袁澧林發聲之後，她們親述被性別冒犯的經歷",
+      "url": "https://www.bbc.com/zhongwen/articles/cqly0v0xnxdvo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "BBC中文訪問了四位來自不同行業的女性，了解言語冒犯是如何在工作環境中出現；當性別冒犯被包裝成「玩笑」，她們是如何應對。",
+      "published": 1792471062.0,
+      "fetched_at": "2026-10-20 17:03:20",
+      "published_cn": "10-20 04:37"
+    },
+    {
+      "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
+      "url": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording and alerting you to their presence. The Baseus Security P",
+      "published": 1792468800.0,
+      "fetched_at": "2026-10-20 17:03:19",
+      "published_cn": "10-20 04:00"
+    },
+    {
+      "title": "押注记忆原生，MemT 1.0 破局养成系 AI 下半场",
+      "url": "https://www.ifanr.com/1684997?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "MemT 1.0 开源，给出「记忆原生」新解法<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1792468664.0,
+      "fetched_at": "2026-10-20 17:03:17",
+      "published_cn": "10-20 03:57"
+    },
+    {
+      "title": "澳洲國會議員遭汽車「蓄意」撞擊重傷： 我們目前所知情況",
+      "url": "https://www.bbc.com/zhongwen/articles/cw5yngleml15o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "海倫·海恩斯（Helen Haines）遭汽車撞擊，澳洲總理稱此為一起「蓄意行為」。",
+      "published": 1792466007.0,
+      "fetched_at": "2026-10-20 17:03:20",
+      "published_cn": "10-20 03:13"
+    },
+    {
+      "title": "法國騷亂：巴黎局部宵禁 被劫商品現身二手平台",
+      "url": "https://www.bbc.com/zhongwen/articles/cwp9g811d5ydo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "此前，法國內政部長承認，警方在一些城市「失去了控制」。",
+      "published": 1792464464.0,
+      "fetched_at": "2026-10-20 17:03:20",
+      "published_cn": "10-20 02:47"
+    },
+    {
+      "title": "BlackRock, GIC among investors chasing Indian telecom major Jio's IPO as anchor bids top $26 billion",
+      "url": "https://www.cnbc.com/2026/10/20/jio-ipo-gic-blackrock-.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Jio Platforms plans to raise up to $3.2 billion through an IPO, which is India's largest ever in rupee terms, but the second largest in dollar terms.",
+      "published": 1792464275.0,
+      "fetched_at": "2026-10-20 17:03:20",
+      "published_cn": "10-20 02:44"
+    },
+    {
+      "title": "App+1 | 紫毫：基于 Rime 引擎、支持双拼纠错的 iOS 输入法",
+      "url": "https://sspai.com/post/116430",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "简单干净、支持双拼纠错的 iOS 输入法。<a href=\"https://sspai.com/post/116430\" target=\"_blank\">查看全文</a>",
+      "published": 1792463679.0,
+      "fetched_at": "2026-10-20 17:03:18",
+      "published_cn": "10-20 02:34"
+    },
+    {
+      "title": "特斯拉只能飞 5 秒？科学家称其为「放屁车」，联邦航空局：不符合航空器定义",
+      "url": "https://www.ifanr.com/1684938?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "马斯克：我朝你放个屁。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1792462681.0,
+      "fetched_at": "2026-10-20 17:03:17",
+      "published_cn": "10-20 02:18"
+    },
+    {
+      "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+      "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
+      "published": 1792461600.0,
+      "fetched_at": "2026-10-20 17:03:19",
+      "published_cn": "10-20 02:00"
+    },
+    {
+      "title": "JD Vance refrains from endorsing Israeli leader Netanyahu as Trump offers praise",
+      "url": "https://www.cnbc.com/2026/10/20/vance-israel-netanyahu-midterms-election-.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Vice President JD Vance declined to follow Trump in endorsing Netanyahu, saying he’s “not getting involved in Israeli elections” a week before Israelis vote.",
+      "published": 1792461214.0,
+      "fetched_at": "2026-10-20 17:03:20",
+      "published_cn": "10-20 01:53"
+    },
+    {
       "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
       "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
       "source": "TechCrunch",
       "category": "tech",
       "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
       "published": 1792459623.0,
-      "fetched_at": "2026-10-20 09:36:11",
+      "fetched_at": "2026-10-20 17:03:19",
       "published_cn": "10-20 01:27"
     },
     {
@@ -23,7 +233,7 @@
       "category": "world",
       "summary": "兩名男子講述了他們聲稱在戰爭期間為烏克蘭情報部門提供支援所從事的工作。",
       "published": 1792458878.0,
-      "fetched_at": "2026-10-20 09:36:13",
+      "fetched_at": "2026-10-20 17:03:20",
       "published_cn": "10-20 01:14"
     },
     {
@@ -33,28 +243,18 @@
       "category": "tech",
       "summary": "真·高端局<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792458007.0,
-      "fetched_at": "2026-10-20 09:36:10",
+      "fetched_at": "2026-10-20 17:03:17",
       "published_cn": "10-20 01:00"
     },
     {
-      "title": "Three big takeaways from the IMF-World Bank meetings",
-      "url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
-      "published": 1792456414.0,
-      "fetched_at": "2026-10-20 09:36:12",
-      "published_cn": "10-20 00:33"
-    },
-    {
-      "title": "香港演員鍾雪瑩、袁澧林發聲之後，她們分享親歷的性別冒犯",
-      "url": "https://www.bbc.com/zhongwen/articles/cqly0v0xnxdvo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "BBC中文訪問了四位來自不同行業的女性，了解言語冒犯是如何在工作環境中出現；當性別冒犯被包裝成「玩笑」，她們是如何應對。",
-      "published": 1792456002.0,
-      "fetched_at": "2026-10-20 09:36:13",
-      "published_cn": "10-20 00:26"
+      "title": "派早报：MiniMax 发布 M3.1 Flash 模型等",
+      "url": "https://sspai.com/post/116758",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "索尼发布三款高端 Walkman 播放器，掌阅推出 Ocean 6 Pro 电纸书等。<a href=\"https://sspai.com/post/116758\" target=\"_blank\">查看全文</a>",
+      "published": 1792456773.0,
+      "fetched_at": "2026-10-20 17:03:18",
+      "published_cn": "10-20 00:39"
     },
     {
       "title": "早报｜苹果定档下周发布新品，触屏MacBook Pro或将亮相/华为苹果拿下中国手机四成份额/杨立昆锐评特斯拉飞车，马斯克：放屁",
@@ -63,37 +263,27 @@
       "category": "tech",
       "summary": "· OpenAI 为 OpenCode 受攻击用户退还被消耗的 API 额度\n· 王腾宣布今日宜休将于 10 月 29 日举办首场发布会\n· 引望与宁德时代签署换电合作协议，覆盖电池与换电网络<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792454826.0,
-      "fetched_at": "2026-10-20 09:36:10",
+      "fetched_at": "2026-10-20 17:03:17",
       "published_cn": "10-20 00:07"
     },
     {
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
       "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
       "source": "TechCrunch",
       "category": "tech",
-      "summary": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
       "published": 1792453178.0,
-      "fetched_at": "2026-10-20 09:36:11",
+      "fetched_at": "2026-10-20 17:03:19",
       "published_cn": "10-19 23:39"
-    },
-    {
-      "title": "CNBC's The China Connection newsletter: Navigating a tech-heavy world",
-      "url": "https://www.cnbc.com/2026/10/19/cnbcs-the-china-connection-newsletter-navigating-a-tech-heavy-world.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "While economists and former central bankers discuss tech and monetary policy at the Bund Summit, companies are moving faster to capture new revenue.",
-      "published": 1792450802.0,
-      "fetched_at": "2026-10-20 09:36:12",
-      "published_cn": "10-19 23:00"
     },
     {
       "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
       "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
       "source": "TechCrunch",
       "category": "tech",
-      "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods beh",
+      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incid",
       "published": 1792450167.0,
-      "fetched_at": "2026-10-20 09:36:11",
+      "fetched_at": "2026-10-20 17:03:19",
       "published_cn": "10-19 22:49"
     },
     {
@@ -103,7 +293,7 @@
       "category": "tech",
       "summary": "Congenital measles can be fatal, and survivors require monitoring for years.",
       "published": 1792449866.0,
-      "fetched_at": "2026-10-20 09:36:12",
+      "fetched_at": "2026-10-20 17:03:19",
       "published_cn": "10-19 22:44"
     },
     {
@@ -113,7 +303,7 @@
       "category": "world",
       "summary": "<p>DHS says migrants ‘retain protections’ after temporary protected status was set to expire on Monday</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/oct/15/immigration-trump-midterms-reader-q-a\">Send us",
       "published": 1792449283.0,
-      "fetched_at": "2026-10-20 09:36:13",
+      "fetched_at": "2026-10-20 17:03:20",
       "published_cn": "10-19 22:34"
     },
     {
@@ -123,7 +313,7 @@
       "category": "tech",
       "summary": "President Donald Trump announced this afternoon that Elon Musk's SpaceX shares for children will be given through Trump Accounts. Musk said earlier today that he would give one of his SpaceX shares to \"every kid in Ameri",
       "published": 1792449042.0,
-      "fetched_at": "2026-10-20 09:36:11",
+      "fetched_at": "2026-10-20 17:03:19",
       "published_cn": "10-19 22:30"
     },
     {
@@ -133,7 +323,7 @@
       "category": "tech",
       "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
       "published": 1792447468.0,
-      "fetched_at": "2026-10-20 09:36:11",
+      "fetched_at": "2026-10-20 17:03:19",
       "published_cn": "10-19 22:04"
     },
     {
@@ -143,7 +333,7 @@
       "category": "tech",
       "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with m",
       "published": 1792446481.0,
-      "fetched_at": "2026-10-20 09:36:11",
+      "fetched_at": "2026-10-20 17:03:19",
       "published_cn": "10-19 21:48"
     },
     {
@@ -153,7 +343,7 @@
       "category": "tech",
       "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath ",
       "published": 1792445300.0,
-      "fetched_at": "2026-10-20 09:36:11",
+      "fetched_at": "2026-10-20 17:03:19",
       "published_cn": "10-19 21:28"
     },
     {
@@ -163,28 +353,18 @@
       "category": "tech",
       "summary": "My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued. The Miles Plug is a small device that plugs into your car's OBD-II port and monitors lo",
       "published": 1792443617.0,
-      "fetched_at": "2026-10-20 09:36:11",
+      "fetched_at": "2026-10-20 17:03:19",
       "published_cn": "10-19 21:00"
     },
     {
-      "title": "Trump says he'd meet with Putin and Xi, criticizes Zelenskyy",
-      "url": "https://www.cnbc.com/2026/10/19/trump-putin-xi-zelenskyy.html",
+      "title": "Tech stocks had a nice oversold bounce on Monday. Earnings this week will determine if it's for real",
+      "url": "https://www.cnbc.com/2026/10/19/tech-stocks-rebound-meta-tesla-earnings.html",
       "source": "CNBC",
       "category": "finance",
-      "summary": "Tensions between Trump and Zelenskyy have steadily risen in recent weeks, while Russia, which invaded Ukraine, has received multiple breaks from the U.S.",
-      "published": 1792443602.0,
-      "fetched_at": "2026-10-20 09:36:12",
-      "published_cn": "10-19 21:00"
-    },
-    {
-      "title": "OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay",
-      "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
-      "published": 1792443280.0,
-      "fetched_at": "2026-10-20 09:36:12",
-      "published_cn": "10-19 20:54"
+      "summary": "Investors are hopeful that last week's pullback was a clearing event for equities, but lingering concerns remain.",
+      "published": 1792443434.0,
+      "fetched_at": "2026-10-20 17:03:20",
+      "published_cn": "10-19 20:57"
     },
     {
       "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
@@ -193,7 +373,7 @@
       "category": "tech",
       "summary": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
       "published": 1792443257.0,
-      "fetched_at": "2026-10-20 09:36:12",
+      "fetched_at": "2026-10-20 17:03:19",
       "published_cn": "10-19 20:54"
     },
     {
@@ -203,7 +383,7 @@
       "category": "tech",
       "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
       "published": 1792441313.0,
-      "fetched_at": "2026-10-20 09:36:12",
+      "fetched_at": "2026-10-20 17:03:19",
       "published_cn": "10-19 20:21"
     },
     {
@@ -213,7 +393,7 @@
       "category": "tech",
       "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
       "published": 1792440564.0,
-      "fetched_at": "2026-10-20 09:36:11",
+      "fetched_at": "2026-10-20 17:03:19",
       "published_cn": "10-19 20:09"
     },
     {
@@ -223,18 +403,8 @@
       "category": "tech",
       "summary": "One way to make batteries cleaner is to make fewer of them.",
       "published": 1792440235.0,
-      "fetched_at": "2026-10-20 09:36:12",
+      "fetched_at": "2026-10-20 17:03:19",
       "published_cn": "10-19 20:03"
-    },
-    {
-      "title": "Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop",
-      "url": "https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Apple sent invitations for an event next week, calling it \"Pro and tell.\"",
-      "published": 1792439167.0,
-      "fetched_at": "2026-10-20 09:36:12",
-      "published_cn": "10-19 19:46"
     },
     {
       "title": "PSA: Patch your Plex media server before someone hacks it",
@@ -243,7 +413,7 @@
       "category": "tech",
       "summary": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
       "published": 1792438759.0,
-      "fetched_at": "2026-10-20 09:36:12",
+      "fetched_at": "2026-10-20 17:03:19",
       "published_cn": "10-19 19:39"
     },
     {
@@ -253,7 +423,7 @@
       "category": "tech",
       "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for",
       "published": 1792438114.0,
-      "fetched_at": "2026-10-20 09:36:11",
+      "fetched_at": "2026-10-20 17:03:19",
       "published_cn": "10-19 19:28"
     },
     {
@@ -263,28 +433,8 @@
       "category": "tech",
       "summary": "Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
       "published": 1792438044.0,
-      "fetched_at": "2026-10-20 09:36:12",
+      "fetched_at": "2026-10-20 17:03:19",
       "published_cn": "10-19 19:27"
-    },
-    {
-      "title": "Crushed tech stocks bounce — plus, new doctor survey keeps us positive on Lilly",
-      "url": "https://www.cnbc.com/investingclub/2026/10/19/crushed-tech-stocks-bounce-new-doctor-survey-keeps-us-positive-on-lilly.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "published": 1792437180.0,
-      "fetched_at": "2026-10-20 09:36:12",
-      "published_cn": "10-19 19:13"
-    },
-    {
-      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
-      "published": 1792436412.0,
-      "fetched_at": "2026-10-20 09:36:11",
-      "published_cn": "10-19 19:00"
     },
     {
       "title": "Sony’s best noise-canceling earbuds are nearly $100 off today only",
@@ -293,18 +443,8 @@
       "category": "tech",
       "summary": "For a very limited time, Sony’s latest high-end noise-canceling earbuds are actually cheaper than their last-gen counterpart, the WF-1000XM5. B&#38;H Photo is selling Sony’s latest WF-1000XM6 in black for an all-time low",
       "published": 1792435961.0,
-      "fetched_at": "2026-10-20 09:36:11",
+      "fetched_at": "2026-10-20 17:03:19",
       "published_cn": "10-19 18:52"
-    },
-    {
-      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-      "published": 1792435744.0,
-      "fetched_at": "2026-10-20 09:36:11",
-      "published_cn": "10-19 18:49"
     },
     {
       "title": "ReactOS reaches major milestone with NTFS install support",
@@ -313,38 +453,8 @@
       "category": "tech",
       "summary": "ReactOS gains NTFS install support with new driver.",
       "published": 1792434656.0,
-      "fetched_at": "2026-10-20 09:36:12",
+      "fetched_at": "2026-10-20 17:03:19",
       "published_cn": "10-19 18:30"
-    },
-    {
-      "title": "AI game clones are making indie developers afraid to show their work",
-      "url": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Delayed Steam Next Fest demo is a sign of a growing problem for indie devs.",
-      "published": 1792429162.0,
-      "fetched_at": "2026-10-20 09:36:12",
-      "published_cn": "10-19 16:59"
-    },
-    {
-      "title": "Elon Musk says he'll give a SpaceX share to every child in America next year",
-      "url": "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "The SpaceX boss said Monday that he'll give one of his company shares to every child in the U.S. next year. He didn't say how the share giveaway would happen.",
-      "published": 1792429100.0,
-      "fetched_at": "2026-10-20 09:36:12",
-      "published_cn": "10-19 16:58"
-    },
-    {
-      "title": "Anthropic is AI trade's last big hope for a major IPO this year",
-      "url": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "On Kalshi, Anthropic is seen as the last major IPO in 2026 after OpenAI delayed its public market debut. Others have postponed too.",
-      "published": 1792428134.0,
-      "fetched_at": "2026-10-20 09:36:12",
-      "published_cn": "10-19 16:42"
     },
     {
       "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
@@ -353,7 +463,7 @@
       "category": "world",
       "summary": "<p>Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutors</p><p>A Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others gu",
       "published": 1792426094.0,
-      "fetched_at": "2026-10-20 09:36:13",
+      "fetched_at": "2026-10-20 17:03:20",
       "published_cn": "10-19 16:08"
     },
     {
@@ -363,8 +473,48 @@
       "category": "tech",
       "summary": "Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomber",
       "published": 1792425869.0,
-      "fetched_at": "2026-10-20 09:36:11",
+      "fetched_at": "2026-10-20 17:03:19",
       "published_cn": "10-19 16:04"
+    },
+    {
+      "title": "日本面临“数月之后”钇供应告罄局面",
+      "url": "https://www.ftchinese.com/story/001111153",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "知情人士称，日本已向美国政府及美国蓝筹企业提出请求，希望美方敦促中国放宽稀土出口管制。",
+      "published": 1792425600.0,
+      "fetched_at": "2026-10-20 17:03:20",
+      "published_cn": "10-19 16:00"
+    },
+    {
+      "title": "Lex专栏：比亚迪在日本布局长远",
+      "url": "https://www.ftchinese.com/story/001111152",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "比亚迪推出了专为日本市场打造的车型，如果日本消费者最终转向纯电动汽车，比亚迪已做好从中受益的准备。",
+      "published": 1792425600.0,
+      "fetched_at": "2026-10-20 17:03:20",
+      "published_cn": "10-19 16:00"
+    },
+    {
+      "title": "法国在燃烧，英国会是下一个吗？",
+      "url": "https://www.ftchinese.com/story/001111145",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "魏城：2026年秋，街头抗议席卷欧洲，法国重回风暴中心。这场危机究竟源于移民失控，还是内部结构失衡？",
+      "published": 1792425600.0,
+      "fetched_at": "2026-10-20 17:03:20",
+      "published_cn": "10-19 16:00"
+    },
+    {
+      "title": "欧洲不再“哄着”特朗普",
+      "url": "https://www.ftchinese.com/story/001111144",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "拉赫曼：乌克兰总统最近暗示特朗普对独裁者情有独钟，这种不再忍气吞声的背后很可能有某种盘算。毕竟多数美国人并不像特朗普那样钦佩普京。",
+      "published": 1792425600.0,
+      "fetched_at": "2026-10-20 17:03:20",
+      "published_cn": "10-19 16:00"
     },
     {
       "title": "中期选举前景打压美国军工股",
@@ -373,7 +523,7 @@
       "category": "finance",
       "summary": "随着投资者押注民主党将在中期选举中拿下国会两院控制权，进而阻挠特朗普增加5000亿美元军费支出的计划，美国军工股走势低迷。",
       "published": 1792425600.0,
-      "fetched_at": "2026-10-20 09:36:12",
+      "fetched_at": "2026-10-20 17:03:20",
       "published_cn": "10-19 16:00"
     },
     {
@@ -383,7 +533,7 @@
       "category": "finance",
       "summary": "印制电路板企业今年上半年被过度超买，相关企业即使公布亮丽业绩，仍不足以支撑股价。",
       "published": 1792425600.0,
-      "fetched_at": "2026-10-20 09:36:12",
+      "fetched_at": "2026-10-20 17:03:20",
       "published_cn": "10-19 16:00"
     },
     {
@@ -393,7 +543,7 @@
       "category": "finance",
       "summary": "德国电信、Orange、西班牙电信和沃达丰将探讨联合竞标无线电频谱资源的可能性，从而使他们能够在欧洲提供“终端直连”卫星移动服务。",
       "published": 1792425600.0,
-      "fetched_at": "2026-10-20 09:36:12",
+      "fetched_at": "2026-10-20 17:03:20",
       "published_cn": "10-19 16:00"
     },
     {
@@ -403,27 +553,7 @@
       "category": "finance",
       "summary": "陈稻田：ChatGPT对科技行业的就业下降产生了立竿见影的影响，同时由于高薪科技行业雇佣量的下降，美国私营工资增速不断下降，这有利于缓和通胀压力。",
       "published": 1792425600.0,
-      "fetched_at": "2026-10-20 09:36:12",
-      "published_cn": "10-19 16:00"
-    },
-    {
-      "title": "消费为何低迷？",
-      "url": "https://www.ftchinese.com/story/001111128",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "古尧：消费文化的形成离不开自由主义经济原则。当管制过多时，无论管制是发生在消费端还是生产端，消费文化的形成都会受到影响。",
-      "published": 1792425600.0,
-      "fetched_at": "2026-10-20 09:36:12",
-      "published_cn": "10-19 16:00"
-    },
-    {
-      "title": "关键矿产会成为美国核能雄心的羁绊",
-      "url": "https://www.ftchinese.com/story/001111132",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "王英良：隐藏在工程建设背后看似不起眼却至关重要的矿产供应链，才是保障核电项目落地的根基。",
-      "published": 1792425600.0,
-      "fetched_at": "2026-10-20 09:36:12",
+      "fetched_at": "2026-10-20 17:03:20",
       "published_cn": "10-19 16:00"
     },
     {
@@ -433,7 +563,7 @@
       "category": "tech",
       "summary": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed G",
       "published": 1792424660.0,
-      "fetched_at": "2026-10-20 09:36:11",
+      "fetched_at": "2026-10-20 17:03:19",
       "published_cn": "10-19 15:44"
     },
     {
@@ -443,18 +573,8 @@
       "category": "world",
       "summary": "<p>Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of war</p><p>A drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catchin",
       "published": 1792421153.0,
-      "fetched_at": "2026-10-20 09:36:13",
+      "fetched_at": "2026-10-20 17:03:20",
       "published_cn": "10-19 14:45"
-    },
-    {
-      "title": "Apple’s last-gen Mac Mini with the M4 is $150 off",
-      "url": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 price given that the newe",
-      "published": 1792420908.0,
-      "fetched_at": "2026-10-20 09:36:11",
-      "published_cn": "10-19 14:41"
     },
     {
       "title": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services",
@@ -463,7 +583,7 @@
       "category": "world",
       "summary": "<p>Opposition to US-led quarantine center in Kenya follows sweeping funding cuts and withdrawal from WHO</p><p>An eighth person in Kenya has tested positive for the Bundibugyo strain of Ebola in the country’s first-ever ",
       "published": 1792419068.0,
-      "fetched_at": "2026-10-20 09:36:13",
+      "fetched_at": "2026-10-20 17:03:20",
       "published_cn": "10-19 14:11"
     },
     {
@@ -473,7 +593,7 @@
       "category": "tech",
       "summary": "给屏幕装上脖子<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792404565.0,
-      "fetched_at": "2026-10-20 09:36:10",
+      "fetched_at": "2026-10-20 17:03:17",
       "published_cn": "10-19 10:09"
     },
     {
@@ -483,7 +603,7 @@
       "category": "world",
       "summary": "<p>Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece</p><p>In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific",
       "published": 1792404429.0,
-      "fetched_at": "2026-10-20 09:36:13",
+      "fetched_at": "2026-10-20 17:03:20",
       "published_cn": "10-19 10:07"
     },
     {
@@ -493,7 +613,7 @@
       "category": "tech",
       "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/116705\" target=\"_blank\">查看全文</a>",
       "published": 1792402785.0,
-      "fetched_at": "2026-10-20 09:36:11",
+      "fetched_at": "2026-10-20 17:03:18",
       "published_cn": "10-19 09:39"
     },
     {
@@ -503,7 +623,7 @@
       "category": "tech",
       "summary": "好用到原地「起飞」<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792401676.0,
-      "fetched_at": "2026-10-20 09:36:10",
+      "fetched_at": "2026-10-20 17:03:17",
       "published_cn": "10-19 09:21"
     },
     {
@@ -513,7 +633,7 @@
       "category": "world",
       "summary": "分析人士向BBC指出，中國依賴單一外需引擎的風險正在累積，北京的刺激空間有限，未必願意、也未必有能力在這個時點大舉加碼。",
       "published": 1792401553.0,
-      "fetched_at": "2026-10-20 09:36:13",
+      "fetched_at": "2026-10-20 17:03:20",
       "published_cn": "10-19 09:19"
     },
     {
@@ -523,7 +643,7 @@
       "category": "tech",
       "summary": "离开了北京之后，TimCook上周四来到了位于上海市闵行区的「蓝盒子」办公室，开启了此次访华行程的上海之行。蓝盒子是一家成立于2019年的床垫及家居品牌，旗下产品以简洁并具有辨识度的设计，以及「一百天 ...<a href=\"https://sspai.com/post/116585\" target=\"_blank\">查看全文</a>",
       "published": 1792398940.0,
-      "fetched_at": "2026-10-20 09:36:11",
+      "fetched_at": "2026-10-20 17:03:18",
       "published_cn": "10-19 08:35"
     },
     {
@@ -533,7 +653,7 @@
       "category": "tech",
       "summary": "平台与伙伴并肩作战、克服困难，其中辛酸故事不为人知<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792397124.0,
-      "fetched_at": "2026-10-20 09:36:10",
+      "fetched_at": "2026-10-20 17:03:17",
       "published_cn": "10-19 08:05"
     },
     {
@@ -543,7 +663,7 @@
       "category": "tech",
       "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...<a href=\"https://sspai.com/post/116699\" target=\"_blank\">查看全文</a>",
       "published": 1792396819.0,
-      "fetched_at": "2026-10-20 09:36:11",
+      "fetched_at": "2026-10-20 17:03:18",
       "published_cn": "10-19 08:00"
     },
     {
@@ -553,7 +673,7 @@
       "category": "tech",
       "summary": "从零重写，两年从 1.0 追到 8.0。这是微信鸿蒙版，和它背后那群人的故事。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792395984.0,
-      "fetched_at": "2026-10-20 09:36:10",
+      "fetched_at": "2026-10-20 17:03:17",
       "published_cn": "10-19 07:46"
     },
     {
@@ -563,28 +683,8 @@
       "category": "world",
       "summary": "<p>Voters to be asked whether province should remain part of Canada or hold a second, binding independence vote</p><p>Albertans are going to the polls to decide their place in Canada, in a referendum that has exposed dee",
       "published": 1792386022.0,
-      "fetched_at": "2026-10-20 09:36:13",
+      "fetched_at": "2026-10-20 17:03:20",
       "published_cn": "10-19 05:00"
-    },
-    {
-      "title": "烏克蘭鋼企老闆稱：歐盟對華關稅殃及本國",
-      "url": "https://www.bbc.com/zhongwen/articles/cw0k0z264d0jo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "烏克蘭最大鋼鐵企業之一的負責人表示，在針對廉價進口產品的限制措施中，烏克蘭被「一併捆綁」納入相關管制範圍。",
-      "published": 1792384391.0,
-      "fetched_at": "2026-10-20 09:36:13",
-      "published_cn": "10-19 04:33"
-    },
-    {
-      "title": "法國各地騷亂：19世紀歷史建築被焚燬  政客表態折射分歧",
-      "url": "https://www.bbc.com/zhongwen/articles/cwvgd0z8l1p9o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "法國總統馬克龍在巴黎發生大規模騷亂和搶劫事件後發表全國演說。",
-      "published": 1792382305.0,
-      "fetched_at": "2026-10-20 09:36:13",
-      "published_cn": "10-19 03:58"
     },
     {
       "title": "尊界V800「煞車門」：從產品安全之爭到「恨國」論戰",
@@ -593,18 +693,8 @@
       "category": "world",
       "summary": "華為尊界V800煞車踏板斷裂爭議迅速升溫，從產品安全問題延伸至「速成車」質疑、中美汽車技術比較，以及民族品牌形象之爭。隨著官媒下場評議，事件進一步演變為一場輿論與產業敘事的角力。",
       "published": 1792380166.0,
-      "fetched_at": "2026-10-20 09:36:13",
+      "fetched_at": "2026-10-20 17:03:20",
       "published_cn": "10-19 03:22"
-    },
-    {
-      "title": "实测 Lovart 2.0 ，设计 AI 进入个人助理时代",
-      "url": "https://www.ifanr.com/1684840?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "你下班了，Arti 还能继续工作<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1792378395.0,
-      "fetched_at": "2026-10-20 09:36:10",
-      "published_cn": "10-19 02:53"
     },
     {
       "title": "开源掌机的文化线索",
@@ -613,38 +703,8 @@
       "category": "tech",
       "summary": "在开源掌机这个特定的产品类型背后，都有哪些故事值得讲？<a href=\"https://sspai.com/post/115125\" target=\"_blank\">查看全文</a>",
       "published": 1792378191.0,
-      "fetched_at": "2026-10-20 09:36:11",
+      "fetched_at": "2026-10-20 17:03:18",
       "published_cn": "10-19 02:49"
-    },
-    {
-      "title": "矽谷這座城市垃圾太臭居民受不了 就讓科技來幫忙",
-      "url": "https://www.bbc.com/zhongwen/articles/c5kgl32d8443o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "垃圾場和工業設施散發的氣味正受到更嚴格的監測，但這有幫助嗎？",
-      "published": 1792368493.0,
-      "fetched_at": "2026-10-20 09:36:13",
-      "published_cn": "10-19 00:08"
-    },
-    {
-      "title": "早报｜曝苹果机械臂版HomeView正在开发/蔚来三季度销量首次超BBA/英伟达否认RTX 5090停产",
-      "url": "https://www.ifanr.com/1684815?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "· 曝三星拟采用台积电 3nm 工艺，为英伟达定制 HBM\n· 智界拟取得独立造车资质，内部人士确认独立上市计划\n· Tibo 回应 Codex 用户许愿：五项建议中有两项正在做<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1792368042.0,
-      "fetched_at": "2026-10-20 09:36:10",
-      "published_cn": "10-19 00:00"
-    },
-    {
-      "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-      "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-      "source": "卫报·世界",
-      "category": "world",
-      "summary": "<p>Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’</p><p>Four people have been killed and dozens more seriously injured after a “violent, fast-movin",
-      "published": 1792367593.0,
-      "fetched_at": "2026-10-20 09:36:13",
-      "published_cn": "10-18 23:53"
     },
     {
       "title": "派早报：三季度全球手机出货量继续两位数下降",
@@ -653,28 +713,8 @@
       "category": "tech",
       "summary": "<p>三季度全球手机出货量继续两位数下降</p><p>Roadster 发布会留下诸多疑问</p><p>闰时将取代闰秒</p><p>微软声称 Windows 11 响应提速 20%，为 8GB 优化</p><p>E Ink 发布 Kaleido 4</p><p>全国铁路列车车次编排更新</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/p",
       "published": 1792365204.0,
-      "fetched_at": "2026-10-20 09:36:11",
+      "fetched_at": "2026-10-20 17:03:18",
       "published_cn": "10-18 23:13"
-    },
-    {
-      "title": "《花开锦绣》之外的真实盐政",
-      "url": "https://www.ftchinese.com/story/001111134",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "徐瑾：盐的故事关系每个人。所谓的清官救世，都是后人美好的简单化童话。真实历史是，杀不尽的贪官，改不完的小法，都比不上一套底层博弈秩序的优劣。",
-      "published": 1792339200.0,
-      "fetched_at": "2026-10-20 09:36:12",
-      "published_cn": "10-18 16:00"
-    },
-    {
-      "title": "北美瑞士：阿尔伯塔分离势力迎来投票机会",
-      "url": "https://www.ftchinese.com/story/001111140",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "围绕应不应该就脱离加拿大举行具有法律约束力的公投，该省周一举行投票。此举威胁到加总理卡尼在面对特朗普敌意的背景下团结国家的努力。",
-      "published": 1792339200.0,
-      "fetched_at": "2026-10-20 09:36:12",
-      "published_cn": "10-18 16:00"
     },
     {
       "title": "Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music",
@@ -683,51 +723,12 @@
       "category": "world",
       "summary": "<p>Style of emceeing based on high-octane, ad-libbed vocals has flourished thanks to its unique way of captivating crowds</p><p>For the 2015 freshmen cohort of the history degree programme at the University of Lagos, the",
       "published": 1792314055.0,
-      "fetched_at": "2026-10-20 09:36:13",
+      "fetched_at": "2026-10-20 17:03:20",
       "published_cn": "10-18 09:00"
-    },
-    {
-      "title": "Quote/0 妙用 +1，把墨水屏变成点餐助手",
-      "url": "https://sspai.com/post/115241",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/115241\" target=\"_blank\">查看全文</a>",
-      "published": 1792306862.0,
-      "fetched_at": "2026-10-20 09:36:11",
-      "published_cn": "10-18 07:01"
-    },
-    {
-      "title": "遊艇上的水上滑梯、泳池：衛星影像揭示的金正恩「夏宮」生活",
-      "url": "https://www.bbc.com/zhongwen/articles/cm9dzq7z7vw8o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "BBC追蹤了一艘長達80米、配有水上滑梯的船隻，旨在進一步了解金正恩如何度過假期——這對大多數朝鮮人而言，是遙不可及的體驗。",
-      "published": 1792283494.0,
-      "fetched_at": "2026-10-20 09:36:13",
-      "published_cn": "10-18 00:31"
-    },
-    {
-      "title": "被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？",
-      "url": "https://sspai.com/post/104231",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "这些设备最好的用途，不是让你更依赖它们，而是帮助你重新学会倾听自己。然后，在某个清晨，你不再需要看任何数字，就知道今天会是美好的一天。<a href=\"https://sspai.com/post/104231\" target=\"_blank\">查看全文</a>",
-      "published": 1792220284.0,
-      "fetched_at": "2026-10-20 09:36:11",
-      "published_cn": "10-17 06:58"
-    },
-    {
-      "title": "本周看什么 | 最近值得一看的 13 部作品",
-      "url": "https://sspai.com/post/116423",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "📅本周新预告《哥斯拉-0.0》终极预告10月11日，电影《哥斯拉-0.0》发布了终极预告，将于11月3日在日本上映、11月6日在北美上映。该片为首部为IMAX拍摄的日本电影，山崎贵执导、编剧，神木隆之 ...<a href=\"https://sspai.com/post/116423\" target=\"_blank\">查看全文</a>",
-      "published": 1792146067.0,
-      "fetched_at": "2026-10-20 09:36:11",
-      "published_cn": "10-16 10:21"
     }
   ],
   "feed_failures": [
-    "虎嗅: ReadTimeout HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=20)"
+    "虎嗅: ReadTimeout HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=20)",
+    "华尔街见闻: HTTPError 404 Client Error: Not Found for url: https://wallstreetcn.com/rss"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20 01:18:54",
+  "updated_at": "2026-10-20 09:36:14",
   "window_days": 7,
   "repos": [
     {
@@ -7,26 +7,17 @@
       "url": "https://github.com/Gathin23/cleanyourtv",
       "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
       "lang": "Java",
-      "stars": 4232,
-      "forks": 499,
+      "stars": 5485,
+      "forks": 659,
       "created": "2026-10-17"
-    },
-    {
-      "repo": "jhaizhou-ops/d2r-mobile",
-      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-      "desc": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps",
-      "lang": "C",
-      "stars": 4034,
-      "forks": 1121,
-      "created": "2026-10-12"
     },
     {
       "repo": "Arekejoker/qwen21-nsfw-pose-skill",
       "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
       "desc": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
       "lang": "Python",
-      "stars": 3346,
-      "forks": 607,
+      "stars": 3379,
+      "forks": 610,
       "created": "2026-10-13"
     },
     {
@@ -34,8 +25,8 @@
       "url": "https://github.com/feder-cr/git-ai",
       "desc": "Git designed for AI agents.",
       "lang": "Go",
-      "stars": 2420,
-      "forks": 266,
+      "stars": 2457,
+      "forks": 270,
       "created": "2026-10-15"
     },
     {
@@ -43,26 +34,17 @@
       "url": "https://github.com/HeyPuter/everything",
       "desc": "We're rebuilding and open-sourcing the world’s software from scratch.",
       "lang": "JavaScript",
-      "stars": 2305,
-      "forks": 326,
+      "stars": 2405,
+      "forks": 333,
       "created": "2026-10-13"
-    },
-    {
-      "repo": "deeplethe/solid-glass",
-      "url": "https://github.com/deeplethe/solid-glass",
-      "desc": "A design system for AI applications. Material, physical, tactile, technical.",
-      "lang": "TypeScript",
-      "stars": 2272,
-      "forks": 28,
-      "created": "2026-10-12"
     },
     {
       "repo": "ahwootech/BRUTAL",
       "url": "https://github.com/ahwootech/BRUTAL",
       "desc": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency ",
       "lang": "C#",
-      "stars": 1965,
-      "forks": 106,
+      "stars": 1994,
+      "forks": 110,
       "created": "2026-10-14"
     },
     {
@@ -70,17 +52,8 @@
       "url": "https://github.com/chenglou/handwired",
       "desc": "Turn your regular JavaScript code into a neural net.",
       "lang": "TypeScript",
-      "stars": 1788,
-      "forks": 147,
-      "created": "2026-10-15"
-    },
-    {
-      "repo": "Supermedo/uncharted_pc",
-      "url": "https://github.com/Supermedo/uncharted_pc",
-      "desc": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
-      "lang": "C++",
-      "stars": 1533,
-      "forks": 77,
+      "stars": 1814,
+      "forks": 151,
       "created": "2026-10-15"
     },
     {
@@ -88,89 +61,44 @@
       "url": "https://github.com/ly05010419/MacNativeGames",
       "desc": "",
       "lang": "C",
-      "stars": 1529,
-      "forks": 251,
+      "stars": 1777,
+      "forks": 282,
       "created": "2026-10-17"
+    },
+    {
+      "repo": "Supermedo/uncharted_pc",
+      "url": "https://github.com/Supermedo/uncharted_pc",
+      "desc": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+      "lang": "C++",
+      "stars": 1586,
+      "forks": 82,
+      "created": "2026-10-15"
     },
     {
       "repo": "Leonxlnx/earshot",
       "url": "https://github.com/Leonxlnx/earshot",
       "desc": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "lang": "Python",
-      "stars": 1379,
-      "forks": 77,
+      "stars": 1543,
+      "forks": 93,
       "created": "2026-10-15"
-    },
-    {
-      "repo": "rohit267/net-merge",
-      "url": "https://github.com/rohit267/net-merge",
-      "desc": "Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)",
-      "lang": "Go",
-      "stars": 1293,
-      "forks": 57,
-      "created": "2026-10-12"
     },
     {
       "repo": "Caho1/open-claude-ui",
       "url": "https://github.com/Caho1/open-claude-ui",
       "desc": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
       "lang": "TypeScript",
-      "stars": 1245,
+      "stars": 1250,
       "forks": 263,
       "created": "2026-10-14"
-    },
-    {
-      "repo": "AjncSystem/ShadowOfTheColossus-PC",
-      "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
-      "desc": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.",
-      "lang": "C++",
-      "stars": 1142,
-      "forks": 59,
-      "created": "2026-10-12"
-    },
-    {
-      "repo": "zhuyansen/new-term-radar",
-      "url": "https://github.com/zhuyansen/new-term-radar",
-      "desc": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "lang": "Python",
-      "stars": 1130,
-      "forks": 428,
-      "created": "2026-10-12"
     },
     {
       "repo": "xscreensaver-official/xscreensaver",
       "url": "https://github.com/xscreensaver-official/xscreensaver",
       "desc": "There is no official XScreenSaver GitHub repository.",
       "lang": "—",
-      "stars": 958,
-      "forks": 26,
-      "created": "2026-10-16"
-    },
-    {
-      "repo": "outcrawlai/scout",
-      "url": "https://github.com/outcrawlai/scout",
-      "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
-      "lang": "TypeScript",
-      "stars": 948,
-      "forks": 29,
-      "created": "2026-10-13"
-    },
-    {
-      "repo": "Tencent-Hunyuan/Hy-Memory",
-      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
-      "desc": "",
-      "lang": "Python",
-      "stars": 942,
-      "forks": 77,
-      "created": "2026-10-15"
-    },
-    {
-      "repo": "OpenMOSS/MOSS-Image",
-      "url": "https://github.com/OpenMOSS/MOSS-Image",
-      "desc": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
-      "lang": "Python",
-      "stars": 927,
-      "forks": 45,
+      "stars": 999,
+      "forks": 27,
       "created": "2026-10-16"
     },
     {
@@ -178,35 +106,71 @@
       "url": "https://github.com/aicodeking/leanrea",
       "desc": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
       "lang": "Python",
-      "stars": 915,
-      "forks": 141,
+      "stars": 998,
+      "forks": 152,
       "created": "2026-10-17"
     },
     {
-      "repo": "LiCinCan/blender-ai-mcp-addon",
-      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
-      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy",
+      "repo": "Tencent-Hunyuan/Hy-Memory",
+      "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
+      "desc": "",
       "lang": "Python",
-      "stars": 913,
-      "forks": 379,
+      "stars": 968,
+      "forks": 80,
       "created": "2026-10-15"
+    },
+    {
+      "repo": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "desc": "中小学数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级、531 知识点、2271 题、自适应诊断",
+      "lang": "Python",
+      "stars": 959,
+      "forks": 221,
+      "created": "2026-10-18"
+    },
+    {
+      "repo": "OpenMOSS/MOSS-Image",
+      "url": "https://github.com/OpenMOSS/MOSS-Image",
+      "desc": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+      "lang": "Python",
+      "stars": 953,
+      "forks": 45,
+      "created": "2026-10-16"
+    },
+    {
+      "repo": "outcrawlai/scout",
+      "url": "https://github.com/outcrawlai/scout",
+      "desc": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "lang": "TypeScript",
+      "stars": 951,
+      "forks": 29,
+      "created": "2026-10-13"
     },
     {
       "repo": "alchaincyf/huashu-motion",
       "url": "https://github.com/alchaincyf/huashu-motion",
       "desc": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
       "lang": "JavaScript",
-      "stars": 880,
-      "forks": 91,
+      "stars": 935,
+      "forks": 101,
       "created": "2026-10-18"
+    },
+    {
+      "repo": "LiCinCan/blender-ai-mcp-addon",
+      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy",
+      "lang": "Python",
+      "stars": 921,
+      "forks": 381,
+      "created": "2026-10-15"
     },
     {
       "repo": "MyLuxy/overdrive",
       "url": "https://github.com/MyLuxy/overdrive",
       "desc": "Overdrive, a PS5 homebrew game store with 1,800+ games.",
       "lang": "C++",
-      "stars": 870,
-      "forks": 206,
+      "stars": 912,
+      "forks": 213,
       "created": "2026-10-14"
     },
     {
@@ -219,39 +183,21 @@
       "created": "2026-10-13"
     },
     {
-      "repo": "xiaoyang111222/cn-math-taxonomy",
-      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "desc": "中小学数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级、531 知识点、2271 题、自适应诊断",
+      "repo": "MaryCache/imozuru",
+      "url": "https://github.com/MaryCache/imozuru",
+      "desc": "知らない分野を、原文にたどりつくまで芋づる式に掘る Claude Code のスキル",
       "lang": "Python",
-      "stars": 805,
-      "forks": 189,
-      "created": "2026-10-18"
+      "stars": 807,
+      "forks": 33,
+      "created": "2026-10-13"
     },
     {
       "repo": "Zfinix/eleven",
       "url": "https://github.com/Zfinix/eleven",
       "desc": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
       "lang": "TypeScript",
-      "stars": 788,
+      "stars": 797,
       "forks": 122,
-      "created": "2026-10-13"
-    },
-    {
-      "repo": "Noniv/web-ocean",
-      "url": "https://github.com/Noniv/web-ocean",
-      "desc": "Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whitecaps, sun glitter, physically based sunset sky with clouds, free camera. Built with Claude Code (Opus 5.5). Opens from ",
-      "lang": "HTML",
-      "stars": 743,
-      "forks": 114,
-      "created": "2026-10-16"
-    },
-    {
-      "repo": "MaryCache/imozuru",
-      "url": "https://github.com/MaryCache/imozuru",
-      "desc": "知らない分野を、原文にたどりつくまで芋づる式に掘る Claude Code のスキル",
-      "lang": "Python",
-      "stars": 739,
-      "forks": 31,
       "created": "2026-10-13"
     },
     {
@@ -259,18 +205,72 @@
       "url": "https://github.com/seedds/nxnative",
       "desc": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
       "lang": "C",
-      "stars": 729,
-      "forks": 157,
+      "stars": 781,
+      "forks": 167,
       "created": "2026-10-13"
     },
     {
-      "repo": "threerocks/sweety-handdraw-video",
-      "url": "https://github.com/threerocks/sweety-handdraw-video",
-      "desc": "从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。",
+      "repo": "Noniv/web-ocean",
+      "url": "https://github.com/Noniv/web-ocean",
+      "desc": "Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whitecaps, sun glitter, physically based sunset sky with clouds, free camera. Built with Claude Code (Opus 5.5). Opens from ",
+      "lang": "HTML",
+      "stars": 769,
+      "forks": 116,
+      "created": "2026-10-16"
+    },
+    {
+      "repo": "datalab-to/indra",
+      "url": "https://github.com/datalab-to/indra",
+      "desc": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+      "lang": "Python",
+      "stars": 685,
+      "forks": 61,
+      "created": "2026-10-13"
+    },
+    {
+      "repo": "0xProbabillity/house-control",
+      "url": "https://github.com/0xProbabillity/house-control",
+      "desc": "Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs via Smart Life, Home Assistant, Philips Hue and Apple Home.",
+      "lang": "Swift",
+      "stars": 662,
+      "forks": 95,
+      "created": "2026-10-14"
+    },
+    {
+      "repo": "HayatoG/iss_pc",
+      "url": "https://github.com/HayatoG/iss_pc",
+      "desc": "Native PC port (Linux/Windows) of inFAMOUS Second Son (PS4, CUSA00223) — in development, playable; runs your own game dump; no game or firmware files included. Motion sensor emulation. | Port nativo p",
+      "lang": "C++",
+      "stars": 658,
+      "forks": 45,
+      "created": "2026-10-13"
+    },
+    {
+      "repo": "solana-classic/solana-classic",
+      "url": "https://github.com/solana-classic/solana-classic",
+      "desc": "Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, memes and their communities. Experimental testnet live.",
+      "lang": "Rust",
+      "stars": 593,
+      "forks": 57,
+      "created": "2026-10-13"
+    },
+    {
+      "repo": "cranebeaker/coop-anything",
+      "url": "https://github.com/cranebeaker/coop-anything",
+      "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what",
+      "lang": "C",
+      "stars": 591,
+      "forks": 57,
+      "created": "2026-10-16"
+    },
+    {
+      "repo": "humblemuzzu/dumbtv",
+      "url": "https://github.com/humblemuzzu/dumbtv",
+      "desc": "",
       "lang": "JavaScript",
-      "stars": 717,
-      "forks": 136,
-      "created": "2026-10-12"
+      "stars": 575,
+      "forks": 47,
+      "created": "2026-10-18"
     }
   ],
   "note": ""

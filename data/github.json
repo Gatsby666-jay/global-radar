@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21 17:02:38",
+  "updated_at": "2026-10-21 23:48:55",
   "window_days": 7,
   "repos": [
     {
@@ -7,8 +7,8 @@
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "desc": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
       "lang": "Python",
-      "stars": 16051,
-      "forks": 1588,
+      "stars": 17272,
+      "forks": 1750,
       "created": "2026-10-16"
     },
     {
@@ -16,8 +16,8 @@
       "url": "https://github.com/Gathin23/cleanyourtv",
       "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
       "lang": "Java",
-      "stars": 14675,
-      "forks": 1626,
+      "stars": 17175,
+      "forks": 1881,
       "created": "2026-10-17"
     },
     {
@@ -25,8 +25,8 @@
       "url": "https://github.com/ly05010419/MacNativeGames",
       "desc": "",
       "lang": "C",
-      "stars": 3230,
-      "forks": 464,
+      "stars": 3593,
+      "forks": 511,
       "created": "2026-10-17"
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/simbasjungles/free-my-tv",
       "desc": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
       "lang": "Java",
-      "stars": 2161,
-      "forks": 222,
+      "stars": 2379,
+      "forks": 269,
       "created": "2026-10-19"
     },
     {
@@ -43,8 +43,8 @@
       "url": "https://github.com/ahwootech/BRUTAL",
       "desc": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency ",
       "lang": "C#",
-      "stars": 2085,
-      "forks": 116,
+      "stars": 2104,
+      "forks": 118,
       "created": "2026-10-14"
     },
     {
@@ -52,53 +52,44 @@
       "url": "https://github.com/Leonxlnx/earshot",
       "desc": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "lang": "Python",
-      "stars": 2013,
-      "forks": 115,
-      "created": "2026-10-15"
-    },
-    {
-      "repo": "chenglou/handwired",
-      "url": "https://github.com/chenglou/handwired",
-      "desc": "Turn your regular JavaScript code into a neural net.",
-      "lang": "TypeScript",
-      "stars": 1863,
-      "forks": 155,
+      "stars": 2039,
+      "forks": 116,
       "created": "2026-10-15"
     },
     {
       "repo": "xiaoyang111222/cn-math-taxonomy",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "desc": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中），课标对齐、人教版，1244 知识点、5123 题、自适应诊断",
+      "desc": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
       "lang": "Python",
-      "stars": 1802,
-      "forks": 401,
+      "stars": 1918,
+      "forks": 432,
       "created": "2026-10-18"
-    },
-    {
-      "repo": "Supermedo/uncharted_pc",
-      "url": "https://github.com/Supermedo/uncharted_pc",
-      "desc": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
-      "lang": "C++",
-      "stars": 1742,
-      "forks": 94,
-      "created": "2026-10-15"
     },
     {
       "repo": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
       "desc": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
       "lang": "Kotlin",
-      "stars": 1477,
-      "forks": 92,
+      "stars": 1908,
+      "forks": 132,
       "created": "2026-10-20"
     },
     {
-      "repo": "feder-cr/git-ai",
-      "url": "https://github.com/feder-cr/git-ai",
-      "desc": "Git designed for AI agents.",
-      "lang": "Go",
-      "stars": 1308,
-      "forks": 128,
+      "repo": "chenglou/handwired",
+      "url": "https://github.com/chenglou/handwired",
+      "desc": "Turn your regular JavaScript code into a neural net.",
+      "lang": "TypeScript",
+      "stars": 1866,
+      "forks": 155,
+      "created": "2026-10-15"
+    },
+    {
+      "repo": "Supermedo/uncharted_pc",
+      "url": "https://github.com/Supermedo/uncharted_pc",
+      "desc": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+      "lang": "C++",
+      "stars": 1760,
+      "forks": 96,
       "created": "2026-10-15"
     },
     {
@@ -106,52 +97,52 @@
       "url": "https://github.com/Caho1/open-claude-ui",
       "desc": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
       "lang": "TypeScript",
-      "stars": 1296,
+      "stars": 1307,
       "forks": 267,
       "created": "2026-10-14"
-    },
-    {
-      "repo": "aicodeking/leanrea",
-      "url": "https://github.com/aicodeking/leanrea",
-      "desc": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "lang": "Python",
-      "stars": 1218,
-      "forks": 183,
-      "created": "2026-10-17"
-    },
-    {
-      "repo": "alchaincyf/huashu-motion",
-      "url": "https://github.com/alchaincyf/huashu-motion",
-      "desc": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
-      "lang": "JavaScript",
-      "stars": 1207,
-      "forks": 121,
-      "created": "2026-10-18"
-    },
-    {
-      "repo": "OpenMOSS/MOSS-Image",
-      "url": "https://github.com/OpenMOSS/MOSS-Image",
-      "desc": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
-      "lang": "Python",
-      "stars": 1206,
-      "forks": 58,
-      "created": "2026-10-16"
     },
     {
       "repo": "JoasASantos/REA-Prompts",
       "url": "https://github.com/JoasASantos/REA-Prompts",
       "desc": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
       "lang": "—",
-      "stars": 1171,
-      "forks": 173,
+      "stars": 1273,
+      "forks": 192,
       "created": "2026-10-19"
+    },
+    {
+      "repo": "aicodeking/leanrea",
+      "url": "https://github.com/aicodeking/leanrea",
+      "desc": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "lang": "Python",
+      "stars": 1252,
+      "forks": 190,
+      "created": "2026-10-17"
+    },
+    {
+      "repo": "OpenMOSS/MOSS-Image",
+      "url": "https://github.com/OpenMOSS/MOSS-Image",
+      "desc": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+      "lang": "Python",
+      "stars": 1249,
+      "forks": 62,
+      "created": "2026-10-16"
+    },
+    {
+      "repo": "alchaincyf/huashu-motion",
+      "url": "https://github.com/alchaincyf/huashu-motion",
+      "desc": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+      "lang": "JavaScript",
+      "stars": 1248,
+      "forks": 124,
+      "created": "2026-10-18"
     },
     {
       "repo": "xscreensaver-official/xscreensaver",
       "url": "https://github.com/xscreensaver-official/xscreensaver",
       "desc": "There is no official XScreenSaver GitHub repository.",
       "lang": "—",
-      "stars": 1112,
+      "stars": 1121,
       "forks": 32,
       "created": "2026-10-16"
     },
@@ -160,8 +151,8 @@
       "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
       "desc": "",
       "lang": "Python",
-      "stars": 1105,
-      "forks": 93,
+      "stars": 1116,
+      "forks": 96,
       "created": "2026-10-15"
     },
     {
@@ -169,8 +160,8 @@
       "url": "https://github.com/humblemuzzu/dumbtv",
       "desc": "",
       "lang": "JavaScript",
-      "stars": 1061,
-      "forks": 92,
+      "stars": 1107,
+      "forks": 96,
       "created": "2026-10-18"
     },
     {
@@ -178,8 +169,8 @@
       "url": "https://github.com/Ansub/tv-detox",
       "desc": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
       "lang": "Java",
-      "stars": 1029,
-      "forks": 103,
+      "stars": 1098,
+      "forks": 112,
       "created": "2026-10-18"
     },
     {
@@ -187,8 +178,8 @@
       "url": "https://github.com/MyLuxy/overdrive",
       "desc": "Overdrive, a PS5 homebrew game store with 1,800+ games.",
       "lang": "C++",
-      "stars": 1004,
-      "forks": 230,
+      "stars": 1082,
+      "forks": 252,
       "created": "2026-10-14"
     },
     {
@@ -196,26 +187,26 @@
       "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
       "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy",
       "lang": "Python",
-      "stars": 953,
-      "forks": 387,
+      "stars": 965,
+      "forks": 389,
       "created": "2026-10-15"
     },
     {
-      "repo": "Noniv/web-ocean",
-      "url": "https://github.com/Noniv/web-ocean",
-      "desc": "Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whitecaps, sun glitter, physically based sunset sky with clouds, free camera. Built with Claude Code (Opus 5.5). Opens from ",
-      "lang": "HTML",
-      "stars": 817,
-      "forks": 127,
-      "created": "2026-10-16"
+      "repo": "feder-cr/git-ai",
+      "url": "https://github.com/feder-cr/git-ai",
+      "desc": "Git designed for AI agents.",
+      "lang": "Go",
+      "stars": 903,
+      "forks": 83,
+      "created": "2026-10-15"
     },
     {
       "repo": "reason-machines/reason-network",
       "url": "https://github.com/reason-machines/reason-network",
       "desc": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
       "lang": "Rust",
-      "stars": 804,
-      "forks": 59,
+      "stars": 874,
+      "forks": 67,
       "created": "2026-10-16"
     },
     {
@@ -223,54 +214,63 @@
       "url": "https://github.com/dipa-studio/ios-sweet",
       "desc": "iOS 16 userland + XNU on Redmi Note 10 Pro (sweet, SM7150)",
       "lang": "Python",
-      "stars": 760,
-      "forks": 333,
+      "stars": 823,
+      "forks": 366,
       "created": "2026-10-14"
+    },
+    {
+      "repo": "Noniv/web-ocean",
+      "url": "https://github.com/Noniv/web-ocean",
+      "desc": "Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whitecaps, sun glitter, physically based sunset sky with clouds, free camera. Built with Claude Code (Opus 5.5). Opens from ",
+      "lang": "HTML",
+      "stars": 822,
+      "forks": 130,
+      "created": "2026-10-16"
     },
     {
       "repo": "cranebeaker/coop-anything",
       "url": "https://github.com/cranebeaker/coop-anything",
       "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what",
       "lang": "Python",
-      "stars": 735,
-      "forks": 91,
+      "stars": 766,
+      "forks": 93,
       "created": "2026-10-16"
-    },
-    {
-      "repo": "mistralai/timestral",
-      "url": "https://github.com/mistralai/timestral",
-      "desc": "Repository for Timestral, the time-series foundation model by Mistral AI",
-      "lang": "Python",
-      "stars": 688,
-      "forks": 52,
-      "created": "2026-10-15"
-    },
-    {
-      "repo": "0xProbabillity/house-control",
-      "url": "https://github.com/0xProbabillity/house-control",
-      "desc": "Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs via Smart Life, Home Assistant, Philips Hue and Apple Home.",
-      "lang": "Swift",
-      "stars": 686,
-      "forks": 100,
-      "created": "2026-10-14"
     },
     {
       "repo": "zcbacxc/mcd-party-planner",
       "url": "https://github.com/zcbacxc/mcd-party-planner",
       "desc": "麦当劳 MCP 聚会/团餐组织助手 — 基于 Model Context Protocol 的派对预订与团餐规划 CLI/Skill",
       "lang": "Python",
-      "stars": 675,
-      "forks": 36,
+      "stars": 724,
+      "forks": 38,
       "created": "2026-10-15"
     },
     {
-      "repo": "ELY-Open-Source/ElyOffice",
-      "url": "https://github.com/ELY-Open-Source/ElyOffice",
-      "desc": "Ely Office: offline-first desktop apps in Rust and GPUI",
-      "lang": "Rust",
-      "stars": 668,
-      "forks": 42,
-      "created": "2026-10-19"
+      "repo": "YOURSJEYO/claude-switcher",
+      "url": "https://github.com/YOURSJEYO/claude-switcher",
+      "desc": "Fail-Closed 账号环境管理器:11项环境指纹审计(Block-on-Fail)、手写STUN协议栈的WebRTC泄漏探针、Kill-Switch断网急停、多账号快照隔离、配置漂移自愈 —— 让真实IP在物理上无法泄漏",
+      "lang": "Shell",
+      "stars": 710,
+      "forks": 66,
+      "created": "2026-10-14"
+    },
+    {
+      "repo": "ctresb/leis",
+      "url": "https://github.com/ctresb/leis",
+      "desc": "Todas as leis do Brasil",
+      "lang": "—",
+      "stars": 707,
+      "forks": 98,
+      "created": "2026-10-15"
+    },
+    {
+      "repo": "mistralai/timestral",
+      "url": "https://github.com/mistralai/timestral",
+      "desc": "Repository for Timestral, the time-series foundation model by Mistral AI",
+      "lang": "Python",
+      "stars": 706,
+      "forks": 53,
+      "created": "2026-10-15"
     }
   ],
   "note": ""

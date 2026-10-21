@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-21 09:18:15",
+  "updated_at": "2026-10-21 17:02:37",
   "categories": [
     "tech",
     "finance",
@@ -7,24 +7,144 @@
   ],
   "items": [
     {
-      "title": "Elice's huge stock swings show AI's spending boom is getting more investor scrutiny",
-      "url": "https://www.cnbc.com/2026/10/21/ai-boom-spending-profit.html",
+      "title": "Treasury yields steady as investors await jobless claims, mortgage data",
+      "url": "https://www.cnbc.com/2026/10/21/bonds-us-treasurys-yields.html",
       "source": "CNBC",
       "category": "finance",
-      "summary": "The AI boom is entering a more unforgiving phase, as investors question whether the billions poured into data centers will translate into sustainable profits.",
-      "published": 1792544556.0,
-      "fetched_at": "2026-10-21 09:18:15",
-      "published_cn": "10-21 01:02"
+      "summary": "Treasury yields steadied as investors await more data for insights into the U.S. economic picture.",
+      "published": 1792573053.0,
+      "fetched_at": "2026-10-21 17:02:36",
+      "published_cn": "10-21 08:57"
     },
     {
-      "title": "Japan exports post huge miss in September as growth slows to 16.7%",
-      "url": "https://www.cnbc.com/2026/10/21/japan-trade-exports-semiconductor-yen.html",
+      "title": "'MAKE DEALS': Trump says data centers should pay communities a 'dividend' to win support",
+      "url": "https://www.cnbc.com/2026/10/21/trump-data-centers-community-dividend.html",
       "source": "CNBC",
       "category": "finance",
-      "summary": "Japan's imports grew 18.9%, also missing expectations of 19.6% from Reuters.",
-      "published": 1792543456.0,
-      "fetched_at": "2026-10-21 09:18:15",
-      "published_cn": "10-21 00:44"
+      "summary": "Trump says data centers should consider community \"dividends\" as AI financing worries grow.",
+      "published": 1792572833.0,
+      "fetched_at": "2026-10-21 17:02:36",
+      "published_cn": "10-21 08:53"
+    },
+    {
+      "title": "SpaceX up 10% in premarket after earnings beat and Musk hints at Tesla tie-up",
+      "url": "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.",
+      "published": 1792572753.0,
+      "fetched_at": "2026-10-21 17:02:36",
+      "published_cn": "10-21 08:52"
+    },
+    {
+      "title": "Oil prices climb as traders assess Middle East developments",
+      "url": "https://www.cnbc.com/2026/10/21/oil-price-today-wti-brent-rise-on-middle-east-worries.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Iran's Revolutionary Guards said Tuesday that naval mines had prevented three tankers attempting to pass through the Strait of Hormuz.",
+      "published": 1792569299.0,
+      "fetched_at": "2026-10-21 17:02:36",
+      "published_cn": "10-21 07:54"
+    },
+    {
+      "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+      "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
+      "published": 1792569010.0,
+      "fetched_at": "2026-10-21 17:02:36",
+      "published_cn": "10-21 07:50"
+    },
+    {
+      "title": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it",
+      "url": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Warnings about the risks of developing increasingly advanced AI systems have ramped up in recent months, amid cyberattacks from rogue AI models.",
+      "published": 1792568988.0,
+      "fetched_at": "2026-10-21 17:02:36",
+      "published_cn": "10-21 07:49"
+    },
+    {
+      "title": "App+1｜Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用",
+      "url": "https://sspai.com/post/116445",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。<a href=\"https://sspai.com/post/116445\" target=\"_blank\">查看全文</a>",
+      "published": 1792566000.0,
+      "fetched_at": "2026-10-21 17:02:35",
+      "published_cn": "10-21 07:00"
+    },
+    {
+      "title": "小米神秘新车曝光！SU9 LUX 进军行政轿车市场，还会有一台 SU7 LUX？",
+      "url": "https://www.ifanr.com/1685049?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "小米汽车的新尝试。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1792565792.0,
+      "fetched_at": "2026-10-21 17:02:34",
+      "published_cn": "10-21 06:56"
+    },
+    {
+      "title": "康奈爾大學 Jane Doe 稱，校長質疑她遭多人輪姦的指控",
+      "url": "https://www.bbc.com/zhongwen/articles/cw0k0n6x4k4eo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "在不信任投票即將到來之際，康奈爾表示，Jane Doe 對校長反應的描述是「不正確的」。",
+      "published": 1792559238.0,
+      "fetched_at": "2026-10-21 17:02:37",
+      "published_cn": "10-21 05:07"
+    },
+    {
+      "title": "U.S. eyes refining muscle of Indian billionaire Ambani's Reliance as Rubio visits Jamnagar plant",
+      "url": "https://www.cnbc.com/2026/10/21/rubio-reliance-venezuela-oil-diesel.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Rubio said the \"extraordinary\" refining capacity of Reliance could help India diversify its energy supplies, hinting at greater offtake of Venezuelan crude.",
+      "published": 1792558063.0,
+      "fetched_at": "2026-10-21 17:02:36",
+      "published_cn": "10-21 04:47"
+    },
+    {
+      "title": "当回音壁学会了「通吃」｜Sonos Beam Ultra 体验",
+      "url": "https://www.ifanr.com/1685014?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "从被动的「电视伴音工具」，真正演进为客厅的「全场景声音中枢」。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1792554642.0,
+      "fetched_at": "2026-10-21 17:02:34",
+      "published_cn": "10-21 03:50"
+    },
+    {
+      "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？",
+      "url": "https://sspai.com/post/115107",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "电脑与平板之间的界限，早在 20 年前的三星 Q1 上就已经可以随意切换了。<a href=\"https://sspai.com/post/115107\" target=\"_blank\">查看全文</a>",
+      "published": 1792549401.0,
+      "fetched_at": "2026-10-21 17:02:35",
+      "published_cn": "10-21 02:23"
+    },
+    {
+      "title": "PHP warns it plans to release 2 emergency patches imminently",
+      "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+      "published": 1792548738.0,
+      "fetched_at": "2026-10-21 17:02:35",
+      "published_cn": "10-21 02:12"
+    },
+    {
+      "title": "三十而立，奇瑞不想只做一家汽车公司",
+      "url": "https://www.ifanr.com/1685107?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "奇瑞想做一家创新技术企业。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1792546271.0,
+      "fetched_at": "2026-10-21 17:02:34",
+      "published_cn": "10-21 01:31"
     },
     {
       "title": "早报｜小天才回应封闭社交争议/车灯新规拟禁止显示文字/马斯克回应SpaceX与特斯拉合并",
@@ -33,7 +153,7 @@
       "category": "tech",
       "summary": "· 车灯国标征求意见：拟限 L3 及以上车辆安装 ADS 标志灯\n· Anthropic 上半年亏损超 800 亿美元，大部分来自融资工具会计计提\n· 9 月 BBA 主力车型无一零售破万<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792542111.0,
-      "fetched_at": "2026-10-21 09:18:12",
+      "fetched_at": "2026-10-21 17:02:34",
       "published_cn": "10-21 00:21"
     },
     {
@@ -43,17 +163,7 @@
       "category": "world",
       "summary": "根據英國國家統計局（ONS）數據，目前有超過100萬名電子煙使用者過去從未吸煙。",
       "published": 1792541853.0,
-      "fetched_at": "2026-10-21 09:18:15",
-      "published_cn": "10-21 00:17"
-    },
-    {
-      "title": "在實體商店購物很令我心煩——為什麼我只在網上購物",
-      "url": "https://www.bbc.com/zhongwen/articles/c63elnjkg03jo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "英國服飾零售巨頭Primark首次將推出宅配服務，以應對Shein等超快時尚競爭。網上零售佔比持續上升，專家稱退貨政策成關鍵。",
-      "published": 1792541849.0,
-      "fetched_at": "2026-10-21 09:18:15",
+      "fetched_at": "2026-10-21 17:02:37",
       "published_cn": "10-21 00:17"
     },
     {
@@ -63,7 +173,7 @@
       "category": "world",
       "summary": "<p>Case in Africa’s most populous country was detected in a woman who had travelled from Uganda</p><p>Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for t",
       "published": 1792541695.0,
-      "fetched_at": "2026-10-21 09:18:15",
+      "fetched_at": "2026-10-21 17:02:37",
       "published_cn": "10-21 00:14"
     },
     {
@@ -73,7 +183,7 @@
       "category": "tech",
       "summary": "工信部就自动泊车等五项强制性国标征求意见，万事达卡 Apple Pay 新增 3 家合作银行等。<a href=\"https://sspai.com/post/116887\" target=\"_blank\">查看全文</a>",
       "published": 1792541227.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-21 00:07"
     },
     {
@@ -83,18 +193,18 @@
       "category": "tech",
       "summary": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and",
       "published": 1792540856.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-21 00:00"
     },
     {
-      "title": "Capital One's strong quarter and progressing Discover integration are rewarded on Wall Street",
-      "url": "https://www.cnbc.com/investingclub/2026/10/20/capital-one-strong-quarter-and-progressing-discover-integration-are-rewarded.html",
+      "title": "Elon Musk ordered Starlink slowdown for Ukraine: Report",
+      "url": "https://www.cnbc.com/2026/10/20/trump-musk-starlink-ukraine-zelenskyy.html",
       "source": "CNBC",
       "category": "finance",
-      "summary": "Stronger net interest income and credit performance were the stars of the bank's earnings.",
-      "published": 1792539254.0,
-      "fetched_at": "2026-10-21 09:18:15",
-      "published_cn": "10-20 23:34"
+      "summary": "Musk and President Donald Trump have both recently criticized Ukrainian President Volodymyr Zelenskyy, who has also flagged disruptions in U.S. intel sharing.",
+      "published": 1792537616.0,
+      "fetched_at": "2026-10-21 17:02:36",
+      "published_cn": "10-20 23:06"
     },
     {
       "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
@@ -103,7 +213,7 @@
       "category": "tech",
       "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by ",
       "published": 1792537459.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 23:04"
     },
     {
@@ -111,9 +221,9 @@
       "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
       "source": "TechCrunch",
       "category": "tech",
-      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
       "published": 1792537283.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 23:01"
     },
     {
@@ -123,27 +233,17 @@
       "category": "tech",
       "summary": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
       "published": 1792537077.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 22:57"
-    },
-    {
-      "title": "Netflix posts third-quarter earnings beat, but shares fall on advertising and revenue guidance",
-      "url": "https://www.cnbc.com/2026/10/20/netflix-nflx-earnings-q3-2026.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Wall Street and investors will be looking for Netflix to provide additional details about the company's strategy following recent organizational changes",
-      "published": 1792535385.0,
-      "fetched_at": "2026-10-21 09:18:15",
-      "published_cn": "10-20 22:29"
     },
     {
       "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
       "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
       "source": "TechCrunch",
       "category": "tech",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
       "published": 1792535042.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 22:24"
     },
     {
@@ -153,7 +253,7 @@
       "category": "tech",
       "summary": "Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to report fr",
       "published": 1792534811.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 22:20"
     },
     {
@@ -163,7 +263,7 @@
       "category": "tech",
       "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps,",
       "published": 1792534294.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 22:11"
     },
     {
@@ -173,18 +273,8 @@
       "category": "tech",
       "summary": "\"I do think there's a lot of merit to combining the companies.\"",
       "published": 1792533894.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 22:04"
-    },
-    {
-      "title": "Boeing wins FAA approval for 737 Max 10 after years of delays as Duffy says certification process should be faster",
-      "url": "https://www.cnbc.com/2026/10/20/boeing-737-max-10-certification.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "The 737 Max 10, the largest model in the family, was set to start flying in 2020, but increased scrutiny and other safety issues delayed its certification.",
-      "published": 1792533671.0,
-      "fetched_at": "2026-10-21 09:18:15",
-      "published_cn": "10-20 22:01"
     },
     {
       "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
@@ -193,7 +283,7 @@
       "category": "tech",
       "summary": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.",
       "published": 1792532674.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 21:44"
     },
     {
@@ -203,7 +293,7 @@
       "category": "tech",
       "summary": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees",
       "published": 1792531824.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 21:30"
     },
     {
@@ -213,7 +303,7 @@
       "category": "tech",
       "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
       "published": 1792531522.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 21:25"
     },
     {
@@ -223,7 +313,7 @@
       "category": "tech",
       "summary": "Xbox maker is also apparently planning its own gaming handheld for next year.",
       "published": 1792530873.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 21:14"
     },
     {
@@ -233,7 +323,7 @@
       "category": "tech",
       "summary": "SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the attempt wou",
       "published": 1792530173.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 21:02"
     },
     {
@@ -243,7 +333,7 @@
       "category": "tech",
       "summary": "Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday, Netflix lists improvements to monetization as one of its main focuses going for",
       "published": 1792529527.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 20:52"
     },
     {
@@ -251,9 +341,9 @@
       "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
       "source": "TechCrunch",
       "category": "tech",
-      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
       "published": 1792528841.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 20:40"
     },
     {
@@ -263,7 +353,7 @@
       "category": "tech",
       "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments a",
       "published": 1792528510.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 20:35"
     },
     {
@@ -273,18 +363,8 @@
       "category": "tech",
       "summary": "Snap has a new brand ambassador for its Specs AR glasses: Iron Man actor Robert Downey Jr. The company has brought on Downey as Specs' \"Chief Customer Experience Officer\" and has published several videos featuring Downey",
       "published": 1792528329.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 20:32"
-    },
-    {
-      "title": "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
-      "url": "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "United Airlines cut its profit outlook for the year as fuel prices continued to climb.",
-      "published": 1792527838.0,
-      "fetched_at": "2026-10-21 09:18:15",
-      "published_cn": "10-20 20:23"
     },
     {
       "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
@@ -293,7 +373,7 @@
       "category": "tech",
       "summary": "A lifetime ad-free subscription is available.",
       "published": 1792527612.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 20:20"
     },
     {
@@ -303,7 +383,7 @@
       "category": "tech",
       "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
       "published": 1792526878.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 20:07"
     },
     {
@@ -313,7 +393,7 @@
       "category": "tech",
       "summary": "It's probably time to audit your Gemini settings.",
       "published": 1792526433.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 20:00"
     },
     {
@@ -323,7 +403,7 @@
       "category": "tech",
       "summary": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses wh",
       "published": 1792526400.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 20:00"
     },
     {
@@ -333,38 +413,18 @@
       "category": "tech",
       "summary": "OpenBSD 8.0 lands with Intel Arc support, ARM64 hibernation, and 64-vCPU guests",
       "published": 1792526238.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 19:57"
     },
     {
-      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
-      "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
-      "published": 1792525655.0,
-      "fetched_at": "2026-10-21 09:18:14",
-      "published_cn": "10-20 19:47"
-    },
-    {
-      "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+      "title": "GM to close Detroit battery-assembly plant, but not for reasons you might think",
       "url": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
       "source": "TechCrunch",
       "category": "tech",
       "summary": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
       "published": 1792524763.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 19:32"
-    },
-    {
-      "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-      "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Housing data deteriorated further in September, according to separate reports Tuesday.",
-      "published": 1792524523.0,
-      "fetched_at": "2026-10-21 09:18:15",
-      "published_cn": "10-20 19:28"
     },
     {
       "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
@@ -373,7 +433,7 @@
       "category": "world",
       "summary": "<p>Police seize doses of hepatitis B vaccine from people at center of dispute over research on African newborns</p><p>Controversial vaccine researchers who have been praised by Robert F Kennedy Jr, the US Department of H",
       "published": 1792523883.0,
-      "fetched_at": "2026-10-21 09:18:15",
+      "fetched_at": "2026-10-21 17:02:37",
       "published_cn": "10-20 19:18"
     },
     {
@@ -383,7 +443,7 @@
       "category": "world",
       "summary": "<p>Result is a victory for prime minister Mark Carney and supporters of Canadian unity</p><p>Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive ",
       "published": 1792513445.0,
-      "fetched_at": "2026-10-21 09:18:15",
+      "fetched_at": "2026-10-21 17:02:37",
       "published_cn": "10-20 16:24"
     },
     {
@@ -393,8 +453,48 @@
       "category": "world",
       "summary": "<p>Mitchell Fairbarn found guilty of animal cruelty after prosecutors say he hurt and frightened the 27-year-old bird</p><p>A Canadian man was convicted of animal cruelty charges on Monday for snatching a flamingo named ",
       "published": 1792512681.0,
-      "fetched_at": "2026-10-21 09:18:15",
+      "fetched_at": "2026-10-21 17:02:37",
       "published_cn": "10-20 16:11"
+    },
+    {
+      "title": "乐信跌入“仙股”区间 折射中国网贷业流动性收紧",
+      "url": "https://www.ftchinese.com/story/001111165",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "网络借贷撮合平台乐信的美国存托股连续30个交易日低于1美元，面临可能被退市的风险。",
+      "published": 1792512000.0,
+      "fetched_at": "2026-10-21 17:02:36",
+      "published_cn": "10-20 16:00"
+    },
+    {
+      "title": "法国：骚乱与挑战",
+      "url": "https://www.ftchinese.com/story/001111160",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "张伦：法国当下的抗议还没有终结，只要是和平，遵照法律的，也都属正常范围，但长远讲，法国根本的出路在于改革，走向新生。",
+      "published": 1792512000.0,
+      "fetched_at": "2026-10-21 17:02:36",
+      "published_cn": "10-20 16:00"
+    },
+    {
+      "title": "台北市长选战：“洋流”成型、溢出却难以翻转",
+      "url": "https://www.ftchinese.com/story/001111161",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "叶胜舟：沈伯洋今年击败蒋万安的概率很小，但四年后如再次竞选台北市长，国民党派出任何人应战都很困苦，更大的危机和悬念留待四年后揭晓。",
+      "published": 1792512000.0,
+      "fetched_at": "2026-10-21 17:02:36",
+      "published_cn": "10-20 16:00"
+    },
+    {
+      "title": "普京在美国的朋友",
+      "url": "https://www.ftchinese.com/story/001111159",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "卢斯：大多数美国人不赞成俄罗斯发动的战争，但无论是MAGA阵营，还是过去所称的“坦克左派”，都有人为特朗普的亲俄倾向喝彩。",
+      "published": 1792512000.0,
+      "fetched_at": "2026-10-21 17:02:36",
+      "published_cn": "10-20 16:00"
     },
     {
       "title": "Lex专栏：零售银行再度进军国际市场",
@@ -403,7 +503,7 @@
       "category": "finance",
       "summary": "就在汇丰剥离非核心业务的同时，摩根大通和劳埃德等老牌银行以及新兴数字银行纷纷利用现代科技平台进军海外市场，以此实现增长。",
       "published": 1792512000.0,
-      "fetched_at": "2026-10-21 09:18:15",
+      "fetched_at": "2026-10-21 17:02:36",
       "published_cn": "10-20 16:00"
     },
     {
@@ -413,7 +513,7 @@
       "category": "finance",
       "summary": "晨星分析师称，上周末法国发生的暴力骚乱使保险公司面临高达12亿欧元的损失，超过2023年持续一周多的骚乱造成的逾7亿欧元损失。",
       "published": 1792512000.0,
-      "fetched_at": "2026-10-21 09:18:15",
+      "fetched_at": "2026-10-21 17:02:36",
       "published_cn": "10-20 16:00"
     },
     {
@@ -423,7 +523,7 @@
       "category": "finance",
       "summary": "刘远举：西湖大学与其他学校的考核本质上是相同的。只不过，西湖大学是等级制度下皇冠上的明珠，所以在外在形式上差别极大。",
       "published": 1792512000.0,
-      "fetched_at": "2026-10-21 09:18:15",
+      "fetched_at": "2026-10-21 17:02:36",
       "published_cn": "10-20 16:00"
     },
     {
@@ -433,47 +533,7 @@
       "category": "finance",
       "summary": "周浩：美国房地产市场正进入一个颇具迷惑性的阶段：交易冷清让市场感受到了类衰退的寒意，但房价却一直保持坚挺。如此低迷的成交为何仍未撼动房价？",
       "published": 1792512000.0,
-      "fetched_at": "2026-10-21 09:18:15",
-      "published_cn": "10-20 16:00"
-    },
-    {
-      "title": "债务“叠罗汉”",
-      "url": "https://www.ftchinese.com/story/001111146",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "周子衡：全球政府债务总量超过100万亿美元，法国债务/GDP比率攀升。这非孤立的市场波动，而是债务积累、货币政策失效与社会成本上升相互强化的结果。",
-      "published": 1792512000.0,
-      "fetched_at": "2026-10-21 09:18:15",
-      "published_cn": "10-20 16:00"
-    },
-    {
-      "title": "AI时代董秘的角色",
-      "url": "https://www.ftchinese.com/story/001111147",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "郑志刚：随着在AI时代“看清过去”和“监督过去”变得容易，相对更难的“看见未来”和“判断未来”成为董事会新的工作重心。",
-      "published": 1792512000.0,
-      "fetched_at": "2026-10-21 09:18:15",
-      "published_cn": "10-20 16:00"
-    },
-    {
-      "title": "全球顶尖投资机构调整投资策略",
-      "url": "https://www.ftchinese.com/story/001111148",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "孙昱：在美股估值高企、科技主导市场之际，一家全球顶尖投资机构正扩大私募股权投资，减少对少数大型上市公司的依赖，并押注新一代科技企业的增长潜力。",
-      "published": 1792512000.0,
-      "fetched_at": "2026-10-21 09:18:15",
-      "published_cn": "10-20 16:00"
-    },
-    {
-      "title": "德国在工业领域推进AI的意义何在？",
-      "url": "https://www.ftchinese.com/story/001111156",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "袁杰：德国在AI领域拥有巨大潜力，机遇确实存在。但同时也存在许多障碍，必须尽快消除。否则，专家们担心，德国在AI领域的机遇之窗很快就会关闭。",
-      "published": 1792512000.0,
-      "fetched_at": "2026-10-21 09:18:15",
+      "fetched_at": "2026-10-21 17:02:36",
       "published_cn": "10-20 16:00"
     },
     {
@@ -483,7 +543,7 @@
       "category": "world",
       "summary": "<p>Far-right presidential candidate’s TV debate swipe at rival backfires as people take to social media to parody it</p><p>To Flávio Bolsonaro and his publicists, it must have seemed an ingenious idea that would expose h",
       "published": 1792510904.0,
-      "fetched_at": "2026-10-21 09:18:15",
+      "fetched_at": "2026-10-21 17:02:37",
       "published_cn": "10-20 15:41"
     },
     {
@@ -493,7 +553,7 @@
       "category": "world",
       "summary": "在未經證實的傳言傳開後，朝鮮官媒發布了這位獨裁者與其女兒的照片。",
       "published": 1792508284.0,
-      "fetched_at": "2026-10-21 09:18:15",
+      "fetched_at": "2026-10-21 17:02:37",
       "published_cn": "10-20 14:58"
     },
     {
@@ -503,7 +563,7 @@
       "category": "tech",
       "summary": "规则归交互系统，画面归模型<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792505614.0,
-      "fetched_at": "2026-10-21 09:18:12",
+      "fetched_at": "2026-10-21 17:02:34",
       "published_cn": "10-20 14:13"
     },
     {
@@ -513,7 +573,7 @@
       "category": "tech",
       "summary": "FirefoxNova：被「中途喝止」的界面现代化改造@PlatyHsu:9月29日，Mozilla随Firefox157推出了代号为Nova的全新设计。这是继2021年Proton改版以来，Fire ...<a href=\"https://sspai.com/prime/story/inside-release-notes-261020\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"ht",
       "published": 1792490514.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 10:01"
     },
     {
@@ -523,7 +583,7 @@
       "category": "tech",
       "summary": "在 TWS 5 系列获得我们不错评价之后，Buds Clip 能否延续他们「来得晚但完成度更高」的特点呢？<a href=\"https://sspai.com/post/115475\" target=\"_blank\">查看全文</a>",
       "published": 1792488600.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 09:30"
     },
     {
@@ -533,7 +593,7 @@
       "category": "world",
       "summary": "內比都罕有公布昂山素季接收這些書籍及一封密封信件的照片。",
       "published": 1792488003.0,
-      "fetched_at": "2026-10-21 09:18:15",
+      "fetched_at": "2026-10-21 17:02:37",
       "published_cn": "10-20 09:20"
     },
     {
@@ -543,7 +603,7 @@
       "category": "world",
       "summary": "在普京建議三方於APEC期間進行會談後，特朗普表示願意參與，強調會談重點將是無核化問題。目前中方尚未就三方會談表態。",
       "published": 1792485609.0,
-      "fetched_at": "2026-10-21 09:18:15",
+      "fetched_at": "2026-10-21 17:02:37",
       "published_cn": "10-20 08:40"
     },
     {
@@ -553,18 +613,8 @@
       "category": "world",
       "summary": "DeepSeek的免費聊天機器人應用程式在Apple App Store下載排行榜上名列前茅，其AI模型也被美國科技企業採用。Snowflake、Vercel及OpenRouter等公司都已將DeepSeek整合至其提供給客戶的服務中。",
       "published": 1792482165.0,
-      "fetched_at": "2026-10-21 09:18:15",
+      "fetched_at": "2026-10-21 17:02:37",
       "published_cn": "10-20 07:42"
-    },
-    {
-      "title": "What’s making Europe so angry? The frustration behind the protests",
-      "url": "https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Protests broke out in France and several European countries as people railed against living costs, poor schooling conditions, and a housing crisis.",
-      "published": 1792480756.0,
-      "fetched_at": "2026-10-21 09:18:15",
-      "published_cn": "10-20 07:19"
     },
     {
       "title": "从「空间扩展」到「等比放大」：我如何为 MacBook Pro 搭建双屏桌面",
@@ -573,7 +623,7 @@
       "category": "tech",
       "summary": "原厂屏幕之外最省心的搭档。<a href=\"https://sspai.com/post/116661\" target=\"_blank\">查看全文</a>",
       "published": 1792480074.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 07:07"
     },
     {
@@ -583,7 +633,7 @@
       "category": "world",
       "summary": "BBC中文訪問了四位來自不同行業的女性，了解言語冒犯是如何在工作環境中出現；當性別冒犯被包裝成「玩笑」，她們是如何應對。",
       "published": 1792471062.0,
-      "fetched_at": "2026-10-21 09:18:15",
+      "fetched_at": "2026-10-21 17:02:37",
       "published_cn": "10-20 04:37"
     },
     {
@@ -593,7 +643,7 @@
       "category": "tech",
       "summary": "MemT 1.0 开源，给出「记忆原生」新解法<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792468664.0,
-      "fetched_at": "2026-10-21 09:18:12",
+      "fetched_at": "2026-10-21 17:02:34",
       "published_cn": "10-20 03:57"
     },
     {
@@ -603,7 +653,7 @@
       "category": "world",
       "summary": "此前，法國內政部長承認，警方在一些城市「失去了控制」。",
       "published": 1792464464.0,
-      "fetched_at": "2026-10-21 09:18:15",
+      "fetched_at": "2026-10-21 17:02:37",
       "published_cn": "10-20 02:47"
     },
     {
@@ -613,7 +663,7 @@
       "category": "tech",
       "summary": "简单干净、支持双拼纠错的 iOS 输入法。<a href=\"https://sspai.com/post/116430\" target=\"_blank\">查看全文</a>",
       "published": 1792463679.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 02:34"
     },
     {
@@ -623,7 +673,7 @@
       "category": "tech",
       "summary": "马斯克：我朝你放个屁。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792462681.0,
-      "fetched_at": "2026-10-21 09:18:12",
+      "fetched_at": "2026-10-21 17:02:34",
       "published_cn": "10-20 02:18"
     },
     {
@@ -633,7 +683,7 @@
       "category": "tech",
       "summary": "真·高端局<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792458007.0,
-      "fetched_at": "2026-10-21 09:18:12",
+      "fetched_at": "2026-10-21 17:02:34",
       "published_cn": "10-20 01:00"
     },
     {
@@ -643,18 +693,8 @@
       "category": "tech",
       "summary": "索尼发布三款高端 Walkman 播放器，掌阅推出 Ocean 6 Pro 电纸书等。<a href=\"https://sspai.com/post/116758\" target=\"_blank\">查看全文</a>",
       "published": 1792456773.0,
-      "fetched_at": "2026-10-21 09:18:14",
+      "fetched_at": "2026-10-21 17:02:35",
       "published_cn": "10-20 00:39"
-    },
-    {
-      "title": "早报｜苹果定档下周发布新品，触屏MacBook Pro或将亮相/华为苹果拿下中国手机四成份额/杨立昆锐评特斯拉飞车，马斯克：放屁",
-      "url": "https://www.ifanr.com/1684957?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "· OpenAI 为 OpenCode 受攻击用户退还被消耗的 API 额度\n· 王腾宣布今日宜休将于 10 月 29 日举办首场发布会\n· 引望与宁德时代签署换电合作协议，覆盖电池与换电网络<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1792454826.0,
-      "fetched_at": "2026-10-21 09:18:12",
-      "published_cn": "10-20 00:07"
     },
     {
       "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
@@ -663,7 +703,7 @@
       "category": "world",
       "summary": "<p>DHS says migrants ‘retain protections’ after temporary protected status was set to expire on Monday</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/oct/15/immigration-trump-midterms-reader-q-a\">Send us",
       "published": 1792449283.0,
-      "fetched_at": "2026-10-21 09:18:15",
+      "fetched_at": "2026-10-21 17:02:37",
       "published_cn": "10-19 22:34"
     },
     {
@@ -673,7 +713,7 @@
       "category": "world",
       "summary": "<p>Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutors</p><p>A Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others gu",
       "published": 1792426094.0,
-      "fetched_at": "2026-10-21 09:18:15",
+      "fetched_at": "2026-10-21 17:02:37",
       "published_cn": "10-19 16:08"
     },
     {
@@ -683,51 +723,11 @@
       "category": "world",
       "summary": "<p>Witness says drone struck twice at transport hub in al-Dibab, in one of deadliest single attacks of war</p><p>A drone strike near a market in southern Sudan on Sunday evening killed 80 people, mostly commuters catchin",
       "published": 1792421153.0,
-      "fetched_at": "2026-10-21 09:18:15",
+      "fetched_at": "2026-10-21 17:02:37",
       "published_cn": "10-19 14:45"
-    },
-    {
-      "title": "苹果第一个 AI 机器人，可能是个能动的 HomeView",
-      "url": "https://www.ifanr.com/1684921?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "给屏幕装上脖子<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1792404565.0,
-      "fetched_at": "2026-10-21 09:18:12",
-      "published_cn": "10-19 10:09"
-    },
-    {
-      "title": "派评 | 近期值得关注的 App",
-      "url": "https://sspai.com/post/116705",
-      "source": "少数派",
-      "category": "tech",
-      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/116705\" target=\"_blank\">查看全文</a>",
-      "published": 1792402785.0,
-      "fetched_at": "2026-10-21 09:18:14",
-      "published_cn": "10-19 09:39"
-    },
-    {
-      "title": "我向新版 DeepSeek 许了个愿，4 块钱让特斯拉飞起来",
-      "url": "https://www.ifanr.com/1684880?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "好用到原地「起飞」<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1792401676.0,
-      "fetched_at": "2026-10-21 09:18:12",
-      "published_cn": "10-19 09:21"
-    },
-    {
-      "title": "与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长",
-      "url": "https://sspai.com/post/116585",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "离开了北京之后，TimCook上周四来到了位于上海市闵行区的「蓝盒子」办公室，开启了此次访华行程的上海之行。蓝盒子是一家成立于2019年的床垫及家居品牌，旗下产品以简洁并具有辨识度的设计，以及「一百天 ...<a href=\"https://sspai.com/post/116585\" target=\"_blank\">查看全文</a>",
-      "published": 1792398940.0,
-      "fetched_at": "2026-10-21 09:18:14",
-      "published_cn": "10-19 08:35"
     }
   ],
   "feed_failures": [
-    "虎嗅: ReadTimeout HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=20)"
+    "虎嗅: HTTPError 502 Server Error: Bad Gateway for url: https://www.huxiu.com/rss/0.xml"
   ]
 }

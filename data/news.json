@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22 17:05:14",
+  "updated_at": "2026-10-22 23:46:43",
   "categories": [
     "tech",
     "finance",
@@ -7,14 +7,314 @@
   ],
   "items": [
     {
-      "title": "World's largest wealth fund posts $30 billion loss after bond market turbulence",
-      "url": "https://www.cnbc.com/2026/10/22/norges-bank-nbim-wealth-fund-q3-results.html",
+      "title": "Tesla is prepping a Cybercab onslaught",
+      "url": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "The company is looking to roll the gold two-seater robotaxis out to other U.S. cities this year, even as it goes mum on the number of paid rides.",
+      "published": 1792683879.0,
+      "fetched_at": "2026-10-22 23:46:41",
+      "published_cn": "10-22 15:44"
+    },
+    {
+      "title": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
+      "url": "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
       "source": "CNBC",
       "category": "finance",
-      "summary": "The fund has a current value of around $2.3 trillion.",
-      "published": 1792658958.0,
-      "fetched_at": "2026-10-22 17:05:13",
-      "published_cn": "10-22 08:49"
+      "summary": "CoreWeave shares are down 35% in October, and the spreads in its credit default swaps are widening.",
+      "published": 1792683355.0,
+      "fetched_at": "2026-10-22 23:46:42",
+      "published_cn": "10-22 15:35"
+    },
+    {
+      "title": "Third-party evaluators find vulnerabilities in OpenAI monitoring system during test pilot",
+      "url": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "OpenAI CEO Sam Altman pledged to grant independent evaluators \"employee-like access\" to the company to help address mounting safety concerns.",
+      "published": 1792683350.0,
+      "fetched_at": "2026-10-22 23:46:42",
+      "published_cn": "10-22 15:35"
+    },
+    {
+      "title": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
+      "url": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Spotify told investors its roll out of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
+      "published": 1792682672.0,
+      "fetched_at": "2026-10-22 23:46:41",
+      "published_cn": "10-22 15:24"
+    },
+    {
+      "title": "Virginia state Sen. L. Louise Lucas, a Trump critic, charged in marijuana racketeering case",
+      "url": "https://www.cnbc.com/2026/10/22/lucas-trump-virginia-marijuana-racketeering.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "The investigation into the Democrat predates the current Trump administration. But the timing of the indictment before the midterms has raised eyebrows.",
+      "published": 1792682412.0,
+      "fetched_at": "2026-10-22 23:46:42",
+      "published_cn": "10-22 15:20"
+    },
+    {
+      "title": "Under-the-radar stocks to play the next leg of the energy trade with oil prices jumping again",
+      "url": "https://www.cnbc.com/2026/10/22/under-the-radar-stocks-to-play-the-next-leg-of-the-energy-trade-with-oil-prices-jumping-again.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Iran is going to grow more desperate as oil money dries up, which makes the country even more dangerous.",
+      "published": 1792682165.0,
+      "fetched_at": "2026-10-22 23:46:42",
+      "published_cn": "10-22 15:16"
+    },
+    {
+      "title": "Investors break down how founders can raise a Series A today",
+      "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Raising a Series A these days isn't so simple — top investors break down what founders need to know now.",
+      "published": 1792682100.0,
+      "fetched_at": "2026-10-22 23:46:41",
+      "published_cn": "10-22 15:15"
+    },
+    {
+      "title": "Apple’s Magic Keyboards for iPad are about half off, with a small catch",
+      "url": "https://www.theverge.com/gadgets/1016640/apple-magic-keyboards-ipad-air-pro-deal-sale",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "You can outfit your iPad Air or iPad Pro with one of Apple’s slick Magic Keyboards for considerably less than the accessory usually costs at Woot. I won’t bury the catch I teased in the headline; These cases have a 90-da",
+      "published": 1792682060.0,
+      "fetched_at": "2026-10-22 23:46:41",
+      "published_cn": "10-22 15:14"
+    },
+    {
+      "title": "PHP: The three little letters wreaking havoc across the web",
+      "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, an",
+      "published": 1792681947.0,
+      "fetched_at": "2026-10-22 23:46:41",
+      "published_cn": "10-22 15:12"
+    },
+    {
+      "title": "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
+      "url": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Governments or companies looking for an alternative to SpaceX's Starlink are faced with few options, as Amazon, Eutelsat and others are far behind.",
+      "published": 1792681727.0,
+      "fetched_at": "2026-10-22 23:46:42",
+      "published_cn": "10-22 15:08"
+    },
+    {
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
+      "published": 1792681438.0,
+      "fetched_at": "2026-10-22 23:46:41",
+      "published_cn": "10-22 15:03"
+    },
+    {
+      "title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
+      "url": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.",
+      "published": 1792681168.0,
+      "fetched_at": "2026-10-22 23:46:41",
+      "published_cn": "10-22 14:59"
+    },
+    {
+      "title": "You could just get a refurbished Samsung phone on Amazon",
+      "url": "https://www.theverge.com/gadgets/1016626/samsung-galaxy-used-amazon",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "I recently bought a used Galaxy phone, and now Samsung is leaning into that market on Amazon after raising prices on its newest phones. Its certified renewed phones are available on Amazon for the first time, with a new ",
+      "published": 1792680929.0,
+      "fetched_at": "2026-10-22 23:46:41",
+      "published_cn": "10-22 14:55"
+    },
+    {
+      "title": "Coolfly’s solar-powered Aura Smart Bird Feeder is nearly 50 percent off",
+      "url": "https://www.theverge.com/gadgets/1015984/aura-smart-bird-feeder-jbl-charge-6-speaker-deal-sale",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "I’m not sure when birdwatching became so popular, but it seems everybody’s getting into it these days. If you want to see what all the fuss is about without leaving your couch, both Coolfly and Birdfy are discounting the",
+      "published": 1792680062.0,
+      "fetched_at": "2026-10-22 23:46:41",
+      "published_cn": "10-22 14:41"
+    },
+    {
+      "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+      "url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000.",
+      "published": 1792679290.0,
+      "fetched_at": "2026-10-22 23:46:42",
+      "published_cn": "10-22 14:28"
+    },
+    {
+      "title": "Coolpad’s new $150 Android phone has a wider screen like the iPhone Duo, but doesn’t fold",
+      "url": "https://www.theverge.com/tech/1016544/coolpad-cool-x-wide-widescreen-android-16-smartphone-china",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "The design of widescreen folding phones like the Samsung Galaxy Z Fold 8, Huawei Pura X View, and now the iPhone Duo, is starting to influence traditional slab phones. Similar to the Huawei Pura X View that launched in C",
+      "published": 1792679089.0,
+      "fetched_at": "2026-10-22 23:46:41",
+      "published_cn": "10-22 14:24"
+    },
+    {
+      "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
+      "url": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able to decrypt some customer secrets.",
+      "published": 1792677780.0,
+      "fetched_at": "2026-10-22 23:46:41",
+      "published_cn": "10-22 14:03"
+    },
+    {
+      "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
+      "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ",
+      "published": 1792677600.0,
+      "fetched_at": "2026-10-22 23:46:41",
+      "published_cn": "10-22 14:00"
+    },
+    {
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Claude Duet is available through waitlist for Pro and Max plan users",
+      "published": 1792677206.0,
+      "fetched_at": "2026-10-22 23:46:41",
+      "published_cn": "10-22 13:53"
+    },
+    {
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
+      "published": 1792675612.0,
+      "fetched_at": "2026-10-22 23:46:41",
+      "published_cn": "10-22 13:26"
+    },
+    {
+      "title": "Apple will label apps that are ‘Made for iPhone Duo’",
+      "url": "https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Apple is rolling out a new badge in the App Store to indicate whether an app is optimized for its new foldable. The new \"Made for iPhone Duo\" badge will appear across apps and games that work with the device's extra scre",
+      "published": 1792675237.0,
+      "fetched_at": "2026-10-22 23:46:41",
+      "published_cn": "10-22 13:20"
+    },
+    {
+      "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+      "url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.",
+      "published": 1792675116.0,
+      "fetched_at": "2026-10-22 23:46:42",
+      "published_cn": "10-22 13:18"
+    },
+    {
+      "title": "The Atari VCS saga will come to an end next year when its software store closes",
+      "url": "https://www.theverge.com/tech/1016481/atari-vcs-console-shutting-down-software-store-2027",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Following a decade-long saga of delays, name changes, and Atari having to assure backers of a crowdfunding campaign that its retro console wasn't doomed, the Atari VCS platform is being retired early next year. On Februa",
+      "published": 1792675079.0,
+      "fetched_at": "2026-10-22 23:46:41",
+      "published_cn": "10-22 13:17"
+    },
+    {
+      "title": "Forget \"Malaise 2.0,\" GM says it's still all-in on EVs and autonomy",
+      "url": "https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "General Motors' plans will require quite a lot of customers' trust.",
+      "published": 1792674272.0,
+      "fetched_at": "2026-10-22 23:46:41",
+      "published_cn": "10-22 13:04"
+    },
+    {
+      "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+      "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
+      "published": 1792668633.0,
+      "fetched_at": "2026-10-22 23:46:41",
+      "published_cn": "10-22 11:30"
+    },
+    {
+      "title": "UN says we're going to blow past 1.5º warming, offers a \"now what?\" answer",
+      "url": "https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Best case is now an overshoot to 1.8º C, accompanied by massive carbon removal.",
+      "published": 1792667736.0,
+      "fetched_at": "2026-10-22 23:46:41",
+      "published_cn": "10-22 11:15"
+    },
+    {
+      "title": "OpenAI 发现 PHP「世纪漏洞」，全球 70% 网站都危险了",
+      "url": "https://www.ifanr.com/1685507?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "大的还在后面<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1792667720.0,
+      "fetched_at": "2026-10-22 23:46:40",
+      "published_cn": "10-22 11:15"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce",
+      "url": "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Nvidia CEO Jensen Huang told CNBC Thursday that demand for neocloud firms is \"off the charts,\" but scarce capital is holding back growth.",
+      "published": 1792666156.0,
+      "fetched_at": "2026-10-22 23:46:42",
+      "published_cn": "10-22 10:49"
+    },
+    {
+      "title": "不點單，沒座位：星巴克中國推出新門店政策",
+      "url": "https://www.bbc.com/zhongwen/articles/ckn9r7e4e8jpo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "星巴克表示，隨著與本土競爭對手展開競爭，公司正致力改善顧客的店內體驗。",
+      "published": 1792662632.0,
+      "fetched_at": "2026-10-22 23:46:43",
+      "published_cn": "10-22 09:50"
+    },
+    {
+      "title": "特朗普收緊綠卡政策，印度科技從業者的「美國夢」面臨考驗",
+      "url": "https://www.bbc.com/zhongwen/articles/crly0lw6g726o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "由於移民限制和科技公司削減外籍員工，獲得美國永久居留權對許多印度人來說正變得越來越遙不可及。",
+      "published": 1792660886.0,
+      "fetched_at": "2026-10-22 23:46:43",
+      "published_cn": "10-22 09:21"
+    },
+    {
+      "title": "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
+      "url": "https://sspai.com/post/115437",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/115437\" target=\"_blank\">查看全文</a>",
+      "published": 1792660203.0,
+      "fetched_at": "2026-10-22 23:46:41",
+      "published_cn": "10-22 09:10"
     },
     {
       "title": "《決勝時刻》新遊戲設想朝鮮入侵韓國，真的會發生嗎？",
@@ -23,7 +323,7 @@
       "category": "world",
       "summary": "在新的《決勝時刻》遊戲中，北韓入侵了南韓。這種情景有多現實？如果真的發生，又會帶來哪些後果？",
       "published": 1792658680.0,
-      "fetched_at": "2026-10-22 17:05:14",
+      "fetched_at": "2026-10-22 23:46:43",
       "published_cn": "10-22 08:44"
     },
     {
@@ -33,7 +333,7 @@
       "category": "world",
       "summary": "BBC採訪了多名前任和現任Google DeepMind員工，了解他們對人工智能在戰場上應用的憂慮。",
       "published": 1792658642.0,
-      "fetched_at": "2026-10-22 17:05:14",
+      "fetched_at": "2026-10-22 23:46:43",
       "published_cn": "10-22 08:44"
     },
     {
@@ -43,18 +343,8 @@
       "category": "tech",
       "summary": "仰望正在打造属于自己的「古斯特」。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792658273.0,
-      "fetched_at": "2026-10-22 17:05:10",
+      "fetched_at": "2026-10-22 23:46:40",
       "published_cn": "10-22 08:37"
-    },
-    {
-      "title": "Barclays to slash 5,000 jobs in AI efficiency push",
-      "url": "https://www.cnbc.com/2026/10/22/barclays-ai-jobs-cuts.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "U.K. banks Barclays said Thursday it plans to cut 5,000 staff, citing efficiency savings from AI.",
-      "published": 1792657027.0,
-      "fetched_at": "2026-10-22 17:05:13",
-      "published_cn": "10-22 08:17"
     },
     {
       "title": "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本",
@@ -63,7 +353,7 @@
       "category": "tech",
       "summary": "配备触摸屏的 OLED 版 MacBook 型号很可能是这次活动的主角。<a href=\"https://sspai.com/post/116923\" target=\"_blank\">查看全文</a>",
       "published": 1792652400.0,
-      "fetched_at": "2026-10-22 17:05:12",
+      "fetched_at": "2026-10-22 23:46:41",
       "published_cn": "10-22 07:00"
     },
     {
@@ -73,28 +363,8 @@
       "category": "tech",
       "summary": "网站被攻破后，数据、密码和令牌都可能受到影响<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792648687.0,
-      "fetched_at": "2026-10-22 17:05:10",
+      "fetched_at": "2026-10-22 23:46:40",
       "published_cn": "10-22 05:58"
-    },
-    {
-      "title": "U.S. pulls diplomats from Saudi Arabia as it reportedly readies Iran strikes after midterms",
-      "url": "https://www.cnbc.com/2026/10/22/us-iran-trump-hormuz-.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "The U.S. ordered non-emergency staff out of Saudi Arabia after Houthi strikes on an airport and an oil field, reviving fears of a widening regional conflict.",
-      "published": 1792643754.0,
-      "fetched_at": "2026-10-22 17:05:13",
-      "published_cn": "10-22 04:35"
-    },
-    {
-      "title": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout",
-      "url": "https://www.cnbc.com/2026/10/22/chinas-stock-market-csi-300-bear-market.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "China's benchmark CSI 300 index has entered bear-market territory, falling 20% from its June peak, as a prolonged selloff in mainland equities deepens.",
-      "published": 1792641738.0,
-      "fetched_at": "2026-10-22 17:05:13",
-      "published_cn": "10-22 04:02"
     },
     {
       "title": "终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记",
@@ -103,38 +373,8 @@
       "category": "tech",
       "summary": "药物不能解决所有问题，这是是我学到的重要一课。<a href=\"https://sspai.com/post/115090\" target=\"_blank\">查看全文</a>",
       "published": 1792640217.0,
-      "fetched_at": "2026-10-22 17:05:12",
+      "fetched_at": "2026-10-22 23:46:41",
       "published_cn": "10-22 03:36"
-    },
-    {
-      "title": "Sovereign wealth funds' China and Hong Kong investments surge 190% after a bruising slump",
-      "url": "https://www.cnbc.com/2026/10/22/sovereign-wealth-funds-china-hong-kong.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Sovereign wealth funds are pouring billions of dollars back into China after a sharp investment slump.",
-      "published": 1792635650.0,
-      "fetched_at": "2026-10-22 17:05:13",
-      "published_cn": "10-22 02:20"
-    },
-    {
-      "title": "James Talarico fires back at Elon Musk in Texas Senate race feud",
-      "url": "https://www.cnbc.com/2026/10/22/james-talarico-elon-musk-ken-paxton-texas-senate-race.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Musk in September donated $158 million to a Republican Super PAC, which sent that cash to a PAC backing GOP Senate nominee Ken Paxton, Talarico's opponent.",
-      "published": 1792632070.0,
-      "fetched_at": "2026-10-22 17:05:13",
-      "published_cn": "10-22 01:21"
-    },
-    {
-      "title": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
-      "url": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Critical PHP security flaws trigger global warnings as Google, OpenAI and Amazon respond to potential cyber threats.",
-      "published": 1792631115.0,
-      "fetched_at": "2026-10-22 17:05:13",
-      "published_cn": "10-22 01:05"
     },
     {
       "title": "首发｜我们用了一周的 iPhone Duo，这里有你关心的一切",
@@ -143,7 +383,7 @@
       "category": "tech",
       "summary": "在魔术与魔法的夹缝里，我们看到了一种天马行空，但又脚踏实地的产品哲学。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792629950.0,
-      "fetched_at": "2026-10-22 17:05:10",
+      "fetched_at": "2026-10-22 23:46:40",
       "published_cn": "10-22 00:45"
     },
     {
@@ -153,7 +393,7 @@
       "category": "tech",
       "summary": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。<a href=\"https://sspai.com/post/116953\" target=\"_blank\">查看全文</a>",
       "published": 1792628945.0,
-      "fetched_at": "2026-10-22 17:05:12",
+      "fetched_at": "2026-10-22 23:46:41",
       "published_cn": "10-22 00:29"
     },
     {
@@ -163,7 +403,7 @@
       "category": "world",
       "summary": "植物、脂肪和發酵食品可以減少皺紋，促進膠原蛋白生長，並改善皮膚質地。",
       "published": 1792628490.0,
-      "fetched_at": "2026-10-22 17:05:14",
+      "fetched_at": "2026-10-22 23:46:43",
       "published_cn": "10-22 00:21"
     },
     {
@@ -173,7 +413,7 @@
       "category": "world",
       "summary": "馬斯克稱，透過合併這兩家公司，「有很多好處可獲得」，而這將會是歷來規模最大的合併案。",
       "published": 1792628484.0,
-      "fetched_at": "2026-10-22 17:05:14",
+      "fetched_at": "2026-10-22 23:46:43",
       "published_cn": "10-22 00:21"
     },
     {
@@ -183,7 +423,7 @@
       "category": "world",
       "summary": "中期選舉前夕，特朗普一直吹噓美國經濟的表現。 BBC事實查核（BBC Verify）調查美國的通貨膨脹、就業和經濟成長。",
       "published": 1792628478.0,
-      "fetched_at": "2026-10-22 17:05:14",
+      "fetched_at": "2026-10-22 23:46:43",
       "published_cn": "10-22 00:21"
     },
     {
@@ -193,68 +433,8 @@
       "category": "tech",
       "summary": "· PHP 紧急修复两个严重漏洞，攻击者无需登录即可远程执行代码\n· 三星、SK 海力士升级中国工厂，拟转产更高层数 NAND\n· Today AI 累计融资超 2 亿美元，腾讯、蚂蚁等参投<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792628471.0,
-      "fetched_at": "2026-10-22 17:05:10",
+      "fetched_at": "2026-10-22 23:46:40",
       "published_cn": "10-22 00:21"
-    },
-    {
-      "title": "Tesla says it will start selling Cybercabs by end of year",
-      "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater",
-      "published": 1792628274.0,
-      "fetched_at": "2026-10-22 17:05:12",
-      "published_cn": "10-22 00:17"
-    },
-    {
-      "title": "YouTube says it isn’t testing hiding the dislike button",
-      "url": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a Yo",
-      "published": 1792626405.0,
-      "fetched_at": "2026-10-22 17:05:12",
-      "published_cn": "10-21 23:46"
-    },
-    {
-      "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
-      "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings cal",
-      "published": 1792625791.0,
-      "fetched_at": "2026-10-22 17:05:12",
-      "published_cn": "10-21 23:36"
-    },
-    {
-      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
-      "published": 1792623082.0,
-      "fetched_at": "2026-10-22 17:05:12",
-      "published_cn": "10-21 22:51"
-    },
-    {
-      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
-      "published": 1792622734.0,
-      "fetched_at": "2026-10-22 17:05:12",
-      "published_cn": "10-21 22:45"
-    },
-    {
-      "title": "Data centers could erase decades of air quality gains",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data cent",
-      "published": 1792622024.0,
-      "fetched_at": "2026-10-22 17:05:12",
-      "published_cn": "10-21 22:33"
     },
     {
       "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
@@ -263,18 +443,8 @@
       "category": "tech",
       "summary": "Ex-FCC chairs say Brendan Carr aims to scare broadcasters into self-censorship.",
       "published": 1792621070.0,
-      "fetched_at": "2026-10-22 17:05:12",
+      "fetched_at": "2026-10-22 23:46:41",
       "published_cn": "10-21 22:17"
-    },
-    {
-      "title": "Airbnb limits chores for guests, sparking backlash from hosts",
-      "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
-      "published": 1792620965.0,
-      "fetched_at": "2026-10-22 17:05:12",
-      "published_cn": "10-21 22:16"
     },
     {
       "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
@@ -283,7 +453,7 @@
       "category": "tech",
       "summary": "Time-based a la carte charges come on top of the purchase price for the games themselves.",
       "published": 1792620367.0,
-      "fetched_at": "2026-10-22 17:05:12",
+      "fetched_at": "2026-10-22 23:46:41",
       "published_cn": "10-21 22:06"
     },
     {
@@ -293,7 +463,7 @@
       "category": "tech",
       "summary": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
       "published": 1792619332.0,
-      "fetched_at": "2026-10-22 17:05:12",
+      "fetched_at": "2026-10-22 23:46:41",
       "published_cn": "10-21 21:48"
     },
     {
@@ -301,100 +471,10 @@
       "url": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
       "source": "Ars Technica",
       "category": "tech",
-      "summary": "Tesla’s once-booming energy storage business also shrunk in Q3 2026.",
+      "summary": "Tesla’s once-booming energy storage business also shrank in Q3 2026.",
       "published": 1792618507.0,
-      "fetched_at": "2026-10-22 17:05:12",
+      "fetched_at": "2026-10-22 23:46:41",
       "published_cn": "10-21 21:35"
-    },
-    {
-      "title": "Meta to create a new class of shares to fund AI push",
-      "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisition",
-      "published": 1792618202.0,
-      "fetched_at": "2026-10-22 17:05:12",
-      "published_cn": "10-21 21:30"
-    },
-    {
-      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their compan",
-      "published": 1792617380.0,
-      "fetched_at": "2026-10-22 17:05:12",
-      "published_cn": "10-21 21:16"
-    },
-    {
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
-      "published": 1792617259.0,
-      "fetched_at": "2026-10-22 17:05:12",
-      "published_cn": "10-21 21:14"
-    },
-    {
-      "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-      "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
-      "published": 1792616260.0,
-      "fetched_at": "2026-10-22 17:05:12",
-      "published_cn": "10-21 20:57"
-    },
-    {
-      "title": "New York’s first microdrama film festival searches for its audience",
-      "url": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "It remains to be seen if people really want to watch vertical content on horizontal TV screens, but many filmmakers and creators were confident that their latest projects would play well at Alza - New York City's first m",
-      "published": 1792615747.0,
-      "fetched_at": "2026-10-22 17:05:12",
-      "published_cn": "10-21 20:49"
-    },
-    {
-      "title": "Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement",
-      "url": "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings report released on Wednesday, which say",
-      "published": 1792615616.0,
-      "fetched_at": "2026-10-22 17:05:12",
-      "published_cn": "10-21 20:46"
-    },
-    {
-      "title": "PHP: The three letters that shut down sites all over the internet today",
-      "url": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in the P",
-      "published": 1792615016.0,
-      "fetched_at": "2026-10-22 17:05:12",
-      "published_cn": "10-21 20:36"
-    },
-    {
-      "title": "Tesla starts Optimus robot production in California as profit falls 43%",
-      "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
-      "published": 1792614789.0,
-      "fetched_at": "2026-10-22 17:05:12",
-      "published_cn": "10-21 20:33"
-    },
-    {
-      "title": "Flying Roadsters can’t lift Tesla’s flat Q3 revenues",
-      "url": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "As the smoke clears from its outrageous Roadster demo, Tesla reported Q3 earnings on Wednesday - and the cold reality is that revenue has flatlined. Tesla said it earned $1.7 billion in net income on $28.0 billion in rev",
-      "published": 1792614151.0,
-      "fetched_at": "2026-10-22 17:05:12",
-      "published_cn": "10-21 20:22"
     },
     {
       "title": "The new human-crafted Apple Music brand matters in an AI world",
@@ -403,38 +483,8 @@
       "category": "tech",
       "summary": "Opinion: In a world of AI slop, showing the human hands making things helps.",
       "published": 1792611880.0,
-      "fetched_at": "2026-10-22 17:05:12",
+      "fetched_at": "2026-10-22 23:46:41",
       "published_cn": "10-21 19:44"
-    },
-    {
-      "title": "RIP BioWare: EA shuts down storied RPG studio after over three decades",
-      "url": "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Next <em>Mass Effect</em> project canceled as parent company lays off 400.",
-      "published": 1792609936.0,
-      "fetched_at": "2026-10-22 17:05:12",
-      "published_cn": "10-21 19:12"
-    },
-    {
-      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-      "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
-      "published": 1792608702.0,
-      "fetched_at": "2026-10-22 17:05:12",
-      "published_cn": "10-21 18:51"
-    },
-    {
-      "title": "Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump",
-      "url": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Musk and Trump both denied ordering Starlink slowdown. WSJ reports it was Musk.",
-      "published": 1792607738.0,
-      "fetched_at": "2026-10-22 17:05:12",
-      "published_cn": "10-21 18:35"
     },
     {
       "title": "Controversial US-backed vaccine trial in African newborns halted",
@@ -443,7 +493,7 @@
       "category": "world",
       "summary": "<p>Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’</p><p>The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was hal",
       "published": 1792603136.0,
-      "fetched_at": "2026-10-22 17:05:14",
+      "fetched_at": "2026-10-22 23:46:43",
       "published_cn": "10-21 17:18"
     },
     {
@@ -453,7 +503,7 @@
       "category": "finance",
       "summary": "对话香港大学高马可教授，听这位历史学者谈谈在AI时代，教学和研究所面对的一系列新挑战：论文中脚注的真伪、师生教学间的信任危机，以及人文学科会不会因AI的冲击而走向衰落。",
       "published": 1792598400.0,
-      "fetched_at": "2026-10-22 17:05:13",
+      "fetched_at": "2026-10-22 23:46:42",
       "published_cn": "10-21 16:00"
     },
     {
@@ -463,7 +513,7 @@
       "category": "finance",
       "summary": "英国首相试图向选民表明其政府正采取切实措施以遏制生活成本，但能源专家指出此举很可能意味着需要提高燃气的单位价格。",
       "published": 1792598400.0,
-      "fetched_at": "2026-10-22 17:05:13",
+      "fetched_at": "2026-10-22 23:46:42",
       "published_cn": "10-21 16:00"
     },
     {
@@ -473,7 +523,7 @@
       "category": "finance",
       "summary": "能源大臣法恩布勒称，该项目将帮助提振英国的能源供应，并保护就业和能源安全。但她称，规模更大的罗斯班克油田项目是“不同的情况”。",
       "published": 1792598400.0,
-      "fetched_at": "2026-10-22 17:05:13",
+      "fetched_at": "2026-10-22 23:46:42",
       "published_cn": "10-21 16:00"
     },
     {
@@ -483,7 +533,7 @@
       "category": "finance",
       "summary": "随着航运公司想方设法改用替代路线，海湾产油国（除伊朗外）上周的石油日均出口量达到2460万桶，高于战前2330万桶的日均水平。",
       "published": 1792598400.0,
-      "fetched_at": "2026-10-22 17:05:13",
+      "fetched_at": "2026-10-22 23:46:42",
       "published_cn": "10-21 16:00"
     },
     {
@@ -493,7 +543,7 @@
       "category": "finance",
       "summary": "陈敏兰：在育儿的旅途中，财务支持确实是重要的一环。但随着孩子长大，父母将面临一项更长远的课题：如何确保孩子具备良好的理财能力？",
       "published": 1792598400.0,
-      "fetched_at": "2026-10-22 17:05:13",
+      "fetched_at": "2026-10-22 23:46:42",
       "published_cn": "10-21 16:00"
     },
     {
@@ -503,7 +553,7 @@
       "category": "finance",
       "summary": "于萍、章逸飞：当你的工作方式可以被提取、复制、永久存在企业服务器上，人力资本就变成了企业的固定资产。你辞职了，你的数字分身还在加班。",
       "published": 1792598400.0,
-      "fetched_at": "2026-10-22 17:05:13",
+      "fetched_at": "2026-10-22 23:46:42",
       "published_cn": "10-21 16:00"
     },
     {
@@ -513,7 +563,7 @@
       "category": "tech",
       "summary": "这还是海鸥吗？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792596155.0,
-      "fetched_at": "2026-10-22 17:05:10",
+      "fetched_at": "2026-10-22 23:46:40",
       "published_cn": "10-21 15:22"
     },
     {
@@ -523,7 +573,7 @@
       "category": "tech",
       "summary": "电池只是理想掏出来的其中一块拼图。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792596040.0,
-      "fetched_at": "2026-10-22 17:05:10",
+      "fetched_at": "2026-10-22 23:46:40",
       "published_cn": "10-21 15:20"
     },
     {
@@ -533,7 +583,7 @@
       "category": "world",
       "summary": "<p>Flights to third countries where the detainees have no ties are scheduled as early as Wednesday, relatives detail</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/oct/15/immigration-trump-midterms-reade",
       "published": 1792590008.0,
-      "fetched_at": "2026-10-22 17:05:14",
+      "fetched_at": "2026-10-22 23:46:43",
       "published_cn": "10-21 13:40"
     },
     {
@@ -543,18 +593,8 @@
       "category": "world",
       "summary": "有記錄以來最強的厄爾尼諾現象持續增強之際，全球各地已經感受到哪些天氣模式方面的影響？BBC首席氣象預報員莎拉·基斯—盧卡斯（Sarah Keith-Lucas）檢視相關證據。",
       "published": 1792588481.0,
-      "fetched_at": "2026-10-22 17:05:14",
+      "fetched_at": "2026-10-22 23:46:43",
       "published_cn": "10-21 13:14"
-    },
-    {
-      "title": "Mortgage rates drop for the first time in 2 months, but demand still falls further",
-      "url": "https://www.cnbc.com/2026/10/21/mortgage-rates-drop-for-the-first-time-in-2-months-but-demand-falls.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Mortgage rates finally came down a little, but borrowers are still having trouble getting into the housing market.",
-      "published": 1792588428.0,
-      "fetched_at": "2026-10-22 17:05:13",
-      "published_cn": "10-21 13:13"
     },
     {
       "title": "首发 | 我用 2 万的 iPhone Duo，指挥 8 万的 Mac Studio 干活",
@@ -563,18 +603,8 @@
       "category": "tech",
       "summary": "只能说真的很爽<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1792584490.0,
-      "fetched_at": "2026-10-22 17:05:10",
+      "fetched_at": "2026-10-22 23:46:40",
       "published_cn": "10-21 12:08"
-    },
-    {
-      "title": "法國暴動：各界對誰該負責與該汲取的教訓陷入分歧",
-      "url": "https://www.bbc.com/zhongwen/articles/cwm2382gr5p1o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "法國上週末的抗議演變大規模搶劫暴力，媒體聚焦破壞，政客互推責任，極右派政黨獲得政治紅利。",
-      "published": 1792574676.0,
-      "fetched_at": "2026-10-22 17:05:14",
-      "published_cn": "10-21 09:24"
     },
     {
       "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
@@ -583,7 +613,7 @@
       "category": "tech",
       "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/116820\" target=\"_blank\">查看全文</a>",
       "published": 1792573200.0,
-      "fetched_at": "2026-10-22 17:05:12",
+      "fetched_at": "2026-10-22 23:46:41",
       "published_cn": "10-21 09:00"
     },
     {
@@ -593,28 +623,8 @@
       "category": "tech",
       "summary": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。<a href=\"https://sspai.com/post/116445\" target=\"_blank\">查看全文</a>",
       "published": 1792566000.0,
-      "fetched_at": "2026-10-22 17:05:12",
+      "fetched_at": "2026-10-22 23:46:41",
       "published_cn": "10-21 07:00"
-    },
-    {
-      "title": "小米神秘新车曝光！SU9 LUX 进军行政轿车市场，还会有一台 SU7 LUX？",
-      "url": "https://www.ifanr.com/1685049?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "小米汽车的新尝试。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1792565792.0,
-      "fetched_at": "2026-10-22 17:05:10",
-      "published_cn": "10-21 06:56"
-    },
-    {
-      "title": "康奈爾大學 Jane Doe 稱，校長質疑她遭多人輪姦的指控",
-      "url": "https://www.bbc.com/zhongwen/articles/cw0k0n6x4k4eo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "在不信任投票即將到來之際，康奈爾表示，Jane Doe 對校長反應的描述是「不正確的」。",
-      "published": 1792559238.0,
-      "fetched_at": "2026-10-22 17:05:14",
-      "published_cn": "10-21 05:07"
     },
     {
       "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？",
@@ -623,7 +633,7 @@
       "category": "tech",
       "summary": "电脑与平板之间的界限，早在 20 年前的三星 Q1 上就已经可以随意切换了。<a href=\"https://sspai.com/post/115107\" target=\"_blank\">查看全文</a>",
       "published": 1792549401.0,
-      "fetched_at": "2026-10-22 17:05:12",
+      "fetched_at": "2026-10-22 23:46:41",
       "published_cn": "10-21 02:23"
     },
     {
@@ -633,7 +643,7 @@
       "category": "world",
       "summary": "<p>Case in Africa’s most populous country was detected in a woman who had travelled from Uganda</p><p>Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for t",
       "published": 1792541695.0,
-      "fetched_at": "2026-10-22 17:05:14",
+      "fetched_at": "2026-10-22 23:46:43",
       "published_cn": "10-21 00:14"
     },
     {
@@ -643,7 +653,7 @@
       "category": "tech",
       "summary": "工信部就自动泊车等五项强制性国标征求意见，万事达卡 Apple Pay 新增 3 家合作银行等。<a href=\"https://sspai.com/post/116887\" target=\"_blank\">查看全文</a>",
       "published": 1792541227.0,
-      "fetched_at": "2026-10-22 17:05:12",
+      "fetched_at": "2026-10-22 23:46:41",
       "published_cn": "10-21 00:07"
     },
     {
@@ -653,7 +663,7 @@
       "category": "world",
       "summary": "<p>Police seize doses of hepatitis B vaccine from people at center of dispute over research on African newborns</p><p>Controversial vaccine researchers who have been praised by Robert F Kennedy Jr, the US Department of H",
       "published": 1792523883.0,
-      "fetched_at": "2026-10-22 17:05:14",
+      "fetched_at": "2026-10-22 23:46:43",
       "published_cn": "10-20 19:18"
     },
     {
@@ -663,7 +673,7 @@
       "category": "world",
       "summary": "<p>Result is a victory for prime minister Mark Carney and supporters of Canadian unity</p><p>Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive ",
       "published": 1792513445.0,
-      "fetched_at": "2026-10-22 17:05:14",
+      "fetched_at": "2026-10-22 23:46:43",
       "published_cn": "10-20 16:24"
     },
     {
@@ -673,7 +683,7 @@
       "category": "world",
       "summary": "<p>Mitchell Fairbarn found guilty of animal cruelty after prosecutors say he hurt and frightened the 27-year-old bird</p><p>A Canadian man was convicted of animal cruelty charges on Monday for snatching a flamingo named ",
       "published": 1792512681.0,
-      "fetched_at": "2026-10-22 17:05:14",
+      "fetched_at": "2026-10-22 23:46:43",
       "published_cn": "10-20 16:11"
     },
     {
@@ -683,7 +693,7 @@
       "category": "finance",
       "summary": "袁漪琳：似乎人人都知道要填好高考志愿，就要抹平和更有资源的竞争者之间的“信息差”。对于农村考生而言，在信息差之外，还存在着什么东西，阻碍他们作出对自己有利的决策？",
       "published": 1792512000.0,
-      "fetched_at": "2026-10-22 17:05:13",
+      "fetched_at": "2026-10-22 23:46:42",
       "published_cn": "10-20 16:00"
     },
     {
@@ -693,7 +703,7 @@
       "category": "finance",
       "summary": "曹辛：特朗普近期调整对外政策，转而支持俄罗斯，这对朝鲜来说是不小的减压。美韩同盟关系近期的疏远也是朝鲜对韩国施压和威胁的重大背景。",
       "published": 1792512000.0,
-      "fetched_at": "2026-10-22 17:05:13",
+      "fetched_at": "2026-10-22 23:46:42",
       "published_cn": "10-20 16:00"
     },
     {
@@ -703,18 +713,8 @@
       "category": "world",
       "summary": "<p>Far-right presidential candidate’s TV debate swipe at rival backfires as people take to social media to parody it</p><p>To Flávio Bolsonaro and his publicists, it must have seemed an ingenious idea that would expose h",
       "published": 1792510904.0,
-      "fetched_at": "2026-10-22 17:05:14",
+      "fetched_at": "2026-10-22 23:46:43",
       "published_cn": "10-20 15:41"
-    },
-    {
-      "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁",
-      "url": "https://sspai.com/prime/story/inside-release-notes-261020",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "FirefoxNova：被「中途喝止」的界面现代化改造@PlatyHsu:9月29日，Mozilla随Firefox157推出了代号为Nova的全新设计。这是继2021年Proton改版以来，Fire ...<a href=\"https://sspai.com/prime/story/inside-release-notes-261020\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"ht",
-      "published": 1792490514.0,
-      "fetched_at": "2026-10-22 17:05:12",
-      "published_cn": "10-20 10:01"
     },
     {
       "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
@@ -723,12 +723,11 @@
       "category": "world",
       "summary": "<p>DHS says migrants ‘retain protections’ after temporary protected status was set to expire on Monday</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/oct/15/immigration-trump-midterms-reader-q-a\">Send us",
       "published": 1792449283.0,
-      "fetched_at": "2026-10-22 17:05:14",
+      "fetched_at": "2026-10-22 23:46:43",
       "published_cn": "10-19 22:34"
     }
   ],
   "feed_failures": [
-    "虎嗅: ReadTimeout HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=20)",
-    "华尔街见闻: HTTPError 404 Client Error: Not Found for url: https://wallstreetcn.com/rss"
+    "虎嗅: ReadTimeout HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=20)"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22 09:14:24",
+  "updated_at": "2026-10-22 17:05:15",
   "window_days": 7,
   "repos": [
     {
@@ -7,8 +7,8 @@
       "url": "https://github.com/Gathin23/cleanyourtv",
       "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
       "lang": "Java",
-      "stars": 19299,
-      "forks": 2086,
+      "stars": 21314,
+      "forks": 2321,
       "created": "2026-10-17"
     },
     {
@@ -16,8 +16,8 @@
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "desc": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
       "lang": "Python",
-      "stars": 17932,
-      "forks": 1840,
+      "stars": 18968,
+      "forks": 1980,
       "created": "2026-10-16"
     },
     {
@@ -25,8 +25,8 @@
       "url": "https://github.com/ly05010419/MacNativeGames",
       "desc": "",
       "lang": "C",
-      "stars": 3883,
-      "forks": 543,
+      "stars": 4179,
+      "forks": 585,
       "created": "2026-10-17"
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/simbasjungles/free-my-tv",
       "desc": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
       "lang": "Java",
-      "stars": 2742,
-      "forks": 338,
+      "stars": 2946,
+      "forks": 375,
       "created": "2026-10-19"
     },
     {
@@ -43,44 +43,53 @@
       "url": "https://github.com/pengchujin/aerial-tv",
       "desc": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
       "lang": "Kotlin",
-      "stars": 2115,
-      "forks": 154,
+      "stars": 2663,
+      "forks": 191,
       "created": "2026-10-20"
+    },
+    {
+      "repo": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "desc": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1529 知识点、6263 题、自适应诊断",
+      "lang": "Python",
+      "stars": 2113,
+      "forks": 486,
+      "created": "2026-10-18"
     },
     {
       "repo": "Leonxlnx/earshot",
       "url": "https://github.com/Leonxlnx/earshot",
       "desc": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
       "lang": "Python",
-      "stars": 2052,
-      "forks": 116,
+      "stars": 2070,
+      "forks": 117,
       "created": "2026-10-15"
-    },
-    {
-      "repo": "xiaoyang111222/cn-math-taxonomy",
-      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "desc": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
-      "lang": "Python",
-      "stars": 1968,
-      "forks": 448,
-      "created": "2026-10-18"
     },
     {
       "repo": "chenglou/handwired",
       "url": "https://github.com/chenglou/handwired",
       "desc": "Turn your regular JavaScript code into a neural net.",
       "lang": "TypeScript",
-      "stars": 1874,
-      "forks": 155,
+      "stars": 1896,
+      "forks": 156,
       "created": "2026-10-15"
+    },
+    {
+      "repo": "tek-sys-hub/Rubix-lang",
+      "url": "https://github.com/tek-sys-hub/Rubix-lang",
+      "desc": "The 100% Pure x86-64 Assembly Systems Language",
+      "lang": "Assembly",
+      "stars": 1895,
+      "forks": 1,
+      "created": "2026-10-19"
     },
     {
       "repo": "Supermedo/uncharted_pc",
       "url": "https://github.com/Supermedo/uncharted_pc",
       "desc": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
       "lang": "C++",
-      "stars": 1792,
-      "forks": 96,
+      "stars": 1809,
+      "forks": 98,
       "created": "2026-10-15"
     },
     {
@@ -88,26 +97,17 @@
       "url": "https://github.com/JoasASantos/REA-Prompts",
       "desc": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
       "lang": "—",
-      "stars": 1343,
-      "forks": 201,
+      "stars": 1401,
+      "forks": 211,
       "created": "2026-10-19"
-    },
-    {
-      "repo": "aicodeking/leanrea",
-      "url": "https://github.com/aicodeking/leanrea",
-      "desc": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
-      "lang": "Python",
-      "stars": 1294,
-      "forks": 194,
-      "created": "2026-10-17"
     },
     {
       "repo": "OpenMOSS/MOSS-Image",
       "url": "https://github.com/OpenMOSS/MOSS-Image",
       "desc": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
       "lang": "Python",
-      "stars": 1290,
-      "forks": 64,
+      "stars": 1359,
+      "forks": 68,
       "created": "2026-10-16"
     },
     {
@@ -115,8 +115,35 @@
       "url": "https://github.com/alchaincyf/huashu-motion",
       "desc": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
       "lang": "JavaScript",
-      "stars": 1278,
-      "forks": 126,
+      "stars": 1343,
+      "forks": 132,
+      "created": "2026-10-18"
+    },
+    {
+      "repo": "aicodeking/leanrea",
+      "url": "https://github.com/aicodeking/leanrea",
+      "desc": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+      "lang": "Python",
+      "stars": 1323,
+      "forks": 201,
+      "created": "2026-10-17"
+    },
+    {
+      "repo": "ikow/php2shell-poc",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "desc": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+      "lang": "Python",
+      "stars": 1283,
+      "forks": 465,
+      "created": "2026-10-21"
+    },
+    {
+      "repo": "humblemuzzu/dumbtv",
+      "url": "https://github.com/humblemuzzu/dumbtv",
+      "desc": "",
+      "lang": "JavaScript",
+      "stars": 1210,
+      "forks": 100,
       "created": "2026-10-18"
     },
     {
@@ -124,17 +151,8 @@
       "url": "https://github.com/Ansub/tv-detox",
       "desc": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
       "lang": "Java",
-      "stars": 1170,
-      "forks": 116,
-      "created": "2026-10-18"
-    },
-    {
-      "repo": "humblemuzzu/dumbtv",
-      "url": "https://github.com/humblemuzzu/dumbtv",
-      "desc": "",
-      "lang": "JavaScript",
-      "stars": 1161,
-      "forks": 98,
+      "stars": 1204,
+      "forks": 121,
       "created": "2026-10-18"
     },
     {
@@ -142,8 +160,8 @@
       "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
       "desc": "",
       "lang": "Python",
-      "stars": 1127,
-      "forks": 96,
+      "stars": 1144,
+      "forks": 95,
       "created": "2026-10-15"
     },
     {
@@ -151,44 +169,17 @@
       "url": "https://github.com/xscreensaver-official/xscreensaver",
       "desc": "There is no official XScreenSaver GitHub repository.",
       "lang": "—",
-      "stars": 1127,
+      "stars": 1131,
       "forks": 33,
       "created": "2026-10-16"
-    },
-    {
-      "repo": "LiCinCan/blender-ai-mcp-addon",
-      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
-      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy",
-      "lang": "Python",
-      "stars": 975,
-      "forks": 389,
-      "created": "2026-10-15"
-    },
-    {
-      "repo": "ikow/php2shell-poc",
-      "url": "https://github.com/ikow/php2shell-poc",
-      "desc": "CVE-2026-109618/109619 PHP session.upload_progress Exploit Research — POC & Analysis",
-      "lang": "Python",
-      "stars": 972,
-      "forks": 341,
-      "created": "2026-10-21"
     },
     {
       "repo": "ctresb/leis",
       "url": "https://github.com/ctresb/leis",
       "desc": "Todas as leis do Brasil",
       "lang": "—",
-      "stars": 964,
-      "forks": 142,
-      "created": "2026-10-15"
-    },
-    {
-      "repo": "feder-cr/git-ai",
-      "url": "https://github.com/feder-cr/git-ai",
-      "desc": "Git designed for AI agents.",
-      "lang": "Go",
-      "stars": 916,
-      "forks": 84,
+      "stars": 1073,
+      "forks": 157,
       "created": "2026-10-15"
     },
     {
@@ -196,17 +187,35 @@
       "url": "https://github.com/reason-machines/reason-network",
       "desc": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
       "lang": "Rust",
-      "stars": 915,
-      "forks": 73,
+      "stars": 985,
+      "forks": 82,
       "created": "2026-10-16"
+    },
+    {
+      "repo": "LiCinCan/blender-ai-mcp-addon",
+      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+      "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy",
+      "lang": "Python",
+      "stars": 976,
+      "forks": 390,
+      "created": "2026-10-15"
+    },
+    {
+      "repo": "feder-cr/git-ai",
+      "url": "https://github.com/feder-cr/git-ai",
+      "desc": "Git designed for AI agents.",
+      "lang": "Go",
+      "stars": 930,
+      "forks": 86,
+      "created": "2026-10-15"
     },
     {
       "repo": "Noniv/web-ocean",
       "url": "https://github.com/Noniv/web-ocean",
       "desc": "Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whitecaps, sun glitter, physically based sunset sky with clouds, free camera. Built with Claude Code (Opus 5.5). Opens from ",
       "lang": "HTML",
-      "stars": 846,
-      "forks": 132,
+      "stars": 860,
+      "forks": 134,
       "created": "2026-10-16"
     },
     {
@@ -214,8 +223,8 @@
       "url": "https://github.com/cranebeaker/coop-anything",
       "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what",
       "lang": "Python",
-      "stars": 795,
-      "forks": 100,
+      "stars": 809,
+      "forks": 104,
       "created": "2026-10-16"
     },
     {
@@ -223,8 +232,8 @@
       "url": "https://github.com/zcbacxc/mcd-party-planner",
       "desc": "麦当劳 MCP 聚会/团餐组织助手 — 基于 Model Context Protocol 的派对预订与团餐规划 CLI/Skill",
       "lang": "Python",
-      "stars": 782,
-      "forks": 45,
+      "stars": 796,
+      "forks": 48,
       "created": "2026-10-15"
     },
     {
@@ -232,35 +241,17 @@
       "url": "https://github.com/eagle-hq/EAGLE-4",
       "desc": "Official Inference Code of EAGLE-4",
       "lang": "Python",
-      "stars": 731,
-      "forks": 18,
+      "stars": 785,
+      "forks": 21,
       "created": "2026-10-20"
-    },
-    {
-      "repo": "mistralai/timestral",
-      "url": "https://github.com/mistralai/timestral",
-      "desc": "Repository for Timestral, the time-series foundation model by Mistral AI",
-      "lang": "Python",
-      "stars": 724,
-      "forks": 53,
-      "created": "2026-10-15"
-    },
-    {
-      "repo": "stackedlol/ascii-sharks",
-      "url": "https://github.com/stackedlol/ascii-sharks",
-      "desc": "ascii shark components in typescript",
-      "lang": "TypeScript",
-      "stars": 718,
-      "forks": 53,
-      "created": "2026-10-19"
     },
     {
       "repo": "ELY-Open-Source/ElyOffice",
       "url": "https://github.com/ELY-Open-Source/ElyOffice",
       "desc": "Ely Office: offline-first desktop apps in Rust and GPUI",
       "lang": "Rust",
-      "stars": 718,
-      "forks": 45,
+      "stars": 778,
+      "forks": 50,
       "created": "2026-10-19"
     },
     {
@@ -268,9 +259,18 @@
       "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
       "desc": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes onl",
       "lang": "Shell",
-      "stars": 594,
-      "forks": 104,
+      "stars": 741,
+      "forks": 161,
       "created": "2026-10-21"
+    },
+    {
+      "repo": "stackedlol/ascii-sharks",
+      "url": "https://github.com/stackedlol/ascii-sharks",
+      "desc": "ascii shark components in typescript",
+      "lang": "TypeScript",
+      "stars": 740,
+      "forks": 56,
+      "created": "2026-10-19"
     }
   ],
   "note": ""

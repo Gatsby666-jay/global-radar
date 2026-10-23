@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23 09:13:31",
+  "updated_at": "2026-10-23 16:59:50",
   "window_days": 7,
   "repos": [
     {
@@ -7,8 +7,8 @@
       "url": "https://github.com/Gathin23/cleanyourtv",
       "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
       "lang": "Java",
-      "stars": 24140,
-      "forks": 2648,
+      "stars": 25798,
+      "forks": 2827,
       "created": "2026-10-17"
     },
     {
@@ -16,8 +16,8 @@
       "url": "https://github.com/deepseek-ai/DeepInfer",
       "desc": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
       "lang": "Python",
-      "stars": 19896,
-      "forks": 2124,
+      "stars": 20438,
+      "forks": 2207,
       "created": "2026-10-16"
     },
     {
@@ -25,8 +25,8 @@
       "url": "https://github.com/ly05010419/MacNativeGames",
       "desc": "",
       "lang": "C",
-      "stars": 4484,
-      "forks": 637,
+      "stars": 4679,
+      "forks": 660,
       "created": "2026-10-17"
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/simbasjungles/free-my-tv",
       "desc": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
       "lang": "Java",
-      "stars": 3444,
-      "forks": 482,
+      "stars": 3630,
+      "forks": 519,
       "created": "2026-10-19"
     },
     {
@@ -43,8 +43,8 @@
       "url": "https://github.com/pengchujin/aerial-tv",
       "desc": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
       "lang": "Kotlin",
-      "stars": 3114,
-      "forks": 221,
+      "stars": 3505,
+      "forks": 255,
       "created": "2026-10-20"
     },
     {
@@ -52,8 +52,8 @@
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
       "desc": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
       "lang": "Python",
-      "stars": 2202,
-      "forks": 510,
+      "stars": 2509,
+      "forks": 572,
       "created": "2026-10-18"
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://github.com/tek-sys-hub/Rubix-lang",
       "desc": "The 100% Pure x86-64 Assembly Systems Language",
       "lang": "Assembly",
-      "stars": 1902,
-      "forks": 2,
+      "stars": 1908,
+      "forks": 6,
       "created": "2026-10-19"
     },
     {
@@ -70,35 +70,35 @@
       "url": "https://github.com/ikow/php2shell-poc",
       "desc": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
       "lang": "Python",
-      "stars": 1527,
-      "forks": 544,
+      "stars": 1612,
+      "forks": 566,
       "created": "2026-10-21"
-    },
-    {
-      "repo": "JoasASantos/REA-Prompts",
-      "url": "https://github.com/JoasASantos/REA-Prompts",
-      "desc": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
-      "lang": "—",
-      "stars": 1484,
-      "forks": 222,
-      "created": "2026-10-19"
     },
     {
       "repo": "OpenMOSS/MOSS-Image",
       "url": "https://github.com/OpenMOSS/MOSS-Image",
       "desc": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
       "lang": "Python",
-      "stars": 1464,
-      "forks": 71,
+      "stars": 1536,
+      "forks": 75,
       "created": "2026-10-16"
+    },
+    {
+      "repo": "JoasASantos/REA-Prompts",
+      "url": "https://github.com/JoasASantos/REA-Prompts",
+      "desc": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+      "lang": "—",
+      "stars": 1532,
+      "forks": 232,
+      "created": "2026-10-19"
     },
     {
       "repo": "alchaincyf/huashu-motion",
       "url": "https://github.com/alchaincyf/huashu-motion",
       "desc": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
       "lang": "JavaScript",
-      "stars": 1442,
-      "forks": 140,
+      "stars": 1490,
+      "forks": 146,
       "created": "2026-10-18"
     },
     {
@@ -106,26 +106,26 @@
       "url": "https://github.com/aicodeking/leanrea",
       "desc": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
       "lang": "Python",
-      "stars": 1367,
-      "forks": 206,
+      "stars": 1467,
+      "forks": 219,
       "created": "2026-10-17"
-    },
-    {
-      "repo": "humblemuzzu/dumbtv",
-      "url": "https://github.com/humblemuzzu/dumbtv",
-      "desc": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
-      "lang": "Java",
-      "stars": 1305,
-      "forks": 110,
-      "created": "2026-10-18"
     },
     {
       "repo": "Ansub/tv-detox",
       "url": "https://github.com/Ansub/tv-detox",
       "desc": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
       "lang": "Java",
-      "stars": 1289,
-      "forks": 131,
+      "stars": 1322,
+      "forks": 132,
+      "created": "2026-10-18"
+    },
+    {
+      "repo": "humblemuzzu/dumbtv",
+      "url": "https://github.com/humblemuzzu/dumbtv",
+      "desc": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
+      "lang": "Java",
+      "stars": 1315,
+      "forks": 113,
       "created": "2026-10-18"
     },
     {
@@ -133,7 +133,7 @@
       "url": "https://github.com/xscreensaver-official/xscreensaver",
       "desc": "There is no official XScreenSaver GitHub repository.",
       "lang": "—",
-      "stars": 1147,
+      "stars": 1152,
       "forks": 32,
       "created": "2026-10-16"
     },
@@ -142,8 +142,8 @@
       "url": "https://github.com/reason-machines/reason-network",
       "desc": "Reason Network: your team's coding agents, talking to each other. The engine behind `reason network`.",
       "lang": "Rust",
-      "stars": 1071,
-      "forks": 87,
+      "stars": 1112,
+      "forks": 91,
       "created": "2026-10-16"
     },
     {
@@ -151,53 +151,53 @@
       "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
       "desc": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
       "lang": "Python",
-      "stars": 958,
-      "forks": 340,
+      "stars": 1016,
+      "forks": 354,
       "created": "2026-10-21"
+    },
+    {
+      "repo": "EthanArbuckle/fairplay-decrypt",
+      "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
+      "desc": "Offline FairPlay App Store IPA decryption with independent key derivation",
+      "lang": "C",
+      "stars": 953,
+      "forks": 147,
+      "created": "2026-10-19"
     },
     {
       "repo": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
       "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
       "desc": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes onl",
       "lang": "Shell",
-      "stars": 891,
-      "forks": 213,
+      "stars": 920,
+      "forks": 224,
       "created": "2026-10-21"
-    },
-    {
-      "repo": "Noniv/web-ocean",
-      "url": "https://github.com/Noniv/web-ocean",
-      "desc": "Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whitecaps, sun glitter, physically based sunset sky with clouds, free camera. Built with Claude Code (Opus 5.5). Opens from ",
-      "lang": "HTML",
-      "stars": 883,
-      "forks": 138,
-      "created": "2026-10-16"
-    },
-    {
-      "repo": "eagle-hq/EAGLE-4",
-      "url": "https://github.com/eagle-hq/EAGLE-4",
-      "desc": "Official Inference Code of EAGLE-4",
-      "lang": "Python",
-      "stars": 871,
-      "forks": 25,
-      "created": "2026-10-20"
     },
     {
       "repo": "ELY-Open-Source/ElyOffice",
       "url": "https://github.com/ELY-Open-Source/ElyOffice",
       "desc": "Ely Office: offline-first desktop apps in Rust and GPUI",
       "lang": "Rust",
-      "stars": 870,
-      "forks": 55,
+      "stars": 905,
+      "forks": 57,
       "created": "2026-10-19"
     },
     {
-      "repo": "cranebeaker/coop-anything",
-      "url": "https://github.com/cranebeaker/coop-anything",
-      "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what",
+      "repo": "eagle-hq/EAGLE-4",
+      "url": "https://github.com/eagle-hq/EAGLE-4",
+      "desc": "Official Inference Code of EAGLE-4",
       "lang": "Python",
-      "stars": 842,
-      "forks": 113,
+      "stars": 897,
+      "forks": 28,
+      "created": "2026-10-20"
+    },
+    {
+      "repo": "Noniv/web-ocean",
+      "url": "https://github.com/Noniv/web-ocean",
+      "desc": "Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whitecaps, sun glitter, physically based sunset sky with clouds, free camera. Built with Claude Code (Opus 5.5). Opens from ",
+      "lang": "HTML",
+      "stars": 892,
+      "forks": 141,
       "created": "2026-10-16"
     },
     {
@@ -205,8 +205,26 @@
       "url": "https://github.com/openai/php2shell-checker",
       "desc": "",
       "lang": "JavaScript",
-      "stars": 823,
-      "forks": 81,
+      "stars": 868,
+      "forks": 87,
+      "created": "2026-10-21"
+    },
+    {
+      "repo": "cranebeaker/coop-anything",
+      "url": "https://github.com/cranebeaker/coop-anything",
+      "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what",
+      "lang": "Python",
+      "stars": 866,
+      "forks": 118,
+      "created": "2026-10-16"
+    },
+    {
+      "repo": "colinhacks/reylo",
+      "url": "https://github.com/colinhacks/reylo",
+      "desc": "Import .sql files into TypeScript with full type inference and zero codegen.",
+      "lang": "Rust",
+      "stars": 825,
+      "forks": 7,
       "created": "2026-10-21"
     },
     {
@@ -214,8 +232,8 @@
       "url": "https://github.com/UniXNU/UniXNU",
       "desc": "Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
       "lang": "Python",
-      "stars": 774,
-      "forks": 122,
+      "stars": 816,
+      "forks": 132,
       "created": "2026-10-19"
     },
     {
@@ -223,54 +241,36 @@
       "url": "https://github.com/stackedlol/ascii-sharks",
       "desc": "ascii shark components in typescript",
       "lang": "TypeScript",
-      "stars": 767,
-      "forks": 60,
+      "stars": 775,
+      "forks": 61,
       "created": "2026-10-19"
     },
     {
-      "repo": "colinhacks/reylo",
-      "url": "https://github.com/colinhacks/reylo",
-      "desc": "Import .sql files into TypeScript with full type inference and zero codegen.",
-      "lang": "Rust",
-      "stars": 673,
-      "forks": 3,
-      "created": "2026-10-21"
-    },
-    {
-      "repo": "NVIDIA/flare-local-inference",
-      "url": "https://github.com/NVIDIA/flare-local-inference",
-      "desc": "",
-      "lang": "Python",
-      "stars": 608,
-      "forks": 60,
-      "created": "2026-10-20"
-    },
-    {
-      "repo": "Hugo-Dz/spritefusion-sprite-normals",
-      "url": "https://github.com/Hugo-Dz/spritefusion-sprite-normals",
-      "desc": "A tool to generate normal maps from any sprite and animated sprite sheet.",
-      "lang": "Rust",
-      "stars": 606,
-      "forks": 45,
-      "created": "2026-10-19"
-    },
-    {
-      "repo": "c22dev/mush8",
-      "url": "https://github.com/c22dev/mush8",
-      "desc": "A native Mach-O iOS/macOS port of Mario Kart 8 Deluxe, with LAN, online and wireless multiplayer",
-      "lang": "Rust",
-      "stars": 597,
-      "forks": 108,
+      "repo": "Revivedx/SavageWindRecomp",
+      "url": "https://github.com/Revivedx/SavageWindRecomp",
+      "desc": "Work-in-progress static recompilation of The Legend of Zelda: Breath of the Wild (Switch, v1.8.2) for Windows and Linux. Bring your own dump: no game files, keys or dumping tools included.",
+      "lang": "C",
+      "stars": 765,
+      "forks": 34,
       "created": "2026-10-16"
     },
     {
-      "repo": "dominikmartn/harp",
-      "url": "https://github.com/dominikmartn/harp",
-      "desc": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
-      "lang": "Rust",
-      "stars": 583,
-      "forks": 38,
-      "created": "2026-10-20"
+      "repo": "oosexgang/hackios-xnu-kernel",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "desc": "",
+      "lang": "C",
+      "stars": 747,
+      "forks": 131,
+      "created": "2026-10-22"
+    },
+    {
+      "repo": "wesbos/3d-model-anything",
+      "url": "https://github.com/wesbos/3d-model-anything",
+      "desc": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+      "lang": "Swift",
+      "stars": 686,
+      "forks": 116,
+      "created": "2026-10-21"
     }
   ],
   "note": ""

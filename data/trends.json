@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23 23:37:52",
+  "updated_at": "2026-10-24 09:23:07",
   "platforms": {
     "appstore": {
       "name": "App Store 美国区免费榜",
@@ -41,74 +41,29 @@
           "delta": 0
         },
         {
-          "name": "BigFuture School",
-          "title": "BigFuture School",
-          "url": "https://apps.apple.com/us/app/bigfuture-school/id6462904878?uo=2",
-          "category": "Education",
-          "rank": 5,
-          "signal": "same",
-          "delta": 0
-        },
-        {
           "name": "ChatGPT",
           "title": "ChatGPT",
           "url": "https://apps.apple.com/us/app/chatgpt/id6448311069?uo=2",
           "category": "Productivity",
-          "rank": 6,
-          "signal": "same",
-          "delta": 0
+          "rank": 5,
+          "signal": "up",
+          "delta": 1
         },
         {
-          "name": "Trump Accounts: Official App",
-          "title": "Trump Accounts: Official App",
-          "url": "https://apps.apple.com/us/app/trump-accounts-official-app/id6767364919?uo=2",
-          "category": "Finance",
-          "rank": 7,
-          "signal": "same",
-          "delta": 0
+          "name": "BigFuture School",
+          "title": "BigFuture School",
+          "url": "https://apps.apple.com/us/app/bigfuture-school/id6462904878?uo=2",
+          "category": "Education",
+          "rank": 6,
+          "signal": "down",
+          "delta": 1
         },
         {
           "name": "Claude by Anthropic",
           "title": "Claude by Anthropic",
           "url": "https://apps.apple.com/us/app/claude-by-anthropic/id6473753684?uo=2",
           "category": "Productivity",
-          "rank": 8,
-          "signal": "up",
-          "delta": 1
-        },
-        {
-          "name": "Amazon Prime Video",
-          "title": "Amazon Prime Video",
-          "url": "https://apps.apple.com/us/app/amazon-prime-video/id545519333?uo=2",
-          "category": "Entertainment",
-          "rank": 9,
-          "signal": "down",
-          "delta": 1
-        },
-        {
-          "name": "Kalshi: Trade Football & more",
-          "title": "Kalshi: Trade Football & more",
-          "url": "https://apps.apple.com/us/app/kalshi-trade-football-more/id1632713844?uo=2",
-          "category": "Finance",
-          "rank": 10,
-          "signal": "same",
-          "delta": 0
-        },
-        {
-          "name": "Google Gemini",
-          "title": "Google Gemini",
-          "url": "https://apps.apple.com/us/app/google-gemini/id6477489729?uo=2",
-          "category": "Productivity",
-          "rank": 11,
-          "signal": "up",
-          "delta": 1
-        },
-        {
-          "name": "Threads",
-          "title": "Threads",
-          "url": "https://apps.apple.com/us/app/threads/id6446901002?uo=2",
-          "category": "Social Networking",
-          "rank": 12,
+          "rank": 7,
           "signal": "up",
           "delta": 1
         },
@@ -117,16 +72,43 @@
           "title": "McDonald's",
           "url": "https://apps.apple.com/us/app/mcdonalds/id922103212?uo=2",
           "category": "Food & Drink",
-          "rank": 13,
-          "signal": "down",
+          "rank": 8,
+          "signal": "up",
+          "delta": 5
+        },
+        {
+          "name": "Google Gemini",
+          "title": "Google Gemini",
+          "url": "https://apps.apple.com/us/app/google-gemini/id6477489729?uo=2",
+          "category": "Productivity",
+          "rank": 9,
+          "signal": "up",
           "delta": 2
         },
         {
-          "name": "PineDrama - Short Dramas",
-          "title": "PineDrama - Short Dramas",
-          "url": "https://apps.apple.com/us/app/pinedrama-short-dramas/id6754134922?uo=2",
-          "category": "Entertainment",
-          "rank": 14,
+          "name": "Trump Accounts: Official App",
+          "title": "Trump Accounts: Official App",
+          "url": "https://apps.apple.com/us/app/trump-accounts-official-app/id6767364919?uo=2",
+          "category": "Finance",
+          "rank": 10,
+          "signal": "down",
+          "delta": 3
+        },
+        {
+          "name": "Kalshi: Trade Football & more",
+          "title": "Kalshi: Trade Football & more",
+          "url": "https://apps.apple.com/us/app/kalshi-trade-football-more/id1632713844?uo=2",
+          "category": "Finance",
+          "rank": 11,
+          "signal": "down",
+          "delta": 1
+        },
+        {
+          "name": "Threads",
+          "title": "Threads",
+          "url": "https://apps.apple.com/us/app/threads/id6446901002?uo=2",
+          "category": "Social Networking",
+          "rank": 12,
           "signal": "same",
           "delta": 0
         },
@@ -135,99 +117,117 @@
           "title": "CapCut: Photo & Video Editor",
           "url": "https://apps.apple.com/us/app/capcut-photo-video-editor/id1500855883?uo=2",
           "category": "Photo & Video",
-          "rank": 15,
-          "signal": "same",
-          "delta": 0
+          "rank": 13,
+          "signal": "up",
+          "delta": 2
         },
         {
           "name": "Google",
           "title": "Google",
           "url": "https://apps.apple.com/us/app/google/id284815942?uo=2",
           "category": "Utilities",
-          "rank": 16,
-          "signal": "same",
-          "delta": 0
-        },
-        {
-          "name": "Depop - Buy & Sell Clothes",
-          "title": "Depop - Buy & Sell Clothes",
-          "url": "https://apps.apple.com/us/app/depop-buy-sell-clothes/id518684914?uo=2",
-          "category": "Shopping",
-          "rank": 17,
-          "signal": "same",
-          "delta": 0
+          "rank": 14,
+          "signal": "up",
+          "delta": 2
         },
         {
           "name": "Gmail - Email by Google",
           "title": "Gmail - Email by Google",
           "url": "https://apps.apple.com/us/app/gmail-email-by-google/id422689480?uo=2",
           "category": "Productivity",
-          "rank": 18,
+          "rank": 15,
           "signal": "up",
-          "delta": 1
-        },
-        {
-          "name": "Temu: Shop Like a Billionaire",
-          "title": "Temu: Shop Like a Billionaire",
-          "url": "https://apps.apple.com/us/app/temu-shop-like-a-billionaire/id1641486558?uo=2",
-          "category": "Shopping",
-          "rank": 19,
-          "signal": "down",
-          "delta": 1
+          "delta": 3
         },
         {
           "name": "WhatsApp Messenger",
           "title": "WhatsApp Messenger",
           "url": "https://apps.apple.com/us/app/whatsapp-messenger/id310633997?uo=2",
           "category": "Social Networking",
-          "rank": 20,
-          "signal": "same",
-          "delta": 0
-        },
-        {
-          "name": "BlinkDrama - Short Dramas",
-          "title": "BlinkDrama - Short Dramas",
-          "url": "https://apps.apple.com/us/app/blinkdrama-short-dramas/id6768593043?uo=2",
-          "category": "Entertainment",
-          "rank": 21,
+          "rank": 16,
           "signal": "up",
-          "delta": 3
-        },
-        {
-          "name": "Google Maps",
-          "title": "Google Maps",
-          "url": "https://apps.apple.com/us/app/google-maps/id585027354?uo=2",
-          "category": "Navigation",
-          "rank": 22,
-          "signal": "up",
-          "delta": 3
-        },
-        {
-          "name": "Capital One Shopping: Save Now",
-          "title": "Capital One Shopping: Save Now",
-          "url": "https://apps.apple.com/us/app/capital-one-shopping-save-now/id1089294040?uo=2",
-          "category": "Shopping",
-          "rank": 23,
-          "signal": "same",
-          "delta": 0
-        },
-        {
-          "name": "StoryReel: Drama Shorts & TV",
-          "title": "StoryReel: Drama Shorts & TV",
-          "url": "https://apps.apple.com/us/app/storyreel-drama-shorts-tv/id6761538521?uo=2",
-          "category": "Entertainment",
-          "rank": 24,
-          "signal": "new",
-          "delta": null
+          "delta": 4
         },
         {
           "name": "TikTok - Videos, Shop & LIVE",
           "title": "TikTok - Videos, Shop & LIVE",
           "url": "https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320?uo=2",
           "category": "Entertainment",
-          "rank": 25,
+          "rank": 17,
+          "signal": "up",
+          "delta": 8
+        },
+        {
+          "name": "PineDrama - Short Dramas",
+          "title": "PineDrama - Short Dramas",
+          "url": "https://apps.apple.com/us/app/pinedrama-short-dramas/id6754134922?uo=2",
+          "category": "Entertainment",
+          "rank": 18,
+          "signal": "down",
+          "delta": 4
+        },
+        {
+          "name": "Amazon Prime Video",
+          "title": "Amazon Prime Video",
+          "url": "https://apps.apple.com/us/app/amazon-prime-video/id545519333?uo=2",
+          "category": "Entertainment",
+          "rank": 19,
+          "signal": "down",
+          "delta": 10
+        },
+        {
+          "name": "Google Maps",
+          "title": "Google Maps",
+          "url": "https://apps.apple.com/us/app/google-maps/id585027354?uo=2",
+          "category": "Navigation",
+          "rank": 20,
+          "signal": "up",
+          "delta": 2
+        },
+        {
+          "name": "Instagram",
+          "title": "Instagram",
+          "url": "https://apps.apple.com/us/app/instagram/id389801252?uo=2",
+          "category": "Photo & Video",
+          "rank": 21,
           "signal": "new",
           "delta": null
+        },
+        {
+          "name": "Facebook",
+          "title": "Facebook",
+          "url": "https://apps.apple.com/us/app/facebook/id284882215?uo=2",
+          "category": "Social Networking",
+          "rank": 22,
+          "signal": "new",
+          "delta": null
+        },
+        {
+          "name": "YouTube",
+          "title": "YouTube",
+          "url": "https://apps.apple.com/us/app/youtube/id544007664?uo=2",
+          "category": "Photo & Video",
+          "rank": 23,
+          "signal": "new",
+          "delta": null
+        },
+        {
+          "name": "Microsoft Teams",
+          "title": "Microsoft Teams",
+          "url": "https://apps.apple.com/us/app/microsoft-teams/id1113153706?uo=2",
+          "category": "Business",
+          "rank": 24,
+          "signal": "new",
+          "delta": null
+        },
+        {
+          "name": "Capital One Shopping: Save Now",
+          "title": "Capital One Shopping: Save Now",
+          "url": "https://apps.apple.com/us/app/capital-one-shopping-save-now/id1089294040?uo=2",
+          "category": "Shopping",
+          "rank": 25,
+          "signal": "down",
+          "delta": 2
         }
       ]
     },
@@ -235,254 +235,204 @@
       "name": "Bilibili 全站热门榜",
       "items": [
         {
-          "name": "BV1xrnz6gEVD",
-          "title": "折1万次，会坏吗？iPhone Duo深度评测",
-          "url": "https://www.bilibili.com/video/BV1xrnz6gEVD",
-          "author": "影视飓风",
-          "views": 6606289,
+          "name": "BV1C8nH69Ekq",
+          "title": "《洛克王国：世界》S5赛季「圣龙宝藏」PV首曝，11月5日冒险启程！",
+          "url": "https://www.bilibili.com/video/BV1C8nH69Ekq",
+          "author": "洛克王国世界",
+          "views": 1324494,
           "rank": 1,
-          "signal": "same",
-          "delta": 0
+          "signal": "new",
+          "delta": null
         },
         {
-          "name": "BV1AHnB6NEhM",
-          "title": "《影之刃零》最终预告",
-          "url": "https://www.bilibili.com/video/BV1AHnB6NEhM",
-          "author": "影之刃零",
-          "views": 4948213,
+          "name": "BV1G1nb6oExa",
+          "title": "有用版新植物：野狗小喷菇",
+          "url": "https://www.bilibili.com/video/BV1G1nb6oExa",
+          "author": "小易EXS",
+          "views": 630616,
           "rank": 2,
-          "signal": "up",
-          "delta": 1
+          "signal": "new",
+          "delta": null
         },
         {
-          "name": "BV1xwnE6jEUZ",
-          "title": "传统口技表演《大闹天宫》",
-          "url": "https://www.bilibili.com/video/BV1xwnE6jEUZ",
-          "author": "BBoxer酋长",
-          "views": 1394292,
+          "name": "BV17pnp6EEen",
+          "title": "警告！别跟海绵宝宝学做蟹黄堡！！",
+          "url": "https://www.bilibili.com/video/BV17pnp6EEen",
+          "author": "上班族的便当",
+          "views": 572009,
           "rank": 3,
           "signal": "new",
           "delta": null
         },
         {
-          "name": "BV1Ranw6DEYW",
-          "title": "《人间异想计划》22分钟实机首曝｜间章：如果之事与未践之约",
-          "url": "https://www.bilibili.com/video/BV1Ranw6DEYW",
-          "author": "人间异想计划",
-          "views": 6061544,
+          "name": "BV14Snw6gEjL",
+          "title": "【独家】时光代理人 第三季 PartOne 第12集 欢迎回家【8月国创】",
+          "url": "https://www.bilibili.com/video/BV14Snw6gEjL",
+          "author": "哔哩哔哩国创",
+          "views": 1408613,
           "rank": 4,
-          "signal": "up",
-          "delta": 6
+          "signal": "new",
+          "delta": null
         },
         {
-          "name": "BV1SknF6KE5g",
-          "title": "《绝区零》菲欧妮EP | 1% Battery Girl 低电量女孩",
-          "url": "https://www.bilibili.com/video/BV1SknF6KE5g",
-          "author": "绝区零",
-          "views": 3206510,
+          "name": "BV166nW6REyR",
+          "title": "“大肥鱼适合做女朋友吗？”",
+          "url": "https://www.bilibili.com/video/BV166nW6REyR",
+          "author": "学姐圆",
+          "views": 1016809,
           "rank": 5,
-          "signal": "down",
-          "delta": 3
-        },
-        {
-          "name": "BV1ALnw6YE4S",
-          "title": "我得到了，能看到表白率的超能力……",
-          "url": "https://www.bilibili.com/video/BV1ALnw6YE4S",
-          "author": "Mr-Ferret",
-          "views": 3170193,
-          "rank": 6,
-          "signal": "same",
-          "delta": 0
-        },
-        {
-          "name": "BV1Xdnc6jEbL",
-          "title": "中文已死：为什么我们越来越不敢好好说话？",
-          "url": "https://www.bilibili.com/video/BV1Xdnc6jEbL",
-          "author": "大圆镜科普",
-          "views": 2193063,
-          "rank": 7,
-          "signal": "down",
-          "delta": 3
-        },
-        {
-          "name": "BV1bKnw6zEsV",
-          "title": "大难不死的男孩爱上纯血家族的女孩【AI全民制作人】",
-          "url": "https://www.bilibili.com/video/BV1bKnw6zEsV",
-          "author": "Foyege弗曳哥",
-          "views": 2257898,
-          "rank": 8,
-          "signal": "down",
-          "delta": 3
-        },
-        {
-          "name": "BV1mgnP6yELh",
-          "title": "《南屏晚钟》来啦！",
-          "url": "https://www.bilibili.com/video/BV1mgnP6yELh",
-          "author": "李诺Noomi",
-          "views": 2763962,
-          "rank": 9,
-          "signal": "down",
-          "delta": 1
-        },
-        {
-          "name": "BV1n7nF6WEco",
-          "title": "《三过车门而不入》",
-          "url": "https://www.bilibili.com/video/BV1n7nF6WEco",
-          "author": "伤心欲茄222",
-          "views": 3289114,
-          "rank": 10,
-          "signal": "down",
-          "delta": 3
-        },
-        {
-          "name": "BV15ins67ERt",
-          "title": "这个更新有亿点水——《伊莫》S1赛季「逐风启程・下」10月29日开启！",
-          "url": "https://www.bilibili.com/video/BV15ins67ERt",
-          "author": "伊莫",
-          "views": 2665229,
-          "rank": 11,
-          "signal": "up",
-          "delta": 5
+          "signal": "new",
+          "delta": null
         },
         {
           "name": "BV1z9nt6aE5H",
           "title": "《原神》7.2版本PV：「坏灭肇始之时」",
           "url": "https://www.bilibili.com/video/BV1z9nt6aE5H",
           "author": "原神",
-          "views": 884845,
+          "views": 1443239,
+          "rank": 6,
+          "signal": "up",
+          "delta": 6
+        },
+        {
+          "name": "BV1xwnE6jEUZ",
+          "title": "传统口技表演《大闹天宫》",
+          "url": "https://www.bilibili.com/video/BV1xwnE6jEUZ",
+          "author": "BBoxer酋长",
+          "views": 1834272,
+          "rank": 7,
+          "signal": "down",
+          "delta": 4
+        },
+        {
+          "name": "BV1bAnp6wEap",
+          "title": "当男摄和女摄相遇……",
+          "url": "https://www.bilibili.com/video/BV1bAnp6wEap",
+          "author": "摄影师乌鸦Jewey",
+          "views": 1701048,
+          "rank": 8,
+          "signal": "new",
+          "delta": null
+        },
+        {
+          "name": "BV1yjnm68Eud",
+          "title": "为了妈妈，全校老师同学最团结的一集",
+          "url": "https://www.bilibili.com/video/BV1yjnm68Eud",
+          "author": "良田田田",
+          "views": 2807888,
+          "rank": 9,
+          "signal": "new",
+          "delta": null
+        },
+        {
+          "name": "BV14Enb6LEDe",
+          "title": "人工耳蜗里的声音，到底是什么样的？",
+          "url": "https://www.bilibili.com/video/BV14Enb6LEDe",
+          "author": "亿点点不一样",
+          "views": 1086739,
+          "rank": 10,
+          "signal": "new",
+          "delta": null
+        },
+        {
+          "name": "BV12qnt6VEM1",
+          "title": "人性、欲望与奇观，自驾拉斯维加斯，现实夜之城什么样？",
+          "url": "https://www.bilibili.com/video/BV12qnt6VEM1",
+          "author": "超Carry的柴西",
+          "views": 296532,
+          "rank": 11,
+          "signal": "new",
+          "delta": null
+        },
+        {
+          "name": "BV1qVnN6hEGV",
+          "title": "我要这天 再也遮不住我的眼！！「谁是杀手」？？！",
+          "url": "https://www.bilibili.com/video/BV1qVnN6hEGV",
+          "author": "大炒面制造者Cen",
+          "views": 46220,
           "rank": 12,
           "signal": "new",
           "delta": null
         },
         {
-          "name": "BV1uanE6dErS",
-          "title": "联想词",
-          "url": "https://www.bilibili.com/video/BV1uanE6dErS",
-          "author": "赛博鸭子cyberduck",
-          "views": 4359558,
+          "name": "BV1Honn67ENm",
+          "title": "😨\"后室里的乌鲁鲁3\"😰",
+          "url": "https://www.bilibili.com/video/BV1Honn67ENm",
+          "author": "沙雕Sanscul",
+          "views": 404312,
           "rank": 13,
-          "signal": "down",
-          "delta": 1
+          "signal": "new",
+          "delta": null
         },
         {
-          "name": "BV1kTnr63EBF",
-          "title": "韩国要收回美国权力指挥美军",
-          "url": "https://www.bilibili.com/video/BV1kTnr63EBF",
-          "author": "燕三嘤嘤嘤",
-          "views": 1734705,
+          "name": "BV1oTnW67E4n",
+          "title": "11天，我们干掉祸害20多年的传销头目！",
+          "url": "https://www.bilibili.com/video/BV1oTnW67E4n",
+          "author": "温柔JUNZ",
+          "views": 292843,
           "rank": 14,
-          "signal": "down",
-          "delta": 1
+          "signal": "new",
+          "delta": null
         },
         {
-          "name": "BV1Cdni6AEQB",
-          "title": "用寂静岭的画风打开《周处除三害》【AI MV大赛】",
-          "url": "https://www.bilibili.com/video/BV1Cdni6AEQB",
-          "author": "ByeByeBlueBerry",
-          "views": 2126660,
+          "name": "BV16inH6SEvM",
+          "title": "影视飓风员工，开什么车？",
+          "url": "https://www.bilibili.com/video/BV16inH6SEvM",
+          "author": "极速拍档",
+          "views": 1277065,
           "rank": 15,
           "signal": "new",
           "delta": null
         },
         {
-          "name": "BV1DSnK6REdy",
-          "title": "电脑总是卡顿掉帧？原来是ACE 根本没有彻底卸载干净！",
-          "url": "https://www.bilibili.com/video/BV1DSnK6REdy",
-          "author": "宇浩玩数码",
-          "views": 1633732,
+          "name": "BV1i4nC6KE19",
+          "title": "我的手办还会动，这世道不会还有人没有会动的手办吧，不会吧不会吧",
+          "url": "https://www.bilibili.com/video/BV1i4nC6KE19",
+          "author": "叁肆鄧",
+          "views": 528016,
           "rank": 16,
-          "signal": "down",
-          "delta": 2
+          "signal": "new",
+          "delta": null
         },
         {
-          "name": "BV1nCnA6AEYB",
-          "title": "PCL出事了？那MC下载和联机，我们先顶上了",
-          "url": "https://www.bilibili.com/video/BV1nCnA6AEYB",
-          "author": "外星仔加速器",
-          "views": 1367485,
+          "name": "BV14Enb6LEBX",
+          "title": "《原神》7.2版本「坏灭肇始之时」前瞻特别节目",
+          "url": "https://www.bilibili.com/video/BV14Enb6LEBX",
+          "author": "原神",
+          "views": 969683,
           "rank": 17,
-          "signal": "down",
-          "delta": 6
+          "signal": "new",
+          "delta": null
         },
         {
-          "name": "BV1GBni61ELm",
-          "title": "现实可比电影荒谬多了！这些看似鬼扯的桥段，一查资料全是真事！",
-          "url": "https://www.bilibili.com/video/BV1GBni61ELm",
-          "author": "电影冷知识",
-          "views": 1614057,
+          "name": "BV1WEns6fEcZ",
+          "title": "在夜晚东京街头唱了《真夜中のドア〜stay with me》会穿越回泡沫经济时代吗？",
+          "url": "https://www.bilibili.com/video/BV1WEns6fEcZ",
+          "author": "鹿火CAVY",
+          "views": 822816,
           "rank": 18,
-          "signal": "up",
-          "delta": 1
+          "signal": "new",
+          "delta": null
         },
         {
-          "name": "BV1hqnF66Etz",
-          "title": "法国55万人大游行！但马克龙和夫人在跳舞",
-          "url": "https://www.bilibili.com/video/BV1hqnF66Etz",
-          "author": "麻薯波比呀",
-          "views": 2899471,
+          "name": "BV1ZynH65EzF",
+          "title": "我的手臂上长着4个按钮",
+          "url": "https://www.bilibili.com/video/BV1ZynH65EzF",
+          "author": "仙人掌TV",
+          "views": 517006,
           "rank": 19,
-          "signal": "down",
-          "delta": 10
+          "signal": "new",
+          "delta": null
         },
         {
-          "name": "BV1vWnT6aExJ",
-          "title": "当小傻龙在家里部署了一只大肥鱼……",
-          "url": "https://www.bilibili.com/video/BV1vWnT6aExJ",
-          "author": "小陈的脚凑凑的",
-          "views": 1468761,
+          "name": "BV1uant6mERH",
+          "title": "舒服了",
+          "url": "https://www.bilibili.com/video/BV1uant6mERH",
+          "author": "杨齐家_",
+          "views": 567927,
           "rank": 20,
           "signal": "new",
           "delta": null
-        },
-        {
-          "name": "BV1rFnc69EFU",
-          "title": "鼻塞疏通教程",
-          "url": "https://www.bilibili.com/video/BV1rFnc69EFU",
-          "author": "农民老杨_Shandong",
-          "views": 1717807,
-          "rank": 21,
-          "signal": "same",
-          "delta": 0
-        },
-        {
-          "name": "BV1Coni6aEiU",
-          "title": "史诗级发现，曼从中间劈开是MAN",
-          "url": "https://www.bilibili.com/video/BV1Coni6aEiU",
-          "author": "无酒二白",
-          "views": 1857969,
-          "rank": 22,
-          "signal": "same",
-          "delta": 0
-        },
-        {
-          "name": "BV1CFnz6MEmW",
-          "title": "《见面》",
-          "url": "https://www.bilibili.com/video/BV1CFnz6MEmW",
-          "author": "韩波格_",
-          "views": 2237398,
-          "rank": 23,
-          "signal": "same",
-          "delta": 0
-        },
-        {
-          "name": "BV1Agnr6gEPk",
-          "title": "小狗如奶油般融化…",
-          "url": "https://www.bilibili.com/video/BV1Agnr6gEPk",
-          "author": "小花花的每一天_",
-          "views": 3389818,
-          "rank": 24,
-          "signal": "new",
-          "delta": null
-        },
-        {
-          "name": "BV1v3nc6jEiV",
-          "title": "谁拍的，到底谁拍的！",
-          "url": "https://www.bilibili.com/video/BV1v3nc6jEiV",
-          "author": "考研英语晓燕",
-          "views": 3420265,
-          "rank": 25,
-          "signal": "same",
-          "delta": 0
         }
       ]
     },
@@ -491,163 +441,163 @@
       "items": [
         {
           "rank": 1,
-          "title": "Quad9 to exit France",
-          "url": "https://quad9.net/news/blog/au-revoir-france/",
-          "discuss": "https://news.ycombinator.com/item?id=50195959",
-          "points": 1305,
-          "comments": 450
-        },
-        {
-          "rank": 2,
           "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
           "url": "https://edjefferson.com/localwiki/",
           "discuss": "https://news.ycombinator.com/item?id=50202285",
-          "points": 811,
-          "comments": 160
+          "points": 1236,
+          "comments": 225
+        },
+        {
+          "rank": 2,
+          "title": "Today, we hacked what we'd set out to hack: the iPhone",
+          "url": "https://blog.calif.io/p/iphone",
+          "discuss": "https://news.ycombinator.com/item?id=50211474",
+          "points": 741,
+          "comments": 499
         },
         {
           "rank": 3,
-          "title": "Docker is weird",
-          "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-          "discuss": "https://news.ycombinator.com/item?id=50202681",
-          "points": 690,
-          "comments": 282
+          "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+          "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+          "discuss": "https://news.ycombinator.com/item?id=50212065",
+          "points": 708,
+          "comments": 451
         },
         {
           "rank": 4,
-          "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
-          "url": "https://news.ycombinator.com/item?id=50193416",
-          "discuss": "https://news.ycombinator.com/item?id=50193416",
-          "points": 665,
-          "comments": 242
-        },
-        {
-          "rank": 5,
           "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
           "url": "https://simedw.com/2026/10/21/world-model-terminal/",
           "discuss": "https://news.ycombinator.com/item?id=50190363",
-          "points": 582,
-          "comments": 178
+          "points": 610,
+          "comments": 183
+        },
+        {
+          "rank": 5,
+          "title": "Apple Music 404 Not Found",
+          "url": "https://music.apple.com/this-url-doesnt-exist",
+          "discuss": "https://news.ycombinator.com/item?id=50207910",
+          "points": 576,
+          "comments": 189
         },
         {
           "rank": 6,
-          "title": "Every AI model has the same \"controversial\" take on humans",
-          "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-          "discuss": "https://news.ycombinator.com/item?id=50197313",
-          "points": 552,
-          "comments": 536
+          "title": "Canadians are running out of time to oppose Bill C-22",
+          "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+          "discuss": "https://news.ycombinator.com/item?id=50202114",
+          "points": 321,
+          "comments": 164
         },
         {
           "rank": 7,
-          "title": "Run full iOS 16.5 firmware on Android Devices",
-          "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-          "discuss": "https://news.ycombinator.com/item?id=50196718",
-          "points": 486,
-          "comments": 179
+          "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+          "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+          "discuss": "https://news.ycombinator.com/item?id=50214218",
+          "points": 266,
+          "comments": 138
         },
         {
           "rank": 8,
-          "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-          "url": "https://github.com/NVIDIA/OpenShell",
-          "discuss": "https://news.ycombinator.com/item?id=50198675",
-          "points": 458,
-          "comments": 205
+          "title": "The Real Kevin Bacon",
+          "url": "https://pudding.cool/2026/10/kevin-bacon/",
+          "discuss": "https://news.ycombinator.com/item?id=50169499",
+          "points": 236,
+          "comments": 69
         },
         {
           "rank": 9,
-          "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
-          "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
-          "discuss": "https://news.ycombinator.com/item?id=50194009",
-          "points": 352,
-          "comments": 317
-        },
-        {
-          "rank": 10,
-          "title": "Investor-owned utilities charge 23% more for electricity than public providers",
-          "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
-          "discuss": "https://news.ycombinator.com/item?id=50208837",
-          "points": 344,
-          "comments": 261
-        },
-        {
-          "rank": 11,
-          "title": "Getting ready to operate GNU Taler in Germany",
-          "url": "https://www.taler.net/en/news/2026-13.html",
-          "discuss": "https://news.ycombinator.com/item?id=50197404",
-          "points": 339,
-          "comments": 155
-        },
-        {
-          "rank": 12,
-          "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-          "url": "https://news.ycombinator.com/item?id=50200997",
-          "discuss": "https://news.ycombinator.com/item?id=50200997",
-          "points": 337,
-          "comments": 368
-        },
-        {
-          "rank": 13,
-          "title": "The foolishness of \"natural language programming\" (1978)",
-          "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-          "discuss": "https://news.ycombinator.com/item?id=50203161",
-          "points": 281,
-          "comments": 186
-        },
-        {
-          "rank": 14,
-          "title": "Swedish government offices to ban ChatGPT and Claude",
-          "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-          "discuss": "https://news.ycombinator.com/item?id=50207405",
-          "points": 276,
+          "title": "Dessa: the most authentic full-duplex speech model ever built",
+          "url": "https://block.xyz/dessa",
+          "discuss": "https://news.ycombinator.com/item?id=50213925",
+          "points": 220,
           "comments": 93
         },
         {
+          "rank": 10,
+          "title": "UUIDv7 doesn't have the properties you think it does",
+          "url": "https://alexsci.com/blog/uuidv7-is-weird/",
+          "discuss": "https://news.ycombinator.com/item?id=50211746",
+          "points": 109,
+          "comments": 94
+        },
+        {
+          "rank": 11,
+          "title": "CVE Tracker",
+          "url": "https://cve.0xosprey.com/",
+          "discuss": "https://news.ycombinator.com/item?id=50215530",
+          "points": 96,
+          "comments": 35
+        },
+        {
+          "rank": 12,
+          "title": "Securing our frontier model training environment",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+          "discuss": "https://news.ycombinator.com/item?id=50214416",
+          "points": 71,
+          "comments": 83
+        },
+        {
+          "rank": 13,
+          "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
+          "url": "https://twitter.com/robbietilton/status/2111936458923851923",
+          "discuss": "https://news.ycombinator.com/item?id=50212668",
+          "points": 65,
+          "comments": 24
+        },
+        {
+          "rank": 14,
+          "title": "Show HN: Impossible Machines: declaratively program the physical world",
+          "url": "https://www.impossiblemachines.xyz",
+          "discuss": "https://news.ycombinator.com/item?id=50202746",
+          "points": 62,
+          "comments": 17
+        },
+        {
           "rank": 15,
-          "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
-          "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
-          "discuss": "https://news.ycombinator.com/item?id=50205934",
-          "points": 238,
-          "comments": 209
+          "title": "LISP Comes of Age (1980)",
+          "url": "https://microship.com/lisp-comes-of-age/",
+          "discuss": "https://news.ycombinator.com/item?id=50199684",
+          "points": 60,
+          "comments": 17
         },
         {
           "rank": 16,
-          "title": "How does Fable 5.1 hide messages in images?",
-          "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
-          "discuss": "https://news.ycombinator.com/item?id=50201445",
-          "points": 165,
-          "comments": 49
+          "title": "The Missed Opportunities of Sonic 06 (2025)",
+          "url": "https://isaacmarovitz.com/posts/sonic-06/",
+          "discuss": "https://news.ycombinator.com/item?id=50211729",
+          "points": 59,
+          "comments": 18
         },
         {
           "rank": 17,
-          "title": "The alien space of science: Coherent but cognitively unavailable directions",
-          "url": "https://arxiv.org/abs/2603.01092",
-          "discuss": "https://news.ycombinator.com/item?id=50195002",
-          "points": 147,
-          "comments": 51
+          "title": "Air Purifiers as White Noise Machines",
+          "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+          "discuss": "https://news.ycombinator.com/item?id=50212507",
+          "points": 58,
+          "comments": 91
         },
         {
           "rank": 18,
-          "title": "Jank – The native Clojure dialect with seamless C++ interop",
-          "url": "https://jank-lang.org/",
-          "discuss": "https://news.ycombinator.com/item?id=50202762",
-          "points": 141,
-          "comments": 25
+          "title": "Show HN: Swurf – Swipe through the real web",
+          "url": "https://swurf.org/",
+          "discuss": "https://news.ycombinator.com/item?id=50205320",
+          "points": 58,
+          "comments": 28
         },
         {
           "rank": 19,
-          "title": "Remove pgrust: the entry is cheating",
-          "url": "https://github.com/ClickHouse/ClickBench/pull/2165",
-          "discuss": "https://news.ycombinator.com/item?id=50205816",
-          "points": 136,
-          "comments": 74
+          "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+          "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+          "discuss": "https://news.ycombinator.com/item?id=50216791",
+          "points": 56,
+          "comments": 15
         },
         {
           "rank": 20,
-          "title": "This I Believe (1952)",
-          "url": "https://www.awakin.org/v2/read/view.php?tid=468",
-          "discuss": "https://news.ycombinator.com/item?id=50203759",
-          "points": 126,
-          "comments": 55
+          "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
+          "url": "https://rune.build/blog/rune-1-3-release",
+          "discuss": "https://news.ycombinator.com/item?id=50214325",
+          "points": 36,
+          "comments": 7
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24 16:33:56",
+  "updated_at": "2026-10-24 22:13:07",
   "window_days": 7,
   "repos": [
     {
@@ -7,8 +7,8 @@
       "url": "https://github.com/Gathin23/cleanyourtv",
       "desc": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
       "lang": "Java",
-      "stars": 29013,
-      "forks": 3309,
+      "stars": 30152,
+      "forks": 3476,
       "created": "2026-10-17"
     },
     {
@@ -16,8 +16,8 @@
       "url": "https://github.com/ly05010419/MacNativeGames",
       "desc": "",
       "lang": "C",
-      "stars": 5045,
-      "forks": 722,
+      "stars": 5121,
+      "forks": 731,
       "created": "2026-10-17"
     },
     {
@@ -25,8 +25,8 @@
       "url": "https://github.com/pengchujin/aerial-tv",
       "desc": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
       "lang": "Kotlin",
-      "stars": 4064,
-      "forks": 307,
+      "stars": 4229,
+      "forks": 331,
       "created": "2026-10-20"
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/simbasjungles/free-my-tv",
       "desc": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
       "lang": "Java",
-      "stars": 4045,
-      "forks": 627,
+      "stars": 4134,
+      "forks": 650,
       "created": "2026-10-19"
     },
     {
@@ -43,8 +43,8 @@
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
       "desc": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
       "lang": "Python",
-      "stars": 2952,
-      "forks": 676,
+      "stars": 3062,
+      "forks": 703,
       "created": "2026-10-18"
     },
     {
@@ -52,8 +52,8 @@
       "url": "https://github.com/aicodeking/leanrea",
       "desc": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
       "lang": "Python",
-      "stars": 1898,
-      "forks": 288,
+      "stars": 1953,
+      "forks": 297,
       "created": "2026-10-17"
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://github.com/JoasASantos/REA-Prompts",
       "desc": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
       "lang": "—",
-      "stars": 1833,
-      "forks": 298,
+      "stars": 1914,
+      "forks": 316,
       "created": "2026-10-19"
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
       "desc": "Offline FairPlay App Store IPA decryption with independent key derivation",
       "lang": "C",
-      "stars": 1747,
-      "forks": 276,
+      "stars": 1847,
+      "forks": 288,
       "created": "2026-10-19"
     },
     {
@@ -79,8 +79,8 @@
       "url": "https://github.com/ikow/php2shell-poc",
       "desc": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
       "lang": "Python",
-      "stars": 1715,
-      "forks": 599,
+      "stars": 1738,
+      "forks": 602,
       "created": "2026-10-21"
     },
     {
@@ -88,53 +88,26 @@
       "url": "https://github.com/alchaincyf/huashu-motion",
       "desc": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
       "lang": "JavaScript",
-      "stars": 1561,
-      "forks": 154,
+      "stars": 1579,
+      "forks": 155,
       "created": "2026-10-18"
     },
     {
-      "repo": "humblemuzzu/dumbtv",
-      "url": "https://github.com/humblemuzzu/dumbtv",
-      "desc": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
-      "lang": "Java",
-      "stars": 1415,
-      "forks": 127,
+      "repo": "Zagitta/gpu-unlock",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "desc": "Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents",
+      "lang": "C",
+      "stars": 1511,
+      "forks": 181,
       "created": "2026-10-18"
-    },
-    {
-      "repo": "Ansub/tv-detox",
-      "url": "https://github.com/Ansub/tv-detox",
-      "desc": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
-      "lang": "Java",
-      "stars": 1407,
-      "forks": 145,
-      "created": "2026-10-18"
-    },
-    {
-      "repo": "9bie/php2shell-bypass-aslr-exp",
-      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-      "desc": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
-      "lang": "Python",
-      "stars": 1349,
-      "forks": 403,
-      "created": "2026-10-21"
-    },
-    {
-      "repo": "openai/php2shell-checker",
-      "url": "https://github.com/openai/php2shell-checker",
-      "desc": "",
-      "lang": "JavaScript",
-      "stars": 1308,
-      "forks": 124,
-      "created": "2026-10-21"
     },
     {
       "repo": "wesbos/3d-model-anything",
       "url": "https://github.com/wesbos/3d-model-anything",
       "desc": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
       "lang": "Swift",
-      "stars": 1296,
-      "forks": 217,
+      "stars": 1447,
+      "forks": 230,
       "created": "2026-10-21"
     },
     {
@@ -142,8 +115,44 @@
       "url": "https://github.com/xevrion/hatchzip",
       "desc": "Extract huge archives in place: the archive shrinks as your files hatch, so you only need room for the output. ZIP, 7z, tar, split archives.",
       "lang": "Rust",
-      "stars": 1221,
-      "forks": 25,
+      "stars": 1444,
+      "forks": 35,
+      "created": "2026-10-21"
+    },
+    {
+      "repo": "Ansub/tv-detox",
+      "url": "https://github.com/Ansub/tv-detox",
+      "desc": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+      "lang": "Java",
+      "stars": 1437,
+      "forks": 149,
+      "created": "2026-10-18"
+    },
+    {
+      "repo": "humblemuzzu/dumbtv",
+      "url": "https://github.com/humblemuzzu/dumbtv",
+      "desc": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
+      "lang": "Java",
+      "stars": 1431,
+      "forks": 127,
+      "created": "2026-10-18"
+    },
+    {
+      "repo": "9bie/php2shell-bypass-aslr-exp",
+      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+      "desc": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "lang": "Python",
+      "stars": 1388,
+      "forks": 404,
+      "created": "2026-10-21"
+    },
+    {
+      "repo": "openai/php2shell-checker",
+      "url": "https://github.com/openai/php2shell-checker",
+      "desc": "",
+      "lang": "JavaScript",
+      "stars": 1364,
+      "forks": 125,
       "created": "2026-10-21"
     },
     {
@@ -151,8 +160,8 @@
       "url": "https://github.com/oosexgang/hackios-xnu-kernel",
       "desc": "",
       "lang": "C",
-      "stars": 1174,
-      "forks": 208,
+      "stars": 1219,
+      "forks": 214,
       "created": "2026-10-22"
     },
     {
@@ -160,7 +169,7 @@
       "url": "https://github.com/colinhacks/reylo",
       "desc": "Import .sql files into TypeScript with full type inference and zero codegen.",
       "lang": "Rust",
-      "stars": 1102,
+      "stars": 1160,
       "forks": 8,
       "created": "2026-10-21"
     },
@@ -169,17 +178,26 @@
       "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
       "desc": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes onl",
       "lang": "Shell",
-      "stars": 975,
-      "forks": 241,
+      "stars": 981,
+      "forks": 245,
       "created": "2026-10-21"
+    },
+    {
+      "repo": "Jakeschincariol/day-trader-skill",
+      "url": "https://github.com/Jakeschincariol/day-trader-skill",
+      "desc": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+      "lang": "Python",
+      "stars": 962,
+      "forks": 214,
+      "created": "2026-10-20"
     },
     {
       "repo": "eagle-hq/EAGLE-4",
       "url": "https://github.com/eagle-hq/EAGLE-4",
       "desc": "Official Inference Code of EAGLE-4",
       "lang": "Python",
-      "stars": 962,
-      "forks": 31,
+      "stars": 961,
+      "forks": 32,
       "created": "2026-10-20"
     },
     {
@@ -187,43 +205,25 @@
       "url": "https://github.com/ELY-Open-Source/ElyOffice",
       "desc": "Ely Office: offline-first desktop apps in Rust and GPUI",
       "lang": "Rust",
-      "stars": 950,
+      "stars": 958,
       "forks": 61,
       "created": "2026-10-19"
-    },
-    {
-      "repo": "Jakeschincariol/day-trader-skill",
-      "url": "https://github.com/Jakeschincariol/day-trader-skill",
-      "desc": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
-      "lang": "Python",
-      "stars": 914,
-      "forks": 198,
-      "created": "2026-10-20"
     },
     {
       "repo": "UniXNU/UniXNU",
       "url": "https://github.com/UniXNU/UniXNU",
       "desc": "Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
       "lang": "Python",
-      "stars": 870,
-      "forks": 158,
+      "stars": 881,
+      "forks": 162,
       "created": "2026-10-19"
-    },
-    {
-      "repo": "Zagitta/gpu-unlock",
-      "url": "https://github.com/Zagitta/gpu-unlock",
-      "desc": "Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents",
-      "lang": "C",
-      "stars": 829,
-      "forks": 99,
-      "created": "2026-10-18"
     },
     {
       "repo": "Snapintosh/Snapintosh",
       "url": "https://github.com/Snapintosh/Snapintosh",
       "desc": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
       "lang": "Python",
-      "stars": 804,
+      "stars": 835,
       "forks": 46,
       "created": "2026-10-22"
     },
@@ -232,7 +232,7 @@
       "url": "https://github.com/stackedlol/ascii-sharks",
       "desc": "ascii shark components in typescript",
       "lang": "TypeScript",
-      "stars": 801,
+      "stars": 803,
       "forks": 62,
       "created": "2026-10-19"
     },
@@ -241,7 +241,7 @@
       "url": "https://github.com/Hugo-Dz/spritefusion-sprite-normals",
       "desc": "A tool to generate normal maps from any sprite and animated sprite sheet.",
       "lang": "Rust",
-      "stars": 647,
+      "stars": 656,
       "forks": 48,
       "created": "2026-10-19"
     },
@@ -250,8 +250,8 @@
       "url": "https://github.com/NVIDIA/flare-local-inference",
       "desc": "",
       "lang": "Python",
-      "stars": 629,
-      "forks": 66,
+      "stars": 636,
+      "forks": 67,
       "created": "2026-10-20"
     },
     {
@@ -259,7 +259,7 @@
       "url": "https://github.com/aicodeking/pandacode",
       "desc": "PandaCode: a calm desktop workspace for coding agents",
       "lang": "Rust",
-      "stars": 605,
+      "stars": 614,
       "forks": 119,
       "created": "2026-10-18"
     },
@@ -268,8 +268,8 @@
       "url": "https://github.com/dominikmartn/harp",
       "desc": "Run many Claude Code and Codex agents side by side, in one sidebar that tells you which one needs you. An unofficial fork of Warp.",
       "lang": "Rust",
-      "stars": 597,
-      "forks": 40,
+      "stars": 600,
+      "forks": 41,
       "created": "2026-10-20"
     }
   ],

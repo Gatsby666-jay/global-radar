@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27 17:31:15",
+  "updated_at": "2026-10-28 00:10:27",
   "window_days": 7,
   "repos": [
     {
@@ -7,8 +7,8 @@
       "url": "https://github.com/pengchujin/aerial-tv",
       "desc": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
       "lang": "Kotlin",
-      "stars": 6463,
-      "forks": 538,
+      "stars": 6652,
+      "forks": 554,
       "created": "2026-10-20"
     },
     {
@@ -16,8 +16,8 @@
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
       "desc": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
       "lang": "C",
-      "stars": 4039,
-      "forks": 524,
+      "stars": 4174,
+      "forks": 542,
       "created": "2026-10-23"
     },
     {
@@ -25,17 +25,26 @@
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "lang": "Python",
-      "stars": 2660,
-      "forks": 220,
+      "stars": 3065,
+      "forks": 260,
       "created": "2026-10-24"
+    },
+    {
+      "repo": "designfuchen/word-atlas",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "desc": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+      "lang": "TypeScript",
+      "stars": 2377,
+      "forks": 564,
+      "created": "2026-10-25"
     },
     {
       "repo": "Jakeschincariol/day-trader-skill",
       "url": "https://github.com/Jakeschincariol/day-trader-skill",
       "desc": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
       "lang": "Python",
-      "stars": 2158,
-      "forks": 451,
+      "stars": 2229,
+      "forks": 473,
       "created": "2026-10-20"
     },
     {
@@ -43,71 +52,35 @@
       "url": "https://github.com/wesbos/3d-model-anything",
       "desc": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
       "lang": "Swift",
-      "stars": 2127,
-      "forks": 314,
+      "stars": 2173,
+      "forks": 319,
       "created": "2026-10-21"
-    },
-    {
-      "repo": "designfuchen/word-atlas",
-      "url": "https://github.com/designfuchen/word-atlas",
-      "desc": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
-      "lang": "TypeScript",
-      "stars": 2107,
-      "forks": 517,
-      "created": "2026-10-25"
     },
     {
       "repo": "xevrion/hatchzip",
       "url": "https://github.com/xevrion/hatchzip",
       "desc": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop",
       "lang": "Rust",
-      "stars": 2087,
-      "forks": 63,
+      "stars": 2134,
+      "forks": 64,
       "created": "2026-10-21"
-    },
-    {
-      "repo": "ikow/php2shell-poc",
-      "url": "https://github.com/ikow/php2shell-poc",
-      "desc": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
-      "lang": "Python",
-      "stars": 1850,
-      "forks": 631,
-      "created": "2026-10-21"
-    },
-    {
-      "repo": "oosexgang/hackios-xnu-kernel",
-      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-      "desc": "",
-      "lang": "C",
-      "stars": 1743,
-      "forks": 312,
-      "created": "2026-10-22"
     },
     {
       "repo": "t3dotgg/tstack",
       "url": "https://github.com/t3dotgg/tstack",
       "desc": "The agent skills I use every day. Works with Claude Code and Codex.",
       "lang": "Python",
-      "stars": 1737,
-      "forks": 101,
+      "stars": 1870,
+      "forks": 108,
       "created": "2026-10-24"
     },
     {
-      "repo": "9bie/php2shell-bypass-aslr-exp",
-      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-      "desc": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "repo": "ikow/php2shell-poc",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "desc": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
       "lang": "Python",
-      "stars": 1485,
-      "forks": 432,
-      "created": "2026-10-21"
-    },
-    {
-      "repo": "openai/php2shell-checker",
-      "url": "https://github.com/openai/php2shell-checker",
-      "desc": "",
-      "lang": "JavaScript",
-      "stars": 1430,
-      "forks": 140,
+      "stars": 1862,
+      "forks": 634,
       "created": "2026-10-21"
     },
     {
@@ -115,17 +88,44 @@
       "url": "https://github.com/unclebob/ub-mode",
       "desc": "",
       "lang": "—",
-      "stars": 1351,
-      "forks": 65,
+      "stars": 1816,
+      "forks": 90,
       "created": "2026-10-25"
+    },
+    {
+      "repo": "oosexgang/hackios-xnu-kernel",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "desc": "",
+      "lang": "C",
+      "stars": 1790,
+      "forks": 316,
+      "created": "2026-10-22"
+    },
+    {
+      "repo": "9bie/php2shell-bypass-aslr-exp",
+      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+      "desc": "A php2shell exploit that requires no modifications to the official version, and does not require display_errors or limit_memory.",
+      "lang": "Python",
+      "stars": 1496,
+      "forks": 433,
+      "created": "2026-10-21"
+    },
+    {
+      "repo": "openai/php2shell-checker",
+      "url": "https://github.com/openai/php2shell-checker",
+      "desc": "",
+      "lang": "JavaScript",
+      "stars": 1436,
+      "forks": 141,
+      "created": "2026-10-21"
     },
     {
       "repo": "lyramakesmusic/neuron-explorer",
       "url": "https://github.com/lyramakesmusic/neuron-explorer",
       "desc": "Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
       "lang": "Python",
-      "stars": 1346,
-      "forks": 153,
+      "stars": 1424,
+      "forks": 164,
       "created": "2026-10-21"
     },
     {
@@ -133,8 +133,8 @@
       "url": "https://github.com/colinhacks/reylo",
       "desc": "Import .sql files into TypeScript with full type inference and zero codegen.",
       "lang": "Rust",
-      "stars": 1326,
-      "forks": 14,
+      "stars": 1331,
+      "forks": 13,
       "created": "2026-10-21"
     },
     {
@@ -142,8 +142,8 @@
       "url": "https://github.com/morganlinton/BeautifulRust",
       "desc": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
       "lang": "Python",
-      "stars": 1254,
-      "forks": 56,
+      "stars": 1284,
+      "forks": 57,
       "created": "2026-10-23"
     },
     {
@@ -151,16 +151,25 @@
       "url": "https://github.com/enesozturk/dimensional-drawing",
       "desc": "Create Apple style dimensional drawings of UI components.",
       "lang": "HTML",
-      "stars": 1097,
-      "forks": 65,
+      "stars": 1178,
+      "forks": 71,
       "created": "2026-10-23"
+    },
+    {
+      "repo": "andyhuo520/digital-human-koubo",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "desc": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "lang": "TypeScript",
+      "stars": 1027,
+      "forks": 247,
+      "created": "2026-10-26"
     },
     {
       "repo": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
       "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
       "desc": "Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619), demonstrating remote code execution in vulnerable PHP environments. For security research and educational purposes onl",
       "lang": "Shell",
-      "stars": 1026,
+      "stars": 1027,
       "forks": 258,
       "created": "2026-10-21"
     },
@@ -169,8 +178,8 @@
       "url": "https://github.com/eagle-hq/EAGLE-4",
       "desc": "Official Inference Code of EAGLE-4",
       "lang": "Python",
-      "stars": 1014,
-      "forks": 36,
+      "stars": 1016,
+      "forks": 35,
       "created": "2026-10-20"
     },
     {
@@ -178,53 +187,44 @@
       "url": "https://github.com/Snapintosh/Snapintosh",
       "desc": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
       "lang": "Python",
-      "stars": 996,
+      "stars": 1000,
       "forks": 58,
       "created": "2026-10-22"
-    },
-    {
-      "repo": "assetnote/php2shell-scanner",
-      "url": "https://github.com/assetnote/php2shell-scanner",
-      "desc": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
-      "lang": "Python",
-      "stars": 937,
-      "forks": 137,
-      "created": "2026-10-22"
-    },
-    {
-      "repo": "andyhuo520/digital-human-koubo",
-      "url": "https://github.com/andyhuo520/digital-human-koubo",
-      "desc": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "lang": "TypeScript",
-      "stars": 923,
-      "forks": 227,
-      "created": "2026-10-26"
-    },
-    {
-      "repo": "impacifist/Windows-GPU-UNLOCK",
-      "url": "https://github.com/impacifist/Windows-GPU-UNLOCK",
-      "desc": "Windows GPU UNLOCK: RTX3090 UEFI port, Korean no-reset Windows boot guide, verified source and benchmark evidence",
-      "lang": "C",
-      "stars": 903,
-      "forks": 87,
-      "created": "2026-10-20"
-    },
-    {
-      "repo": "KillaBoi/StealMyBitcoin-PoC",
-      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-      "desc": "A public release of the Steal My Bitcoin challenge",
-      "lang": "Python",
-      "stars": 897,
-      "forks": 131,
-      "created": "2026-10-25"
     },
     {
       "repo": "DenisSergeevitch/ex-ussr-kinship-research",
       "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
       "desc": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
       "lang": "Python",
-      "stars": 834,
-      "forks": 83,
+      "stars": 991,
+      "forks": 97,
+      "created": "2026-10-25"
+    },
+    {
+      "repo": "impacifist/Windows-GPU-UNLOCK",
+      "url": "https://github.com/impacifist/Windows-GPU-UNLOCK",
+      "desc": "Windows GPU UNLOCK: RTX3090 UEFI port, Korean no-reset Windows boot guide, verified source and benchmark evidence",
+      "lang": "C",
+      "stars": 964,
+      "forks": 95,
+      "created": "2026-10-20"
+    },
+    {
+      "repo": "assetnote/php2shell-scanner",
+      "url": "https://github.com/assetnote/php2shell-scanner",
+      "desc": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
+      "lang": "Python",
+      "stars": 942,
+      "forks": 137,
+      "created": "2026-10-22"
+    },
+    {
+      "repo": "KillaBoi/StealMyBitcoin-PoC",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "desc": "A public release of the Steal My Bitcoin challenge",
+      "lang": "Python",
+      "stars": 933,
+      "forks": 135,
       "created": "2026-10-25"
     },
     {
@@ -232,8 +232,8 @@
       "url": "https://github.com/udhaykumarbala/cleanyourtv-app",
       "desc": "A community-built phone app for Clean Your TV: clean up an Android TV from your phone. No laptop, no coding agent, nothing uninstalled.",
       "lang": "Kotlin",
-      "stars": 798,
-      "forks": 76,
+      "stars": 855,
+      "forks": 79,
       "created": "2026-10-21"
     },
     {
@@ -241,17 +241,26 @@
       "url": "https://github.com/mizorewww/gdirect",
       "desc": "Rust Google Drive direct downloader using pinned libaria2",
       "lang": "Rust",
-      "stars": 734,
-      "forks": 48,
+      "stars": 746,
+      "forks": 49,
       "created": "2026-10-25"
+    },
+    {
+      "repo": "LNPANDY/NX2Apple",
+      "url": "https://github.com/LNPANDY/NX2Apple",
+      "desc": "Play your own Switch games on iPhone/iPad — one-click macOS app, no terminal. | 把 Switch 游戏装进 iPhone：图形界面一键构建，不用命令行。Bring your own game.",
+      "lang": "Python",
+      "stars": 706,
+      "forks": 90,
+      "created": "2026-10-20"
     },
     {
       "repo": "nthnclrk/CleanFrame",
       "url": "https://github.com/nthnclrk/CleanFrame",
       "desc": "A personal home screen for Samsung The Frame. A starting point to fork and adapt.",
       "lang": "JavaScript",
-      "stars": 684,
-      "forks": 138,
+      "stars": 700,
+      "forks": 145,
       "created": "2026-10-20"
     },
     {
@@ -259,17 +268,8 @@
       "url": "https://github.com/torrentplayer/torrentplayer",
       "desc": "Stream any torrent, video or audio, and skip to any moment in about a second. Free, open-source desktop app for Windows, macOS and Linux. No servers, no accounts, no telemetry.",
       "lang": "Rust",
-      "stars": 679,
+      "stars": 682,
       "forks": 17,
-      "created": "2026-10-20"
-    },
-    {
-      "repo": "NVIDIA/flare-local-inference",
-      "url": "https://github.com/NVIDIA/flare-local-inference",
-      "desc": "",
-      "lang": "Python",
-      "stars": 679,
-      "forks": 73,
       "created": "2026-10-20"
     }
   ],

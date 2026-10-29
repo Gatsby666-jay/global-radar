@@ -1,32 +1,32 @@
 {
-  "updated_at": "2026-10-29 10:07:07",
+  "updated_at": "2026-10-29 18:39:22",
   "window_days": 7,
   "repos": [
-    {
-      "repo": "JustAResearcher/gpu-unlock-ada",
-      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "desc": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
-      "lang": "C",
-      "stars": 4424,
-      "forks": 566,
-      "created": "2026-10-23"
-    },
     {
       "repo": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "lang": "Python",
-      "stars": 4348,
-      "forks": 393,
+      "stars": 4581,
+      "forks": 413,
       "created": "2026-10-24"
+    },
+    {
+      "repo": "JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "desc": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "lang": "C",
+      "stars": 4466,
+      "forks": 572,
+      "created": "2026-10-23"
     },
     {
       "repo": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
       "desc": "",
       "lang": "—",
-      "stars": 3819,
-      "forks": 207,
+      "stars": 4149,
+      "forks": 228,
       "created": "2026-10-25"
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/designfuchen/word-atlas",
       "desc": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
       "lang": "TypeScript",
-      "stars": 3062,
-      "forks": 679,
+      "stars": 3174,
+      "forks": 696,
       "created": "2026-10-25"
     },
     {
@@ -43,35 +43,35 @@
       "url": "https://github.com/interplains/Zero-Breach-Toolkit",
       "desc": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
       "lang": "Python",
-      "stars": 2807,
-      "forks": 302,
+      "stars": 3099,
+      "forks": 332,
       "created": "2026-10-25"
-    },
-    {
-      "repo": "t3dotgg/tstack",
-      "url": "https://github.com/t3dotgg/tstack",
-      "desc": "The agent skills I use every day. Works with Claude Code and Codex.",
-      "lang": "Python",
-      "stars": 2273,
-      "forks": 138,
-      "created": "2026-10-24"
     },
     {
       "repo": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
       "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
       "lang": "HTML",
-      "stars": 1976,
-      "forks": 514,
+      "stars": 2518,
+      "forks": 664,
       "created": "2026-10-27"
+    },
+    {
+      "repo": "t3dotgg/tstack",
+      "url": "https://github.com/t3dotgg/tstack",
+      "desc": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "lang": "Python",
+      "stars": 2316,
+      "forks": 144,
+      "created": "2026-10-24"
     },
     {
       "repo": "oosexgang/hakios-xnu-kernel",
       "url": "https://github.com/oosexgang/hakios-xnu-kernel",
       "desc": "",
       "lang": "C",
-      "stars": 1907,
-      "forks": 328,
+      "stars": 1927,
+      "forks": 331,
       "created": "2026-10-22"
     },
     {
@@ -79,17 +79,8 @@
       "url": "https://github.com/enesozturk/dimensional-drawing",
       "desc": "Create Apple style dimensional drawings of UI components.",
       "lang": "HTML",
-      "stars": 1409,
-      "forks": 89,
-      "created": "2026-10-23"
-    },
-    {
-      "repo": "morganlinton/BeautifulRust",
-      "url": "https://github.com/morganlinton/BeautifulRust",
-      "desc": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
-      "lang": "Python",
-      "stars": 1368,
-      "forks": 62,
+      "stars": 1495,
+      "forks": 95,
       "created": "2026-10-23"
     },
     {
@@ -97,17 +88,26 @@
       "url": "https://github.com/andyhuo520/digital-human-koubo",
       "desc": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
       "lang": "TypeScript",
-      "stars": 1321,
-      "forks": 303,
+      "stars": 1397,
+      "forks": 322,
       "created": "2026-10-26"
+    },
+    {
+      "repo": "morganlinton/BeautifulRust",
+      "url": "https://github.com/morganlinton/BeautifulRust",
+      "desc": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+      "lang": "Python",
+      "stars": 1385,
+      "forks": 63,
+      "created": "2026-10-23"
     },
     {
       "repo": "DenisSergeevitch/ex-ussr-kinship-research",
       "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
       "desc": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
       "lang": "Python",
-      "stars": 1184,
-      "forks": 128,
+      "stars": 1209,
+      "forks": 130,
       "created": "2026-10-25"
     },
     {
@@ -115,26 +115,8 @@
       "url": "https://github.com/Snapintosh/Snapintosh",
       "desc": "EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Elite), with an Adreno Metal/IOGPU stack",
       "lang": "Python",
-      "stars": 1033,
+      "stars": 1037,
       "forks": 59,
-      "created": "2026-10-22"
-    },
-    {
-      "repo": "KillaBoi/StealMyBitcoin-PoC",
-      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-      "desc": "A public release of the Steal My Bitcoin challenge",
-      "lang": "Python",
-      "stars": 985,
-      "forks": 145,
-      "created": "2026-10-25"
-    },
-    {
-      "repo": "assetnote/php2shell-scanner",
-      "url": "https://github.com/assetnote/php2shell-scanner",
-      "desc": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
-      "lang": "Python",
-      "stars": 959,
-      "forks": 140,
       "created": "2026-10-22"
     },
     {
@@ -142,17 +124,35 @@
       "url": "https://github.com/Motionsites-AI/claude-skill",
       "desc": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
       "lang": "Python",
-      "stars": 903,
-      "forks": 95,
+      "stars": 1013,
+      "forks": 106,
       "created": "2026-10-26"
+    },
+    {
+      "repo": "KillaBoi/StealMyBitcoin-PoC",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "desc": "A public release of the Steal My Bitcoin challenge",
+      "lang": "Python",
+      "stars": 988,
+      "forks": 146,
+      "created": "2026-10-25"
+    },
+    {
+      "repo": "assetnote/php2shell-scanner",
+      "url": "https://github.com/assetnote/php2shell-scanner",
+      "desc": "High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619)",
+      "lang": "Python",
+      "stars": 961,
+      "forks": 141,
+      "created": "2026-10-22"
     },
     {
       "repo": "ZiChuanLan/agent-purge",
       "url": "https://github.com/ZiChuanLan/agent-purge",
       "desc": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
       "lang": "JavaScript",
-      "stars": 806,
-      "forks": 595,
+      "stars": 861,
+      "forks": 633,
       "created": "2026-10-25"
     },
     {
@@ -160,7 +160,7 @@
       "url": "https://github.com/kargulstudio/calender-app-design",
       "desc": "",
       "lang": "TypeScript",
-      "stars": 788,
+      "stars": 794,
       "forks": 95,
       "created": "2026-10-26"
     },
@@ -169,8 +169,8 @@
       "url": "https://github.com/surendrapandar/minilytics",
       "desc": "Opensource Revenue-first analytics for indie hackers & solo founders ",
       "lang": "TypeScript",
-      "stars": 760,
-      "forks": 182,
+      "stars": 766,
+      "forks": 185,
       "created": "2026-10-23"
     },
     {
@@ -178,17 +178,26 @@
       "url": "https://github.com/mizorewww/gdirect",
       "desc": "Rust Google Drive direct downloader using pinned libaria2",
       "lang": "Rust",
-      "stars": 756,
-      "forks": 51,
+      "stars": 761,
+      "forks": 52,
       "created": "2026-10-25"
+    },
+    {
+      "repo": "smithjohn78390/tongjiang-lab",
+      "url": "https://github.com/smithjohn78390/tongjiang-lab",
+      "desc": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+      "lang": "HTML",
+      "stars": 754,
+      "forks": 202,
+      "created": "2026-10-28"
     },
     {
       "repo": "DrWhax/unfairplay",
       "url": "https://github.com/DrWhax/unfairplay",
       "desc": "Decrypt IPA's on MacOS",
       "lang": "Go",
-      "stars": 719,
-      "forks": 155,
+      "stars": 750,
+      "forks": 158,
       "created": "2026-10-25"
     },
     {
@@ -196,35 +205,44 @@
       "url": "https://github.com/yaojingang/GEOInflow",
       "desc": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社",
       "lang": "TypeScript",
-      "stars": 690,
-      "forks": 223,
+      "stars": 706,
+      "forks": 227,
       "created": "2026-10-26"
-    },
-    {
-      "repo": "daveebbelaar/bama",
-      "url": "https://github.com/daveebbelaar/bama",
-      "desc": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
-      "lang": "Swift",
-      "stars": 601,
-      "forks": 90,
-      "created": "2026-10-24"
     },
     {
       "repo": "anonnerdfrenzy/survival-llm",
       "url": "https://github.com/anonnerdfrenzy/survival-llm",
       "desc": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.",
       "lang": "Python",
-      "stars": 586,
-      "forks": 49,
+      "stars": 680,
+      "forks": 55,
       "created": "2026-10-24"
+    },
+    {
+      "repo": "daveebbelaar/bama",
+      "url": "https://github.com/daveebbelaar/bama",
+      "desc": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
+      "lang": "Swift",
+      "stars": 679,
+      "forks": 100,
+      "created": "2026-10-24"
+    },
+    {
+      "repo": "man15h/tellyscope",
+      "url": "https://github.com/man15h/tellyscope",
+      "desc": "Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. Under 3 MB, no tracking, no root, no PC.",
+      "lang": "Kotlin",
+      "stars": 630,
+      "forks": 34,
+      "created": "2026-10-22"
     },
     {
       "repo": "Marker284/yandex-station-extended",
       "url": "https://github.com/Marker284/yandex-station-extended",
       "desc": "",
       "lang": "Shell",
-      "stars": 573,
-      "forks": 75,
+      "stars": 587,
+      "forks": 77,
       "created": "2026-10-23"
     },
     {
@@ -232,7 +250,7 @@
       "url": "https://github.com/blakeandersonw/ai-app-playbook",
       "desc": "How to build useful, profitable apps in 2026. Clone it and point your coding agent at AGENTS.md.",
       "lang": "TypeScript",
-      "stars": 565,
+      "stars": 571,
       "forks": 77,
       "created": "2026-10-26"
     },
@@ -241,34 +259,16 @@
       "url": "https://github.com/rossark0/rossark-motion-skill",
       "desc": "Turn any SVG into a professional 60 fps animation. A Claude Code skill that brings anything drawn to life: live faces, full-body acting and whole scenes, in React Native and SwiftUI.",
       "lang": "Swift",
-      "stars": 556,
-      "forks": 40,
+      "stars": 563,
+      "forks": 42,
       "created": "2026-10-22"
-    },
-    {
-      "repo": "man15h/tellyscope",
-      "url": "https://github.com/man15h/tellyscope",
-      "desc": "Debloat your Android TV, install apps, browse and transfer files on it, all from your phone. Under 3 MB, no tracking, no root, no PC.",
-      "lang": "Kotlin",
-      "stars": 546,
-      "forks": 31,
-      "created": "2026-10-22"
-    },
-    {
-      "repo": "smithjohn78390/tongjiang-lab",
-      "url": "https://github.com/smithjohn78390/tongjiang-lab",
-      "desc": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
-      "lang": "HTML",
-      "stars": 540,
-      "forks": 148,
-      "created": "2026-10-28"
     },
     {
       "repo": "mirkobrombin/raven",
       "url": "https://github.com/mirkobrombin/raven",
       "desc": "A Windows your apps recognize.",
       "lang": "C++",
-      "stars": 524,
+      "stars": 529,
       "forks": 12,
       "created": "2026-10-24"
     }

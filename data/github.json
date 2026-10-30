@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 18:40:43",
+  "updated_at": "2026-10-31 00:56:08",
   "window_days": 7,
   "repos": [
     {
@@ -7,8 +7,8 @@
       "url": "https://github.com/unclebob/ub-mode",
       "desc": "",
       "lang": "—",
-      "stars": 5136,
-      "forks": 283,
+      "stars": 5261,
+      "forks": 290,
       "created": "2026-10-25"
     },
     {
@@ -16,8 +16,8 @@
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "lang": "Python",
-      "stars": 4929,
-      "forks": 441,
+      "stars": 5019,
+      "forks": 456,
       "created": "2026-10-24"
     },
     {
@@ -25,35 +25,35 @@
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
       "desc": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
       "lang": "C",
-      "stars": 4554,
-      "forks": 582,
+      "stars": 4569,
+      "forks": 587,
       "created": "2026-10-23"
-    },
-    {
-      "repo": "interplains/Zero-Breach-Toolkit",
-      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "desc": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
-      "lang": "Python",
-      "stars": 3722,
-      "forks": 399,
-      "created": "2026-10-25"
     },
     {
       "repo": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
       "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
       "lang": "HTML",
-      "stars": 3663,
-      "forks": 948,
+      "stars": 3889,
+      "forks": 1000,
       "created": "2026-10-27"
+    },
+    {
+      "repo": "interplains/Zero-Breach-Toolkit",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "desc": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+      "lang": "Python",
+      "stars": 3797,
+      "forks": 409,
+      "created": "2026-10-25"
     },
     {
       "repo": "designfuchen/word-atlas",
       "url": "https://github.com/designfuchen/word-atlas",
       "desc": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
       "lang": "TypeScript",
-      "stars": 3306,
-      "forks": 723,
+      "stars": 3348,
+      "forks": 731,
       "created": "2026-10-25"
     },
     {
@@ -61,17 +61,26 @@
       "url": "https://github.com/t3dotgg/tstack",
       "desc": "The agent skills I use every day. Works with Claude Code and Codex.",
       "lang": "Python",
-      "stars": 2428,
-      "forks": 150,
+      "stars": 2451,
+      "forks": 152,
       "created": "2026-10-24"
+    },
+    {
+      "repo": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "lang": "Dart",
+      "stars": 2230,
+      "forks": 88,
+      "created": "2026-10-25"
     },
     {
       "repo": "enesozturk/dimensional-drawing",
       "url": "https://github.com/enesozturk/dimensional-drawing",
       "desc": "Create Apple style dimensional drawings of UI components.",
       "lang": "HTML",
-      "stars": 1592,
-      "forks": 107,
+      "stars": 1623,
+      "forks": 108,
       "created": "2026-10-23"
     },
     {
@@ -79,25 +88,16 @@
       "url": "https://github.com/andyhuo520/digital-human-koubo",
       "desc": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
       "lang": "TypeScript",
-      "stars": 1531,
-      "forks": 345,
+      "stars": 1547,
+      "forks": 352,
       "created": "2026-10-26"
-    },
-    {
-      "repo": "ccch1mneyyy/dsh-Go",
-      "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-      "lang": "Dart",
-      "stars": 1481,
-      "forks": 65,
-      "created": "2026-10-25"
     },
     {
       "repo": "morganlinton/BeautifulRust",
       "url": "https://github.com/morganlinton/BeautifulRust",
       "desc": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
       "lang": "Python",
-      "stars": 1441,
+      "stars": 1453,
       "forks": 72,
       "created": "2026-10-23"
     },
@@ -106,8 +106,8 @@
       "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
       "desc": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
       "lang": "Python",
-      "stars": 1284,
-      "forks": 135,
+      "stars": 1296,
+      "forks": 136,
       "created": "2026-10-25"
     },
     {
@@ -115,44 +115,8 @@
       "url": "https://github.com/qybaihe/bla",
       "desc": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> H",
       "lang": "TypeScript",
-      "stars": 1143,
-      "forks": 153,
-      "created": "2026-10-25"
-    },
-    {
-      "repo": "Motionsites-AI/claude-skill",
-      "url": "https://github.com/Motionsites-AI/claude-skill",
-      "desc": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
-      "lang": "Python",
-      "stars": 1119,
-      "forks": 115,
-      "created": "2026-10-26"
-    },
-    {
-      "repo": "aschmelyun/print-my-profile-pic",
-      "url": "https://github.com/aschmelyun/print-my-profile-pic",
-      "desc": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
-      "lang": "—",
-      "stars": 1105,
-      "forks": 2,
-      "created": "2026-10-27"
-    },
-    {
-      "repo": "smithjohn78390/tongjiang-lab",
-      "url": "https://github.com/smithjohn78390/tongjiang-lab",
-      "desc": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
-      "lang": "HTML",
-      "stars": 1068,
-      "forks": 293,
-      "created": "2026-10-28"
-    },
-    {
-      "repo": "KillaBoi/StealMyBitcoin-PoC",
-      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-      "desc": "A public release of the Steal My Bitcoin challenge",
-      "lang": "Python",
-      "stars": 1010,
-      "forks": 146,
+      "stars": 1289,
+      "forks": 171,
       "created": "2026-10-25"
     },
     {
@@ -160,44 +124,98 @@
       "url": "https://github.com/valentderah/totk-pc-recomp",
       "desc": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
       "lang": "C",
-      "stars": 904,
-      "forks": 50,
+      "stars": 1218,
+      "forks": 63,
       "created": "2026-10-29"
+    },
+    {
+      "repo": "aschmelyun/print-my-profile-pic",
+      "url": "https://github.com/aschmelyun/print-my-profile-pic",
+      "desc": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
+      "lang": "—",
+      "stars": 1165,
+      "forks": 2,
+      "created": "2026-10-27"
+    },
+    {
+      "repo": "Motionsites-AI/claude-skill",
+      "url": "https://github.com/Motionsites-AI/claude-skill",
+      "desc": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+      "lang": "Python",
+      "stars": 1141,
+      "forks": 121,
+      "created": "2026-10-26"
+    },
+    {
+      "repo": "smithjohn78390/tongjiang-lab",
+      "url": "https://github.com/smithjohn78390/tongjiang-lab",
+      "desc": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+      "lang": "HTML",
+      "stars": 1088,
+      "forks": 296,
+      "created": "2026-10-28"
+    },
+    {
+      "repo": "paipiange/nvzhuang",
+      "url": "https://github.com/paipiange/nvzhuang",
+      "desc": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "lang": "Go",
+      "stars": 1061,
+      "forks": 336,
+      "created": "2026-10-29"
+    },
+    {
+      "repo": "KillaBoi/StealMyBitcoin-PoC",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "desc": "A public release of the Steal My Bitcoin challenge",
+      "lang": "Python",
+      "stars": 1014,
+      "forks": 147,
+      "created": "2026-10-25"
     },
     {
       "repo": "ZiChuanLan/agent-purge",
       "url": "https://github.com/ZiChuanLan/agent-purge",
       "desc": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
       "lang": "JavaScript",
-      "stars": 902,
-      "forks": 649,
+      "stars": 912,
+      "forks": 658,
       "created": "2026-10-25"
-    },
-    {
-      "repo": "daveebbelaar/bama",
-      "url": "https://github.com/daveebbelaar/bama",
-      "desc": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
-      "lang": "Swift",
-      "stars": 843,
-      "forks": 120,
-      "created": "2026-10-24"
     },
     {
       "repo": "anonnerdfrenzy/survival-llm",
       "url": "https://github.com/anonnerdfrenzy/survival-llm",
       "desc": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.",
       "lang": "Python",
-      "stars": 825,
-      "forks": 69,
+      "stars": 894,
+      "forks": 71,
       "created": "2026-10-24"
+    },
+    {
+      "repo": "daveebbelaar/bama",
+      "url": "https://github.com/daveebbelaar/bama",
+      "desc": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
+      "lang": "Swift",
+      "stars": 882,
+      "forks": 127,
+      "created": "2026-10-24"
+    },
+    {
+      "repo": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "desc": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "lang": "Kotlin",
+      "stars": 839,
+      "forks": 137,
+      "created": "2026-10-29"
     },
     {
       "repo": "kargulstudio/calender-app-design",
       "url": "https://github.com/kargulstudio/calender-app-design",
       "desc": "",
       "lang": "TypeScript",
-      "stars": 815,
-      "forks": 99,
+      "stars": 822,
+      "forks": 101,
       "created": "2026-10-26"
     },
     {
@@ -205,8 +223,8 @@
       "url": "https://github.com/DrWhax/unfairplay",
       "desc": "Decrypt IPA's on MacOS",
       "lang": "Go",
-      "stars": 794,
-      "forks": 162,
+      "stars": 800,
+      "forks": 163,
       "created": "2026-10-25"
     },
     {
@@ -214,7 +232,7 @@
       "url": "https://github.com/surendrapandar/minilytics",
       "desc": "Opensource Revenue-first analytics for indie hackers & solo founders ",
       "lang": "TypeScript",
-      "stars": 778,
+      "stars": 782,
       "forks": 189,
       "created": "2026-10-23"
     },
@@ -223,54 +241,36 @@
       "url": "https://github.com/mizorewww/gdirect",
       "desc": "Rust Google Drive direct downloader using pinned libaria2",
       "lang": "Rust",
-      "stars": 766,
+      "stars": 772,
       "forks": 52,
       "created": "2026-10-25"
-    },
-    {
-      "repo": "yaojingang/GEOInflow",
-      "url": "https://github.com/yaojingang/GEOInflow",
-      "desc": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社",
-      "lang": "TypeScript",
-      "stars": 753,
-      "forks": 236,
-      "created": "2026-10-26"
-    },
-    {
-      "repo": "paipiange/nvzhuang",
-      "url": "https://github.com/paipiange/nvzhuang",
-      "desc": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-      "lang": "Go",
-      "stars": 751,
-      "forks": 260,
-      "created": "2026-10-29"
-    },
-    {
-      "repo": "Marker284/yandex-station-extended",
-      "url": "https://github.com/Marker284/yandex-station-extended",
-      "desc": "",
-      "lang": "Shell",
-      "stars": 646,
-      "forks": 82,
-      "created": "2026-10-23"
     },
     {
       "repo": "deepopen-com/deepopen-3d-webs",
       "url": "https://github.com/deepopen-com/deepopen-3d-webs",
       "desc": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera traject",
       "lang": "Python",
-      "stars": 642,
+      "stars": 770,
       "forks": 2,
       "created": "2026-10-26"
     },
     {
-      "repo": "OpenBMB/MiniCPM-OCR",
-      "url": "https://github.com/OpenBMB/MiniCPM-OCR",
-      "desc": "Fast, accurate OCR with correctness assessment.",
+      "repo": "yaojingang/GEOInflow",
+      "url": "https://github.com/yaojingang/GEOInflow",
+      "desc": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社",
       "lang": "TypeScript",
-      "stars": 594,
-      "forks": 36,
-      "created": "2026-10-27"
+      "stars": 758,
+      "forks": 237,
+      "created": "2026-10-26"
+    },
+    {
+      "repo": "Marker284/yandex-station-extended",
+      "url": "https://github.com/Marker284/yandex-station-extended",
+      "desc": "",
+      "lang": "Shell",
+      "stars": 668,
+      "forks": 87,
+      "created": "2026-10-23"
     }
   ],
   "note": ""

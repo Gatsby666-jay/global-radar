@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 18:40:42",
+  "updated_at": "2026-10-31 00:56:07",
   "categories": [
     "tech",
     "finance",
@@ -7,24 +7,314 @@
   ],
   "items": [
     {
-      "title": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
-      "url": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
+      "title": "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
+      "url": "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
       "source": "CNBC",
       "category": "finance",
-      "summary": "",
-      "published": 1793355826.0,
-      "fetched_at": "2026-10-30 18:40:42",
-      "published_cn": "10-30 10:23"
+      "summary": "Higher cocoa and sugar prices are fueling above-average cost inflation for candy",
+      "published": 1793379341.0,
+      "fetched_at": "2026-10-31 00:56:06",
+      "published_cn": "10-30 16:55"
     },
     {
-      "title": "Chevron beats earnings expectations as refining profits soar on high diesel fuel prices",
+      "title": "St. Louis Fed's Musalem: Another rate hike needed 'soon'",
+      "url": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Musalem's comments offer the first morsels of insight into what leaders at the Fed see next following this week's decision to hold interst rates steady.",
+      "published": 1793379277.0,
+      "fetched_at": "2026-10-31 00:56:06",
+      "published_cn": "10-30 16:54"
+    },
+    {
+      "title": "Intel stock heads for worst day in more than 50 years, wiping $12 billion off government's stake",
+      "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.",
+      "published": 1793379251.0,
+      "fetched_at": "2026-10-31 00:56:06",
+      "published_cn": "10-30 16:54"
+    },
+    {
+      "title": "Alaska Senate: Judge fast tracks new bids to dismiss DOJ lawsuit over 2nd Sullivan candidacy",
+      "url": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "The winner of the Alaska election could determine whether Republicans retain their majority in the U.S. Senate, or if Democrats take control of the chamber.",
+      "published": 1793379150.0,
+      "fetched_at": "2026-10-31 00:56:06",
+      "published_cn": "10-30 16:52"
+    },
+    {
+      "title": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
       "url": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
       "source": "CNBC",
       "category": "finance",
-      "summary": "Diesel prices have surged globally as Ukraine and Iran have bombed refineries in Russia and the Middle East.",
-      "published": 1793355693.0,
-      "fetched_at": "2026-10-30 18:40:42",
-      "published_cn": "10-30 10:21"
+      "summary": "Global diesel prices surged as Ukraine and Iran struck refineries in Russia and the Middle East.",
+      "published": 1793378671.0,
+      "fetched_at": "2026-10-31 00:56:06",
+      "published_cn": "10-30 16:44"
+    },
+    {
+      "title": "Google lost nearly half a trillion this week. Here's how Mike Khouw is trading it",
+      "url": "https://www.cnbc.com/2026/10/30/google-lost-about-half-a-trillion-this-week-how-mike-khouw-trades-it-.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Google lost nearly half a trillion this week. But the week's tech sell off might provide an opportunity, says Mike Khouw.",
+      "published": 1793378494.0,
+      "fetched_at": "2026-10-31 00:56:06",
+      "published_cn": "10-30 16:41"
+    },
+    {
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+      "published": 1793376225.0,
+      "fetched_at": "2026-10-31 00:56:05",
+      "published_cn": "10-30 16:03"
+    },
+    {
+      "title": "'Bad time to troll': Binance cofounder Changpeng Zhao asks Elon Musk for 'respect' after post about bitcoin hack",
+      "url": "https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Binance co-founder Changpeng Zhao asked Elon Musk to stop “trolling” after a $6.3 billion hack, pointing to Binance’s $1 billion-plus SpaceX stake.",
+      "published": 1793375063.0,
+      "fetched_at": "2026-10-31 00:56:06",
+      "published_cn": "10-30 15:44"
+    },
+    {
+      "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
+      "url": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google&#8217;s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at",
+      "published": 1793374142.0,
+      "fetched_at": "2026-10-31 00:56:05",
+      "published_cn": "10-30 15:29"
+    },
+    {
+      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations",
+      "published": 1793372286.0,
+      "fetched_at": "2026-10-31 00:56:05",
+      "published_cn": "10-30 14:58"
+    },
+    {
+      "title": "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
+      "url": "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "The U.S. Department of the Treasury has announced new Series I bond rates through April 2027.",
+      "published": 1793371992.0,
+      "fetched_at": "2026-10-31 00:56:06",
+      "published_cn": "10-30 14:53"
+    },
+    {
+      "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
+      "url": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Companies like Hoto and Fanttik have elevated the design and functionality of tools like electric screwdrivers, but Arrowmax wants to make them smarter by adding a camera and AI that work together to eliminate the trial ",
+      "published": 1793370206.0,
+      "fetched_at": "2026-10-31 00:56:05",
+      "published_cn": "10-30 14:23"
+    },
+    {
+      "title": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
+      "url": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
+      "source": "卫报·世界",
+      "category": "world",
+      "summary": "<p>Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of arms</p><p>Flávio Bolsonaro had hoped that by Sunday night people would be calling him the next presid",
+      "published": 1793369321.0,
+      "fetched_at": "2026-10-31 00:56:07",
+      "published_cn": "10-30 14:08"
+    },
+    {
+      "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+      "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
+      "published": 1793368825.0,
+      "fetched_at": "2026-10-31 00:56:05",
+      "published_cn": "10-30 14:00"
+    },
+    {
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-s",
+      "published": 1793368800.0,
+      "fetched_at": "2026-10-31 00:56:05",
+      "published_cn": "10-30 14:00"
+    },
+    {
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "DoorDash said that it is open to working with third-party agent makers.",
+      "published": 1793368465.0,
+      "fetched_at": "2026-10-31 00:56:05",
+      "published_cn": "10-30 13:54"
+    },
+    {
+      "title": "GM to pay $220 million after selling customer Smart Driver data",
+      "url": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Owners of GM cars found their driving data had been sold to insurance companies.",
+      "published": 1793368400.0,
+      "fetched_at": "2026-10-31 00:56:05",
+      "published_cn": "10-30 13:53"
+    },
+    {
+      "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
+      "url": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Waymo announced today that it will use Toyota bZ4X electric vehicles that are assembled in Japan for a robotaxi service in Tokyo. The news builds on the strategic partnership between Waymo and Toyota which was first anno",
+      "published": 1793368334.0,
+      "fetched_at": "2026-10-31 00:56:05",
+      "published_cn": "10-30 13:52"
+    },
+    {
+      "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+      "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
+      "published": 1793367999.0,
+      "fetched_at": "2026-10-31 00:56:05",
+      "published_cn": "10-30 13:46"
+    },
+    {
+      "title": "中共五中全會「空椅子」背後：常態化高壓反腐如何改變中國官場？",
+      "url": "https://www.bbc.com/zhongwen/articles/c3j47p5gwj5lo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "「這次全會進一步表明，習近平的反腐運動沒有終點。」專家說，「持續施加紀律壓力不應只是階段性運動，而必須成為中共運作方式中永久存在的一部分。」",
+      "published": 1793366605.0,
+      "fetched_at": "2026-10-31 00:56:07",
+      "published_cn": "10-30 13:23"
+    },
+    {
+      "title": "Silicon Valley wants you to invest in miracles",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic",
+      "published": 1793365865.0,
+      "fetched_at": "2026-10-31 00:56:05",
+      "published_cn": "10-30 13:11"
+    },
+    {
+      "title": "汽车工业的下一条流水线，开始由 AI 来安排",
+      "url": "https://www.ifanr.com/1686953?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "从司机乘客，到汽车工厂，再到整个产业。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1793365439.0,
+      "fetched_at": "2026-10-31 00:56:04",
+      "published_cn": "10-30 13:03"
+    },
+    {
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stoppi",
+      "published": 1793365274.0,
+      "fetched_at": "2026-10-31 00:56:05",
+      "published_cn": "10-30 13:01"
+    },
+    {
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+      "published": 1793365200.0,
+      "fetched_at": "2026-10-31 00:56:05",
+      "published_cn": "10-30 13:00"
+    },
+    {
+      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
+      "published": 1793365200.0,
+      "fetched_at": "2026-10-31 00:56:05",
+      "published_cn": "10-30 13:00"
+    },
+    {
+      "title": "The HomeView and Echo Show 16 could be the family computers I’ve been asking for",
+      "url": "https://www.theverge.com/tech/1022592/apple-homeview-amazon-echo-show-16-smart-display-family-computer",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Three years ago, I wrote an obituary for the smart display. The category - smart speakers with touchscreens attached - was stuck with a few underpowered gadgets from Google and Amazon that tried to do too much and did to",
+      "published": 1793365200.0,
+      "fetched_at": "2026-10-31 00:56:05",
+      "published_cn": "10-30 13:00"
+    },
+    {
+      "title": "The Apple Pencil turned the Duo into my new favorite notebook",
+      "url": "https://www.theverge.com/tech/1022894/iphone-duo-apple-pencil-hands-on",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Apple's $2,000 folding phone is a surprisingly good stand-in for a $20 notebook. Believe me; nothing gets me going quite like a new notebook. This one will be different, I think. This time, I really will take it everywhe",
+      "published": 1793363400.0,
+      "fetched_at": "2026-10-31 00:56:05",
+      "published_cn": "10-30 12:30"
+    },
+    {
+      "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
+      "url": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Nissan’s series hybrid e-Power system has been retuned for American roads.",
+      "published": 1793361618.0,
+      "fetched_at": "2026-10-31 00:56:05",
+      "published_cn": "10-30 12:00"
+    },
+    {
+      "title": "台灣新北市長選戰：「政二代」蘇巧慧對決「專業副手」李四川，誰能拿下藍綠關鍵一城？",
+      "url": "https://www.bbc.com/zhongwen/articles/cm9wzeg8ql22o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "作為全台人口最多的直轄市，新北市被視為「最關鍵戰場」，將判定藍綠整體勝負，並可能牽動2028年總統大選。",
+      "published": 1793359907.0,
+      "fetched_at": "2026-10-31 00:56:07",
+      "published_cn": "10-30 11:31"
+    },
+    {
+      "title": "Review: You Can See Everything blurs the view of Elizabeth Holmes' deceit",
+      "url": "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Disgraced founder of Theranos has some people falling for her act all over again.",
+      "published": 1793359801.0,
+      "fetched_at": "2026-10-31 00:56:05",
+      "published_cn": "10-30 11:30"
+    },
+    {
+      "title": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire",
+      "url": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "It's been a good week for ULA, with big NASA contract, Vulcan nearing return-to-flight.",
+      "published": 1793358035.0,
+      "fetched_at": "2026-10-31 00:56:05",
+      "published_cn": "10-30 11:00"
     },
     {
       "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
@@ -33,7 +323,7 @@
       "category": "world",
       "summary": "<p>Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expected</p><p>Heavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the nex",
       "published": 1793354836.0,
-      "fetched_at": "2026-10-30 18:40:42",
+      "fetched_at": "2026-10-31 00:56:07",
       "published_cn": "10-30 10:07"
     },
     {
@@ -43,7 +333,7 @@
       "category": "tech",
       "summary": "水冷，必须有 RGB 灯。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1793354797.0,
-      "fetched_at": "2026-10-30 18:40:39",
+      "fetched_at": "2026-10-31 00:56:04",
       "published_cn": "10-30 10:06"
     },
     {
@@ -53,18 +343,18 @@
       "category": "tech",
       "summary": "刀法、刀法，还是刀法<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1793354428.0,
-      "fetched_at": "2026-10-30 18:40:39",
+      "fetched_at": "2026-10-31 00:56:04",
       "published_cn": "10-30 10:00"
     },
     {
-      "title": "Wall Street braces for Democratic gains as 2026 midterm election nears",
-      "url": "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Investors are preparing for a blue wave in the midterm election on Tuesday that will determine who controls Congress for the remainder of President Trump's term.",
-      "published": 1793354401.0,
-      "fetched_at": "2026-10-30 18:40:42",
-      "published_cn": "10-30 10:00"
+      "title": "本周看什么 | 最近值得一看的 9 部作品",
+      "url": "https://sspai.com/post/117867",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "📅本周新预告《沙丘3》终极预告10月28日，电影《沙丘3》发布了终极预告，中国内地将于12月31日上映。丹尼斯·维伦纽瓦执导，提莫西·查拉梅、赞达亚、杰森·莫玛、弗洛伦丝·皮尤、丽贝卡·弗格森主演，誓 ...<a href=\"https://sspai.com/post/117867\" target=\"_blank\">查看全文</a>",
+      "published": 1793354231.0,
+      "fetched_at": "2026-10-31 00:56:05",
+      "published_cn": "10-30 09:57"
     },
     {
       "title": "幣安遭黑客攻擊：涉63億美元 或為史上最大規模 朝鮮黑客組織被指涉案",
@@ -73,58 +363,8 @@
       "category": "world",
       "summary": "兩家分析公司已將事件歸咎於「TraderTraitor」。人工智能調查公司TRM Labs在一份報告中稱，幣安攻擊事件的多個要素與早前和朝鮮有關的事件相似，包括2025年Bybit交易所創紀錄的15億美元黑客攻擊。另一家加密分析公司Chainalysis也表示，「高度確信」該朝鮮組織與這次黑客攻擊有關。",
       "published": 1793354191.0,
-      "fetched_at": "2026-10-30 18:40:42",
+      "fetched_at": "2026-10-31 00:56:07",
       "published_cn": "10-30 09:56"
-    },
-    {
-      "title": "台灣新北市長選戰：「政二代」蘇巧慧對決「專業副手」李四川，誰能拿下藍綠關鍵一城？",
-      "url": "https://www.bbc.com/zhongwen/articles/cm9wzeg8ql22o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "作為全台人口最多的直轄市，新北市被視為「最關鍵戰場」，將判定藍綠整體勝負，並可能牽動2028年總統大選。",
-      "published": 1793354075.0,
-      "fetched_at": "2026-10-30 18:40:42",
-      "published_cn": "10-30 09:54"
-    },
-    {
-      "title": "Amazon falls 7%, Intel plunges 25% in premarket trading, as pressure mounts after earnings",
-      "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.",
-      "published": 1793351787.0,
-      "fetched_at": "2026-10-30 18:40:42",
-      "published_cn": "10-30 09:16"
-    },
-    {
-      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-      "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitat",
-      "published": 1793350800.0,
-      "fetched_at": "2026-10-30 18:40:41",
-      "published_cn": "10-30 09:00"
-    },
-    {
-      "title": "Trump, Vance scrap planned appearances in final stretch of midterm campaign",
-      "url": "https://www.cnbc.com/2026/10/30/trump-vance-rally-midterm-elections-.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Trump and JD Vance have canceled planned appearances across three states, reducing in-person campaigning in the final days before midterm elections.",
-      "published": 1793348293.0,
-      "fetched_at": "2026-10-30 18:40:42",
-      "published_cn": "10-30 08:18"
-    },
-    {
-      "title": "Biggest-ever crypto hack impacts $6.3 billion as Binance works to contain fallout",
-      "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Binance estimated the impact of a security incident at $6.3 billion, with around $3 billion in crypto assets frozen, and pledged to cover all losses.",
-      "published": 1793347768.0,
-      "fetched_at": "2026-10-30 18:40:42",
-      "published_cn": "10-30 08:09"
     },
     {
       "title": "Fable 5.5测试曝光，Claude每次回答后，还会执行一条你看不到的指令",
@@ -133,27 +373,17 @@
       "category": "tech",
       "summary": "据说是 Anthropic 的 AGI<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1793346178.0,
-      "fetched_at": "2026-10-30 18:40:39",
+      "fetched_at": "2026-10-31 00:56:04",
       "published_cn": "10-30 07:42"
     },
     {
-      "title": "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms",
-      "url": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Iran said four tankers struck mines in the Strait of Hormuz, while Tehran disputed a U.S. claim that key shipping lanes had been cleared.",
-      "published": 1793344369.0,
-      "fetched_at": "2026-10-30 18:40:42",
-      "published_cn": "10-30 07:12"
-    },
-    {
-      "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+      "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
       "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
       "source": "TechCrunch",
       "category": "tech",
       "summary": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
       "published": 1793343660.0,
-      "fetched_at": "2026-10-30 18:40:41",
+      "fetched_at": "2026-10-31 00:56:05",
       "published_cn": "10-30 07:01"
     },
     {
@@ -163,18 +393,8 @@
       "category": "tech",
       "summary": "它简单、稳定，也有意思，不会把按时吃药变成一个负担——而是一件看见了就随手去做、轻松愉快的小事。<a href=\"https://sspai.com/post/116047\" target=\"_blank\">查看全文</a>",
       "published": 1793343561.0,
-      "fetched_at": "2026-10-30 18:40:40",
+      "fetched_at": "2026-10-31 00:56:05",
       "published_cn": "10-30 06:59"
-    },
-    {
-      "title": "A pharma giant is moving past one patent cliff — but another is already looming",
-      "url": "https://www.cnbc.com/2026/10/30/novartis-remibrutinib-multiple-sclerosis.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Disappointing data highlights Novartis' challenge to build its next generation of blockbuster medicines, following a series of clinical trial setbacks.",
-      "published": 1793340001.0,
-      "fetched_at": "2026-10-30 18:40:42",
-      "published_cn": "10-30 06:00"
     },
     {
       "title": "「我不希望它成為我的身份」：Hyrox失禁選手復出比賽前接受BBC專訪",
@@ -183,7 +403,7 @@
       "category": "world",
       "summary": "這位澳洲運動員承認責任，但表示輿論反彈令她「創傷」。",
       "published": 1793338819.0,
-      "fetched_at": "2026-10-30 18:40:42",
+      "fetched_at": "2026-10-31 00:56:07",
       "published_cn": "10-30 05:40"
     },
     {
@@ -193,7 +413,7 @@
       "category": "world",
       "summary": "<p>There is no end in sight for the drivers of illegal mining, while police action appears ineffective</p><p>Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the t",
       "published": 1793336445.0,
-      "fetched_at": "2026-10-30 18:40:42",
+      "fetched_at": "2026-10-31 00:56:07",
       "published_cn": "10-30 05:00"
     },
     {
@@ -203,7 +423,7 @@
       "category": "world",
       "summary": "<p>Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF</p><p>Members of the Sudanese diaspora and international human rights monitors have denounced the candid",
       "published": 1793336445.0,
-      "fetched_at": "2026-10-30 18:40:42",
+      "fetched_at": "2026-10-31 00:56:07",
       "published_cn": "10-30 05:00"
     },
     {
@@ -213,7 +433,7 @@
       "category": "tech",
       "summary": "省钱才是硬道理。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1793336064.0,
-      "fetched_at": "2026-10-30 18:40:39",
+      "fetched_at": "2026-10-31 00:56:04",
       "published_cn": "10-30 04:54"
     },
     {
@@ -223,7 +443,7 @@
       "category": "world",
       "summary": "過去一個月，歐洲各地爆發了由青年主導的示威遊行。這些遊行活動有何共同點？",
       "published": 1793332346.0,
-      "fetched_at": "2026-10-30 18:40:42",
+      "fetched_at": "2026-10-31 00:56:07",
       "published_cn": "10-30 03:52"
     },
     {
@@ -233,7 +453,7 @@
       "category": "tech",
       "summary": "编者按：@阿帅的健康笔记长期专注于运动健康领域的创作，发表了不少兼具实用性与科普性的文章，并著有付费栏目《久坐健康指南》，受到许多读者喜爱。本期《装了啥》邀请他分享运动、创作与工作中的心得，以及常用的 ...<a href=\"https://sspai.com/prime/story/zhuanglesha-261030\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://ssp",
       "published": 1793331043.0,
-      "fetched_at": "2026-10-30 18:40:40",
+      "fetched_at": "2026-10-31 00:56:05",
       "published_cn": "10-30 03:30"
     },
     {
@@ -243,7 +463,7 @@
       "category": "tech",
       "summary": "就像一个运动员无法预计自己能否取得金牌，但能控制自己投入于训练的时间一样，我们无法决定性地控制工作和生活中每一项事项的成功与否，但可以控制自己投入更多还是更少的时间。<a href=\"https://sspai.com/post/116435\" target=\"_blank\">查看全文</a>",
       "published": 1793330020.0,
-      "fetched_at": "2026-10-30 18:40:40",
+      "fetched_at": "2026-10-31 00:56:05",
       "published_cn": "10-30 03:13"
     },
     {
@@ -253,7 +473,7 @@
       "category": "tech",
       "summary": "如牛奶般醇厚<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1793329259.0,
-      "fetched_at": "2026-10-30 18:40:39",
+      "fetched_at": "2026-10-31 00:56:04",
       "published_cn": "10-30 03:00"
     },
     {
@@ -263,7 +483,7 @@
       "category": "tech",
       "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
       "published": 1793323248.0,
-      "fetched_at": "2026-10-30 18:40:41",
+      "fetched_at": "2026-10-31 00:56:05",
       "published_cn": "10-30 01:20"
     },
     {
@@ -273,7 +493,7 @@
       "category": "tech",
       "summary": "Plus 用户：为我发声<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1793320185.0,
-      "fetched_at": "2026-10-30 18:40:39",
+      "fetched_at": "2026-10-31 00:56:04",
       "published_cn": "10-30 00:29"
     },
     {
@@ -283,7 +503,7 @@
       "category": "world",
       "summary": "姆巴佩有關一名「中國領導人」的言論引發眾怒，但網絡審查令許多人仍不清楚事件究竟是怎麼回事。",
       "published": 1793319784.0,
-      "fetched_at": "2026-10-30 18:40:42",
+      "fetched_at": "2026-10-31 00:56:07",
       "published_cn": "10-30 00:23"
     },
     {
@@ -293,7 +513,7 @@
       "category": "tech",
       "summary": "· 王传福披露比亚迪员工突破 102 万，研发工程师达 12 万\n· 美国计算机专业入学人数再降，本科两年减少 18.4%\n· 韩国拟将 AI 眼镜作弊禁考期延至 3 年，考场将配专人识别<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1793319253.0,
-      "fetched_at": "2026-10-30 18:40:39",
+      "fetched_at": "2026-10-31 00:56:04",
       "published_cn": "10-30 00:14"
     },
     {
@@ -303,78 +523,8 @@
       "category": "tech",
       "summary": "腾讯与 Visa 签署合作备忘录，Bose 有线消噪耳塞国行上市等。<a href=\"https://sspai.com/post/117827\" target=\"_blank\">查看全文</a>",
       "published": 1793319218.0,
-      "fetched_at": "2026-10-30 18:40:40",
+      "fetched_at": "2026-10-31 00:56:05",
       "published_cn": "10-30 00:13"
-    },
-    {
-      "title": "The director of Obsession put a new horror short on YouTube",
-      "url": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair warning t",
-      "published": 1793318238.0,
-      "fetched_at": "2026-10-30 18:40:41",
-      "published_cn": "10-29 23:57"
-    },
-    {
-      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
-      "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
-      "published": 1793317496.0,
-      "fetched_at": "2026-10-30 18:40:41",
-      "published_cn": "10-29 23:44"
-    },
-    {
-      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-      "published": 1793317342.0,
-      "fetched_at": "2026-10-30 18:40:41",
-      "published_cn": "10-29 23:42"
-    },
-    {
-      "title": "Intel says it&#8217;s selling every affordable laptop chip it can make",
-      "url": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has ",
-      "published": 1793317341.0,
-      "fetched_at": "2026-10-30 18:40:41",
-      "published_cn": "10-29 23:42"
-    },
-    {
-      "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
-      "url": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
-      "published": 1793312843.0,
-      "fetched_at": "2026-10-30 18:40:41",
-      "published_cn": "10-29 22:27"
-    },
-    {
-      "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
-      "url": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnin",
-      "published": 1793312372.0,
-      "fetched_at": "2026-10-30 18:40:41",
-      "published_cn": "10-29 22:19"
-    },
-    {
-      "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
-      "url": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
-      "published": 1793310689.0,
-      "fetched_at": "2026-10-30 18:40:41",
-      "published_cn": "10-29 21:51"
     },
     {
       "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
@@ -383,28 +533,8 @@
       "category": "tech",
       "summary": "Reddit's search traffic \"was down meaningfully\" last quarter.",
       "published": 1793310477.0,
-      "fetched_at": "2026-10-30 18:40:41",
+      "fetched_at": "2026-10-31 00:56:05",
       "published_cn": "10-29 21:47"
-    },
-    {
-      "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
-      "url": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
-      "published": 1793308847.0,
-      "fetched_at": "2026-10-30 18:40:41",
-      "published_cn": "10-29 21:20"
-    },
-    {
-      "title": "GM reaches $220M settlement over selling drivers’ private data",
-      "url": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
-      "published": 1793307664.0,
-      "fetched_at": "2026-10-30 18:40:41",
-      "published_cn": "10-29 21:01"
     },
     {
       "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
@@ -413,18 +543,8 @@
       "category": "tech",
       "summary": "The latest update also brings a cloud recovery option for PCs that won't boot.",
       "published": 1793305129.0,
-      "fetched_at": "2026-10-30 18:40:41",
+      "fetched_at": "2026-10-31 00:56:05",
       "published_cn": "10-29 20:18"
-    },
-    {
-      "title": "Patrick Stewart has died at age 86",
-      "url": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday \"following a brief and poigna",
-      "published": 1793304602.0,
-      "fetched_at": "2026-10-30 18:40:41",
-      "published_cn": "10-29 20:10"
     },
     {
       "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
@@ -433,68 +553,8 @@
       "category": "tech",
       "summary": "Inspector general rejected request from Democratic and Republican senators.",
       "published": 1793304490.0,
-      "fetched_at": "2026-10-30 18:40:41",
+      "fetched_at": "2026-10-31 00:56:05",
       "published_cn": "10-29 20:08"
-    },
-    {
-      "title": "Reddit will force everyone to log in",
-      "url": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Reddit is announcing a huge shift: It's going to start requiring users to log in. Right now, you can browse Reddit without having an account, and the site is generally a great resource for crowdsourced information on a w",
-      "published": 1793304420.0,
-      "fetched_at": "2026-10-30 18:40:41",
-      "published_cn": "10-29 20:07"
-    },
-    {
-      "title": "Rivian’s R2 is officially its best-selling vehicle",
-      "url": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outs",
-      "published": 1793304120.0,
-      "fetched_at": "2026-10-30 18:40:41",
-      "published_cn": "10-29 20:02"
-    },
-    {
-      "title": "GM to pay $220 million to resolve claims it sold driving habits data",
-      "url": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement, which resolves a complaint from a coal",
-      "published": 1793301568.0,
-      "fetched_at": "2026-10-30 18:40:41",
-      "published_cn": "10-29 19:19"
-    },
-    {
-      "title": "Trump declares robot imports a national security threat",
-      "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "President orders trade talks on foreign-made factory robots, threatens tariffs.",
-      "published": 1793300873.0,
-      "fetched_at": "2026-10-30 18:40:41",
-      "published_cn": "10-29 19:07"
-    },
-    {
-      "title": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
-      "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China.",
-      "published": 1793298552.0,
-      "fetched_at": "2026-10-30 18:40:41",
-      "published_cn": "10-29 18:29"
-    },
-    {
-      "title": "Turning a solar power system into its own backup",
-      "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Plant design allows it to run on either stored solar heat or combustion.",
-      "published": 1793296946.0,
-      "fetched_at": "2026-10-30 18:40:41",
-      "published_cn": "10-29 18:02"
     },
     {
       "title": "Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song",
@@ -503,48 +563,8 @@
       "category": "world",
       "summary": "<p>Musician wrote a ‘love letter’ to Canada with a new album – and some pointed commentary about the US president</p><p>Lake Ontario, the vast body of water that straddles the US-Canada border, has gone by many names ove",
       "published": 1793296187.0,
-      "fetched_at": "2026-10-30 18:40:42",
+      "fetched_at": "2026-10-31 00:56:07",
       "published_cn": "10-29 17:49"
-    },
-    {
-      "title": "Brazil’s victory for the planet and democracy: seven lessons from Lula’s win",
-      "url": "https://www.theguardian.com/world/2026/oct/29/brazil-victory-planet-democracy-lessons-lula-win",
-      "source": "卫报·世界",
-      "category": "world",
-      "summary": "<p>The trouncing of the far right provides a playbook for social and environmental movements in other countries facing elections, including the US, Spain and France</p><p></p><p>Thank you, Brazil, for demonstrating how t",
-      "published": 1793295998.0,
-      "fetched_at": "2026-10-30 18:40:42",
-      "published_cn": "10-29 17:46"
-    },
-    {
-      "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
-      "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Charges filed as Trump admin tries to save Kalshi from Utah's total ban on gambling.",
-      "published": 1793294493.0,
-      "fetched_at": "2026-10-30 18:40:41",
-      "published_cn": "10-29 17:21"
-    },
-    {
-      "title": "Google admits AI search makes less money, but it's fixing that with more ads",
-      "url": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
-      "published": 1793291095.0,
-      "fetched_at": "2026-10-30 18:40:41",
-      "published_cn": "10-29 16:24"
-    },
-    {
-      "title": "巴西前總統博索納羅之子敗給盧拉後，為何飛往美國？",
-      "url": "https://www.bbc.com/zhongwen/articles/cx5ynjr6q6gzo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "這位參議員離開巴西後，被拍到在美國走下飛機。他在巴西因涉嫌洗錢而接受調查。",
-      "published": 1793290770.0,
-      "fetched_at": "2026-10-30 18:40:42",
-      "published_cn": "10-29 16:19"
     },
     {
       "title": "“洋流”兴起：搅动台北选局——兼比较“洋流”与“韩流”",
@@ -553,7 +573,7 @@
       "category": "finance",
       "summary": "林原：本次台湾地方选举最重要的看点是“洋流”的兴起。“洋流”指沈伯洋掀起的竞选气势、政治风潮，而这又会让人联想到八年前的“韩流”。",
       "published": 1793289600.0,
-      "fetched_at": "2026-10-30 18:40:41",
+      "fetched_at": "2026-10-31 00:56:06",
       "published_cn": "10-29 16:00"
     },
     {
@@ -563,7 +583,7 @@
       "category": "finance",
       "summary": "叶胜舟：卢拉也有争议和缺陷，但不回避自己的问题，勇于承认、果断应变，能够倾听人民的呼声，尊重人民的意愿，满足人民的正当需求。",
       "published": 1793289600.0,
-      "fetched_at": "2026-10-30 18:40:41",
+      "fetched_at": "2026-10-31 00:56:06",
       "published_cn": "10-29 16:00"
     },
     {
@@ -573,7 +593,7 @@
       "category": "finance",
       "summary": "何越：如今英国处理对华关系，需要更多考虑美国、欧洲和俄罗斯的动向。不同政策相互牵动，也使英国更难兼顾对华经贸合作与自身的安全目标。",
       "published": 1793289600.0,
-      "fetched_at": "2026-10-30 18:40:41",
+      "fetched_at": "2026-10-31 00:56:06",
       "published_cn": "10-29 16:00"
     },
     {
@@ -583,7 +603,7 @@
       "category": "finance",
       "summary": "袁杰：基民盟和基社盟深陷危机。在波恩举行的该党青年联盟本年度“德国日”活动上，年轻一代希望为母党注入活力，但能否奏效尚不得而知。",
       "published": 1793289600.0,
-      "fetched_at": "2026-10-30 18:40:41",
+      "fetched_at": "2026-10-31 00:56:06",
       "published_cn": "10-29 16:00"
     },
     {
@@ -593,7 +613,7 @@
       "category": "finance",
       "summary": "财报显示核心盈利增长后，平安H股首个交易日上涨2.6%。公司的金融服务以及不断增长的医疗健康和养老业务，为长期增长奠定了基础。",
       "published": 1793289600.0,
-      "fetched_at": "2026-10-30 18:40:41",
+      "fetched_at": "2026-10-31 00:56:06",
       "published_cn": "10-29 16:00"
     },
     {
@@ -603,7 +623,7 @@
       "category": "finance",
       "summary": "太盟投资集团(PAG)拟以5.13亿美元收购恒大物业51%股权，出价约比最后收盘价低30%，这是恒大清盘人追收资产道路上的收获之一。",
       "published": 1793289600.0,
-      "fetched_at": "2026-10-30 18:40:41",
+      "fetched_at": "2026-10-31 00:56:06",
       "published_cn": "10-29 16:00"
     },
     {
@@ -613,7 +633,7 @@
       "category": "finance",
       "summary": "曾敬涵：赫格塞思的最新表态，将孔子学院再次置于大国竞争的聚光灯下。但在兰卡斯特那些周末的课堂里，项目首先需要回答的是各种具体问题。",
       "published": 1793289600.0,
-      "fetched_at": "2026-10-30 18:40:41",
+      "fetched_at": "2026-10-31 00:56:06",
       "published_cn": "10-29 16:00"
     },
     {
@@ -623,7 +643,7 @@
       "category": "finance",
       "summary": "奥尼尔表示，卢拉现在面临的考验，与他大约25年前首次执政时相似。过去25年表明，卢拉具有相当强的适应能力，也很灵活。",
       "published": 1793289600.0,
-      "fetched_at": "2026-10-30 18:40:41",
+      "fetched_at": "2026-10-31 00:56:06",
       "published_cn": "10-29 16:00"
     },
     {
@@ -633,18 +653,8 @@
       "category": "world",
       "summary": "這場造成168人死亡的大火發生將近一年後，香港特首李家超首次率領官員鞠躬道歉。",
       "published": 1793285256.0,
-      "fetched_at": "2026-10-30 18:40:42",
+      "fetched_at": "2026-10-31 00:56:07",
       "published_cn": "10-29 14:47"
-    },
-    {
-      "title": "13.98 万元起！小鹏 MONA L05 正式上市，大五座 SUV 市场的卷王来了",
-      "url": "https://www.ifanr.com/1686761?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "属于 MONA 的家庭用车。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1793283434.0,
-      "fetched_at": "2026-10-30 18:40:39",
-      "published_cn": "10-29 14:17"
     },
     {
       "title": "中共五中全會閉幕：出席委員較本屆初減少四分之一 張升民罕見增選入政治局",
@@ -653,7 +663,7 @@
       "category": "world",
       "summary": "專家稱，更好的激勵與監督可能減少浪費、提高政策可預期性，但更嚴厲的紀律約束也可能加深幹部不敢作為的局面，拖延支出和投資。",
       "published": 1793278899.0,
-      "fetched_at": "2026-10-30 18:40:42",
+      "fetched_at": "2026-10-31 00:56:07",
       "published_cn": "10-29 13:01"
     },
     {
@@ -663,7 +673,7 @@
       "category": "tech",
       "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/117791\" target=\"_blank\">查看全文</a>",
       "published": 1793266018.0,
-      "fetched_at": "2026-10-30 18:40:40",
+      "fetched_at": "2026-10-31 00:56:05",
       "published_cn": "10-29 09:26"
     },
     {
@@ -673,7 +683,7 @@
       "category": "tech",
       "summary": "适合别人的抗压方式为什么不适合自己？你也该知道的抗压方法论<a href=\"https://sspai.com/post/117244\" target=\"_blank\">查看全文</a>",
       "published": 1793264738.0,
-      "fetched_at": "2026-10-30 18:40:40",
+      "fetched_at": "2026-10-31 00:56:05",
       "published_cn": "10-29 09:05"
     },
     {
@@ -683,18 +693,8 @@
       "category": "tech",
       "summary": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ...<a href=\"https://sspai.com/prime/story/how-to-analyze-health-data-with-agent\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<",
       "published": 1793244586.0,
-      "fetched_at": "2026-10-30 18:40:40",
+      "fetched_at": "2026-10-31 00:56:05",
       "published_cn": "10-29 03:29"
-    },
-    {
-      "title": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
-      "url": "https://sspai.com/post/116686",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "如果你从网上购买过 Apple ID，又在自己的设备上登录，那就会存在一种风险：这类共享 ID 的密码掌握在卖家手里，卖家可以随时更改。本文就介绍了移除激活锁的全过程。<a href=\"https://sspai.com/post/116686\" target=\"_blank\">查看全文</a>",
-      "published": 1793242800.0,
-      "fetched_at": "2026-10-30 18:40:40",
-      "published_cn": "10-29 03:00"
     },
     {
       "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
@@ -703,7 +703,7 @@
       "category": "world",
       "summary": "<p>Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website</p><p>Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outle",
       "published": 1793196984.0,
-      "fetched_at": "2026-10-30 18:40:42",
+      "fetched_at": "2026-10-31 00:56:07",
       "published_cn": "10-28 14:16"
     },
     {
@@ -713,7 +713,7 @@
       "category": "world",
       "summary": "<p>Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment</p><p>The “unprecedented” <a href=\"https://www.theguardian.com/w",
       "published": 1793180269.0,
-      "fetched_at": "2026-10-30 18:40:42",
+      "fetched_at": "2026-10-31 00:56:07",
       "published_cn": "10-28 09:37"
     },
     {
@@ -723,12 +723,11 @@
       "category": "world",
       "summary": "<p>Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze</p><p>Senior Sudanese commanders implicated in a “",
       "published": 1793027243.0,
-      "fetched_at": "2026-10-30 18:40:42",
+      "fetched_at": "2026-10-31 00:56:07",
       "published_cn": "10-26 15:07"
     }
   ],
   "feed_failures": [
-    "虎嗅: ReadTimeout HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=20)",
-    "华尔街见闻: HTTPError 404 Client Error: Not Found for url: https://wallstreetcn.com/rss"
+    "虎嗅: ReadTimeout HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=20)"
   ]
 }

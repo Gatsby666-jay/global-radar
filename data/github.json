@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31 18:06:42",
+  "updated_at": "2026-10-31 23:56:53",
   "window_days": 7,
   "repos": [
     {
@@ -7,7 +7,7 @@
       "url": "https://github.com/unclebob/ub-mode",
       "desc": "",
       "lang": "—",
-      "stars": 5498,
+      "stars": 5567,
       "forks": 301,
       "created": "2026-10-25"
     },
@@ -16,8 +16,8 @@
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "desc": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
       "lang": "Python",
-      "stars": 5234,
-      "forks": 471,
+      "stars": 5316,
+      "forks": 478,
       "created": "2026-10-24"
     },
     {
@@ -25,8 +25,8 @@
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
       "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
       "lang": "TypeScript",
-      "stars": 4331,
-      "forks": 1100,
+      "stars": 4556,
+      "forks": 1153,
       "created": "2026-10-27"
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/interplains/Zero-Breach-Toolkit",
       "desc": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
       "lang": "Python",
-      "stars": 3922,
-      "forks": 421,
+      "stars": 3967,
+      "forks": 425,
       "created": "2026-10-25"
     },
     {
@@ -43,8 +43,8 @@
       "url": "https://github.com/designfuchen/word-atlas",
       "desc": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
       "lang": "TypeScript",
-      "stars": 3462,
-      "forks": 760,
+      "stars": 3522,
+      "forks": 767,
       "created": "2026-10-25"
     },
     {
@@ -52,35 +52,35 @@
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
       "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
       "lang": "Dart",
-      "stars": 3098,
-      "forks": 133,
+      "stars": 3408,
+      "forks": 154,
       "created": "2026-10-25"
-    },
-    {
-      "repo": "t3dotgg/tstack",
-      "url": "https://github.com/t3dotgg/tstack",
-      "desc": "The agent skills I use every day. Works with Claude Code and Codex.",
-      "lang": "Python",
-      "stars": 2492,
-      "forks": 158,
-      "created": "2026-10-24"
     },
     {
       "repo": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
       "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "lang": "JavaScript",
-      "stars": 2078,
-      "forks": 104,
+      "stars": 2829,
+      "forks": 139,
       "created": "2026-10-29"
+    },
+    {
+      "repo": "t3dotgg/tstack",
+      "url": "https://github.com/t3dotgg/tstack",
+      "desc": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "lang": "Python",
+      "stars": 2508,
+      "forks": 160,
+      "created": "2026-10-24"
     },
     {
       "repo": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
       "desc": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "lang": "Kotlin",
-      "stars": 2027,
-      "forks": 324,
+      "stars": 2414,
+      "forks": 394,
       "created": "2026-10-29"
     },
     {
@@ -88,26 +88,17 @@
       "url": "https://github.com/valentderah/totk-pc-recomp",
       "desc": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
       "lang": "C",
-      "stars": 1998,
-      "forks": 138,
+      "stars": 2285,
+      "forks": 166,
       "created": "2026-10-29"
-    },
-    {
-      "repo": "andyhuo520/digital-human-koubo",
-      "url": "https://github.com/andyhuo520/digital-human-koubo",
-      "desc": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
-      "lang": "TypeScript",
-      "stars": 1568,
-      "forks": 357,
-      "created": "2026-10-26"
     },
     {
       "repo": "qybaihe/bla",
       "url": "https://github.com/qybaihe/bla",
       "desc": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> H",
       "lang": "TypeScript",
-      "stars": 1565,
-      "forks": 214,
+      "stars": 1656,
+      "forks": 225,
       "created": "2026-10-25"
     },
     {
@@ -115,62 +106,80 @@
       "url": "https://github.com/paipiange/nvzhuang",
       "desc": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
       "lang": "Go",
-      "stars": 1487,
-      "forks": 413,
+      "stars": 1619,
+      "forks": 436,
       "created": "2026-10-29"
     },
     {
-      "repo": "DenisSergeevitch/ex-ussr-kinship-research",
-      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
-      "desc": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
-      "lang": "Python",
-      "stars": 1363,
-      "forks": 141,
-      "created": "2026-10-25"
+      "repo": "andyhuo520/digital-human-koubo",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "desc": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+      "lang": "TypeScript",
+      "stars": 1579,
+      "forks": 360,
+      "created": "2026-10-26"
     },
     {
       "repo": "aschmelyun/print-my-profile-pic",
       "url": "https://github.com/aschmelyun/print-my-profile-pic",
       "desc": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
       "lang": "—",
-      "stars": 1331,
-      "forks": 2,
+      "stars": 1512,
+      "forks": 3,
       "created": "2026-10-27"
     },
     {
-      "repo": "Motionsites-AI/claude-skill",
-      "url": "https://github.com/Motionsites-AI/claude-skill",
-      "desc": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+      "repo": "DenisSergeevitch/ex-ussr-kinship-research",
+      "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+      "desc": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
       "lang": "Python",
-      "stars": 1227,
-      "forks": 125,
-      "created": "2026-10-26"
+      "stars": 1389,
+      "forks": 144,
+      "created": "2026-10-25"
     },
     {
       "repo": "lexifina/global-law",
       "url": "https://github.com/lexifina/global-law",
       "desc": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
       "lang": "HTML",
-      "stars": 1183,
-      "forks": 96,
+      "stars": 1298,
+      "forks": 106,
       "created": "2026-10-28"
+    },
+    {
+      "repo": "Motionsites-AI/claude-skill",
+      "url": "https://github.com/Motionsites-AI/claude-skill",
+      "desc": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+      "lang": "Python",
+      "stars": 1250,
+      "forks": 126,
+      "created": "2026-10-26"
     },
     {
       "repo": "smithjohn78390/tongjiang-lab",
       "url": "https://github.com/smithjohn78390/tongjiang-lab",
       "desc": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
       "lang": "HTML",
-      "stars": 1130,
-      "forks": 305,
+      "stars": 1167,
+      "forks": 309,
       "created": "2026-10-28"
+    },
+    {
+      "repo": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "desc": "Towards a More Autonomous Agent System",
+      "lang": "TypeScript",
+      "stars": 1139,
+      "forks": 89,
+      "created": "2026-10-31"
     },
     {
       "repo": "deepopen-com/deepopen-3d-webs",
       "url": "https://github.com/deepopen-com/deepopen-3d-webs",
       "desc": "Image-driven 3D scene generation system. Users provide a reference image and prompt words, and the system generates previewable, replayable, and traceable scene results according to the camera traject",
       "lang": "Python",
-      "stars": 1062,
-      "forks": 110,
+      "stars": 1130,
+      "forks": 111,
       "created": "2026-10-26"
     },
     {
@@ -178,8 +187,35 @@
       "url": "https://github.com/anonnerdfrenzy/survival-llm",
       "desc": "A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.",
       "lang": "Python",
-      "stars": 1046,
-      "forks": 82,
+      "stars": 1091,
+      "forks": 89,
+      "created": "2026-10-24"
+    },
+    {
+      "repo": "kevinraymond/florilegium",
+      "url": "https://github.com/kevinraymond/florilegium",
+      "desc": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+      "lang": "Lua",
+      "stars": 1052,
+      "forks": 26,
+      "created": "2026-10-30"
+    },
+    {
+      "repo": "patch-gg/pixelfx",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "desc": "232 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+      "lang": "JavaScript",
+      "stars": 1047,
+      "forks": 126,
+      "created": "2026-10-30"
+    },
+    {
+      "repo": "daveebbelaar/bama",
+      "url": "https://github.com/daveebbelaar/bama",
+      "desc": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
+      "lang": "Swift",
+      "stars": 1026,
+      "forks": 145,
       "created": "2026-10-24"
     },
     {
@@ -187,43 +223,43 @@
       "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
       "desc": "A public release of the Steal My Bitcoin challenge",
       "lang": "Python",
-      "stars": 1019,
-      "forks": 147,
+      "stars": 1021,
+      "forks": 148,
       "created": "2026-10-25"
-    },
-    {
-      "repo": "daveebbelaar/bama",
-      "url": "https://github.com/daveebbelaar/bama",
-      "desc": "BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
-      "lang": "Swift",
-      "stars": 995,
-      "forks": 141,
-      "created": "2026-10-24"
     },
     {
       "repo": "ZiChuanLan/agent-purge",
       "url": "https://github.com/ZiChuanLan/agent-purge",
       "desc": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
       "lang": "JavaScript",
-      "stars": 924,
-      "forks": 668,
+      "stars": 935,
+      "forks": 676,
       "created": "2026-10-25"
     },
     {
-      "repo": "kevinraymond/florilegium",
-      "url": "https://github.com/kevinraymond/florilegium",
-      "desc": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
-      "lang": "Lua",
-      "stars": 883,
-      "forks": 23,
-      "created": "2026-10-30"
+      "repo": "Djihads80/Eglantine",
+      "url": "https://github.com/Djihads80/Eglantine",
+      "desc": "VERY experimental Nintendo Switch 2 emulator",
+      "lang": "C++",
+      "stars": 921,
+      "forks": 116,
+      "created": "2026-10-29"
+    },
+    {
+      "repo": "BryceYuuu/RUN",
+      "url": "https://github.com/BryceYuuu/RUN",
+      "desc": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+      "lang": "Python",
+      "stars": 853,
+      "forks": 54,
+      "created": "2026-10-29"
     },
     {
       "repo": "kargulstudio/calender-app-design",
       "url": "https://github.com/kargulstudio/calender-app-design",
       "desc": "",
       "lang": "TypeScript",
-      "stars": 832,
+      "stars": 833,
       "forks": 102,
       "created": "2026-10-26"
     },
@@ -232,45 +268,9 @@
       "url": "https://github.com/DrWhax/unfairplay",
       "desc": "Decrypt IPA's on MacOS",
       "lang": "Go",
-      "stars": 819,
-      "forks": 165,
+      "stars": 822,
+      "forks": 164,
       "created": "2026-10-25"
-    },
-    {
-      "repo": "mizorewww/gdirect",
-      "url": "https://github.com/mizorewww/gdirect",
-      "desc": "Rust Google Drive direct downloader using pinned libaria2",
-      "lang": "Rust",
-      "stars": 774,
-      "forks": 52,
-      "created": "2026-10-25"
-    },
-    {
-      "repo": "BryceYuuu/RUN",
-      "url": "https://github.com/BryceYuuu/RUN",
-      "desc": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
-      "lang": "Python",
-      "stars": 766,
-      "forks": 48,
-      "created": "2026-10-29"
-    },
-    {
-      "repo": "yaojingang/GEOInflow",
-      "url": "https://github.com/yaojingang/GEOInflow",
-      "desc": "Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO). Track visitors, AI search referrals, crawl logs, content coverage, and conversions. Jointly published by 猎看科技 · 北京日报社",
-      "lang": "TypeScript",
-      "stars": 763,
-      "forks": 239,
-      "created": "2026-10-26"
-    },
-    {
-      "repo": "HRuiCcc/RuiC-PoseAtlas",
-      "url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
-      "desc": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
-      "lang": "JavaScript",
-      "stars": 760,
-      "forks": 204,
-      "created": "2026-10-28"
     }
   ],
   "note": ""

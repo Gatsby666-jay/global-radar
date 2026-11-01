@@ -1,14 +1,23 @@
 {
-  "updated_at": "2026-11-01 18:57:43",
+  "updated_at": "2026-11-02 00:59:23",
   "window_days": 7,
   "repos": [
+    {
+      "repo": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "desc": "Towards a More Autonomous Agent System",
+      "lang": "TypeScript",
+      "stars": 6441,
+      "forks": 633,
+      "created": "2026-10-31"
+    },
     {
       "repo": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
       "desc": "",
       "lang": "—",
-      "stars": 6038,
-      "forks": 336,
+      "stars": 6167,
+      "forks": 342,
       "created": "2026-10-25"
     },
     {
@@ -16,44 +25,35 @@
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
       "desc": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
       "lang": "TypeScript",
-      "stars": 4970,
-      "forks": 1261,
+      "stars": 5091,
+      "forks": 1302,
       "created": "2026-10-27"
-    },
-    {
-      "repo": "deepseek-ai/dsh-superagent-prototype",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "desc": "Towards a More Autonomous Agent System",
-      "lang": "TypeScript",
-      "stars": 4966,
-      "forks": 473,
-      "created": "2026-10-31"
-    },
-    {
-      "repo": "ccch1mneyyy/dsh-Go",
-      "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
-      "lang": "Dart",
-      "stars": 4146,
-      "forks": 197,
-      "created": "2026-10-25"
     },
     {
       "repo": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
       "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "lang": "JavaScript",
-      "stars": 4064,
-      "forks": 201,
+      "stars": 4516,
+      "forks": 222,
       "created": "2026-10-29"
+    },
+    {
+      "repo": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "desc": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "lang": "Dart",
+      "stars": 4479,
+      "forks": 212,
+      "created": "2026-10-25"
     },
     {
       "repo": "interplains/Zero-Breach-Toolkit",
       "url": "https://github.com/interplains/Zero-Breach-Toolkit",
       "desc": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
       "lang": "Python",
-      "stars": 4043,
-      "forks": 429,
+      "stars": 4081,
+      "forks": 430,
       "created": "2026-10-25"
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://github.com/designfuchen/word-atlas",
       "desc": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
       "lang": "TypeScript",
-      "stars": 3636,
-      "forks": 787,
+      "stars": 3691,
+      "forks": 803,
       "created": "2026-10-25"
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/wangzan101/Mika",
       "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "lang": "Kotlin",
-      "stars": 3252,
-      "forks": 546,
+      "stars": 3646,
+      "forks": 653,
       "created": "2026-10-29"
     },
     {
@@ -79,8 +79,8 @@
       "url": "https://github.com/valentderah/totk-pc-recomp",
       "desc": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
       "lang": "C",
-      "stars": 2857,
-      "forks": 232,
+      "stars": 3011,
+      "forks": 242,
       "created": "2026-10-29"
     },
     {
@@ -88,8 +88,8 @@
       "url": "https://github.com/patch-gg/pixelfx",
       "desc": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
       "lang": "JavaScript",
-      "stars": 1932,
-      "forks": 256,
+      "stars": 2352,
+      "forks": 303,
       "created": "2026-10-30"
     },
     {
@@ -97,8 +97,8 @@
       "url": "https://github.com/paipiange/nvzhuang",
       "desc": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
       "lang": "Go",
-      "stars": 1823,
-      "forks": 478,
+      "stars": 1854,
+      "forks": 488,
       "created": "2026-10-29"
     },
     {
@@ -106,17 +106,26 @@
       "url": "https://github.com/qybaihe/bla",
       "desc": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> H",
       "lang": "JavaScript",
-      "stars": 1767,
-      "forks": 238,
+      "stars": 1800,
+      "forks": 244,
       "created": "2026-10-25"
+    },
+    {
+      "repo": "Djihads80/Eglantine",
+      "url": "https://github.com/Djihads80/Eglantine",
+      "desc": "VERY experimental Nintendo Switch 2 emulator",
+      "lang": "C++",
+      "stars": 1763,
+      "forks": 213,
+      "created": "2026-10-29"
     },
     {
       "repo": "aschmelyun/print-my-profile-pic",
       "url": "https://github.com/aschmelyun/print-my-profile-pic",
       "desc": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
       "lang": "—",
-      "stars": 1673,
-      "forks": 5,
+      "stars": 1683,
+      "forks": 6,
       "created": "2026-10-27"
     },
     {
@@ -124,26 +133,17 @@
       "url": "https://github.com/andyhuo520/digital-human-koubo",
       "desc": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
       "lang": "TypeScript",
-      "stars": 1611,
-      "forks": 366,
+      "stars": 1630,
+      "forks": 368,
       "created": "2026-10-26"
-    },
-    {
-      "repo": "Djihads80/Eglantine",
-      "url": "https://github.com/Djihads80/Eglantine",
-      "desc": "VERY experimental Nintendo Switch 2 emulator",
-      "lang": "C++",
-      "stars": 1537,
-      "forks": 191,
-      "created": "2026-10-29"
     },
     {
       "repo": "lexifina/global-law",
       "url": "https://github.com/lexifina/global-law",
       "desc": "Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect",
       "lang": "HTML",
-      "stars": 1485,
-      "forks": 124,
+      "stars": 1534,
+      "forks": 132,
       "created": "2026-10-28"
     },
     {
@@ -151,8 +151,8 @@
       "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
       "desc": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
       "lang": "Python",
-      "stars": 1416,
-      "forks": 149,
+      "stars": 1434,
+      "forks": 150,
       "created": "2026-10-25"
     },
     {
@@ -160,27 +160,36 @@
       "url": "https://github.com/Motionsites-AI/claude-skill",
       "desc": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
       "lang": "Python",
-      "stars": 1341,
-      "forks": 134,
+      "stars": 1377,
+      "forks": 136,
       "created": "2026-10-26"
     },
     {
-      "repo": "smithjohn78390/tongjiang-lab",
-      "url": "https://github.com/smithjohn78390/tongjiang-lab",
-      "desc": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
-      "lang": "HTML",
-      "stars": 1232,
-      "forks": 327,
-      "created": "2026-10-28"
+      "repo": "haydenschmitty/floorplan",
+      "url": "https://github.com/haydenschmitty/floorplan",
+      "desc": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "lang": "JavaScript",
+      "stars": 1347,
+      "forks": 92,
+      "created": "2026-10-27"
     },
     {
       "repo": "kevinraymond/florilegium",
       "url": "https://github.com/kevinraymond/florilegium",
       "desc": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
       "lang": "Lua",
-      "stars": 1207,
+      "stars": 1251,
       "forks": 31,
       "created": "2026-10-30"
+    },
+    {
+      "repo": "smithjohn78390/tongjiang-lab",
+      "url": "https://github.com/smithjohn78390/tongjiang-lab",
+      "desc": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
+      "lang": "HTML",
+      "stars": 1248,
+      "forks": 332,
+      "created": "2026-10-28"
     },
     {
       "repo": "deepopen-com/deepopen-3d-webs",
@@ -192,39 +201,30 @@
       "created": "2026-10-26"
     },
     {
-      "repo": "haydenschmitty/floorplan",
-      "url": "https://github.com/haydenschmitty/floorplan",
-      "desc": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
-      "lang": "JavaScript",
-      "stars": 1099,
-      "forks": 76,
-      "created": "2026-10-27"
-    },
-    {
       "repo": "BryceYuuu/RUN",
       "url": "https://github.com/BryceYuuu/RUN",
       "desc": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
       "lang": "Python",
-      "stars": 1059,
-      "forks": 64,
+      "stars": 1124,
+      "forks": 66,
       "created": "2026-10-29"
+    },
+    {
+      "repo": "Arjun-Ingole/hop",
+      "url": "https://github.com/Arjun-Ingole/hop",
+      "desc": "Install Linux next to Windows without a USB stick",
+      "lang": "PowerShell",
+      "stars": 1075,
+      "forks": 37,
+      "created": "2026-10-30"
     },
     {
       "repo": "KillaBoi/StealMyBitcoin-PoC",
       "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
       "desc": "A public release of the Steal My Bitcoin challenge",
       "lang": "Python",
-      "stars": 1028,
+      "stars": 1030,
       "forks": 148,
-      "created": "2026-10-25"
-    },
-    {
-      "repo": "ZiChuanLan/agent-purge",
-      "url": "https://github.com/ZiChuanLan/agent-purge",
-      "desc": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
-      "lang": "JavaScript",
-      "stars": 944,
-      "forks": 680,
       "created": "2026-10-25"
     },
     {
@@ -232,8 +232,26 @@
       "url": "https://github.com/D3voz/openjutsu",
       "desc": "One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax H3, with FLUX.3 Klein relighting.",
       "lang": "TypeScript",
-      "stars": 929,
-      "forks": 142,
+      "stars": 990,
+      "forks": 147,
+      "created": "2026-10-26"
+    },
+    {
+      "repo": "ZiChuanLan/agent-purge",
+      "url": "https://github.com/ZiChuanLan/agent-purge",
+      "desc": "One persona, many coding agents. Replace or inject system prompts across codex, claude, opencode, grok, omp, hermes, pi, zcode - with a local web console.",
+      "lang": "JavaScript",
+      "stars": 956,
+      "forks": 681,
+      "created": "2026-10-25"
+    },
+    {
+      "repo": "physicsdolphin/nv-uefi-unlocker",
+      "url": "https://github.com/physicsdolphin/nv-uefi-unlocker",
+      "desc": "UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackintosh and all EFI-bootable system (Rust): SEC2 scrubber -> FWSEC/WPR2 -> signed Booter -> V67 four-write payload, read-back verified. Verifie",
+      "lang": "Rust",
+      "stars": 955,
+      "forks": 88,
       "created": "2026-10-26"
     },
     {
@@ -241,34 +259,16 @@
       "url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
       "desc": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
       "lang": "JavaScript",
-      "stars": 921,
-      "forks": 232,
+      "stars": 953,
+      "forks": 243,
       "created": "2026-10-28"
-    },
-    {
-      "repo": "Arjun-Ingole/hop",
-      "url": "https://github.com/Arjun-Ingole/hop",
-      "desc": "Install Linux next to Windows without a USB stick",
-      "lang": "PowerShell",
-      "stars": 908,
-      "forks": 31,
-      "created": "2026-10-30"
-    },
-    {
-      "repo": "kargulstudio/calender-app-design",
-      "url": "https://github.com/kargulstudio/calender-app-design",
-      "desc": "",
-      "lang": "TypeScript",
-      "stars": 837,
-      "forks": 102,
-      "created": "2026-10-26"
     },
     {
       "repo": "DrWhax/unfairplay",
       "url": "https://github.com/DrWhax/unfairplay",
       "desc": "Decrypt IPA's on MacOS",
       "lang": "Go",
-      "stars": 833,
+      "stars": 838,
       "forks": 165,
       "created": "2026-10-25"
     }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02 10:07:49",
+  "updated_at": "2026-11-02 19:55:56",
   "categories": [
     "tech",
     "finance",
@@ -7,13 +7,213 @@
   ],
   "items": [
     {
+      "title": "Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps",
+      "url": "https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Russia and Ukraine both report cyberattacks on their alerting systems, as strikes continue across the countries.",
+      "published": 1793618317.0,
+      "fetched_at": "2026-11-02 19:55:54",
+      "published_cn": "11-02 11:18"
+    },
+    {
+      "title": "OpenAI deepens Abu Dhabi foothold as Sam Altman inks deals spanning energy, government and investment",
+      "url": "https://www.cnbc.com/2026/11/02/openai-abu-dhabi-ai-deals.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "OpenAI signed four Abu Dhabi agreements spanning energy, government and investment as Sam Altman met the emirate’s crown prince.",
+      "published": 1793617328.0,
+      "fetched_at": "2026-11-02 19:55:54",
+      "published_cn": "11-02 11:02"
+    },
+    {
+      "title": "U.S. crude falls below $100 amid reports of U.S.-Iran diplomatic efforts",
+      "url": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Oil fell Monday, amid news that both the U.S. and Iran are pursuing diplomacy amid ongoing Mideast tensions",
+      "published": 1793617255.0,
+      "fetched_at": "2026-11-02 19:55:54",
+      "published_cn": "11-02 11:00"
+    },
+    {
+      "title": "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
+      "url": "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Democratic gains in Congress could bring tougher oversight of major companies and shift billions of dollars in federal spending and regulatory policy.",
+      "published": 1793617201.0,
+      "fetched_at": "2026-11-02 19:55:54",
+      "published_cn": "11-02 11:00"
+    },
+    {
+      "title": "Ford launches a ‘privacy promise’ and explains how and why it uses customer data",
+      "url": "https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Ford said it's making an \"explicit commitment\" to its customers that \"their vehicle data is safe\" with the company.",
+      "published": 1793617200.0,
+      "fetched_at": "2026-11-02 19:55:53",
+      "published_cn": "11-02 11:00"
+    },
+    {
+      "title": "美國中期選舉：民調顯示民主黨將取得勝利，但預測還準確嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/cqy7l48vnv8ro/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "民調一直預測民主黨將取得大勝，但由於選民最後一刻的決定以及抽樣抽樣問題，最終結果無法保證。",
+      "published": 1793615490.0,
+      "fetched_at": "2026-11-02 19:55:56",
+      "published_cn": "11-02 10:31"
+    },
+    {
+      "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
+      "url": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Sen. Chris Murphy's office announced Sunday that he suffered a stroke and was hospitalized the day prior, though they say he is 'awake and alert.'",
+      "published": 1793615351.0,
+      "fetched_at": "2026-11-02 19:55:54",
+      "published_cn": "11-02 10:29"
+    },
+    {
+      "title": "派评 | 近期值得关注的 App",
+      "url": "https://sspai.com/post/118240",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "能看见、更聪明的 Android 智能点击器，纯纯写作迎来 iOS 版本，Photon Cam 为 iPhone 旧机型解锁相机新功能等。<a href=\"https://sspai.com/post/118240\" target=\"_blank\">查看全文</a>",
+      "published": 1793613475.0,
+      "fetched_at": "2026-11-02 19:55:53",
+      "published_cn": "11-02 09:57"
+    },
+    {
+      "title": "不得要求房客清潔——Airbnb的新守則如何引發分歧",
+      "url": "https://www.bbc.com/zhongwen/articles/cw62y1qjqz7po/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "根據11月生效的規定，愛彼迎（Airbnb）房東不得再要求房客清洗餐具或倒垃圾。",
+      "published": 1793611536.0,
+      "fetched_at": "2026-11-02 19:55:56",
+      "published_cn": "11-02 09:25"
+    },
+    {
+      "title": "Apollo launches $11 billion private credit platform, backed by Abu Dhabi",
+      "url": "https://www.cnbc.com/2026/11/02/apollo-private-credit-abu-dhabi.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Apollo has launched a 10 billion euro European private credit platform backed by major global investors.",
+      "published": 1793610662.0,
+      "fetched_at": "2026-11-02 19:55:54",
+      "published_cn": "11-02 09:11"
+    },
+    {
+      "title": "卡帕西用Claude两小时重做了YouTube，每个人都能拥有一个自己的互联网",
+      "url": "https://www.ifanr.com/1687094?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "AI 正在逆向一切：从软件、游戏到信息入口<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1793606604.0,
+      "fetched_at": "2026-11-02 19:55:52",
+      "published_cn": "11-02 08:03"
+    },
+    {
+      "title": "500 万人抽签看陈奕迅，AI 会终结「抢票时代」吗？",
+      "url": "https://www.ifanr.com/1687130?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "抽签看演唱会，可能是当下最「不坏」的选择<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1793605269.0,
+      "fetched_at": "2026-11-02 19:55:52",
+      "published_cn": "11-02 07:41"
+    },
+    {
+      "title": "零跑破 10 万、小鹏小米跨过 5 万大关，10 月车市却迎来了最冷的「银十」",
+      "url": "https://www.ifanr.com/1687113?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "内卷见顶，出海将是下一站。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1793605051.0,
+      "fetched_at": "2026-11-02 19:55:52",
+      "published_cn": "11-02 07:37"
+    },
+    {
+      "title": "ChatGPT 正在偷偷给你画像，用这段提示词让它交出来",
+      "url": "https://www.ifanr.com/1686832?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "或许《Her》描绘的世界已经到来了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1793605047.0,
+      "fetched_at": "2026-11-02 19:55:52",
+      "published_cn": "11-02 07:37"
+    },
+    {
+      "title": "TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验",
+      "url": "https://sspai.com/post/118122",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "这篇文章是TDSStudio在少数派上的第34篇文章，依然是全平台首发。时隔两年，我们又回来写AirPods半入耳型号了。在26年的苹果秋季event上，AirPods5给我们最大的印象其实还是主动降 ...<a href=\"https://sspai.com/post/118122\" target=\"_blank\">查看全文</a>",
+      "published": 1793602800.0,
+      "fetched_at": "2026-11-02 19:55:53",
+      "published_cn": "11-02 07:00"
+    },
+    {
+      "title": "Jackery made its portable power stations even smaller",
+      "url": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D stand out is that it",
+      "published": 1793595600.0,
+      "fetched_at": "2026-11-02 19:55:53",
+      "published_cn": "11-02 05:00"
+    },
+    {
+      "title": "台灣地方選舉：四成「陸配」參選遭剔除，「法理死結」如何困住參政之路？",
+      "url": "https://www.bbc.com/zhongwen/articles/cm4g1ynq5n5jo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "「除籍滿10年」如何計算，成為這屆選舉多位陸配被剔除參選資格的爭議焦點。今年有25位「陸配」參選，當中逾4成參選人不符參選資格。",
+      "published": 1793594246.0,
+      "fetched_at": "2026-11-02 19:55:56",
+      "published_cn": "11-02 04:37"
+    },
+    {
+      "title": "Borrowed reading: stories from our extended colleagues",
+      "url": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
+      "published": 1793593428.0,
+      "fetched_at": "2026-11-02 19:55:53",
+      "published_cn": "11-02 04:23"
+    },
+    {
+      "title": "Canada-India $5.5 billion bank takeover attracts opposition from workers, politicians",
+      "url": "https://www.cnbc.com/2026/11/02/canada-india-bank-takeover-protest-workers.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "IDBI workers demand the government \"cancel the privatization process\" and work to strengthen the bank while protecting public investment and staff interests.",
+      "published": 1793592574.0,
+      "fetched_at": "2026-11-02 19:55:54",
+      "published_cn": "11-02 04:09"
+    },
+    {
+      "title": "Xnip 十周年：长截图的新生，也是新的起点",
+      "url": "https://sspai.com/post/115662",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "十年是一个里程碑，也是新的起点。<a href=\"https://sspai.com/post/115662\" target=\"_blank\">查看全文</a>",
+      "published": 1793588441.0,
+      "fetched_at": "2026-11-02 19:55:53",
+      "published_cn": "11-02 03:00"
+    },
+    {
       "title": "一夜之间，GPT-6.2 Astra 和 Fable 5.5 双双曝光，AI 圈疯狂 11 月要来了",
       "url": "https://www.ifanr.com/1687071?utm_source=rss&utm_medium=rss&utm_campaign=",
       "source": "爱范儿",
       "category": "tech",
       "summary": "全球基模大战，疯狂 11 月正式开场<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1793584307.0,
-      "fetched_at": "2026-11-02 10:07:35",
+      "fetched_at": "2026-11-02 19:55:52",
       "published_cn": "11-02 01:51"
     },
     {
@@ -23,28 +223,8 @@
       "category": "world",
       "summary": "這些數據中心正滾存著數百億英鎊的債務。",
       "published": 1793578662.0,
-      "fetched_at": "2026-11-02 10:07:49",
+      "fetched_at": "2026-11-02 19:55:56",
       "published_cn": "11-02 00:17"
-    },
-    {
-      "title": "不得要求房客清潔——Airbnb的新守則如何引發分歧",
-      "url": "https://www.bbc.com/zhongwen/articles/cw62y1qjqz7po/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "根據11月生效的規定，愛彼迎（Airbnb）房東不得再要求房客清洗餐具或倒垃圾。",
-      "published": 1793578658.0,
-      "fetched_at": "2026-11-02 10:07:49",
-      "published_cn": "11-02 00:17"
-    },
-    {
-      "title": "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
-      "url": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Binance recorded $3.64 billion in net outflows after resuming withdrawals following a $6.3 billion hack, representing 2.1% of its total assets.",
-      "published": 1793578297.0,
-      "fetched_at": "2026-11-02 10:07:48",
-      "published_cn": "11-02 00:11"
     },
     {
       "title": "早报｜苹果或为iPad Pro加入均热板/ChatGPT与Codex将共享额度/奇瑞回应智界独立：希望团队更像新势力",
@@ -53,7 +233,7 @@
       "category": "tech",
       "summary": "· 多家车企公布 10 月成绩单\n· 奥特曼与三星约 50 名高管座谈，讨论 AI 未来十年的商业应用\n· 西湖大学成立世界模型研究中心，计划三年内构建千亿参数模型<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1793577783.0,
-      "fetched_at": "2026-11-02 10:07:35",
+      "fetched_at": "2026-11-02 19:55:52",
       "published_cn": "11-02 00:03"
     },
     {
@@ -63,18 +243,8 @@
       "category": "tech",
       "summary": "<p>Apple 智能将随 iOS 27.3 登陆中国</p><p>苹果对闪存的议价权受到压制</p><p>Claude Code 官方扩展被植入后门</p><p>美国 FCC 禁止中国实验室认证输美电子产品</p><p>百度网盘通过磁力计数据规避「摇一摇」广告权限</p><p>币安 63 亿美元资产被盗</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://s",
       "published": 1793575365.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "11-01 23:22"
-    },
-    {
-      "title": "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
-      "url": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Democratic nominee Mary Peltola is facing two candidates named Dan Sullivan in the Alaska Senate election, one of whom is the Republican incumbent.",
-      "published": 1793575077.0,
-      "fetched_at": "2026-11-02 10:07:48",
-      "published_cn": "11-01 23:17"
     },
     {
       "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
@@ -83,7 +253,7 @@
       "category": "world",
       "summary": "<p>British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda </p><p>British officials reportedly insisted that discussions of reparations for slavery sho",
       "published": 1793571971.0,
-      "fetched_at": "2026-11-02 10:07:49",
+      "fetched_at": "2026-11-02 19:55:56",
       "published_cn": "11-01 22:26"
     },
     {
@@ -93,7 +263,7 @@
       "category": "tech",
       "summary": "Data centers are deeply unpopular. But what if we called them something else?",
       "published": 1793570123.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "11-01 21:55"
     },
     {
@@ -103,7 +273,7 @@
       "category": "tech",
       "summary": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in t",
       "published": 1793567361.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "11-01 21:09"
     },
     {
@@ -113,7 +283,7 @@
       "category": "finance",
       "summary": "Haley Stevens had lost the Democratic nomination for Senate in Michigan to Abdul El-Sayed earlier this year.",
       "published": 1793567202.0,
-      "fetched_at": "2026-11-02 10:07:48",
+      "fetched_at": "2026-11-02 19:55:54",
       "published_cn": "11-01 21:06"
     },
     {
@@ -123,7 +293,7 @@
       "category": "tech",
       "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
       "published": 1793566678.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "11-01 20:57"
     },
     {
@@ -133,18 +303,8 @@
       "category": "tech",
       "summary": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock i",
       "published": 1793563082.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "11-01 19:58"
-    },
-    {
-      "title": "Connecticut Sen. Chris Murphy has stroke and is in the hospital, office says",
-      "url": "https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Sen. Chris Murphy's office announced Sunday that he suffered a stroke and was hospitalized the day prior, though they say he is 'awake and alert.'",
-      "published": 1793560212.0,
-      "fetched_at": "2026-11-02 10:07:48",
-      "published_cn": "11-01 19:10"
     },
     {
       "title": "Apple’s HomeView could add security camera features",
@@ -153,7 +313,7 @@
       "category": "tech",
       "summary": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, ",
       "published": 1793553367.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "11-01 17:16"
     },
     {
@@ -163,18 +323,8 @@
       "category": "tech",
       "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
       "published": 1793552640.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "11-01 17:04"
-    },
-    {
-      "title": "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
-      "url": "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "As companies from Amazon to JPMorgan block AI personal agents like Meta's Muse, retail experts warn that technology that removes customer friction usually wins.",
-      "published": 1793550883.0,
-      "fetched_at": "2026-11-02 10:07:48",
-      "published_cn": "11-01 16:34"
     },
     {
       "title": "Binance resumes withdrawals following $6.3 billion breach",
@@ -183,7 +333,7 @@
       "category": "tech",
       "summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
       "published": 1793550010.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "11-01 16:20"
     },
     {
@@ -193,8 +343,38 @@
       "category": "tech",
       "summary": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map",
       "published": 1793549961.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "11-01 16:19"
+    },
+    {
+      "title": "从一则李嘉诚假报道看新闻的事实核查",
+      "url": "https://www.ftchinese.com/story/001111255",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "苏铭恒：在生成式AI日渐普及的年代，新闻报道准确写出每个消息及每个评论的来源正变得更加重要。",
+      "published": 1793548800.0,
+      "fetched_at": "2026-11-02 19:55:54",
+      "published_cn": "11-01 16:00"
+    },
+    {
+      "title": "一周世界舆论聚焦：中韩关系的进展和中欧关系的僵持",
+      "url": "https://www.ftchinese.com/story/001111254",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "曹辛：韩国民众总体对华态度有明显积极进展，但两国青年相互好感度还不高，这需要两国政府和社会各界继续努力，包括拓展新的经贸合作空间。",
+      "published": 1793548800.0,
+      "fetched_at": "2026-11-02 19:55:54",
+      "published_cn": "11-01 16:00"
+    },
+    {
+      "title": "《给阿嬷的情书》之外的真实下南洋",
+      "url": "https://www.ftchinese.com/story/001111246",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "徐瑾：《给阿嬷的情书》主线是下南洋，下南洋是面向海洋的讨生活；电影中太多的巧合，太多的温情，局部的真实甚至美化，不能掩盖对于整体脉络的追问与反思。",
+      "published": 1793548800.0,
+      "fetched_at": "2026-11-02 19:55:54",
+      "published_cn": "11-01 16:00"
     },
     {
       "title": "英阿主权争端助长南大西洋“无序捕捞”",
@@ -203,7 +383,7 @@
       "category": "finance",
       "summary": "由于福克兰群岛地区各方不能就渔业资源的共同管理达成一致，外国渔船队趁机大肆捕捞。",
       "published": 1793548800.0,
-      "fetched_at": "2026-11-02 10:07:48",
+      "fetched_at": "2026-11-02 19:55:54",
       "published_cn": "11-01 16:00"
     },
     {
@@ -213,7 +393,7 @@
       "category": "finance",
       "summary": "美国选民即将通过中期选举选出新一届国会，以接替美国第119届国会。鉴于特朗普迄今基本上没有受到问责，这场选举来得再及时不过。",
       "published": 1793548800.0,
-      "fetched_at": "2026-11-02 10:07:48",
+      "fetched_at": "2026-11-02 19:55:54",
       "published_cn": "11-01 16:00"
     },
     {
@@ -223,7 +403,7 @@
       "category": "finance",
       "summary": "巴西左翼总统意外赢得连任，引发本币汇率急剧下滑，不仅增强巴西生产商向全球市场销售商品的动力，还削弱了世界其他产地的竞争力。",
       "published": 1793548800.0,
-      "fetched_at": "2026-11-02 10:07:48",
+      "fetched_at": "2026-11-02 19:55:54",
       "published_cn": "11-01 16:00"
     },
     {
@@ -233,18 +413,8 @@
       "category": "finance",
       "summary": "裘菊：勒庞如果上台，法国对本土产业的保护倾向可能进一步强化，但同时，欧盟统一对华政策行动的协调则可能面临更多掣肘。",
       "published": 1793548800.0,
-      "fetched_at": "2026-11-02 10:07:48",
+      "fetched_at": "2026-11-02 19:55:54",
       "published_cn": "11-01 16:00"
-    },
-    {
-      "title": "These Senate races may help determine the fate of Social Security",
-      "url": "https://www.cnbc.com/2026/11/01/social-security-senate-races.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Social Security's retirement trust fund may run out in 2032. Senators elected this November will be in office when that deadline comes.",
-      "published": 1793546406.0,
-      "fetched_at": "2026-11-02 10:07:48",
-      "published_cn": "11-01 15:20"
     },
     {
       "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
@@ -253,7 +423,7 @@
       "category": "tech",
       "summary": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
       "published": 1793545200.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "11-01 15:00"
     },
     {
@@ -263,18 +433,8 @@
       "category": "tech",
       "summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack conve",
       "published": 1793543591.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "11-01 14:33"
-    },
-    {
-      "title": "Why AI is boosting Meta's ad business while hurting Google search",
-      "url": "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "The gap between Meta's ad revenue growth and Google's search expansion was the widest it's been since 2021 in the latest quarter.",
-      "published": 1793543489.0,
-      "fetched_at": "2026-11-02 10:07:48",
-      "published_cn": "11-01 14:31"
     },
     {
       "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
@@ -283,7 +443,7 @@
       "category": "tech",
       "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
       "published": 1793541600.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "11-01 14:00"
     },
     {
@@ -293,7 +453,7 @@
       "category": "tech",
       "summary": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen ",
       "published": 1793541600.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "11-01 14:00"
     },
     {
@@ -303,28 +463,8 @@
       "category": "tech",
       "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes ",
       "published": 1793538000.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "11-01 13:00"
-    },
-    {
-      "title": "Prop 45 in California could be hiding a loophole for data centers",
-      "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn. Proposition 45",
-      "published": 1793538000.0,
-      "fetched_at": "2026-11-02 10:07:47",
-      "published_cn": "11-01 13:00"
-    },
-    {
-      "title": "德國生活成本抗議演變成暴力事件 商店遭洗劫",
-      "url": "https://www.bbc.com/zhongwen/articles/c8vgxe1nq7w7o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "德國多座城市，包括柏林、漢堡和法蘭克福，都爆發了抗議活動。同一天，法國也有數十萬人走上街頭示威。",
-      "published": 1793536561.0,
-      "fetched_at": "2026-11-02 10:07:49",
-      "published_cn": "11-01 12:36"
     },
     {
       "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
@@ -333,48 +473,8 @@
       "category": "tech",
       "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/116991\" target=\"_blank\">查看全文</a>",
       "published": 1793516566.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "11-01 07:02"
-    },
-    {
-      "title": "「我們從地獄回來」——在俄羅斯佔領城市撤離的烏克蘭人說",
-      "url": "https://www.bbc.com/zhongwen/articles/cwn8dkzrm8lvo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "由美國第一夫人梅拉尼婭·特朗普（Melania Trump）斡旋達成的人道停火在赫爾松（Kherson）地區生效，令當地四年來首次出現數天和平時段，並讓奧列什基（Oleshky）居民得以撤離。",
-      "published": 1793507087.0,
-      "fetched_at": "2026-11-02 10:07:49",
-      "published_cn": "11-01 04:24"
-    },
-    {
-      "title": "Data centers are now a midterm issue, even in Brooklyn",
-      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
-      "published": 1793499730.0,
-      "fetched_at": "2026-11-02 10:07:47",
-      "published_cn": "11-01 02:22"
-    },
-    {
-      "title": "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
-      "url": "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "President Donald Trump denied writing a birthday letter to sex offender Jeffrey Epstein, which was the subject of a 2025 Wall Street Journal article.",
-      "published": 1793491000.0,
-      "fetched_at": "2026-11-02 10:07:48",
-      "published_cn": "10-31 23:56"
-    },
-    {
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "published": 1793482860.0,
-      "fetched_at": "2026-11-02 10:07:47",
-      "published_cn": "10-31 21:41"
     },
     {
       "title": "彼得•汤姆森：海洋母亲教会我如何看待我们的未来",
@@ -383,27 +483,7 @@
       "category": "finance",
       "summary": "汤姆森：对太平洋地区的人民而言，海洋始终与生活密不可分。世界能否将数十年来积累的知识和许下的承诺转化为实际行动？未来20年将会见分晓。",
       "published": 1793462400.0,
-      "fetched_at": "2026-11-02 10:07:48",
-      "published_cn": "10-31 16:00"
-    },
-    {
-      "title": "不愿进入“字节时间”的互联网巨头",
-      "url": "https://www.ftchinese.com/story/001111249",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "闫曼：企业家可以选择低调，企业也可以拒绝外界赋予的行业领导者身份。但平台对普通人生活的影响，并不会因为企业不愿接受某种定义而减少。",
-      "published": 1793462400.0,
-      "fetched_at": "2026-11-02 10:07:48",
-      "published_cn": "10-31 16:00"
-    },
-    {
-      "title": "《给阿嬷的情书》之外的真实下南洋",
-      "url": "https://www.ftchinese.com/story/001111246",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "徐瑾：《给阿嬷的情书》主线是下南洋，下南洋是面向海洋的讨生活；电影中太多的巧合，太多的温情，局部的真实甚至美化，不能掩盖对于整体脉络的追问与反思。",
-      "published": 1793462400.0,
-      "fetched_at": "2026-11-02 10:07:48",
+      "fetched_at": "2026-11-02 19:55:54",
       "published_cn": "10-31 16:00"
     },
     {
@@ -413,7 +493,7 @@
       "category": "tech",
       "summary": "AI Agent 的下一个瓶颈，可能是人类自己<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1793455197.0,
-      "fetched_at": "2026-11-02 10:07:35",
+      "fetched_at": "2026-11-02 19:55:52",
       "published_cn": "10-31 13:59"
     },
     {
@@ -423,7 +503,7 @@
       "category": "tech",
       "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
       "published": 1793445326.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "10-31 11:15"
     },
     {
@@ -433,7 +513,7 @@
       "category": "tech",
       "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
       "published": 1793444554.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "10-31 11:02"
     },
     {
@@ -443,7 +523,7 @@
       "category": "tech",
       "summary": "欢迎你在评论区分享 10 月新作的游玩体验。<a href=\"https://sspai.com/post/117960\" target=\"_blank\">查看全文</a>",
       "published": 1793424559.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "10-31 05:29"
     },
     {
@@ -453,28 +533,18 @@
       "category": "tech",
       "summary": "中国版 Apple 智能即将登陆 iPhone，一起看看还有这些细节。<a href=\"https://sspai.com/post/117953\" target=\"_blank\">查看全文</a>",
       "published": 1793419839.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "10-31 04:10"
     },
     {
-      "title": "刚刚，国行 Apple 智能官宣，但满血 SiriAI 还得等",
-      "url": "https://www.ifanr.com/1687012?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "title": "大众在合肥攒了个新平台，一年要往海外卖 30 万辆「中国大众」",
+      "url": "https://www.ifanr.com/1687151?utm_source=rss&utm_medium=rss&utm_campaign=",
       "source": "爱范儿",
       "category": "tech",
-      "summary": "等了好久终于等到今天<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1793410625.0,
-      "fetched_at": "2026-11-02 10:07:35",
-      "published_cn": "10-31 01:37"
-    },
-    {
-      "title": "早报｜iPhone国行AI官宣！千问接入Siri/DeepSeek千亿融资曝光/于东来建议支持「消费入座」",
-      "url": "https://www.ifanr.com/1686979?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "· 特斯拉推出 5 年零息方案，Model 3 / Y 首付 3.99 万元起\n· 开发者在 Surface Duo 2 上启动 iOS 27 iPhone Duo 版本\n· 米哈游《星布谷地》定档 12 月 4 日公测<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1793405664.0,
-      "fetched_at": "2026-11-02 10:07:35",
-      "published_cn": "10-31 00:14"
+      "summary": "中国的大众，就是世界的大众。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1793414318.0,
+      "fetched_at": "2026-11-02 19:55:52",
+      "published_cn": "10-31 02:38"
     },
     {
       "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
@@ -483,7 +553,7 @@
       "category": "tech",
       "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
       "published": 1793405242.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "10-31 00:07"
     },
     {
@@ -493,18 +563,8 @@
       "category": "tech",
       "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
       "published": 1793399801.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "10-30 22:36"
-    },
-    {
-      "title": "iPhone 国行 AI 真的来了，千问成为 Siri 新搭档",
-      "url": "https://www.ifanr.com/1686969?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "苹果国行 AI 终于迈出关键一步<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1793399687.0,
-      "fetched_at": "2026-11-02 10:07:35",
-      "published_cn": "10-30 22:34"
     },
     {
       "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
@@ -513,7 +573,7 @@
       "category": "tech",
       "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
       "published": 1793398865.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "10-30 22:21"
     },
     {
@@ -523,7 +583,7 @@
       "category": "tech",
       "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
       "published": 1793396514.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "10-30 21:41"
     },
     {
@@ -533,7 +593,7 @@
       "category": "tech",
       "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
       "published": 1793394594.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "10-30 21:09"
     },
     {
@@ -543,7 +603,7 @@
       "category": "tech",
       "summary": "People who love AI don't always love telling others they used it.",
       "published": 1793392813.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "10-30 20:40"
     },
     {
@@ -553,7 +613,7 @@
       "category": "world",
       "summary": "<p>Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’</p><p>Canada and Europe have announced a new alliance of like-minded nations to<strong> </st",
       "published": 1793389335.0,
-      "fetched_at": "2026-11-02 10:07:49",
+      "fetched_at": "2026-11-02 19:55:56",
       "published_cn": "10-30 19:42"
     },
     {
@@ -563,7 +623,7 @@
       "category": "world",
       "summary": "<p>Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of arms</p><p>Flávio Bolsonaro had hoped that by Sunday night people would be calling him the next presid",
       "published": 1793369321.0,
-      "fetched_at": "2026-11-02 10:07:49",
+      "fetched_at": "2026-11-02 19:55:56",
       "published_cn": "10-30 14:08"
     },
     {
@@ -573,28 +633,8 @@
       "category": "world",
       "summary": "「這次全會進一步表明，習近平的反腐運動沒有終點。」專家說，「持續施加紀律壓力不應只是階段性運動，而必須成為中共運作方式中永久存在的一部分。」",
       "published": 1793366605.0,
-      "fetched_at": "2026-11-02 10:07:49",
+      "fetched_at": "2026-11-02 19:55:56",
       "published_cn": "10-30 13:23"
-    },
-    {
-      "title": "汽车工业的下一条流水线，开始由 AI 来安排",
-      "url": "https://www.ifanr.com/1686953?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "从司机乘客，到汽车工厂，再到整个产业。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1793365439.0,
-      "fetched_at": "2026-11-02 10:07:35",
-      "published_cn": "10-30 13:03"
-    },
-    {
-      "title": "红魔 12 Pro+ 体验：水冷加上 RGB 灯，游戏性能全面升级",
-      "url": "https://www.ifanr.com/1686916?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "水冷，必须有 RGB 灯。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1793354797.0,
-      "fetched_at": "2026-11-02 10:07:35",
-      "published_cn": "10-30 10:06"
     },
     {
       "title": "本周看什么 | 最近值得一看的 9 部作品",
@@ -603,18 +643,8 @@
       "category": "tech",
       "summary": "📅本周新预告《沙丘3》终极预告10月28日，电影《沙丘3》发布了终极预告，中国内地将于12月31日上映。丹尼斯·维伦纽瓦执导，提莫西·查拉梅、赞达亚、杰森·莫玛、弗洛伦丝·皮尤、丽贝卡·弗格森主演，誓 ...<a href=\"https://sspai.com/post/117867\" target=\"_blank\">查看全文</a>",
       "published": 1793354231.0,
-      "fetched_at": "2026-11-02 10:07:47",
+      "fetched_at": "2026-11-02 19:55:53",
       "published_cn": "10-30 09:57"
-    },
-    {
-      "title": "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣",
-      "url": "https://sspai.com/post/116047",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "它简单、稳定，也有意思，不会把按时吃药变成一个负担——而是一件看见了就随手去做、轻松愉快的小事。<a href=\"https://sspai.com/post/116047\" target=\"_blank\">查看全文</a>",
-      "published": 1793343561.0,
-      "fetched_at": "2026-11-02 10:07:47",
-      "published_cn": "10-30 06:59"
     },
     {
       "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
@@ -623,7 +653,7 @@
       "category": "world",
       "summary": "<p>There is no end in sight for the drivers of illegal mining, while police action appears ineffective</p><p>Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the t",
       "published": 1793336445.0,
-      "fetched_at": "2026-11-02 10:07:49",
+      "fetched_at": "2026-11-02 19:55:56",
       "published_cn": "10-30 05:00"
     },
     {
@@ -633,38 +663,8 @@
       "category": "world",
       "summary": "<p>Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF</p><p>Members of the Sudanese diaspora and international human rights monitors have denounced the candid",
       "published": 1793336445.0,
-      "fetched_at": "2026-11-02 10:07:49",
+      "fetched_at": "2026-11-02 19:55:56",
       "published_cn": "10-30 05:00"
-    },
-    {
-      "title": "《久坐健康指南》作者、运动健康领域创作者阿帅装了啥？",
-      "url": "https://sspai.com/prime/story/zhuanglesha-261030",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "编者按：@阿帅的健康笔记长期专注于运动健康领域的创作，发表了不少兼具实用性与科普性的文章，并著有付费栏目《久坐健康指南》，受到许多读者喜爱。本期《装了啥》邀请他分享运动、创作与工作中的心得，以及常用的 ...<a href=\"https://sspai.com/prime/story/zhuanglesha-261030\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://ssp",
-      "published": 1793331043.0,
-      "fetched_at": "2026-11-02 10:07:47",
-      "published_cn": "10-30 03:30"
-    },
-    {
-      "title": "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
-      "url": "https://sspai.com/post/116435",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "就像一个运动员无法预计自己能否取得金牌，但能控制自己投入于训练的时间一样，我们无法决定性地控制工作和生活中每一项事项的成功与否，但可以控制自己投入更多还是更少的时间。<a href=\"https://sspai.com/post/116435\" target=\"_blank\">查看全文</a>",
-      "published": 1793330020.0,
-      "fetched_at": "2026-11-02 10:07:47",
-      "published_cn": "10-30 03:13"
-    },
-    {
-      "title": "“洋流”兴起：搅动台北选局——兼比较“洋流”与“韩流”",
-      "url": "https://www.ftchinese.com/story/001111244",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "林原：本次台湾地方选举最重要的看点是“洋流”的兴起。“洋流”指沈伯洋掀起的竞选气势、政治风潮，而这又会让人联想到八年前的“韩流”。",
-      "published": 1793289600.0,
-      "fetched_at": "2026-11-02 10:07:48",
-      "published_cn": "10-29 16:00"
     },
     {
       "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
@@ -673,7 +673,7 @@
       "category": "world",
       "summary": "<p>Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website</p><p>Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outle",
       "published": 1793196984.0,
-      "fetched_at": "2026-11-02 10:07:49",
+      "fetched_at": "2026-11-02 19:55:56",
       "published_cn": "10-28 14:16"
     },
     {
@@ -683,7 +683,7 @@
       "category": "world",
       "summary": "<p>Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment</p><p>The “unprecedented” <a href=\"https://www.theguardian.com/w",
       "published": 1793180269.0,
-      "fetched_at": "2026-11-02 10:07:49",
+      "fetched_at": "2026-11-02 19:55:56",
       "published_cn": "10-28 09:37"
     },
     {
@@ -693,7 +693,7 @@
       "category": "world",
       "summary": "美國選民將於11月3日投票，這場選舉的結果可能對總統特朗普餘下任期產生重大影響。",
       "published": 1793148457.0,
-      "fetched_at": "2026-11-02 10:07:49",
+      "fetched_at": "2026-11-02 19:55:56",
       "published_cn": "10-28 00:47"
     },
     {
@@ -703,7 +703,7 @@
       "category": "world",
       "summary": "特朗普承諾封鎖邊境及大規模遣返移民後重返白宮。這兩項標誌性政策如今取得了甚麼成效，又帶來哪些影響？",
       "published": 1793060261.0,
-      "fetched_at": "2026-11-02 10:07:49",
+      "fetched_at": "2026-11-02 19:55:56",
       "published_cn": "10-27 00:17"
     },
     {
@@ -713,7 +713,7 @@
       "category": "world",
       "summary": "<p>Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze</p><p>Senior Sudanese commanders implicated in a “",
       "published": 1793027243.0,
-      "fetched_at": "2026-11-02 10:07:49",
+      "fetched_at": "2026-11-02 19:55:56",
       "published_cn": "10-26 15:07"
     },
     {
@@ -723,7 +723,7 @@
       "category": "world",
       "summary": "中期選舉前夕，特朗普一直吹噓美國經濟的表現。 BBC事實查核（BBC Verify）調查美國的通貨膨脹、就業和經濟成長。",
       "published": 1792628478.0,
-      "fetched_at": "2026-11-02 10:07:49",
+      "fetched_at": "2026-11-02 19:55:56",
       "published_cn": "10-22 00:21"
     }
   ],

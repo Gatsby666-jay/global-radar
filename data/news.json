@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03 11:50:48",
+  "updated_at": "2026-11-03 19:31:47",
   "categories": [
     "tech",
     "finance",
@@ -7,14 +7,164 @@
   ],
   "items": [
     {
-      "title": "Australia hikes rates to 18-year high to fight inflation",
-      "url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
+      "title": "Apple shares slide after weak margin outlook; Palantir slumps 8% after earnings",
+      "url": "https://www.cnbc.com/2026/11/03/apple-palantir-stock-earnings.html",
       "source": "CNBC",
       "category": "finance",
-      "summary": "The Reserve Bank of Australia's decision was in line with expectations from economists polled by Reuters, and marked its fifth rate increase this year.",
-      "published": 1793677580.0,
-      "fetched_at": "2026-11-03 11:50:47",
-      "published_cn": "11-03 03:46"
+      "summary": "The iPhone-maker and software giant fell after earnings failed to impress investors.",
+      "published": 1793702078.0,
+      "fetched_at": "2026-11-03 19:31:47",
+      "published_cn": "11-03 10:34"
+    },
+    {
+      "title": "Oil prices climb after U.S. strikes Iran's Qeshm Island",
+      "url": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "The rebound in oil prices come a day after the U.S. and Iranian presidents signalled they are open to a diplomatic solution to Iran war.",
+      "published": 1793699917.0,
+      "fetched_at": "2026-11-03 19:31:47",
+      "published_cn": "11-03 09:58"
+    },
+    {
+      "title": "Trump is going to get 'trounced' in the midterms — and knows it, Anthony Scaramucci tells CNBC",
+      "url": "https://www.cnbc.com/2026/11/03/scaramucci-trump-midterms-election.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "The former White House communications director also said the Republican party was facing a \"civil war\" after the result.",
+      "published": 1793698949.0,
+      "fetched_at": "2026-11-03 19:31:47",
+      "published_cn": "11-03 09:42"
+    },
+    {
+      "title": "A little-known biotech’s high-stakes cancer bet just paid off and its shares doubled",
+      "url": "https://www.cnbc.com/2026/11/03/genmab-cancer-drugs-petosemtamab.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Genmab’s shares have doubled in three months after a string of cancer drug trial wins, strengthening its push to own more of the medicines it develops.",
+      "published": 1793698547.0,
+      "fetched_at": "2026-11-03 19:31:47",
+      "published_cn": "11-03 09:35"
+    },
+    {
+      "title": "《蘋果日報》前社長張劍虹提早獲釋，赴深圳交流、向官媒稱「好懊悔」",
+      "url": "https://www.bbc.com/zhongwen/articles/c6eq3ez3qvnxo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "除了張劍虹，據報至少還有3名因《香港國安法》入獄的人士，亦已提早獲釋。外界關注，壹傳媒創辦人黎智英能否同獲假釋機會。",
+      "published": 1793694301.0,
+      "fetched_at": "2026-11-03 19:31:47",
+      "published_cn": "11-03 08:25"
+    },
+    {
+      "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
+      "url": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+      "published": 1793692860.0,
+      "fetched_at": "2026-11-03 19:31:46",
+      "published_cn": "11-03 08:01"
+    },
+    {
+      "title": "GPT-6 Astra 爆改 Qwen 大脑：只动 0.016% 参数，数学成绩疯涨",
+      "url": "https://www.ifanr.com/1687285?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "我「编程」我自己<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1793690577.0,
+      "fetched_at": "2026-11-03 19:31:44",
+      "published_cn": "11-03 07:22"
+    },
+    {
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+      "published": 1793690400.0,
+      "fetched_at": "2026-11-03 19:31:46",
+      "published_cn": "11-03 07:20"
+    },
+    {
+      "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
+      "url": "https://sspai.com/post/118317",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。<a href=\"https://sspai.com/post/118317\" target=\"_blank\">查看全文</a>",
+      "published": 1793689974.0,
+      "fetched_at": "2026-11-03 19:31:45",
+      "published_cn": "11-03 07:12"
+    },
+    {
+      "title": "不穿的旧衣服呢？放「AI 版转转」，毛利 80%",
+      "url": "https://www.ifanr.com/1687274?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "旧衣千千万，AI 替你挑对的那件<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1793689531.0,
+      "fetched_at": "2026-11-03 19:31:44",
+      "published_cn": "11-03 07:05"
+    },
+    {
+      "title": "Blackstone president calls for more equity to fund AI buildout as debt risks mount",
+      "url": "https://www.cnbc.com/2026/11/03/equity-ai-debt-blackstone-pimco-financing.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Blackstone President Jon Gray says AI infrastructure needs more equity as debt investors face concentration risks amid massive spending plans.",
+      "published": 1793688396.0,
+      "fetched_at": "2026-11-03 19:31:47",
+      "published_cn": "11-03 06:46"
+    },
+    {
+      "title": "North Korea denies links to Binance hack as researchers trace stolen billions",
+      "url": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "North Korea rejected allegations linking it to the Binance hack as blockchain researchers traced billions in stolen cryptocurrency across networks.",
+      "published": 1793687530.0,
+      "fetched_at": "2026-11-03 19:31:47",
+      "published_cn": "11-03 06:32"
+    },
+    {
+      "title": "如果黑客能夠控制超市的冷凍櫃，其他科技設備又有多脆弱？",
+      "url": "https://www.bbc.com/zhongwen/articles/cmkgk61rgzj4o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "歐洲多個國家的數十家商店遭到網絡攻擊，影響其冷藏設備。",
+      "published": 1793685005.0,
+      "fetched_at": "2026-11-03 19:31:47",
+      "published_cn": "11-03 05:50"
+    },
+    {
+      "title": "Baked by Melissa enters Target with first at-home cupcake mix",
+      "url": "https://www.cnbc.com/2026/11/03/baked-by-melissa-cupcake-kits-target.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Baked by Melissa is launching bite-size cupcake kits at Target as the retailer heads into the critical holiday shopping season.",
+      "published": 1793682061.0,
+      "fetched_at": "2026-11-03 19:31:47",
+      "published_cn": "11-03 05:01"
+    },
+    {
+      "title": "美國中期選舉：競選開支120億美元打破紀錄，馬斯克已花5億",
+      "url": "https://www.bbc.com/zhongwen/articles/cw99z83yxg4jo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "「加密貨幣公司在本個周期亦非常活躍，Ripple與Coinbase合共捐出6300萬美元，資助推動加密貨幣行業利益的超級政治行動委員會。」",
+      "published": 1793681987.0,
+      "fetched_at": "2026-11-03 19:31:47",
+      "published_cn": "11-03 04:59"
+    },
+    {
+      "title": "苹果的一切都在变贵，全怪 AI",
+      "url": "https://www.ifanr.com/1687259?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "赚得多，花得更狠<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1793678986.0,
+      "fetched_at": "2026-11-03 19:31:44",
+      "published_cn": "11-03 04:09"
     },
     {
       "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
@@ -23,28 +173,18 @@
       "category": "tech",
       "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
       "published": 1793676600.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:46",
       "published_cn": "11-03 03:30"
     },
     {
-      "title": "North Korea denies links to Binance hack as researchers trace stolen billions",
-      "url": "https://www.cnbc.com/2026/11/03/north-korea-binance-elliptic-chainalysis.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "North Korea rejected U.S. allegations linking it to the Binance hack as blockchain researchers traced billions in stolen cryptocurrency across networks.",
-      "published": 1793676438.0,
-      "fetched_at": "2026-11-03 11:50:47",
-      "published_cn": "11-03 03:27"
-    },
-    {
-      "title": "U.S. reportedly strikes Iran's Qeshm Island as Vance hopes for ‘negotiated settlement’ with Tehran",
-      "url": "https://www.cnbc.com/2026/11/03/iran-us-vance-trump-strikes.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "U.S. military carried out attacks on Iran's Qeshm Island on Monday, even as the Trump administration has been underplaying war risks.",
-      "published": 1793674293.0,
-      "fetched_at": "2026-11-03 11:50:47",
-      "published_cn": "11-03 02:51"
+      "title": "Disc Image Studio：你想不想在光盘上「画」点什么？",
+      "url": "https://sspai.com/post/118211",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "把喜欢的图烧进 CD 里，你也可以。<a href=\"https://sspai.com/post/118211\" target=\"_blank\">查看全文</a>",
+      "published": 1793674430.0,
+      "fetched_at": "2026-11-03 19:31:45",
+      "published_cn": "11-03 02:53"
     },
     {
       "title": "金與正發文 朝鮮否認策劃63億美元幣安黑客攻擊",
@@ -53,18 +193,8 @@
       "category": "world",
       "summary": "美國執法部門和網絡安全分析師將這宗破紀錄的盜竊案歸咎於平壤當局。",
       "published": 1793674169.0,
-      "fetched_at": "2026-11-03 11:50:48",
+      "fetched_at": "2026-11-03 19:31:47",
       "published_cn": "11-03 02:49"
-    },
-    {
-      "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
-      "url": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "OpenAI has hired former U.S. Army Secretary Dan Driscoll for a newly created national security role for national security modernization.",
-      "published": 1793674077.0,
-      "fetched_at": "2026-11-03 11:50:47",
-      "published_cn": "11-03 02:47"
     },
     {
       "title": "乔布斯的「祖训」和触屏 MacBook，何以同时成立？｜硬哲学",
@@ -73,7 +203,7 @@
       "category": "tech",
       "summary": "让特努斯引领一个全新的时代，全盘「拥有」这些新产品，无论它们最终的评价是好是坏。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1793671748.0,
-      "fetched_at": "2026-11-03 11:50:40",
+      "fetched_at": "2026-11-03 19:31:44",
       "published_cn": "11-03 02:09"
     },
     {
@@ -83,7 +213,7 @@
       "category": "tech",
       "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
       "published": 1793670592.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:46",
       "published_cn": "11-03 01:49"
     },
     {
@@ -93,7 +223,7 @@
       "category": "tech",
       "summary": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory s",
       "published": 1793668375.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:46",
       "published_cn": "11-03 01:12"
     },
     {
@@ -103,28 +233,8 @@
       "category": "tech",
       "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, ",
       "published": 1793666152.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:46",
       "published_cn": "11-03 00:35"
-    },
-    {
-      "title": "愛情、幸運與魔法：年輕人為何找上了網上女巫？",
-      "url": "https://www.bbc.com/zhongwen/articles/crq8n9qq8q49o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "一家網上零售商表示，他們有售有助帶來好運咒語，而最近購買的人數大幅上升。",
-      "published": 1793665320.0,
-      "fetched_at": "2026-11-03 11:50:48",
-      "published_cn": "11-03 00:22"
-    },
-    {
-      "title": "Netflix 重現斯坦福監獄「虐待性」研究應該嗎？",
-      "url": "https://www.bbc.com/zhongwen/articles/ck4g1xzw1jnpo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "Netflix將美國心理學家菲利普·津巴多 (Philip Zimbardo) 1971 年備受爭議的研究改編成了一部六集真人秀，重新引發了一場由來已久的辯論，並引發了關於科學與娛樂之間界限的新問題。",
-      "published": 1793665314.0,
-      "fetched_at": "2026-11-03 11:50:48",
-      "published_cn": "11-03 00:21"
     },
     {
       "title": "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等",
@@ -133,7 +243,7 @@
       "category": "tech",
       "summary": "Raspberry Pi 再次上调 16 GB 产品价格、Keychron 推出 Q19 HE 8K 磁轴键盘等。<a href=\"https://sspai.com/post/118232\" target=\"_blank\">查看全文</a>",
       "published": 1793665114.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:45",
       "published_cn": "11-03 00:18"
     },
     {
@@ -143,7 +253,7 @@
       "category": "tech",
       "summary": "· 曝下一代触屏 MacBook Pro 将换新模具\n· OpenAI 推出电网保护计划，拟让未来园区在用电紧张时降载\n· DeepSeek Harness 加入创作者模式，可用对话制作插件<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1793665029.0,
-      "fetched_at": "2026-11-03 11:50:40",
+      "fetched_at": "2026-11-03 19:31:44",
       "published_cn": "11-03 00:17"
     },
     {
@@ -153,8 +263,18 @@
       "category": "tech",
       "summary": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
       "published": 1793664891.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:46",
       "published_cn": "11-03 00:14"
+    },
+    {
+      "title": "Jim Cramer says these six fashion stocks are buys beyond the AI trade",
+      "url": "https://www.cnbc.com/2026/11/02/jim-cramer-fashion-stocks.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "While technology stocks have come under pressure in recent weeks, consumer stocks have been resilient.",
+      "published": 1793663667.0,
+      "fetched_at": "2026-11-03 19:31:47",
+      "published_cn": "11-02 23:54"
     },
     {
       "title": "\"At Home in Space\" opens, caps Air and Space Museum renovation",
@@ -163,7 +283,7 @@
       "category": "tech",
       "summary": "The Smithsonian's National Air and Space Museum has all of its \"space\" back open.",
       "published": 1793662216.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:46",
       "published_cn": "11-02 23:30"
     },
     {
@@ -173,28 +293,8 @@
       "category": "tech",
       "summary": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
       "published": 1793661932.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:46",
       "published_cn": "11-02 23:25"
-    },
-    {
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "The one-year-old startup is now valued at $300 million.",
-      "published": 1793661233.0,
-      "fetched_at": "2026-11-03 11:50:46",
-      "published_cn": "11-02 23:13"
-    },
-    {
-      "title": "Apple’s inventory surges 154% as memory chip costs climb",
-      "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
-      "published": 1793660697.0,
-      "fetched_at": "2026-11-03 11:50:46",
-      "published_cn": "11-02 23:04"
     },
     {
       "title": "Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around",
@@ -203,7 +303,7 @@
       "category": "tech",
       "summary": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many customers as quickly as pos",
       "published": 1793660171.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:46",
       "published_cn": "11-02 22:56"
     },
     {
@@ -213,18 +313,8 @@
       "category": "tech",
       "summary": "Plus invisible tattoos, medieval skeleton gets an ID, trapping a single antimatter particle, and more.",
       "published": 1793660075.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:46",
       "published_cn": "11-02 22:54"
-    },
-    {
-      "title": "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
-      "url": "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Palantir's commercial revenue jumped 148% to $984 million, surpassing government revenue of $953 million.",
-      "published": 1793660000.0,
-      "fetched_at": "2026-11-03 11:50:47",
-      "published_cn": "11-02 22:53"
     },
     {
       "title": "Apple set an iPhone sales record even without a new standard iPhone",
@@ -233,7 +323,7 @@
       "category": "tech",
       "summary": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iP",
       "published": 1793656956.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:46",
       "published_cn": "11-02 22:02"
     },
     {
@@ -243,18 +333,8 @@
       "category": "tech",
       "summary": "The threat is still considered to be low, but the virus continues to spread.",
       "published": 1793654503.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:46",
       "published_cn": "11-02 21:21"
-    },
-    {
-      "title": "Trump focuses on Reflecting Pool in final public speech before midterms",
-      "url": "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Trump seemed to acknowledge that Democrats had an advantage heading into Election Day. \"But we gave this a very strong shot,\" he said.",
-      "published": 1793654113.0,
-      "fetched_at": "2026-11-03 11:50:47",
-      "published_cn": "11-02 21:15"
     },
     {
       "title": "Meta will end Quest 2 OS updates in 2027",
@@ -263,7 +343,7 @@
       "category": "tech",
       "summary": "Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for those devices is planned to be v213, and after that, Meta will c",
       "published": 1793653460.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:46",
       "published_cn": "11-02 21:04"
     },
     {
@@ -273,18 +353,8 @@
       "category": "tech",
       "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufactur",
       "published": 1793651869.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:46",
       "published_cn": "11-02 20:37"
-    },
-    {
-      "title": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
-      "url": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Oil fell Monday, amid news that both the U.S. and Iran are pursuing diplomacy amid ongoing Mideast tensions",
-      "published": 1793650765.0,
-      "fetched_at": "2026-11-03 11:50:47",
-      "published_cn": "11-02 20:19"
     },
     {
       "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
@@ -293,7 +363,7 @@
       "category": "tech",
       "summary": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The new system can help stee",
       "published": 1793649832.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:46",
       "published_cn": "11-02 20:03"
     },
     {
@@ -303,7 +373,7 @@
       "category": "world",
       "summary": "<p>Chemical tests on Aratasaurus bone identify presence of heme, the organic compound that allows haemoglobin in blood to carry oxygen around body</p><p>It could be the opening of a Jurassic Park rip-off: scientists exam",
       "published": 1793649627.0,
-      "fetched_at": "2026-11-03 11:50:48",
+      "fetched_at": "2026-11-03 19:31:47",
       "published_cn": "11-02 20:00"
     },
     {
@@ -313,18 +383,8 @@
       "category": "tech",
       "summary": "\"The flow of time is always cruel.\"",
       "published": 1793649143.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:46",
       "published_cn": "11-02 19:52"
-    },
-    {
-      "title": "Trump Account holders to receive SpaceX stock from Gwynne Shotwell in December",
-      "url": "https://www.cnbc.com/2026/11/02/trump-accounts-spacex-shares-shotwell.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Eligible Trump Account holders will begin receiving donated shares of SpaceX stock in December, President and COO Gwynne Shotwell said in a post on X.",
-      "published": 1793648807.0,
-      "fetched_at": "2026-11-03 11:50:47",
-      "published_cn": "11-02 19:46"
     },
     {
       "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
@@ -333,7 +393,7 @@
       "category": "tech",
       "summary": "The Apple Watch Ultra 4 is the company&#8217;s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch, it’s currently on ",
       "published": 1793647449.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:46",
       "published_cn": "11-02 19:24"
     },
     {
@@ -343,7 +403,7 @@
       "category": "tech",
       "summary": "A big study with very little beyond negative results still gets published.",
       "published": 1793646806.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:46",
       "published_cn": "11-02 19:13"
     },
     {
@@ -353,7 +413,7 @@
       "category": "tech",
       "summary": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing ",
       "published": 1793646346.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:46",
       "published_cn": "11-02 19:05"
     },
     {
@@ -363,7 +423,7 @@
       "category": "tech",
       "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilatio",
       "published": 1793645762.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:46",
       "published_cn": "11-02 18:56"
     },
     {
@@ -373,7 +433,7 @@
       "category": "tech",
       "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
       "published": 1793644341.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:46",
       "published_cn": "11-02 18:32"
     },
     {
@@ -383,7 +443,7 @@
       "category": "tech",
       "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
       "published": 1793642731.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:46",
       "published_cn": "11-02 18:05"
     },
     {
@@ -393,8 +453,38 @@
       "category": "tech",
       "summary": "The plan does not include a mission similar to Apollo 8 or Artemis II.",
       "published": 1793639353.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:46",
       "published_cn": "11-02 17:09"
+    },
+    {
+      "title": "采矿私企首告国际海底管理局：是为正当权益维护还是规避合规审查？",
+      "url": "https://www.ftchinese.com/story/001111271",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "陈书凌：为了不让属于全人类共同财产的国际海底资源落入部分企业的资源掠夺计划中，各国应共同拥护多边框架、守护海洋。",
+      "published": 1793635200.0,
+      "fetched_at": "2026-11-03 19:31:47",
+      "published_cn": "11-02 16:00"
+    },
+    {
+      "title": "左翼和右翼对峙的“大陆政治”正在浮现",
+      "url": "https://www.ftchinese.com/story/001111272",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "陈功：欧洲左翼与美洲右翼之间正在形成差异化的对峙格局，构成左翼和右翼对峙的“大陆政治”。对中国来说，未来的适应和调整可能是必须的。",
+      "published": 1793635200.0,
+      "fetched_at": "2026-11-03 19:31:47",
+      "published_cn": "11-02 16:00"
+    },
+    {
+      "title": "基石药业在ESMO大会上强化CS2009三特异性抗体三项临床验证",
+      "url": "https://www.ftchinese.com/story/001111268",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "凭借在多种肿瘤类型中超300名患者的数据和将开展的3期临床试验，现有证据为CS2009的作用机制、安全性及抗肿瘤疗效提供了有力支持。",
+      "published": 1793635200.0,
+      "fetched_at": "2026-11-03 19:31:47",
+      "published_cn": "11-02 16:00"
     },
     {
       "title": "美国前科学特使丹尼尔•卡曼：如何利用“鸭子曲线”？",
@@ -403,7 +493,7 @@
       "category": "finance",
       "summary": "除了建设足够的储能设施，还需要建立能够激励清洁能源发电和储能发展的市场机制，两者缺一不可。",
       "published": 1793635200.0,
-      "fetched_at": "2026-11-03 11:50:47",
+      "fetched_at": "2026-11-03 19:31:47",
       "published_cn": "11-02 16:00"
     },
     {
@@ -413,7 +503,7 @@
       "category": "finance",
       "summary": "尽管特朗普最大的政治软肋在于未能抑制通胀，但他在从关税到战争的众多事项上逾越总统权限的企图也不被美国选民认同。",
       "published": 1793635200.0,
-      "fetched_at": "2026-11-03 11:50:47",
+      "fetched_at": "2026-11-03 19:31:47",
       "published_cn": "11-02 16:00"
     },
     {
@@ -423,7 +513,7 @@
       "category": "finance",
       "summary": "以色列总理据悉在上周六通话期间敦促美国总统在中期选举结束后重启对伊军事行动，但美方仍希望给予外交努力最后机会。",
       "published": 1793635200.0,
-      "fetched_at": "2026-11-03 11:50:47",
+      "fetched_at": "2026-11-03 19:31:47",
       "published_cn": "11-02 16:00"
     },
     {
@@ -433,7 +523,7 @@
       "category": "finance",
       "summary": "拉赫曼：俄罗斯、乌克兰和美国计划在阿布扎比举行和平谈判之际，西方对待普京的三种不同方式逐渐浮现。",
       "published": 1793635200.0,
-      "fetched_at": "2026-11-03 11:50:47",
+      "fetched_at": "2026-11-03 19:31:47",
       "published_cn": "11-02 16:00"
     },
     {
@@ -443,37 +533,7 @@
       "category": "finance",
       "summary": "周浩：美联储的每一代领导人都留下了鲜明的制度遗产。如沃什最终完成此次改革，其遗产可能不是一次加息或降息周期，而是重新塑造 FOMC 的决策框架。",
       "published": 1793635200.0,
-      "fetched_at": "2026-11-03 11:50:47",
-      "published_cn": "11-02 16:00"
-    },
-    {
-      "title": "真实利率归零的代价",
-      "url": "https://www.ftchinese.com/story/001111248",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "周子衡：政策利率接近零真实水平的状态难以长期持续。资产负债表管理应继续优先于简单的利率操作。市场应逐步减少对央行“保底”的依赖，回归基于基本面的定价。",
-      "published": 1793635200.0,
-      "fetched_at": "2026-11-03 11:50:47",
-      "published_cn": "11-02 16:00"
-    },
-    {
-      "title": "未完成的胜利：美国中期选举前瞻与特朗普的加密政策遗产",
-      "url": "https://www.ftchinese.com/story/001111258",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "Tim Sun：特朗普能够通过行政权力迅速改变监管环境，却很难仅凭总统权力，为整个加密行业建立长期稳定的法律制度。",
-      "published": 1793635200.0,
-      "fetched_at": "2026-11-03 11:50:47",
-      "published_cn": "11-02 16:00"
-    },
-    {
-      "title": "中国经济需要重新理解消费的价值",
-      "url": "https://www.ftchinese.com/story/001111261",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "刘远举：四十年前，影响一个孩子的观念，如今，仍在影响着中国经济。",
-      "published": 1793635200.0,
-      "fetched_at": "2026-11-03 11:50:47",
+      "fetched_at": "2026-11-03 19:31:47",
       "published_cn": "11-02 16:00"
     },
     {
@@ -483,7 +543,7 @@
       "category": "world",
       "summary": "下議院商業、創新、科學與貿易委員會的一份報告指出，英國政府對華事務的決策過程持續地「前後矛盾」。",
       "published": 1793634065.0,
-      "fetched_at": "2026-11-03 11:50:48",
+      "fetched_at": "2026-11-03 19:31:47",
       "published_cn": "11-02 15:41"
     },
     {
@@ -493,7 +553,7 @@
       "category": "world",
       "summary": "對美國支持以色列的憂慮，如今正推動兩端立場的選民投票，成為美國中期選舉激烈選戰中的重要因素。",
       "published": 1793627693.0,
-      "fetched_at": "2026-11-03 11:50:48",
+      "fetched_at": "2026-11-03 19:31:47",
       "published_cn": "11-02 13:54"
     },
     {
@@ -503,7 +563,7 @@
       "category": "tech",
       "summary": "来看奔驰很清楚他们的短板所在。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1793621889.0,
-      "fetched_at": "2026-11-03 11:50:40",
+      "fetched_at": "2026-11-03 19:31:44",
       "published_cn": "11-02 12:18"
     },
     {
@@ -513,7 +573,7 @@
       "category": "world",
       "summary": "民調一直預測民主黨將取得大勝，但由於選民最後一刻的決定以及抽樣抽樣問題，最終結果無法保證。",
       "published": 1793615490.0,
-      "fetched_at": "2026-11-03 11:50:48",
+      "fetched_at": "2026-11-03 19:31:47",
       "published_cn": "11-02 10:31"
     },
     {
@@ -523,7 +583,7 @@
       "category": "tech",
       "summary": "能看见、更聪明的 Android 智能点击器，纯纯写作迎来 iOS 版本，Photon Cam 为 iPhone 旧机型解锁相机新功能等。<a href=\"https://sspai.com/post/118240\" target=\"_blank\">查看全文</a>",
       "published": 1793613475.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:45",
       "published_cn": "11-02 09:57"
     },
     {
@@ -533,7 +593,7 @@
       "category": "tech",
       "summary": "AI 正在逆向一切：从软件、游戏到信息入口<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1793606604.0,
-      "fetched_at": "2026-11-03 11:50:40",
+      "fetched_at": "2026-11-03 19:31:44",
       "published_cn": "11-02 08:03"
     },
     {
@@ -543,28 +603,8 @@
       "category": "tech",
       "summary": "抽签看演唱会，可能是当下最「不坏」的选择<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1793605269.0,
-      "fetched_at": "2026-11-03 11:50:40",
+      "fetched_at": "2026-11-03 19:31:44",
       "published_cn": "11-02 07:41"
-    },
-    {
-      "title": "零跑破 10 万、小鹏小米跨过 5 万大关，10 月车市却迎来了最冷的「银十」",
-      "url": "https://www.ifanr.com/1687113?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "内卷见顶，出海将是下一站。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1793605051.0,
-      "fetched_at": "2026-11-03 11:50:40",
-      "published_cn": "11-02 07:37"
-    },
-    {
-      "title": "ChatGPT 正在偷偷给你画像，用这段提示词让它交出来",
-      "url": "https://www.ifanr.com/1686832?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "或许《Her》描绘的世界已经到来了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1793605047.0,
-      "fetched_at": "2026-11-03 11:50:40",
-      "published_cn": "11-02 07:37"
     },
     {
       "title": "TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验",
@@ -573,18 +613,8 @@
       "category": "tech",
       "summary": "这篇文章是TDSStudio在少数派上的第34篇文章，依然是全平台首发。时隔两年，我们又回来写AirPods半入耳型号了。在26年的苹果秋季event上，AirPods5给我们最大的印象其实还是主动降 ...<a href=\"https://sspai.com/post/118122\" target=\"_blank\">查看全文</a>",
       "published": 1793602800.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:45",
       "published_cn": "11-02 07:00"
-    },
-    {
-      "title": "台灣選舉：四成陸配參選遭剔除，「法理死結」如何困住參政之路？",
-      "url": "https://www.bbc.com/zhongwen/articles/cm4g1ynq5n5jo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "「除籍滿10年」如何計算，成為這屆選舉多位陸配被剔除參選資格的爭議焦點。今年有25位「陸配」參選，當中逾4成參選人不符參選資格。",
-      "published": 1793594246.0,
-      "fetched_at": "2026-11-03 11:50:48",
-      "published_cn": "11-02 04:37"
     },
     {
       "title": "Xnip 十周年：长截图的新生，也是新的起点",
@@ -593,18 +623,8 @@
       "category": "tech",
       "summary": "十年是一个里程碑，也是新的起点。<a href=\"https://sspai.com/post/115662\" target=\"_blank\">查看全文</a>",
       "published": 1793588441.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:45",
       "published_cn": "11-02 03:00"
-    },
-    {
-      "title": "一夜之间，GPT-6.2 Astra 和 Fable 5.5 双双曝光，AI 圈疯狂 11 月要来了",
-      "url": "https://www.ifanr.com/1687071?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "全球基模大战，疯狂 11 月正式开场<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1793584307.0,
-      "fetched_at": "2026-11-03 11:50:40",
-      "published_cn": "11-02 01:51"
     },
     {
       "title": "派早报：Apple 智能将随 iOS 27.3 登陆中国",
@@ -613,7 +633,7 @@
       "category": "tech",
       "summary": "<p>Apple 智能将随 iOS 27.3 登陆中国</p><p>苹果对闪存的议价权受到压制</p><p>Claude Code 官方扩展被植入后门</p><p>美国 FCC 禁止中国实验室认证输美电子产品</p><p>百度网盘通过磁力计数据规避「摇一摇」广告权限</p><p>币安 63 亿美元资产被盗</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://s",
       "published": 1793575365.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:45",
       "published_cn": "11-01 23:22"
     },
     {
@@ -623,7 +643,7 @@
       "category": "world",
       "summary": "<p>British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda </p><p>British officials reportedly insisted that discussions of reparations for slavery sho",
       "published": 1793571971.0,
-      "fetched_at": "2026-11-03 11:50:48",
+      "fetched_at": "2026-11-03 19:31:47",
       "published_cn": "11-01 22:26"
     },
     {
@@ -633,28 +653,8 @@
       "category": "tech",
       "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/116991\" target=\"_blank\">查看全文</a>",
       "published": 1793516566.0,
-      "fetched_at": "2026-11-03 11:50:46",
+      "fetched_at": "2026-11-03 19:31:45",
       "published_cn": "11-01 07:02"
-    },
-    {
-      "title": "本月玩什么｜影之刃零、战争机器：事变日等",
-      "url": "https://sspai.com/post/117960",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "欢迎你在评论区分享 10 月新作的游玩体验。<a href=\"https://sspai.com/post/117960\" target=\"_blank\">查看全文</a>",
-      "published": 1793424559.0,
-      "fetched_at": "2026-11-03 11:50:46",
-      "published_cn": "10-31 05:29"
-    },
-    {
-      "title": "一图流 | 一张图看懂中国版 Apple 智能",
-      "url": "https://sspai.com/post/117953",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "中国版 Apple 智能即将登陆 iPhone，一起看看还有这些细节。<a href=\"https://sspai.com/post/117953\" target=\"_blank\">查看全文</a>",
-      "published": 1793419839.0,
-      "fetched_at": "2026-11-03 11:50:46",
-      "published_cn": "10-31 04:10"
     },
     {
       "title": "Canada and EU announce new alliance open to like-minded countries",
@@ -663,7 +663,7 @@
       "category": "world",
       "summary": "<p>Alliance for the Future, unveiled at Montreal summit and open to other countries, conceived for world ‘shaken by new storms’</p><p>Canada and Europe have announced a new alliance of like-minded nations to<strong> </st",
       "published": 1793389335.0,
-      "fetched_at": "2026-11-03 11:50:48",
+      "fetched_at": "2026-11-03 19:31:47",
       "published_cn": "10-30 19:42"
     },
     {
@@ -673,7 +673,7 @@
       "category": "world",
       "summary": "<p>There is no end in sight for the drivers of illegal mining, while police action appears ineffective</p><p>Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the t",
       "published": 1793336445.0,
-      "fetched_at": "2026-11-03 11:50:48",
+      "fetched_at": "2026-11-03 19:31:47",
       "published_cn": "10-30 05:00"
     },
     {
@@ -683,7 +683,7 @@
       "category": "world",
       "summary": "<p>Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF</p><p>Members of the Sudanese diaspora and international human rights monitors have denounced the candid",
       "published": 1793336445.0,
-      "fetched_at": "2026-11-03 11:50:48",
+      "fetched_at": "2026-11-03 19:31:47",
       "published_cn": "10-30 05:00"
     },
     {
@@ -693,7 +693,7 @@
       "category": "world",
       "summary": "<p>Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website</p><p>Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outle",
       "published": 1793196984.0,
-      "fetched_at": "2026-11-03 11:50:48",
+      "fetched_at": "2026-11-03 19:31:47",
       "published_cn": "10-28 14:16"
     },
     {
@@ -703,7 +703,7 @@
       "category": "world",
       "summary": "<p>Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment</p><p>The “unprecedented” <a href=\"https://www.theguardian.com/w",
       "published": 1793180269.0,
-      "fetched_at": "2026-11-03 11:50:48",
+      "fetched_at": "2026-11-03 19:31:47",
       "published_cn": "10-28 09:37"
     },
     {
@@ -713,7 +713,7 @@
       "category": "world",
       "summary": "<p>Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze</p><p>Senior Sudanese commanders implicated in a “",
       "published": 1793027243.0,
-      "fetched_at": "2026-11-03 11:50:48",
+      "fetched_at": "2026-11-03 19:31:47",
       "published_cn": "10-26 15:07"
     },
     {
@@ -723,7 +723,7 @@
       "category": "world",
       "summary": "中期選舉前夕，特朗普一直吹噓美國經濟的表現。 BBC事實查核（BBC Verify）調查美國的通貨膨脹、就業和經濟成長。",
       "published": 1792628478.0,
-      "fetched_at": "2026-11-03 11:50:48",
+      "fetched_at": "2026-11-03 19:31:47",
       "published_cn": "10-22 00:21"
     }
   ],

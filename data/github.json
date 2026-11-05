@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 02:24:24",
+  "updated_at": "2026-11-05 11:11:10",
   "window_days": 7,
   "repos": [
     {
@@ -7,8 +7,8 @@
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "desc": "Towards a More Autonomous Agent System",
       "lang": "TypeScript",
-      "stars": 18442,
-      "forks": 2046,
+      "stars": 18710,
+      "forks": 2098,
       "created": "2026-10-31"
     },
     {
@@ -16,8 +16,8 @@
       "url": "https://github.com/storytold/craft-anything",
       "desc": "Craft Anything: understand how any software works, and craft your own.",
       "lang": "Rust",
-      "stars": 10907,
-      "forks": 1806,
+      "stars": 12288,
+      "forks": 2062,
       "created": "2026-10-31"
     },
     {
@@ -25,8 +25,8 @@
       "url": "https://github.com/heydamir/unslop",
       "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
       "lang": "JavaScript",
-      "stars": 8421,
-      "forks": 419,
+      "stars": 8754,
+      "forks": 434,
       "created": "2026-10-29"
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/wangzan101/Mika",
       "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
       "lang": "Kotlin",
-      "stars": 6570,
-      "forks": 1407,
+      "stars": 6701,
+      "forks": 1466,
       "created": "2026-10-29"
     },
     {
@@ -43,8 +43,8 @@
       "url": "https://github.com/valentderah/totk-pc-recomp",
       "desc": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
       "lang": "C",
-      "stars": 4774,
-      "forks": 385,
+      "stars": 4895,
+      "forks": 400,
       "created": "2026-10-29"
     },
     {
@@ -52,26 +52,26 @@
       "url": "https://github.com/patch-gg/pixelfx",
       "desc": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
       "lang": "JavaScript",
-      "stars": 4620,
-      "forks": 617,
+      "stars": 4791,
+      "forks": 643,
       "created": "2026-10-30"
-    },
-    {
-      "repo": "BryceYuuu/RUN",
-      "url": "https://github.com/BryceYuuu/RUN",
-      "desc": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
-      "lang": "Python",
-      "stars": 3602,
-      "forks": 258,
-      "created": "2026-10-29"
     },
     {
       "repo": "Djihads80/Eglantine",
       "url": "https://github.com/Djihads80/Eglantine",
       "desc": "VERY experimental Nintendo Switch 2 emulator",
       "lang": "C++",
-      "stars": 3489,
-      "forks": 394,
+      "stars": 3778,
+      "forks": 435,
+      "created": "2026-10-29"
+    },
+    {
+      "repo": "BryceYuuu/RUN",
+      "url": "https://github.com/BryceYuuu/RUN",
+      "desc": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+      "lang": "Python",
+      "stars": 3685,
+      "forks": 266,
       "created": "2026-10-29"
     },
     {
@@ -79,8 +79,8 @@
       "url": "https://github.com/KKKKhazix/agent-autoloop",
       "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "lang": "TypeScript",
-      "stars": 2359,
-      "forks": 474,
+      "stars": 2673,
+      "forks": 523,
       "created": "2026-11-03"
     },
     {
@@ -88,8 +88,8 @@
       "url": "https://github.com/paipiange/nvzhuang",
       "desc": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
       "lang": "HTML",
-      "stars": 2191,
-      "forks": 555,
+      "stars": 2215,
+      "forks": 560,
       "created": "2026-10-29"
     },
     {
@@ -97,8 +97,8 @@
       "url": "https://github.com/Verlintas/NOIR",
       "desc": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
       "lang": "Kotlin",
-      "stars": 1985,
-      "forks": 162,
+      "stars": 2089,
+      "forks": 178,
       "created": "2026-10-31"
     },
     {
@@ -106,26 +106,17 @@
       "url": "https://github.com/elvarofficial/teardown",
       "desc": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
       "lang": "JavaScript",
-      "stars": 1869,
-      "forks": 279,
+      "stars": 1932,
+      "forks": 295,
       "created": "2026-10-30"
-    },
-    {
-      "repo": "lexifina/global-law",
-      "url": "https://github.com/lexifina/global-law",
-      "desc": "The world's law in git: any provision, any country, any date, and the law that wrote each word.",
-      "lang": "HTML",
-      "stars": 1794,
-      "forks": 170,
-      "created": "2026-10-28"
     },
     {
       "repo": "caru-ini/stack-diagram",
       "url": "https://github.com/caru-ini/stack-diagram",
       "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
       "lang": "TypeScript",
-      "stars": 1730,
-      "forks": 75,
+      "stars": 1765,
+      "forks": 79,
       "created": "2026-11-01"
     },
     {
@@ -133,144 +124,153 @@
       "url": "https://github.com/Pika-Labs/Pika-H3-Flex",
       "desc": "Pika H3 Flex: video and audio generation inference",
       "lang": "Python",
-      "stars": 1582,
-      "forks": 31,
+      "stars": 1648,
+      "forks": 32,
       "created": "2026-10-29"
-    },
-    {
-      "repo": "smithjohn78390/tongjiang-lab",
-      "url": "https://github.com/smithjohn78390/tongjiang-lab",
-      "desc": "Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongjiang.app",
-      "lang": "HTML",
-      "stars": 1568,
-      "forks": 398,
-      "created": "2026-10-28"
-    },
-    {
-      "repo": "Arjun-Ingole/hop",
-      "url": "https://github.com/Arjun-Ingole/hop",
-      "desc": "Install Linux next to Windows without a USB stick",
-      "lang": "PowerShell",
-      "stars": 1503,
-      "forks": 53,
-      "created": "2026-10-30"
-    },
-    {
-      "repo": "mromidev/claude-animated-shorts",
-      "url": "https://github.com/mromidev/claude-animated-shorts",
-      "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
-      "lang": "TypeScript",
-      "stars": 1461,
-      "forks": 338,
-      "created": "2026-11-01"
-    },
-    {
-      "repo": "kevinraymond/florilegium",
-      "url": "https://github.com/kevinraymond/florilegium",
-      "desc": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
-      "lang": "TeX",
-      "stars": 1424,
-      "forks": 39,
-      "created": "2026-10-30"
     },
     {
       "repo": "govijr/terminal-mac",
       "url": "https://github.com/govijr/terminal-mac",
       "desc": "Entire MacOS running in your terminal.",
       "lang": "Swift",
-      "stars": 1314,
-      "forks": 84,
+      "stars": 1592,
+      "forks": 94,
       "created": "2026-11-03"
     },
     {
-      "repo": "HRuiCcc/RuiC-PoseAtlas",
-      "url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
-      "desc": "RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × 86 个三语标签。中/英/日切换、搜索筛选、键盘浏览、原图下载，纯静态零依赖。",
-      "lang": "JavaScript",
+      "repo": "mromidev/claude-animated-shorts",
+      "url": "https://github.com/mromidev/claude-animated-shorts",
+      "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+      "lang": "TypeScript",
+      "stars": 1540,
+      "forks": 349,
+      "created": "2026-11-01"
+    },
+    {
+      "repo": "Arjun-Ingole/hop",
+      "url": "https://github.com/Arjun-Ingole/hop",
+      "desc": "Install Linux next to Windows without a USB stick",
+      "lang": "PowerShell",
+      "stars": 1512,
+      "forks": 53,
+      "created": "2026-10-30"
+    },
+    {
+      "repo": "kevinraymond/florilegium",
+      "url": "https://github.com/kevinraymond/florilegium",
+      "desc": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+      "lang": "TeX",
+      "stars": 1427,
+      "forks": 39,
+      "created": "2026-10-30"
+    },
+    {
+      "repo": "wquguru/cicada",
+      "url": "https://github.com/wquguru/cicada",
+      "desc": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+      "lang": "Swift",
+      "stars": 1204,
+      "forks": 230,
+      "created": "2026-11-01"
+    },
+    {
+      "repo": "JuneYaooo/rea-video",
+      "url": "https://github.com/JuneYaooo/rea-video",
+      "desc": "逆向一切视频：实拍口播、桌拍、AI 视频、3D、代码动效、混剪，逐镜拆出画面、花字、剪辑和声音是怎么做的，并给出复刻方案。Reverse-engineer any video, shot by shot.",
+      "lang": "Python",
       "stars": 1201,
-      "forks": 292,
-      "created": "2026-10-28"
+      "forks": 176,
+      "created": "2026-10-29"
     },
     {
       "repo": "NiazMorshed2007/reanimate",
       "url": "https://github.com/NiazMorshed2007/reanimate",
       "desc": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
       "lang": "JavaScript",
-      "stars": 1162,
+      "stars": 1181,
       "forks": 108,
       "created": "2026-10-29"
-    },
-    {
-      "repo": "jacke-pp/open-yoki",
-      "url": "https://github.com/jacke-pp/open-yoki",
-      "desc": "An AI live-stream host that runs on one server: voice, face, chat, memory, posts. The base yoki runs on. By Jacke_pp · contact: DM @Jacke_pp on X",
-      "lang": "JavaScript",
-      "stars": 1073,
-      "forks": 70,
-      "created": "2026-10-28"
-    },
-    {
-      "repo": "wquguru/cicada",
-      "url": "https://github.com/wquguru/cicada",
-      "desc": "知了 Cicada · 任意会议与直播的实时字幕、同声传译、AI 会议纪要（macOS）。Live subtitles, interpreting and meeting notes for any call or stream on your Mac.",
-      "lang": "Swift",
-      "stars": 1063,
-      "forks": 214,
-      "created": "2026-11-01"
     },
     {
       "repo": "RikiyaT/lm_understand-logs",
       "url": "https://github.com/RikiyaT/lm_understand-logs",
       "desc": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
       "lang": "Python",
-      "stars": 888,
-      "forks": 113,
+      "stars": 931,
+      "forks": 127,
       "created": "2026-10-29"
     },
     {
-      "repo": "hyz317/HairDeck",
-      "url": "https://github.com/hyz317/HairDeck",
-      "desc": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
-      "lang": "Python",
-      "stars": 808,
-      "forks": 56,
-      "created": "2026-10-29"
+      "repo": "zortos293/Lichii",
+      "url": "https://github.com/zortos293/Lichii",
+      "desc": "VERY experimental Nintendo Switch 2 emulator",
+      "lang": "C++",
+      "stars": 916,
+      "forks": 94,
+      "created": "2026-10-31"
     },
     {
       "repo": "N1nEmAn/sapper-v2",
       "url": "https://github.com/N1nEmAn/sapper-v2",
       "desc": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa ",
       "lang": "Python",
-      "stars": 763,
-      "forks": 559,
+      "stars": 894,
+      "forks": 601,
       "created": "2026-10-30"
-    },
-    {
-      "repo": "speridlabs/idol-sdk",
-      "url": "https://github.com/speridlabs/idol-sdk",
-      "desc": "Idol: a single image to 3D Gaussians. Inference SDK and demo.",
-      "lang": "Python",
-      "stars": 759,
-      "forks": 61,
-      "created": "2026-10-28"
     },
     {
       "repo": "anthropics/FlashProve",
       "url": "https://github.com/anthropics/FlashProve",
       "desc": "A research prototype for zero-knowledge proofs of AI inference. Not maintained.",
       "lang": "Lean",
-      "stars": 747,
-      "forks": 70,
+      "stars": 822,
+      "forks": 74,
       "created": "2026-10-30"
+    },
+    {
+      "repo": "hyz317/HairDeck",
+      "url": "https://github.com/hyz317/HairDeck",
+      "desc": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+      "lang": "Python",
+      "stars": 814,
+      "forks": 58,
+      "created": "2026-10-29"
+    },
+    {
+      "repo": "Minireel/HGhub",
+      "url": "https://github.com/Minireel/HGhub",
+      "desc": "YellowFruit third-party client",
+      "lang": "TypeScript",
+      "stars": 791,
+      "forks": 660,
+      "created": "2026-11-03"
     },
     {
       "repo": "AssassinCreator/steam-stash-value-report-card",
       "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
       "desc": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
       "lang": "Python",
-      "stars": 734,
+      "stars": 756,
       "forks": 57,
       "created": "2026-11-02"
+    },
+    {
+      "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "lang": "Python",
+      "stars": 756,
+      "forks": 497,
+      "created": "2026-11-04"
+    },
+    {
+      "repo": "joeblau/subvox",
+      "url": "https://github.com/joeblau/subvox",
+      "desc": "",
+      "lang": "Swift",
+      "stars": 730,
+      "forks": 97,
+      "created": "2026-10-31"
     }
   ],
   "note": ""

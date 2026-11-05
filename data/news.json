@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 11:11:09",
+  "updated_at": "2026-11-05 19:45:50",
   "categories": [
     "tech",
     "finance",
@@ -7,13 +7,273 @@
   ],
   "items": [
     {
+      "title": "World's largest olive oil company plummets 18% after rivals agree to takeover deal",
+      "url": "https://www.cnbc.com/2026/11/05/deoleo-olive-oil-takeover-dcoop-acesur.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "The world's largest olive oil company, Deoleo, plummeted in early trading after two of its rivals announced plans to acquire the firm.",
+      "published": 1793878948.0,
+      "fetched_at": "2026-11-05 19:45:50",
+      "published_cn": "11-05 11:42"
+    },
+    {
+      "title": "Discord is ditching Electron and its new app uses less RAM",
+      "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Discord is finally giving up on Electron, the cross-platform framework that lets developers build desktop apps using web technologies. Electron web apps are notoriously heavy on system resources, and Discord is now movin",
+      "published": 1793878782.0,
+      "fetched_at": "2026-11-05 19:45:49",
+      "published_cn": "11-05 11:39"
+    },
+    {
+      "title": "Bose Ultra 开放式耳机 II 体验：听得见好音质，也升级了舒适感",
+      "url": "https://www.ifanr.com/1687834?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "用无损音质和无感佩戴，更新「开放式旗舰」的定义<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1793876622.0,
+      "fetched_at": "2026-11-05 19:45:48",
+      "published_cn": "11-05 11:03"
+    },
+    {
+      "title": "黃之鋒勾結罪國安案：重判10年，料出獄已屆40歲",
+      "url": "https://www.bbc.com/zhongwen/articles/cm5ynepe9578o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "香港民主派活動人士黃之鋒原有望於數月內獲釋，但最新的10年判刑使他要繼續服刑到2036年，出獄時或已年屆40歲。法律學者分析，案件反映《香港國安法》或可被「反覆動用」，令特定政治犯持續留在獄中。",
+      "published": 1793876557.0,
+      "fetched_at": "2026-11-05 19:45:50",
+      "published_cn": "11-05 11:02"
+    },
+    {
+      "title": "How the midterms could fuel the K-shaped AI trade",
+      "url": "https://www.cnbc.com/2026/11/05/ai-data-centers-midterms-capacity.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "U.S. midterm results could slow data center development, raising the value of existing AI capacity while increasing pressure on debt-funded neoclouds.",
+      "published": 1793876499.0,
+      "fetched_at": "2026-11-05 19:45:50",
+      "published_cn": "11-05 11:01"
+    },
+    {
+      "title": "How elderly ‘unsung heroes’ powered Lula’s historic fightback in Brazil",
+      "url": "https://www.theguardian.com/world/2026/nov/05/unsung-heroes-behind-lula-surprise-election-triumph-brazil-runoff-bolsonaro",
+      "source": "卫报·世界",
+      "category": "world",
+      "summary": "<p>Older voters praised for helping tip balance in leftwing president’s favour against far-right Flávio Bolsonaro in runoff</p><p>It had been nearly a decade since Celia de Oliveira Soares last voted, and months since th",
+      "published": 1793876421.0,
+      "fetched_at": "2026-11-05 19:45:50",
+      "published_cn": "11-05 11:00"
+    },
+    {
+      "title": "Playstation and Spider-Man performance see Sony profits surge",
+      "url": "https://www.theverge.com/tech/1027358/sony-q2-2026-earnings-spider-man-playstation",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Sony is enjoying a sharp profit spike in its latest quarterly financials, largely driven by its PlayStation business and the blockbuster success of Spider-Man: Brand New Day. According to the company's September earnings",
+      "published": 1793876415.0,
+      "fetched_at": "2026-11-05 19:45:49",
+      "published_cn": "11-05 11:00"
+    },
+    {
+      "title": "Consumers are spending on physical gifts even as travel tops wish lists, Visa survey finds",
+      "url": "https://www.cnbc.com/2026/11/05/visa-holiday-shopping-physical-gifts-travel.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Even as travel and experiences top the wish list, consumers are still prioritizing spending on physical gifts this holiday season.",
+      "published": 1793876401.0,
+      "fetched_at": "2026-11-05 19:45:50",
+      "published_cn": "11-05 11:00"
+    },
+    {
+      "title": "Amazon ditches GrubHub, taps Uber Eats for Prime",
+      "url": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Amazon has made Uber Eats as its official restaurant delivery partner for Prime members in the United States.",
+      "published": 1793876400.0,
+      "fetched_at": "2026-11-05 19:45:49",
+      "published_cn": "11-05 11:00"
+    },
+    {
+      "title": "Amazon is getting back into restaurant delivery with Uber Eats team-up",
+      "url": "https://www.theverge.com/tech/1026716/amazon-uber-eats-prime-restaurant-delivery-partnership",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Amazon and Uber are teaming up to make Uber Eats the official restaurant delivery partner for Prime subscribers in the US. The news comes as Uber faces a drastically reshaped competitive landscape with the merging of riv",
+      "published": 1793876400.0,
+      "fetched_at": "2026-11-05 19:45:49",
+      "published_cn": "11-05 11:00"
+    },
+    {
+      "title": "Big Tech’s big AI buildout will not end until someone stops it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data cente",
+      "published": 1793875500.0,
+      "fetched_at": "2026-11-05 19:45:49",
+      "published_cn": "11-05 10:45"
+    },
+    {
+      "title": "Chromebook 统治美国校园，AI 成了没得选的「套餐」",
+      "url": "https://www.ifanr.com/1687912?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "为什么 AI 成了搜索的 「必选项」<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1793872823.0,
+      "fetched_at": "2026-11-05 19:45:48",
+      "published_cn": "11-05 10:00"
+    },
+    {
+      "title": "OpenAI pledges to pay for data center power after election highlights AI concerns",
+      "url": "https://www.cnbc.com/2026/11/05/openai-to-pay-for-data-center-power-after-election-shows-ai-concern.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "OpenAI pledged to solicit community input around AI data centers, publish construction plans and protect ratepayers.",
+      "published": 1793872801.0,
+      "fetched_at": "2026-11-05 19:45:50",
+      "published_cn": "11-05 10:00"
+    },
+    {
+      "title": "一加 Ace 7 Pro 体验：「二号人物」这次想当主角",
+      "url": "https://www.ifanr.com/1687836?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "很显然，它不想再当一台纯粹的「游戏备用机」了。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1793869993.0,
+      "fetched_at": "2026-11-05 19:45:48",
+      "published_cn": "11-05 09:13"
+    },
+    {
+      "title": "新玩意 255｜少数派的编辑们最近买了啥？",
+      "url": "https://sspai.com/post/118541",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/118541\" target=\"_blank\">查看全文</a>",
+      "published": 1793869888.0,
+      "fetched_at": "2026-11-05 19:45:49",
+      "published_cn": "11-05 09:11"
+    },
+    {
+      "title": "Mercedes-AMG GT 4-Door Coupe first drive: Where tech and fun collide",
+      "url": "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "The spirit of AMG is alive via three axial flux electric motors.",
+      "published": 1793869213.0,
+      "fetched_at": "2026-11-05 19:45:49",
+      "published_cn": "11-05 09:00"
+    },
+    {
+      "title": "前央視節目主講人程萬軍在台尋求庇護未果 被送返泰國",
+      "url": "https://www.bbc.com/zhongwen/articles/ck1l36yzrq75o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "程萬軍隨後在網上發布影片，指控台灣執法人員在遣返過程中使用暴力。移民署則稱，他在登機時激烈抗拒並有自傷行為，執法人員為維護飛航安全採取必要措施。BBC中文無法獨立核實雙方的說法。",
+      "published": 1793867208.0,
+      "fetched_at": "2026-11-05 19:45:50",
+      "published_cn": "11-05 08:26"
+    },
+    {
+      "title": "Nintendo Switch 2 sales plunge 41% as price hikes and memory crunch bite",
+      "url": "https://www.cnbc.com/2026/11/05/nintendo-earnings-switch-2-sales.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Sales of Nintendo's flagship Switch 2 plunged in its fiscal second quarter after the Japanese gaming giant rolled out price hikes amid soaring memory costs.",
+      "published": 1793863858.0,
+      "fetched_at": "2026-11-05 19:45:50",
+      "published_cn": "11-05 07:30"
+    },
+    {
+      "title": "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
+      "url": "https://sspai.com/prime/story/30-easy-steamed-dishes",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "蒸锅真是懒人做饭好帮手。<a href=\"https://sspai.com/prime/story/30-easy-steamed-dishes\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</p>",
+      "published": 1793863011.0,
+      "fetched_at": "2026-11-05 19:45:49",
+      "published_cn": "11-05 07:16"
+    },
+    {
+      "title": "What the Democratic midterms sweep changes for U.S.-China relations",
+      "url": "https://www.cnbc.com/2026/11/05/what-the-democrat-midterms-sweep-changes-for-us-china-tech-rivalry.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.",
+      "published": 1793861692.0,
+      "fetched_at": "2026-11-05 19:45:50",
+      "published_cn": "11-05 06:54"
+    },
+    {
+      "title": "对话星尘智能来杰：机器人的「iPhone 4 时刻」还没到，但可能比想象中更近丨多样性公司",
+      "url": "https://www.ifanr.com/1687805?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "机器人是帮助人的，不是替代人的。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1793860149.0,
+      "fetched_at": "2026-11-05 19:45:48",
+      "published_cn": "11-05 06:29"
+    },
+    {
+      "title": "GPT Images 2.6 突然发布，蓝色大肥鱼实现 GIF 表情包自由",
+      "url": "https://www.ifanr.com/1687778?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "以后表情包斗图，全靠 AI 了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1793859243.0,
+      "fetched_at": "2026-11-05 19:45:48",
+      "published_cn": "11-05 06:14"
+    },
+    {
+      "title": "他們在等西西弗斯：黃之鋒身後，那些寫信和探監的前戰友",
+      "url": "https://www.bbc.com/zhongwen/articles/c6zxz94yzngpo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "香港民主派活動人士黃之鋒被控違反中國《香港國安法》下的「串謀勾結外國勢力危害國家安全」罪，被判囚10年。BBC中文訪問了三位一直探望並寄信予黃之鋒的前戰友，了解他在獄中的變化。",
+      "published": 1793854994.0,
+      "fetched_at": "2026-11-05 19:45:50",
+      "published_cn": "11-05 05:03"
+    },
+    {
+      "title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time",
+      "url": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "The Ocarina of Time remake on the Switch 2 smashes together the past and present. The game retains much of the original N64 experience while updating it with modern graphics and gameplay that make it feel contemporary. B",
+      "published": 1793854800.0,
+      "fetched_at": "2026-11-05 19:45:49",
+      "published_cn": "11-05 05:00"
+    },
+    {
+      "title": "民主黨重掌美國國會：能做什麼、不能做什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/cm8xzky58xw7o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "民主黨可以憑藉多數席次讓法案在國會過關，但特朗普仍握有否決權。",
+      "published": 1793850668.0,
+      "fetched_at": "2026-11-05 19:45:50",
+      "published_cn": "11-05 03:51"
+    },
+    {
+      "title": "Apple 官网排版细节鉴赏",
+      "url": "https://sspai.com/post/115399",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "Apple 独一无二的品牌价值，正是从这些细节中凝聚的。<a href=\"https://sspai.com/post/115399\" target=\"_blank\">查看全文</a>",
+      "published": 1793847442.0,
+      "fetched_at": "2026-11-05 19:45:49",
+      "published_cn": "11-05 02:57"
+    },
+    {
       "title": "「這是一場災難」：中期選舉慘敗，共和黨內怒火指向特朗普",
       "url": "https://www.bbc.com/zhongwen/articles/cw5ynld35e3ro/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
       "category": "world",
       "summary": "一些共和黨人告訴BBC，特朗普只顧自己的政治遺產，漠視選民關注的問題，令共和黨付出了代價。",
       "published": 1793846192.0,
-      "fetched_at": "2026-11-05 11:11:09",
+      "fetched_at": "2026-11-05 19:45:50",
       "published_cn": "11-05 02:36"
     },
     {
@@ -23,18 +283,8 @@
       "category": "tech",
       "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
       "published": 1793841982.0,
-      "fetched_at": "2026-11-05 11:11:07",
+      "fetched_at": "2026-11-05 19:45:49",
       "published_cn": "11-05 01:26"
-    },
-    {
-      "title": "White House panel delays hearing on Fed's Lisa Cook to Dec. 14",
-      "url": "https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "President Donald Trump first tried to fire Lisa Cook in August 2025, but the Supreme Court in June blocked him from doing so, for now.",
-      "published": 1793841086.0,
-      "fetched_at": "2026-11-05 11:11:08",
-      "published_cn": "11-05 01:11"
     },
     {
       "title": "After the midterms, a bigger clash over data centers could be coming",
@@ -43,7 +293,7 @@
       "category": "tech",
       "summary": "Data center opposition crossed party lines in Tuesday’s midterms.",
       "published": 1793840534.0,
-      "fetched_at": "2026-11-05 11:11:07",
+      "fetched_at": "2026-11-05 19:45:49",
       "published_cn": "11-05 01:02"
     },
     {
@@ -53,18 +303,8 @@
       "category": "tech",
       "summary": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection",
       "published": 1793838312.0,
-      "fetched_at": "2026-11-05 11:11:07",
+      "fetched_at": "2026-11-05 19:45:49",
       "published_cn": "11-05 00:25"
-    },
-    {
-      "title": "NextDC shares surge 43% after Goodman, Digital Realty stake purchases",
-      "url": "https://www.cnbc.com/2026/11/05/nextdc-goodman-group-digital-realty-data-centers-.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "NextDC shares surged more than 40% Thursday morning after Goodman Group and Digital Realty sought to acquire up to a 9.9% stake.",
-      "published": 1793838297.0,
-      "fetched_at": "2026-11-05 11:11:08",
-      "published_cn": "11-05 00:24"
     },
     {
       "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
@@ -73,7 +313,7 @@
       "category": "tech",
       "summary": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ...<a href=\"https://sspai.com/post/118498\" target=\"_blank\">查看全文</a>",
       "published": 1793837787.0,
-      "fetched_at": "2026-11-05 11:11:07",
+      "fetched_at": "2026-11-05 19:45:49",
       "published_cn": "11-05 00:16"
     },
     {
@@ -83,38 +323,8 @@
       "category": "tech",
       "summary": "· 彭博调查：69% 中国受访者至少等到明年才换手机\n· ChatGPT 新增 GIF 生成，可调播放速度、逐帧修改\n· 近七成汽车经销商试用 AI，部分已设智能体专员<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1793837759.0,
-      "fetched_at": "2026-11-05 11:11:06",
+      "fetched_at": "2026-11-05 19:45:48",
       "published_cn": "11-05 00:15"
-    },
-    {
-      "title": "Inside India newsletter: India weighs a tax cut to win over foreign investors. Will it work?",
-      "url": "https://www.cnbc.com/2026/11/05/india-tax-foreign-investors-nifty.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Foreign investors are losing their appetite for Indian equities, with their holdings touching an all-time low of 14%.",
-      "published": 1793837076.0,
-      "fetched_at": "2026-11-05 11:11:08",
-      "published_cn": "11-05 00:04"
-    },
-    {
-      "title": "Democrats flip dozens of GOP seats. Republicans haven't flipped a single one",
-      "url": "https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Democrats have flipped seven Senate seats, nearly 30 House districts, five governorships and up to 12 state legislative chambers in a historic 2026 midterm rout.",
-      "published": 1793835858.0,
-      "fetched_at": "2026-11-05 11:11:08",
-      "published_cn": "11-04 23:44"
-    },
-    {
-      "title": "A 'demand decade' ahead for energy? BP, Baker Hughes CEOs weigh the investment outlook",
-      "url": "https://www.cnbc.com/2026/11/05/energy-leaders-investment-outlook.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Rising energy demand offers investment opportunities, but geopolitical risks and oil price uncertainty cloud the outlook, executives and an analyst said.",
-      "published": 1793834583.0,
-      "fetched_at": "2026-11-05 11:11:08",
-      "published_cn": "11-04 23:23"
     },
     {
       "title": "What Wall Street billionaires are saying about Democrats' midterm sweep",
@@ -123,18 +333,8 @@
       "category": "finance",
       "summary": "Billionaire political spending met criticism from ... billionaires in the wake of Tuesday's blue wave election.",
       "published": 1793834276.0,
-      "fetched_at": "2026-11-05 11:11:08",
+      "fetched_at": "2026-11-05 19:45:50",
       "published_cn": "11-04 23:17"
-    },
-    {
-      "title": "What was really behind Wednesday's monster rally? Trump quickly making peace",
-      "url": "https://www.cnbc.com/2026/11/04/stock-market-rally-trump-midterms.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "The stock market skyrocketed after a decisive sweep for Democrats in the 2026 midterm elections, a move that Trump's reaction added to.",
-      "published": 1793832922.0,
-      "fetched_at": "2026-11-05 11:11:08",
-      "published_cn": "11-04 22:55"
     },
     {
       "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
@@ -143,18 +343,8 @@
       "category": "tech",
       "summary": "And what that could mean for physical Switch game costs.",
       "published": 1793832471.0,
-      "fetched_at": "2026-11-05 11:11:07",
+      "fetched_at": "2026-11-05 19:45:49",
       "published_cn": "11-04 22:47"
-    },
-    {
-      "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
-      "url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "The next debt-ceiling confrontation could reverse Washington's traditional political roles, raising the possibility of spending concessions, market volatility and a damaging default.",
-      "published": 1793832403.0,
-      "fetched_at": "2026-11-05 11:11:08",
-      "published_cn": "11-04 22:46"
     },
     {
       "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
@@ -163,7 +353,7 @@
       "category": "tech",
       "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
       "published": 1793832309.0,
-      "fetched_at": "2026-11-05 11:11:07",
+      "fetched_at": "2026-11-05 19:45:49",
       "published_cn": "11-04 22:45"
     },
     {
@@ -173,7 +363,7 @@
       "category": "tech",
       "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in",
       "published": 1793832135.0,
-      "fetched_at": "2026-11-05 11:11:07",
+      "fetched_at": "2026-11-05 19:45:49",
       "published_cn": "11-04 22:42"
     },
     {
@@ -183,7 +373,7 @@
       "category": "tech",
       "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
       "published": 1793831209.0,
-      "fetched_at": "2026-11-05 11:11:07",
+      "fetched_at": "2026-11-05 19:45:49",
       "published_cn": "11-04 22:26"
     },
     {
@@ -193,7 +383,7 @@
       "category": "tech",
       "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
       "published": 1793830396.0,
-      "fetched_at": "2026-11-05 11:11:07",
+      "fetched_at": "2026-11-05 19:45:49",
       "published_cn": "11-04 22:13"
     },
     {
@@ -203,7 +393,7 @@
       "category": "tech",
       "summary": "\"Our calculations suggest Heisenberg significantly underestimated the materials required.\"",
       "published": 1793829389.0,
-      "fetched_at": "2026-11-05 11:11:07",
+      "fetched_at": "2026-11-05 19:45:49",
       "published_cn": "11-04 21:56"
     },
     {
@@ -213,7 +403,7 @@
       "category": "tech",
       "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
       "published": 1793829361.0,
-      "fetched_at": "2026-11-05 11:11:07",
+      "fetched_at": "2026-11-05 19:45:49",
       "published_cn": "11-04 21:56"
     },
     {
@@ -223,7 +413,7 @@
       "category": "tech",
       "summary": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscr",
       "published": 1793828969.0,
-      "fetched_at": "2026-11-05 11:11:07",
+      "fetched_at": "2026-11-05 19:45:49",
       "published_cn": "11-04 21:49"
     },
     {
@@ -233,7 +423,7 @@
       "category": "tech",
       "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known",
       "published": 1793828700.0,
-      "fetched_at": "2026-11-05 11:11:07",
+      "fetched_at": "2026-11-05 19:45:49",
       "published_cn": "11-04 21:45"
     },
     {
@@ -243,18 +433,8 @@
       "category": "tech",
       "summary": "“We started listening to a lot of our lower-end customers,\" VMware exec says.",
       "published": 1793828329.0,
-      "fetched_at": "2026-11-05 11:11:07",
+      "fetched_at": "2026-11-05 19:45:49",
       "published_cn": "11-04 21:38"
-    },
-    {
-      "title": "How I learned to love an obnoxious phone grip",
-      "url": "https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Much like a great recipe, it started with a stick of butter. This wasn't real butter; it was a friend's new phone grip, complemented by a phone case with bold stripes. Butter is in vogue now, or at least that's what a 12",
-      "published": 1793827800.0,
-      "fetched_at": "2026-11-05 11:11:07",
-      "published_cn": "11-04 21:30"
     },
     {
       "title": "AMD's record quarter: Data center business doubles, while gaming craters",
@@ -263,7 +443,7 @@
       "category": "tech",
       "summary": "AMD's gaming revenue fell 40 percent in an otherwise record $13.4 billion quarter.",
       "published": 1793827786.0,
-      "fetched_at": "2026-11-05 11:11:07",
+      "fetched_at": "2026-11-05 19:45:49",
       "published_cn": "11-04 21:29"
     },
     {
@@ -273,28 +453,8 @@
       "category": "tech",
       "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
       "published": 1793827544.0,
-      "fetched_at": "2026-11-05 11:11:07",
+      "fetched_at": "2026-11-05 19:45:49",
       "published_cn": "11-04 21:25"
-    },
-    {
-      "title": "Bose’s QuietComfort Headphones are more than half off",
-      "url": "https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "It’s not often that some of the best noise-canceling headphones you can buy are over half off. But right now, the first-gen Bose QuietComfort Headphones are on sale for $169.99 ($190 off) at Amazon, Best Buy, and Bose, m",
-      "published": 1793826791.0,
-      "fetched_at": "2026-11-05 11:11:07",
-      "published_cn": "11-04 21:13"
-    },
-    {
-      "title": "Meta acquires AI coding startup Conductor",
-      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
-      "published": 1793826656.0,
-      "fetched_at": "2026-11-05 11:11:07",
-      "published_cn": "11-04 21:10"
     },
     {
       "title": "美國中期選舉結果對中國和世界各國意味着什麼？",
@@ -303,7 +463,7 @@
       "category": "world",
       "summary": "民主黨在美國中期選舉中取得勝利，將在特朗普總統餘下的任期內掌控國會，標誌着美國政治格局出現重大變化。從烏克蘭和中東的衝突，到美國與中國的貿易關係，BBC記者分析這次選舉結果對世界其他地區意味着什麼。",
       "published": 1793826131.0,
-      "fetched_at": "2026-11-05 11:11:09",
+      "fetched_at": "2026-11-05 19:45:50",
       "published_cn": "11-04 21:02"
     },
     {
@@ -313,7 +473,7 @@
       "category": "tech",
       "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
       "published": 1793825750.0,
-      "fetched_at": "2026-11-05 11:11:07",
+      "fetched_at": "2026-11-05 19:45:49",
       "published_cn": "11-04 20:55"
     },
     {
@@ -323,18 +483,8 @@
       "category": "tech",
       "summary": "\"Data centers in space looking pretty appealing right now.\"",
       "published": 1793824565.0,
-      "fetched_at": "2026-11-05 11:11:07",
+      "fetched_at": "2026-11-05 19:45:49",
       "published_cn": "11-04 20:36"
-    },
-    {
-      "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
-      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "AT&#38;T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini",
-      "published": 1793823804.0,
-      "fetched_at": "2026-11-05 11:11:07",
-      "published_cn": "11-04 20:23"
     },
     {
       "title": "共和黨在美國中期選舉中慘敗的五大原因",
@@ -343,8 +493,18 @@
       "category": "world",
       "summary": "從選民的不滿情緒，到總統本人支持度低迷，本文分析為何傳統共和黨票倉的美國選民轉而支持民主黨。",
       "published": 1793823647.0,
-      "fetched_at": "2026-11-05 11:11:09",
+      "fetched_at": "2026-11-05 19:45:50",
       "published_cn": "11-04 20:20"
+    },
+    {
+      "title": "CVS Health plans to split itself up. Here's why a breakup could make sense now",
+      "url": "https://www.cnbc.com/2026/11/04/cvs-health-pharmacy-aetna-split.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Analysts say that after a roughly two-year turnaround the company's retail pharmacy business and other units may be strong enough to stand on their own.",
+      "published": 1793822321.0,
+      "fetched_at": "2026-11-05 19:45:50",
+      "published_cn": "11-04 19:58"
     },
     {
       "title": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
@@ -353,38 +513,8 @@
       "category": "world",
       "summary": "<p>Conservation officers say more than one bear may have been involved in attack on women near their home</p><p>Search teams in <a href=\"https://www.theguardian.com/world/canada\">Canada</a> have discovered the body of a ",
       "published": 1793821367.0,
-      "fetched_at": "2026-11-05 11:11:09",
+      "fetched_at": "2026-11-05 19:45:50",
       "published_cn": "11-04 19:42"
-    },
-    {
-      "title": "Ted Cruz aims to stack FCC with Republicans before Democrats take Senate control",
-      "url": "https://arstechnica.com/tech-policy/2026/11/ted-cruz-aims-to-put-another-republican-on-fcc-in-senates-lame-duck-session/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Cruz and Trump seem to have no plans to fill FCC's empty Democratic seat.",
-      "published": 1793819303.0,
-      "fetched_at": "2026-11-05 11:11:07",
-      "published_cn": "11-04 19:08"
-    },
-    {
-      "title": "Google’s Pixel 11 phones are up to 27 percent off",
-      "url": "https://www.theverge.com/gadgets/1025370/google-pixel-11-pro-phone-deal-sale",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "You can save a heck of lot of money on Google’s Pixel 11 phones through November 8th, whether you want the best-for-the-least Pixel 11, or the slightly pricier Pixel 11 Pro that takes better photos. Even the big Pixel 11",
-      "published": 1793818800.0,
-      "fetched_at": "2026-11-05 11:11:07",
-      "published_cn": "11-04 19:00"
-    },
-    {
-      "title": "Xbox previews two new ways to control cloud games",
-      "url": "https://www.theverge.com/news/1026455/xbox-nano-direct-cloud-wifi-connection-xbox-cloud-gaming-phone-controller",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "I revealed yesterday that the new Xbox Nano controller supports a Wi-Fi connection directly to Xbox Cloud Gaming, and now Microsoft is making it official today. Two new Xbox previews will let players try out using a phon",
-      "published": 1793818800.0,
-      "fetched_at": "2026-11-05 11:11:07",
-      "published_cn": "11-04 19:00"
     },
     {
       "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
@@ -393,7 +523,7 @@
       "category": "world",
       "summary": "<p>Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unit</p><p>A British healthcare worker with Ebola is being evacuated from the Democratic Republic of the C",
       "published": 1793816317.0,
-      "fetched_at": "2026-11-05 11:11:09",
+      "fetched_at": "2026-11-05 19:45:50",
       "published_cn": "11-04 18:18"
     },
     {
@@ -403,8 +533,68 @@
       "category": "tech",
       "summary": "这次你一定要用上 Apple 智能！<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1793813404.0,
-      "fetched_at": "2026-11-05 11:11:06",
+      "fetched_at": "2026-11-05 19:45:48",
       "published_cn": "11-04 17:30"
+    },
+    {
+      "title": "微创医疗创办人卸任 13亿元租金争议未息",
+      "url": "https://www.ftchinese.com/story/001111288",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "微创医疗2025年虽实现账面盈利，但主营业务盈利能力仍待修复。",
+      "published": 1793808000.0,
+      "fetched_at": "2026-11-05 19:45:50",
+      "published_cn": "11-04 16:00"
+    },
+    {
+      "title": "低价保障需求不减 众安在线逆势增长",
+      "url": "https://www.ftchinese.com/story/001111268",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "数字保险公司众安在线的主打低价保单持续吸引需求，第三季度收入增速远超整体行业。",
+      "published": 1793808000.0,
+      "fetched_at": "2026-11-05 19:45:50",
+      "published_cn": "11-04 16:00"
+    },
+    {
+      "title": "“特朗普时代”是如何翻车的",
+      "url": "https://www.ftchinese.com/story/001111287",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "加内什：如果特朗普能采取更多的经济干预措施，或者少为自己谋私利，那么中期选举的结果或许只是败选，而不至于是彻底羞辱。",
+      "published": 1793808000.0,
+      "fetched_at": "2026-11-05 19:45:50",
+      "published_cn": "11-04 16:00"
+    },
+    {
+      "title": "每周时事分析：特朗普后半个任期不好过",
+      "url": "https://www.ftchinese.com/story/001111286",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "曹辛：共和党大败，通货膨胀和政治腐败是最大因素。本次选举将对未来两年的美国国内政治产生深远影响，中美、美俄和美朝关系可能受到波及。",
+      "published": 1793808000.0,
+      "fetched_at": "2026-11-05 19:45:50",
+      "published_cn": "11-04 16:00"
+    },
+    {
+      "title": "中美俄领导人若在深圳会面，不会是“雅尔塔2.0”",
+      "url": "https://www.ftchinese.com/story/001111285",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "邓聿文：否定“雅尔塔2.0”并不是说三方不会交易，更不是说小国的担忧毫无根据，而是不能将局部问题上的交易解释为三国共同重建世界秩序。",
+      "published": 1793808000.0,
+      "fetched_at": "2026-11-05 19:45:50",
+      "published_cn": "11-04 16:00"
+    },
+    {
+      "title": "再说“法国：骚乱与挑战”——兼谈移民、穆斯林与左派、特朗普及其他",
+      "url": "https://www.ftchinese.com/story/001111283",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "张伦：移民问题不是单个政治派别、意识形态的产物，是历史、现实、经济、政治与文化的多重因素造就的。但少数群体也须加强自己的融合。",
+      "published": 1793808000.0,
+      "fetched_at": "2026-11-05 19:45:50",
+      "published_cn": "11-04 16:00"
     },
     {
       "title": "中国加大股市救市力度",
@@ -413,7 +603,7 @@
       "category": "finance",
       "summary": "在“国家队”主导的最新买入行动中，异常大比例的资金投向追踪科创50指数和创业板指数的ETF。",
       "published": 1793808000.0,
-      "fetched_at": "2026-11-05 11:11:08",
+      "fetched_at": "2026-11-05 19:45:50",
       "published_cn": "11-04 16:00"
     },
     {
@@ -423,37 +613,7 @@
       "category": "finance",
       "summary": "这家比利时化工集团与在巴西拥有稀土矿的澳大利亚Viridis签署长期协议，2028年起获得从该矿开采的稀土原料。",
       "published": 1793808000.0,
-      "fetched_at": "2026-11-05 11:11:08",
-      "published_cn": "11-04 16:00"
-    },
-    {
-      "title": "AI投资热潮带来的经济风险",
-      "url": "https://www.ftchinese.com/story/001111280",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "沃尔夫：AI投资热潮及与之相伴的复杂融资安排持续得越久，其终结时造成的负面冲击就可能越大。",
-      "published": 1793808000.0,
-      "fetched_at": "2026-11-05 11:11:08",
-      "published_cn": "11-04 16:00"
-    },
-    {
-      "title": "产能过剩之谜：新能源车企为何“亏而不退”？",
-      "url": "https://www.ftchinese.com/story/001111257",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "周文、王鹤霖：中国新能源汽车产业结构性产能过剩日益突出。只要产能过剩依旧存在，企业就不得不“卷”；单凭行政手段禁止竞争，无异于扬汤止沸。",
-      "published": 1793808000.0,
-      "fetched_at": "2026-11-05 11:11:08",
-      "published_cn": "11-04 16:00"
-    },
-    {
-      "title": "谁有权力决定中国孩子穿什么？",
-      "url": "https://www.ftchinese.com/story/001111279",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "周建：校服是学校的事，应该交回学校和家长。穿什么校服，应该是家长和孩子的选择，而不是学生被学校要求，家长被学校通知，学校被主管部门要求。",
-      "published": 1793808000.0,
-      "fetched_at": "2026-11-05 11:11:08",
+      "fetched_at": "2026-11-05 19:45:50",
       "published_cn": "11-04 16:00"
     },
     {
@@ -463,7 +623,7 @@
       "category": "tech",
       "summary": "车市的天花板，可能比我们想的更低。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1793805166.0,
-      "fetched_at": "2026-11-05 11:11:06",
+      "fetched_at": "2026-11-05 19:45:48",
       "published_cn": "11-04 15:12"
     },
     {
@@ -473,18 +633,8 @@
       "category": "world",
       "summary": "<p>Party expected to get less than a third of the vote amid frustration over water outages and power cuts</p><p>The African National Congress is on course for a bruising result in South Africa’s local elections on Wednes",
       "published": 1793803847.0,
-      "fetched_at": "2026-11-05 11:11:09",
+      "fetched_at": "2026-11-05 19:45:50",
       "published_cn": "11-04 14:50"
-    },
-    {
-      "title": "篤定成為首位穆斯林美國參議員，42歲的賽義德是誰？",
-      "url": "https://www.bbc.com/zhongwen/articles/c6lykq34zd19o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "在密歇根州，民主黨候選人阿卜杜勒·賽義德如今將成為美國首位穆斯林聯邦參議員。",
-      "published": 1793798051.0,
-      "fetched_at": "2026-11-05 11:11:09",
-      "published_cn": "11-04 13:14"
     },
     {
       "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
@@ -493,78 +643,8 @@
       "category": "tech",
       "summary": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。<a href=\"https://sspai.com/post/117713\" target=\"_blank\">查看全文</a>",
       "published": 1793795155.0,
-      "fetched_at": "2026-11-05 11:11:07",
+      "fetched_at": "2026-11-05 19:45:49",
       "published_cn": "11-04 12:25"
-    },
-    {
-      "title": "美國民主黨歷史性勝利 深入共和黨票倉攻城掠地",
-      "url": "https://www.bbc.com/zhongwen/articles/c6kgq8l48q2po/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "兩場一年前還被認為將勢均力敵的美國參議院選舉，最終都成為民主黨輕鬆取勝的選戰。",
-      "published": 1793789521.0,
-      "fetched_at": "2026-11-05 11:11:09",
-      "published_cn": "11-04 10:52"
-    },
-    {
-      "title": "Anthropic微微发力，AI中转站的天就要塌了？",
-      "url": "https://www.ifanr.com/1687702?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "就像发邮件加上数字签名一样<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1793788478.0,
-      "fetched_at": "2026-11-05 11:11:06",
-      "published_cn": "11-04 10:34"
-    },
-    {
-      "title": "德州翻藍：民主黨時隔38年首奪聯邦參議員席次",
-      "url": "https://www.bbc.com/zhongwen/articles/cwzrdzl8v6jjo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "這場勝利不僅改寫德州數十年來的政治版圖，也進一步鞏固民主黨對美國國會的控制。",
-      "published": 1793787080.0,
-      "fetched_at": "2026-11-05 11:11:09",
-      "published_cn": "11-04 10:11"
-    },
-    {
-      "title": "安东内利加冕 F1 最年轻世界冠军，梅赛德斯的十年豪赌拿到了大结果",
-      "url": "https://www.ifanr.com/1687672?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "一位天才车手的圆梦之旅。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1793786807.0,
-      "fetched_at": "2026-11-05 11:11:06",
-      "published_cn": "11-04 10:06"
-    },
-    {
-      "title": "加油、充电还能加甲醇！吉利银河星耀 6 EF 上市，7.68 万元起",
-      "url": "https://www.ifanr.com/1687688?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "不挑食。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1793786698.0,
-      "fetched_at": "2026-11-05 11:11:06",
-      "published_cn": "11-04 10:04"
-    },
-    {
-      "title": "拓竹给 3D 打印机装了 9 个头，这次真能打印万物了？",
-      "url": "https://www.ifanr.com/1687646?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "桌面制造的新物种<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1793786111.0,
-      "fetched_at": "2026-11-05 11:11:06",
-      "published_cn": "11-04 09:55"
-    },
-    {
-      "title": "奥运赛事首次来到非洲，AI 也学着「入乡随俗」",
-      "url": "https://www.ifanr.com/1687242?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "用最硬核的技术，给在地文化最充分的尊重<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1793782908.0,
-      "fetched_at": "2026-11-05 11:11:06",
-      "published_cn": "11-04 09:01"
     },
     {
       "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
@@ -573,7 +653,7 @@
       "category": "tech",
       "summary": "没有融资、没有收费，也没有什么商业计划。花这些钱，只是为了把一个自己喜欢了很多年的东西做成自己心里的样子。<a href=\"https://sspai.com/post/115819\" target=\"_blank\">查看全文</a>",
       "published": 1793775048.0,
-      "fetched_at": "2026-11-05 11:11:07",
+      "fetched_at": "2026-11-05 19:45:49",
       "published_cn": "11-04 06:50"
     },
     {
@@ -583,7 +663,7 @@
       "category": "world",
       "summary": "美國國會由眾議院和參議院組成。眾議院全部435個議席都會改選，眾議員任期固定為兩年。與此同時，參議院100個議席中，有35席亦會進行改選。參議員任期為六年。",
       "published": 1793771276.0,
-      "fetched_at": "2026-11-05 11:11:09",
+      "fetched_at": "2026-11-05 19:45:50",
       "published_cn": "11-04 05:47"
     },
     {
@@ -593,18 +673,8 @@
       "category": "tech",
       "summary": "iOS 27.3 Beta 带来了姗姗来迟的国行版 Apple 智能，这些细节你值得了解。<a href=\"https://sspai.com/post/118404\" target=\"_blank\">查看全文</a>",
       "published": 1793760070.0,
-      "fetched_at": "2026-11-05 11:11:07",
+      "fetched_at": "2026-11-05 19:45:49",
       "published_cn": "11-04 02:41"
-    },
-    {
-      "title": "美智庫解析「技術民族主義」下的中俄軍工合作細節與限度",
-      "url": "https://www.bbc.com/zhongwen/articles/c977pge1jkmdo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "深圳APEC前夕，中俄「無上限」合有任何挑戰嗎？北京對烏克蘭停火興趣如何？在APEC中美俄三方領袖會面能有所突破？",
-      "published": 1793751814.0,
-      "fetched_at": "2026-11-05 11:11:09",
-      "published_cn": "11-04 00:23"
     },
     {
       "title": "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等",
@@ -613,7 +683,7 @@
       "category": "tech",
       "summary": "Surface 鼠标第 2 代国行预售，Windows 11 优化 8 GB 内存表现等。<a href=\"https://sspai.com/post/118402\" target=\"_blank\">查看全文</a>",
       "published": 1793750400.0,
-      "fetched_at": "2026-11-05 11:11:07",
+      "fetched_at": "2026-11-05 19:45:49",
       "published_cn": "11-04 00:00"
     },
     {
@@ -623,78 +693,8 @@
       "category": "world",
       "summary": "<p>The incident took place in the same province where a grizzly attacked a group of schoolchildren last November</p><p>A mother is dead and her daughter is missing in western Canada after a suspected grizzly bear attack ",
       "published": 1793743730.0,
-      "fetched_at": "2026-11-05 11:11:09",
+      "fetched_at": "2026-11-05 19:45:50",
       "published_cn": "11-03 22:08"
-    },
-    {
-      "title": "油价周二延续跌势",
-      "url": "https://www.ftchinese.com/story/001111278",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "布伦特原油在周一下跌近8%的基础上进一步下跌1.8%，至每桶102.84美元。此前有报道称美伊之间的外交努力取得进展。",
-      "published": 1793721600.0,
-      "fetched_at": "2026-11-05 11:11:08",
-      "published_cn": "11-03 16:00"
-    },
-    {
-      "title": "京东22亿欧元收购德国Ceconomy交易获批",
-      "url": "https://www.ftchinese.com/story/001111277",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "这是首笔受到欧盟《外国补贴条例》评估的中资收购欧洲公司交易。欧盟委员会称京东已承诺充分且有效地补救由补贴造成的市场扭曲。",
-      "published": 1793721600.0,
-      "fetched_at": "2026-11-05 11:11:08",
-      "published_cn": "11-03 16:00"
-    },
-    {
-      "title": "华尔街密切关注美国州长选举",
-      "url": "https://www.ftchinese.com/story/001111276",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "华尔街普遍认为36场州长选举可能会对全美各地的数据中心开发产生重大影响。",
-      "published": 1793721600.0,
-      "fetched_at": "2026-11-05 11:11:08",
-      "published_cn": "11-03 16:00"
-    },
-    {
-      "title": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
-      "url": "https://sspai.com/post/118263",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "更轻、更薄、更好「看」，依然是那台纯粹的 iPad mini。<a href=\"https://sspai.com/post/118263\" target=\"_blank\">查看全文</a>",
-      "published": 1793714400.0,
-      "fetched_at": "2026-11-05 11:11:07",
-      "published_cn": "11-03 14:00"
-    },
-    {
-      "title": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels",
-      "url": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels",
-      "source": "卫报·世界",
-      "category": "world",
-      "summary": "<p>Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementing</p><p>All countries can start to break their dependence on fossil fuels now without needing to w",
-      "published": 1793710807.0,
-      "fetched_at": "2026-11-05 11:11:09",
-      "published_cn": "11-03 13:00"
-    },
-    {
-      "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
-      "url": "https://sspai.com/post/118317",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。<a href=\"https://sspai.com/post/118317\" target=\"_blank\">查看全文</a>",
-      "published": 1793689974.0,
-      "fetched_at": "2026-11-05 11:11:07",
-      "published_cn": "11-03 07:12"
-    },
-    {
-      "title": "Disc Image Studio：你想不想在光盘上「画」点什么？",
-      "url": "https://sspai.com/post/118211",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "把喜欢的图烧进 CD 里，你也可以。<a href=\"https://sspai.com/post/118211\" target=\"_blank\">查看全文</a>",
-      "published": 1793674430.0,
-      "fetched_at": "2026-11-05 11:11:07",
-      "published_cn": "11-03 02:53"
     },
     {
       "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
@@ -703,7 +703,7 @@
       "category": "world",
       "summary": "<p>There is no end in sight for the drivers of illegal mining, while police action appears ineffective</p><p>Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the t",
       "published": 1793336445.0,
-      "fetched_at": "2026-11-05 11:11:09",
+      "fetched_at": "2026-11-05 19:45:50",
       "published_cn": "10-30 05:00"
     },
     {
@@ -713,7 +713,7 @@
       "category": "world",
       "summary": "<p>Critics cite Lana Nusseibeh’s denial of accusations the UAE is fuelling Sudan war by supporting paramilitary RSF</p><p>Members of the Sudanese diaspora and international human rights monitors have denounced the candid",
       "published": 1793336445.0,
-      "fetched_at": "2026-11-05 11:11:09",
+      "fetched_at": "2026-11-05 19:45:50",
       "published_cn": "10-30 05:00"
     },
     {
@@ -723,12 +723,11 @@
       "category": "world",
       "summary": "<p>Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website</p><p>Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outle",
       "published": 1793196984.0,
-      "fetched_at": "2026-11-05 11:11:09",
+      "fetched_at": "2026-11-05 19:45:50",
       "published_cn": "10-28 14:16"
     }
   ],
   "feed_failures": [
-    "虎嗅: ReadTimeout HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=20)",
-    "华尔街见闻: HTTPError 404 Client Error: Not Found for url: https://wallstreetcn.com/rss"
+    "虎嗅: ReadTimeout HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=20)"
   ]
 }

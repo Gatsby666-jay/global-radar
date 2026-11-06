@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06 02:28:54",
+  "updated_at": "2026-11-06 11:11:44",
   "window_days": 7,
   "repos": [
     {
@@ -7,8 +7,8 @@
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
       "desc": "Towards a More Autonomous Agent System",
       "lang": "TypeScript",
-      "stars": 19386,
-      "forks": 2210,
+      "stars": 19622,
+      "forks": 2251,
       "created": "2026-10-31"
     },
     {
@@ -16,71 +16,26 @@
       "url": "https://github.com/storytold/craft-anything",
       "desc": "Craft Anything: understand how any software works, and craft your own.",
       "lang": "Rust",
-      "stars": 14525,
-      "forks": 2485,
+      "stars": 15405,
+      "forks": 2680,
       "created": "2026-10-31"
-    },
-    {
-      "repo": "heydamir/unslop",
-      "url": "https://github.com/heydamir/unslop",
-      "desc": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
-      "lang": "JavaScript",
-      "stars": 9594,
-      "forks": 497,
-      "created": "2026-10-29"
-    },
-    {
-      "repo": "wangzan101/Mika",
-      "url": "https://github.com/wangzan101/Mika",
-      "desc": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-      "lang": "Kotlin",
-      "stars": 7041,
-      "forks": 1591,
-      "created": "2026-10-29"
     },
     {
       "repo": "patch-gg/pixelfx",
       "url": "https://github.com/patch-gg/pixelfx",
       "desc": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
       "lang": "JavaScript",
-      "stars": 5216,
-      "forks": 692,
+      "stars": 5315,
+      "forks": 700,
       "created": "2026-10-30"
-    },
-    {
-      "repo": "valentderah/totk-pc-recomp",
-      "url": "https://github.com/valentderah/totk-pc-recomp",
-      "desc": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
-      "lang": "C",
-      "stars": 5098,
-      "forks": 425,
-      "created": "2026-10-29"
-    },
-    {
-      "repo": "Djihads80/Eglantine",
-      "url": "https://github.com/Djihads80/Eglantine",
-      "desc": "VERY experimental Nintendo Switch 2 emulator",
-      "lang": "C++",
-      "stars": 4220,
-      "forks": 483,
-      "created": "2026-10-29"
-    },
-    {
-      "repo": "BryceYuuu/RUN",
-      "url": "https://github.com/BryceYuuu/RUN",
-      "desc": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
-      "lang": "Python",
-      "stars": 3933,
-      "forks": 282,
-      "created": "2026-10-29"
     },
     {
       "repo": "KKKKhazix/agent-autoloop",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
       "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "lang": "TypeScript",
-      "stars": 3185,
-      "forks": 592,
+      "stars": 3310,
+      "forks": 611,
       "created": "2026-11-03"
     },
     {
@@ -88,89 +43,62 @@
       "url": "https://github.com/Verlintas/NOIR",
       "desc": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
       "lang": "Kotlin",
-      "stars": 2428,
-      "forks": 221,
+      "stars": 2531,
+      "forks": 237,
       "created": "2026-10-31"
-    },
-    {
-      "repo": "paipiange/nvzhuang",
-      "url": "https://github.com/paipiange/nvzhuang",
-      "desc": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
-      "lang": "HTML",
-      "stars": 2253,
-      "forks": 571,
-      "created": "2026-10-29"
-    },
-    {
-      "repo": "elvarofficial/teardown",
-      "url": "https://github.com/elvarofficial/teardown",
-      "desc": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
-      "lang": "JavaScript",
-      "stars": 2136,
-      "forks": 331,
-      "created": "2026-10-30"
     },
     {
       "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
       "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
       "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
       "lang": "Python",
-      "stars": 2114,
-      "forks": 904,
+      "stars": 2469,
+      "forks": 997,
       "created": "2026-11-04"
-    },
-    {
-      "repo": "JuneYaooo/rea-video",
-      "url": "https://github.com/JuneYaooo/rea-video",
-      "desc": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. 逆向一切视频，逐镜拆出制作方式并给出复刻方案。",
-      "lang": "Python",
-      "stars": 1942,
-      "forks": 276,
-      "created": "2026-10-29"
-    },
-    {
-      "repo": "govijr/terminal-mac",
-      "url": "https://github.com/govijr/terminal-mac",
-      "desc": "Entire MacOS running in your terminal.",
-      "lang": "Swift",
-      "stars": 1894,
-      "forks": 115,
-      "created": "2026-11-03"
     },
     {
       "repo": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
       "desc": "VERY experimental Nintendo Switch 2 emulator",
       "lang": "C++",
-      "stars": 1866,
-      "forks": 261,
+      "stars": 2459,
+      "forks": 383,
       "created": "2026-10-31"
+    },
+    {
+      "repo": "elvarofficial/teardown",
+      "url": "https://github.com/elvarofficial/teardown",
+      "desc": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+      "lang": "JavaScript",
+      "stars": 2210,
+      "forks": 342,
+      "created": "2026-10-30"
+    },
+    {
+      "repo": "govijr/terminal-mac",
+      "url": "https://github.com/govijr/terminal-mac",
+      "desc": "Entire MacOS running in your terminal.",
+      "lang": "Swift",
+      "stars": 1978,
+      "forks": 121,
+      "created": "2026-11-03"
     },
     {
       "repo": "caru-ini/stack-diagram",
       "url": "https://github.com/caru-ini/stack-diagram",
       "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
       "lang": "TypeScript",
-      "stars": 1854,
+      "stars": 1876,
       "forks": 87,
       "created": "2026-11-01"
-    },
-    {
-      "repo": "Pika-Labs/Pika-H3-Flex",
-      "url": "https://github.com/Pika-Labs/Pika-H3-Flex",
-      "desc": "Pika H3 Flex: video and audio generation inference",
-      "lang": "Python",
-      "stars": 1788,
-      "forks": 36,
-      "created": "2026-10-29"
     },
     {
       "repo": "mromidev/claude-animated-shorts",
       "url": "https://github.com/mromidev/claude-animated-shorts",
       "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
       "lang": "TypeScript",
-      "stars": 1689,
-      "forks": 376,
+      "stars": 1792,
+      "forks": 396,
       "created": "2026-11-01"
     },
     {
@@ -178,7 +106,7 @@
       "url": "https://github.com/Arjun-Ingole/hop",
       "desc": "Install Linux next to Windows without a USB stick",
       "lang": "PowerShell",
-      "stars": 1525,
+      "stars": 1533,
       "forks": 53,
       "created": "2026-10-30"
     },
@@ -187,17 +115,17 @@
       "url": "https://github.com/wquguru/cicada",
       "desc": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
       "lang": "Swift",
-      "stars": 1468,
-      "forks": 265,
+      "stars": 1503,
+      "forks": 274,
       "created": "2026-11-01"
     },
     {
       "repo": "kevinraymond/florilegium",
       "url": "https://github.com/kevinraymond/florilegium",
-      "desc": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua",
+      "desc": "Procedurally generated Delft-blue floral page margins for LuaLaTeX, with plants and visitors sampled from genomes and a TikZ library that also draws them under pdfLaTeX",
       "lang": "TeX",
-      "stars": 1438,
-      "forks": 41,
+      "stars": 1476,
+      "forks": 42,
       "created": "2026-10-30"
     },
     {
@@ -205,26 +133,17 @@
       "url": "https://github.com/N1nEmAn/sapper-v2",
       "desc": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa ",
       "lang": "Python",
-      "stars": 1282,
-      "forks": 739,
+      "stars": 1373,
+      "forks": 789,
       "created": "2026-10-30"
-    },
-    {
-      "repo": "NiazMorshed2007/reanimate",
-      "url": "https://github.com/NiazMorshed2007/reanimate",
-      "desc": "A Claude Code skill that reverse-engineers any animation frame by frame, then proves the copy moves the same.",
-      "lang": "JavaScript",
-      "stars": 1235,
-      "forks": 117,
-      "created": "2026-10-29"
     },
     {
       "repo": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
       "desc": "YellowFruit third-party client",
       "lang": "TypeScript",
-      "stars": 1088,
-      "forks": 862,
+      "stars": 1204,
+      "forks": 892,
       "created": "2026-11-03"
     },
     {
@@ -232,26 +151,17 @@
       "url": "https://github.com/s1dashu/quiet-md",
       "desc": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
       "lang": "Rust",
-      "stars": 1028,
-      "forks": 89,
+      "stars": 1088,
+      "forks": 91,
       "created": "2026-11-01"
-    },
-    {
-      "repo": "RikiyaT/lm_understand-logs",
-      "url": "https://github.com/RikiyaT/lm_understand-logs",
-      "desc": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
-      "lang": "Python",
-      "stars": 1006,
-      "forks": 136,
-      "created": "2026-10-29"
     },
     {
       "repo": "anthropics/FlashProve",
       "url": "https://github.com/anthropics/FlashProve",
       "desc": "A research prototype for zero-knowledge proofs of AI inference. Not maintained.",
       "lang": "Lean",
-      "stars": 903,
-      "forks": 83,
+      "stars": 916,
+      "forks": 84,
       "created": "2026-10-30"
     },
     {
@@ -259,18 +169,108 @@
       "url": "https://github.com/UncensoredLabs/uncensored-ai-api",
       "desc": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
       "lang": "JavaScript",
-      "stars": 836,
+      "stars": 872,
       "forks": 29,
       "created": "2026-11-01"
     },
     {
-      "repo": "hyz317/HairDeck",
-      "url": "https://github.com/hyz317/HairDeck",
-      "desc": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+      "repo": "andrew-babo/muse4ai",
+      "url": "https://github.com/andrew-babo/muse4ai",
+      "desc": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
+      "lang": "TypeScript",
+      "stars": 837,
+      "forks": 184,
+      "created": "2026-11-03"
+    },
+    {
+      "repo": "AssassinCreator/steam-stash-value-report-card",
+      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+      "desc": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
       "lang": "Python",
-      "stars": 829,
-      "forks": 59,
-      "created": "2026-10-29"
+      "stars": 813,
+      "forks": 57,
+      "created": "2026-11-02"
+    },
+    {
+      "repo": "ramenvr/autopilot",
+      "url": "https://github.com/ramenvr/autopilot",
+      "desc": "Play any game",
+      "lang": "Python",
+      "stars": 782,
+      "forks": 66,
+      "created": "2026-10-30"
+    },
+    {
+      "repo": "joeblau/subvox",
+      "url": "https://github.com/joeblau/subvox",
+      "desc": "",
+      "lang": "Swift",
+      "stars": 749,
+      "forks": 99,
+      "created": "2026-10-31"
+    },
+    {
+      "repo": "Minglink/dsh-jailbreak-workflow",
+      "url": "https://github.com/Minglink/dsh-jailbreak-workflow",
+      "desc": "DSH 破甲词制作作工作流 ",
+      "lang": "TypeScript",
+      "stars": 683,
+      "forks": 236,
+      "created": "2026-11-01"
+    },
+    {
+      "repo": "alchaincyf/huashu-bird-sticker",
+      "url": "https://github.com/alchaincyf/huashu-bird-sticker",
+      "desc": "花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 languages and structured data",
+      "lang": "—",
+      "stars": 676,
+      "forks": 123,
+      "created": "2026-10-30"
+    },
+    {
+      "repo": "brightsongwrath/personal-data-deletor-osint",
+      "url": "https://github.com/brightsongwrath/personal-data-deletor-osint",
+      "desc": "Ask 970 data brokers to delete your data. Free, local, no account, no server.",
+      "lang": "JavaScript",
+      "stars": 650,
+      "forks": 113,
+      "created": "2026-11-03"
+    },
+    {
+      "repo": "Gezine/CivSwitch",
+      "url": "https://github.com/Gezine/CivSwitch",
+      "desc": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
+      "lang": "JavaScript",
+      "stars": 616,
+      "forks": 124,
+      "created": "2026-11-01"
+    },
+    {
+      "repo": "Balanov/uncut",
+      "url": "https://github.com/Balanov/uncut",
+      "desc": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+      "lang": "Go",
+      "stars": 608,
+      "forks": 15,
+      "created": "2026-11-01"
+    },
+    {
+      "repo": "arpanjot-coding/AVault",
+      "url": "https://github.com/arpanjot-coding/AVault",
+      "desc": "AVault - Call Recorder (No Root Required) | Privacy-first, hardware-encrypted audio vault for Android 12-16+. Rootless call recording via Shizuku with AES-256-GCM, biometrics & auto-cleanup.",
+      "lang": "Kotlin",
+      "stars": 602,
+      "forks": 32,
+      "created": "2026-10-31"
+    },
+    {
+      "repo": "jyotipmahes/ML-Interview-Prep",
+      "url": "https://github.com/jyotipmahes/ML-Interview-Prep",
+      "desc": "",
+      "lang": "Jupyter Notebook",
+      "stars": 599,
+      "forks": 104,
+      "created": "2026-10-31"
     }
   ],
   "note": ""

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 18:50:39",
+  "updated_at": "2026-11-08 00:43:54",
   "categories": [
     "tech",
     "finance",
@@ -7,24 +7,184 @@
   ],
   "items": [
     {
+      "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+      "url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress.",
+      "published": 1794067353.0,
+      "fetched_at": "2026-11-08 00:43:54",
+      "published_cn": "11-07 16:02"
+    },
+    {
+      "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+      "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version onlin",
+      "published": 1794067200.0,
+      "fetched_at": "2026-11-08 00:43:33",
+      "published_cn": "11-07 16:00"
+    },
+    {
+      "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
+      "url": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but ",
+      "published": 1794067200.0,
+      "fetched_at": "2026-11-08 00:43:33",
+      "published_cn": "11-07 16:00"
+    },
+    {
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this ",
+      "published": 1794066600.0,
+      "fetched_at": "2026-11-08 00:43:33",
+      "published_cn": "11-07 15:50"
+    },
+    {
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Time",
+      "published": 1794066225.0,
+      "fetched_at": "2026-11-08 00:43:33",
+      "published_cn": "11-07 15:43"
+    },
+    {
+      "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+      "url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
+      "published": 1794065026.0,
+      "fetched_at": "2026-11-08 00:43:54",
+      "published_cn": "11-07 15:23"
+    },
+    {
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real",
+      "published": 1794063600.0,
+      "fetched_at": "2026-11-08 00:43:33",
+      "published_cn": "11-07 15:00"
+    },
+    {
+      "title": "Good riddance, Cybertruck!",
+      "url": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a",
+      "published": 1794062406.0,
+      "fetched_at": "2026-11-08 00:43:33",
+      "published_cn": "11-07 14:40"
+    },
+    {
+      "title": "What midterm election blue wave rebuke of Trump means for renewable energy",
+      "url": "https://www.cnbc.com/2026/11/07/midterm-election-blue-wave-trump-renewable-energy.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "The conservative war on renewable energy suffered a big loss in the rout of President Trump and the GOP in midterm elections. Investors should pay attention.",
+      "published": 1794062012.0,
+      "fetched_at": "2026-11-08 00:43:54",
+      "published_cn": "11-07 14:33"
+    },
+    {
+      "title": "Will this week's blue wave election usher in a Democratic president in 2028?",
+      "url": "https://www.cnbc.com/2026/11/07/2026-midterm-election-blue-wave-2028-president.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "A CNBC analysis of historical election data finds wave elections don't necessarily spell trouble for the party in power during the next presidential year.",
+      "published": 1794060001.0,
+      "fetched_at": "2026-11-08 00:43:54",
+      "published_cn": "11-07 14:00"
+    },
+    {
+      "title": "Zelda is back and better than ever",
+      "url": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Hi, friends! Welcome to Installer No. 151, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and also you can read all t",
+      "published": 1794059341.0,
+      "fetched_at": "2026-11-08 00:43:33",
+      "published_cn": "11-07 13:49"
+    },
+    {
+      "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+      "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "The U.S. and Iran are on a collision course as tensions in the Middle East simmer.",
+      "published": 1794056592.0,
+      "fetched_at": "2026-11-08 00:43:54",
+      "published_cn": "11-07 13:03"
+    },
+    {
+      "title": "America doesn't like socialism. So why are socialists winning?",
+      "url": "https://www.cnbc.com/2026/11/07/socialism-elections-economy.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Democratic socialists had their best showing yet at the polls. The problem: Most U.S. voters don't actually like socialism.",
+      "published": 1794056461.0,
+      "fetched_at": "2026-11-08 00:43:54",
+      "published_cn": "11-07 13:01"
+    },
+    {
+      "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
+      "url": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry.",
+      "published": 1794056401.0,
+      "fetched_at": "2026-11-08 00:43:54",
+      "published_cn": "11-07 13:00"
+    },
+    {
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's ac",
+      "published": 1794054600.0,
+      "fetched_at": "2026-11-08 00:43:33",
+      "published_cn": "11-07 12:30"
+    },
+    {
+      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+      "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+      "published": 1794053755.0,
+      "fetched_at": "2026-11-08 00:43:33",
+      "published_cn": "11-07 12:15"
+    },
+    {
+      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+      "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+      "published": 1794049234.0,
+      "fetched_at": "2026-11-08 00:43:33",
+      "published_cn": "11-07 11:00"
+    },
+    {
       "title": "一个 05 后的个人数码编年史",
       "url": "https://sspai.com/post/116750",
       "source": "少数派",
       "category": "tech",
       "summary": "我只想回应自己的感受，自己的记忆，只是因为那时候我满腔少年心气，对一切都充满好奇，对未来充满憧憬。<a href=\"https://sspai.com/post/116750\" target=\"_blank\">查看全文</a>",
       "published": 1794042306.0,
-      "fetched_at": "2026-11-07 18:50:18",
+      "fetched_at": "2026-11-08 00:43:33",
       "published_cn": "11-07 09:05"
-    },
-    {
-      "title": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
-      "url": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "The \"weakest point of aviation is targeting it in-flight,\" analysts say — but any change to procedures will be a lengthy process.",
-      "published": 1794042117.0,
-      "fetched_at": "2026-11-07 18:50:38",
-      "published_cn": "11-07 09:01"
     },
     {
       "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
@@ -33,18 +193,8 @@
       "category": "finance",
       "summary": "Trump said the U.S. carried out ‘minor strikes’ on Iran after Iranian media reported two missiles hit Qeshm Island near the Strait of Hormuz.",
       "published": 1794037056.0,
-      "fetched_at": "2026-11-07 18:50:38",
+      "fetched_at": "2026-11-08 00:43:54",
       "published_cn": "11-07 07:37"
-    },
-    {
-      "title": "The race is on to build the first fusion power plant — and Europe is looking to Japan for help",
-      "url": "https://www.cnbc.com/2026/11/07/proxima-fusion-power-japan-supply-chain.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Fusion energy has the potential to provide abundant, clean power. Now, the race is on to develop the world’s first commercial plant.",
-      "published": 1794031201.0,
-      "fetched_at": "2026-11-07 18:50:38",
-      "published_cn": "11-07 06:00"
     },
     {
       "title": "Sequoia shutting down its Scouts program marks the end of an era",
@@ -53,7 +203,7 @@
       "category": "tech",
       "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
       "published": 1794027714.0,
-      "fetched_at": "2026-11-07 18:50:18",
+      "fetched_at": "2026-11-08 00:43:33",
       "published_cn": "11-07 05:01"
     },
     {
@@ -63,18 +213,8 @@
       "category": "tech",
       "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communit",
       "published": 1794025003.0,
-      "fetched_at": "2026-11-07 18:50:18",
+      "fetched_at": "2026-11-08 00:43:33",
       "published_cn": "11-07 04:16"
-    },
-    {
-      "title": "Inside the card-grading empire shaping the price of Pokémon cards",
-      "url": "https://www.cnbc.com/2026/11/06/card-pokemon-grading-psa-collectors-price.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "PSA’s resale premium, backlog and grading-market dominance shape what collectors pay — and how much their Pokémon cards may fetch.",
-      "published": 1794016801.0,
-      "fetched_at": "2026-11-07 18:50:38",
-      "published_cn": "11-07 02:00"
     },
     {
       "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
@@ -83,7 +223,7 @@
       "category": "world",
       "summary": "<p>Santiago Peña was detained minutes after he was impeached by Congress, as protesters took to the streets demanding answers after the suspension of the Ueno bank</p><p>Paraguay’s rightwing president has been placed und",
       "published": 1794016511.0,
-      "fetched_at": "2026-11-07 18:50:39",
+      "fetched_at": "2026-11-08 00:43:54",
       "published_cn": "11-07 01:55"
     },
     {
@@ -93,7 +233,7 @@
       "category": "tech",
       "summary": "The deal highlights the challenges of developing massive AI data centers.",
       "published": 1794015628.0,
-      "fetched_at": "2026-11-07 18:50:18",
+      "fetched_at": "2026-11-08 00:43:33",
       "published_cn": "11-07 01:40"
     },
     {
@@ -103,18 +243,8 @@
       "category": "tech",
       "summary": "· 苹果向部分 iPhone Duo 买家发问卷，询问折痕和屏下相机体验\n· 张雪：将参加 36 名重庆大学学生的校招二面\n· 马斯克称特斯拉得州工厂将缩减 Cybertruck 生产，为 Cybercab 腾出产能<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794011237.0,
-      "fetched_at": "2026-11-07 18:50:17",
+      "fetched_at": "2026-11-08 00:43:32",
       "published_cn": "11-07 00:27"
-    },
-    {
-      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 bil",
-      "published": 1794008778.0,
-      "fetched_at": "2026-11-07 18:50:18",
-      "published_cn": "11-06 23:46"
     },
     {
       "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
@@ -123,18 +253,8 @@
       "category": "tech",
       "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
       "published": 1794006585.0,
-      "fetched_at": "2026-11-07 18:50:18",
+      "fetched_at": "2026-11-08 00:43:33",
       "published_cn": "11-06 23:09"
-    },
-    {
-      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about Ameri",
-      "published": 1794006044.0,
-      "fetched_at": "2026-11-07 18:50:18",
-      "published_cn": "11-06 23:00"
     },
     {
       "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
@@ -143,18 +263,8 @@
       "category": "tech",
       "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
       "published": 1794005626.0,
-      "fetched_at": "2026-11-07 18:50:18",
+      "fetched_at": "2026-11-08 00:43:33",
       "published_cn": "11-06 22:53"
-    },
-    {
-      "title": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
-      "url": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "SpaceX has declared that it&#8217;s going to make Starlink Mobile a &#8220;major&#8221; mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge ",
-      "published": 1794005143.0,
-      "fetched_at": "2026-11-07 18:50:18",
-      "published_cn": "11-06 22:45"
     },
     {
       "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
@@ -163,7 +273,7 @@
       "category": "tech",
       "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
       "published": 1794004897.0,
-      "fetched_at": "2026-11-07 18:50:18",
+      "fetched_at": "2026-11-08 00:43:33",
       "published_cn": "11-06 22:41"
     },
     {
@@ -173,18 +283,8 @@
       "category": "tech",
       "summary": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
       "published": 1794002927.0,
-      "fetched_at": "2026-11-07 18:50:18",
+      "fetched_at": "2026-11-08 00:43:33",
       "published_cn": "11-06 22:08"
-    },
-    {
-      "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
-      "url": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated f",
-      "published": 1794001832.0,
-      "fetched_at": "2026-11-07 18:50:18",
-      "published_cn": "11-06 21:50"
     },
     {
       "title": "The Duo apps are coming, says Apple",
@@ -193,28 +293,8 @@
       "category": "tech",
       "summary": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
       "published": 1794001085.0,
-      "fetched_at": "2026-11-07 18:50:18",
+      "fetched_at": "2026-11-08 00:43:33",
       "published_cn": "11-06 21:38"
-    },
-    {
-      "title": "OpenAI bugging suspect Alfozan pleads not guilty",
-      "url": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Saudi national Abdulrahman Alfozan is charged with planting a recording device in a conference room at artificial intelligence giant OpenAI.",
-      "published": 1793999747.0,
-      "fetched_at": "2026-11-07 18:50:38",
-      "published_cn": "11-06 21:15"
-    },
-    {
-      "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
-      "url": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Anthropic could list below a $1.5 trillion valuation, trailing previous expectations, as the AI trade sours on Wall Street.",
-      "published": 1793999227.0,
-      "fetched_at": "2026-11-07 18:50:38",
-      "published_cn": "11-06 21:07"
     },
     {
       "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
@@ -223,7 +303,7 @@
       "category": "tech",
       "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
       "published": 1793998601.0,
-      "fetched_at": "2026-11-07 18:50:18",
+      "fetched_at": "2026-11-08 00:43:33",
       "published_cn": "11-06 20:56"
     },
     {
@@ -233,7 +313,7 @@
       "category": "tech",
       "summary": "Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.",
       "published": 1793996660.0,
-      "fetched_at": "2026-11-07 18:50:18",
+      "fetched_at": "2026-11-08 00:43:33",
       "published_cn": "11-06 20:24"
     },
     {
@@ -243,48 +323,8 @@
       "category": "tech",
       "summary": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
       "published": 1793995530.0,
-      "fetched_at": "2026-11-07 18:50:18",
+      "fetched_at": "2026-11-08 00:43:33",
       "published_cn": "11-06 20:05"
-    },
-    {
-      "title": "All the latest updates on AI data centers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impa",
-      "published": 1793995342.0,
-      "fetched_at": "2026-11-07 18:50:18",
-      "published_cn": "11-06 20:02"
-    },
-    {
-      "title": "Developer ends lucrative screensaver deal with Roku because Fox bought it",
-      "url": "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Developer: “I can’t be part of the Fox world.”",
-      "published": 1793994618.0,
-      "fetched_at": "2026-11-07 18:50:18",
-      "published_cn": "11-06 19:50"
-    },
-    {
-      "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
-      "url": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, includ",
-      "published": 1793994422.0,
-      "fetched_at": "2026-11-07 18:50:18",
-      "published_cn": "11-06 19:47"
-    },
-    {
-      "title": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
-      "url": "https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Ty Pinkins said he avoided campaigning in heavily Black areas of Mississippi to avoid harming chances for Democrat Scott Colom, who, like him, is Black.",
-      "published": 1793994273.0,
-      "fetched_at": "2026-11-07 18:50:38",
-      "published_cn": "11-06 19:44"
     },
     {
       "title": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
@@ -293,18 +333,8 @@
       "category": "world",
       "summary": "<p>The Chilean film-maker, whose films starred Florence Pugh, Julianne Moore and Rachel Weisz, died at his home in Santiago</p><p>Chilean film-maker Sebastián Lelio has died at the age of 52.</p><p>He was best known for ",
       "published": 1793993004.0,
-      "fetched_at": "2026-11-07 18:50:39",
+      "fetched_at": "2026-11-08 00:43:54",
       "published_cn": "11-06 19:23"
-    },
-    {
-      "title": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
-      "url": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "FAA information display systems to be floppy-free at 435 sites by end of 2028.",
-      "published": 1793992348.0,
-      "fetched_at": "2026-11-07 18:50:18",
-      "published_cn": "11-06 19:12"
     },
     {
       "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
@@ -313,7 +343,7 @@
       "category": "tech",
       "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
       "published": 1793990678.0,
-      "fetched_at": "2026-11-07 18:50:18",
+      "fetched_at": "2026-11-08 00:43:33",
       "published_cn": "11-06 18:44"
     },
     {
@@ -323,28 +353,8 @@
       "category": "tech",
       "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
       "published": 1793990660.0,
-      "fetched_at": "2026-11-07 18:50:18",
+      "fetched_at": "2026-11-08 00:43:33",
       "published_cn": "11-06 18:44"
-    },
-    {
-      "title": "Lame-duck Congress might actually do something: speed up energy projects",
-      "url": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "A massive permitting bill that could help energy projects come online much quicker and potentially lower utility bills for Americans is advancing with bipartisan support. And while it could be a catalyst for lots of clea",
-      "published": 1793990550.0,
-      "fetched_at": "2026-11-07 18:50:18",
-      "published_cn": "11-06 18:42"
-    },
-    {
-      "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, ",
-      "published": 1793988610.0,
-      "fetched_at": "2026-11-07 18:50:18",
-      "published_cn": "11-06 18:10"
     },
     {
       "title": "After the midterms, is the AI industry in for a rough two years?",
@@ -353,7 +363,7 @@
       "category": "tech",
       "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to im",
       "published": 1793985832.0,
-      "fetched_at": "2026-11-07 18:50:18",
+      "fetched_at": "2026-11-08 00:43:33",
       "published_cn": "11-06 17:23"
     },
     {
@@ -363,7 +373,7 @@
       "category": "world",
       "summary": "<p>Paul Mackenzie convicted over deaths of children and one adult after followers were ordered to starve themselves and their families</p><p>The leader of a Kenyan doomsday sect has been sentenced to 200 years in prison ",
       "published": 1793977723.0,
-      "fetched_at": "2026-11-07 18:50:39",
+      "fetched_at": "2026-11-08 00:43:54",
       "published_cn": "11-06 15:08"
     },
     {
@@ -373,7 +383,7 @@
       "category": "world",
       "summary": "這是澳門首宗國安案，案件過程並不公開，區錦新由「指派律師」辯護，審理法官及律師身份不明。從預審、開審到宣判，外界只能從政府新聞稿得知消息。",
       "published": 1793970702.0,
-      "fetched_at": "2026-11-07 18:50:39",
+      "fetched_at": "2026-11-08 00:43:54",
       "published_cn": "11-06 13:11"
     },
     {
@@ -383,7 +393,7 @@
       "category": "world",
       "summary": "<p>Far-right politician addresses Conservative Political Action Conference and makes unsubstantiated claims about election fraud</p><p>Flávio Bolsonaro, the far-right politician who lost Brazil’s presidential election la",
       "published": 1793970218.0,
-      "fetched_at": "2026-11-07 18:50:39",
+      "fetched_at": "2026-11-08 00:43:54",
       "published_cn": "11-06 13:03"
     },
     {
@@ -393,7 +403,7 @@
       "category": "world",
       "summary": "<p>Former liberation movement’s share of national vote almost 14 percentage points below 2021 result</p><p>The African National Congress is on course to suffer a bruising defeat in South Africa’s local elections, with th",
       "published": 1793969317.0,
-      "fetched_at": "2026-11-07 18:50:39",
+      "fetched_at": "2026-11-08 00:43:54",
       "published_cn": "11-06 12:48"
     },
     {
@@ -403,18 +413,8 @@
       "category": "world",
       "summary": "其中一條線索，是羅馬機場當局收到的一封恐嚇電郵，寄件者自稱是「男性國家戰士」（Fighters of the Male State）。",
       "published": 1793963641.0,
-      "fetched_at": "2026-11-07 18:50:39",
+      "fetched_at": "2026-11-08 00:43:54",
       "published_cn": "11-06 11:14"
-    },
-    {
-      "title": "Drones are changing warfare. But defense giants are still making billions from old-school weapons",
-      "url": "https://www.cnbc.com/2026/11/06/defense-military-tech-earnings.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "The world's biggest defense firms are finding that demand for traditional military equipment remains strong even as drones and AI reshape how wars are fought.",
-      "published": 1793961591.0,
-      "fetched_at": "2026-11-07 18:50:38",
-      "published_cn": "11-06 10:39"
     },
     {
       "title": "美國中期選舉：共和黨失去兩院，對華政策與對台軍售會轉向嗎？",
@@ -423,7 +423,7 @@
       "category": "world",
       "summary": "美國期中選舉民主黨取得兩院多數後，專家普遍認為，特朗普（川普）以個人外交主導的中國政策與對台軍售節奏將面臨國會更多監督與拉鋸，但總統仍掌握主要決策權。",
       "published": 1793960479.0,
-      "fetched_at": "2026-11-07 18:50:39",
+      "fetched_at": "2026-11-08 00:43:54",
       "published_cn": "11-06 10:21"
     },
     {
@@ -433,7 +433,7 @@
       "category": "tech",
       "summary": "📅本周新预告《戴高乐之战》确认引进11月2日，电影《戴高乐之战》确认引进。该系列分为《戴高乐之战：淬炼时代》《戴高乐之战：我写下你的名字》上下两部曲。由法国百代公司出品，制作成本高达7520万欧元。作 ...<a href=\"https://sspai.com/post/118623\" target=\"_blank\">查看全文</a>",
       "published": 1793957415.0,
-      "fetched_at": "2026-11-07 18:50:18",
+      "fetched_at": "2026-11-08 00:43:33",
       "published_cn": "11-06 09:30"
     },
     {
@@ -443,7 +443,7 @@
       "category": "tech",
       "summary": "站在世界之巅。\n<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1793957133.0,
-      "fetched_at": "2026-11-07 18:50:17",
+      "fetched_at": "2026-11-08 00:43:32",
       "published_cn": "11-06 09:25"
     },
     {
@@ -453,7 +453,7 @@
       "category": "tech",
       "summary": "我们把 iPhone 18 Pro Max 带到了深圳、香港和吉隆坡，带入了形形色色的街头。在这个过程里，我们记录了使用 iPhone 拍到的美好画面，也借此描绘了自己的心情变化和生活感悟。<a href=\"https://sspai.com/post/118250\" target=\"_blank\">查看全文</a>",
       "published": 1793948201.0,
-      "fetched_at": "2026-11-07 18:50:18",
+      "fetched_at": "2026-11-08 00:43:33",
       "published_cn": "11-06 06:56"
     },
     {
@@ -463,7 +463,7 @@
       "category": "tech",
       "summary": "真正重要的产品，往往以充满争议的姿态出现。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1793942784.0,
-      "fetched_at": "2026-11-07 18:50:17",
+      "fetched_at": "2026-11-08 00:43:32",
       "published_cn": "11-06 05:26"
     },
     {
@@ -473,7 +473,7 @@
       "category": "world",
       "summary": "市場正對美國期中選舉後可能加強審查數據中心建設及人工智慧產業的前景作出反應。",
       "published": 1793942349.0,
-      "fetched_at": "2026-11-07 18:50:39",
+      "fetched_at": "2026-11-08 00:43:54",
       "published_cn": "11-06 05:19"
     },
     {
@@ -483,7 +483,7 @@
       "category": "tech",
       "summary": "M6 芯片提供了足够的性能保障，无论修图、视频剪辑还是运行入门级的 AI 大模型，它都能应对。在此基础上，你原本可能需要加在 Pro 级 SoC 上的预算就能省下来，花给内存或者硬盘。<a href=\"https://sspai.com/post/118570\" target=\"_blank\">查看全文</a>",
       "published": 1793934413.0,
-      "fetched_at": "2026-11-07 18:50:18",
+      "fetched_at": "2026-11-08 00:43:33",
       "published_cn": "11-06 03:06"
     },
     {
@@ -493,7 +493,7 @@
       "category": "tech",
       "summary": "OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。<a href=\"https://sspai.com/post/118587\" target=\"_blank\">查看全文</a>",
       "published": 1793924679.0,
-      "fetched_at": "2026-11-07 18:50:18",
+      "fetched_at": "2026-11-08 00:43:33",
       "published_cn": "11-06 00:24"
     },
     {
@@ -503,7 +503,7 @@
       "category": "world",
       "summary": "最近幾週，中國輿論場接連出現多宗被貼上「辱華」標籤的爭議事件：台灣藝人蔡康永、日本電視劇《VIVANT》以及法國球星姆巴佩。三宗事件看似性質相近，但官方反應與輿論熱度卻明顯不同，多位分析人士對BBC中文指出：這些差異背後是當局對於每個事件的定性並不相同。",
       "published": 1793924483.0,
-      "fetched_at": "2026-11-07 18:50:39",
+      "fetched_at": "2026-11-08 00:43:54",
       "published_cn": "11-06 00:21"
     },
     {
@@ -513,7 +513,7 @@
       "category": "tech",
       "summary": "· 丰田将设立直属机器人部门，由首席生产官兼任负责人\n· 三季度全球 DRAM 营收逼近 2000 亿美元，价格上涨是主因\n· 鸿蒙电脑累计发货破百万，华为带来政企台式机与企业版<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1793924115.0,
-      "fetched_at": "2026-11-07 18:50:17",
+      "fetched_at": "2026-11-08 00:43:32",
       "published_cn": "11-06 00:15"
     },
     {
@@ -523,8 +523,18 @@
       "category": "world",
       "summary": "香港民主派活動人士黃之鋒原有望於數月內獲釋，但最新的10年判刑使他要繼續服刑到2036年，出獄時或已年屆40歲。法律學者分析，案件反映《香港國安法》或可被「反覆動用」，令特定政治犯持續留在獄中。",
       "published": 1793895998.0,
-      "fetched_at": "2026-11-07 18:50:39",
+      "fetched_at": "2026-11-08 00:43:54",
       "published_cn": "11-05 16:26"
+    },
+    {
+      "title": "13 万买 5 米大轿车！比亚迪海豹 07 上市，首搭云辇-M 磁流变悬架",
+      "url": "https://www.ifanr.com/1688332?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "大，只是它的起点。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1793893825.0,
+      "fetched_at": "2026-11-08 00:43:32",
+      "published_cn": "11-05 15:50"
     },
     {
       "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
@@ -533,7 +543,7 @@
       "category": "tech",
       "summary": "全新 MacBook Pro，开启 Mac 的下一个世代。<a href=\"https://sspai.com/post/118546\" target=\"_blank\">查看全文</a>",
       "published": 1793887251.0,
-      "fetched_at": "2026-11-07 18:50:18",
+      "fetched_at": "2026-11-08 00:43:33",
       "published_cn": "11-05 14:00"
     },
     {
@@ -543,7 +553,7 @@
       "category": "tech",
       "summary": "触控向左，算力向右<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1793887213.0,
-      "fetched_at": "2026-11-07 18:50:17",
+      "fetched_at": "2026-11-08 00:43:32",
       "published_cn": "11-05 14:00"
     },
     {
@@ -553,7 +563,7 @@
       "category": "tech",
       "summary": "全面线控已成智己核心能力。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1793882668.0,
-      "fetched_at": "2026-11-07 18:50:17",
+      "fetched_at": "2026-11-08 00:43:32",
       "published_cn": "11-05 12:44"
     },
     {
@@ -563,18 +573,8 @@
       "category": "tech",
       "summary": "经典回归。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1793882378.0,
-      "fetched_at": "2026-11-07 18:50:17",
+      "fetched_at": "2026-11-08 00:43:32",
       "published_cn": "11-05 12:39"
-    },
-    {
-      "title": "Bose Ultra 开放式耳机 II 体验：听得见好音质，也升级了舒适感",
-      "url": "https://www.ifanr.com/1687834?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "用无损音质和无感佩戴，更新「开放式旗舰」的定义<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1793876622.0,
-      "fetched_at": "2026-11-07 18:50:17",
-      "published_cn": "11-05 11:03"
     },
     {
       "title": "新玩意 255｜少数派的编辑们最近买了啥？",
@@ -583,7 +583,7 @@
       "category": "tech",
       "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/118541\" target=\"_blank\">查看全文</a>",
       "published": 1793869888.0,
-      "fetched_at": "2026-11-07 18:50:18",
+      "fetched_at": "2026-11-08 00:43:33",
       "published_cn": "11-05 09:11"
     },
     {
@@ -593,7 +593,7 @@
       "category": "tech",
       "summary": "蒸锅真是懒人做饭好帮手。<a href=\"https://sspai.com/prime/story/30-easy-steamed-dishes\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</p>",
       "published": 1793863011.0,
-      "fetched_at": "2026-11-07 18:50:18",
+      "fetched_at": "2026-11-08 00:43:33",
       "published_cn": "11-05 07:16"
     },
     {
@@ -603,7 +603,7 @@
       "category": "world",
       "summary": "一些共和黨人告訴BBC，特朗普只顧自己的政治遺產，漠視選民關注的問題，令共和黨付出了代價。",
       "published": 1793846192.0,
-      "fetched_at": "2026-11-07 18:50:39",
+      "fetched_at": "2026-11-08 00:43:54",
       "published_cn": "11-05 02:36"
     },
     {
@@ -613,7 +613,7 @@
       "category": "world",
       "summary": "民主黨在美國中期選舉中取得勝利，將在特朗普總統餘下的任期內掌控國會，標誌着美國政治格局出現重大變化。從烏克蘭和中東的衝突，到美國與中國的貿易關係，BBC記者分析這次選舉結果對世界其他地區意味着什麼。",
       "published": 1793826131.0,
-      "fetched_at": "2026-11-07 18:50:39",
+      "fetched_at": "2026-11-08 00:43:54",
       "published_cn": "11-04 21:02"
     },
     {
@@ -623,7 +623,7 @@
       "category": "world",
       "summary": "<p>Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unit</p><p>A British healthcare worker with Ebola is being evacuated from the Democratic Republic of the C",
       "published": 1793816317.0,
-      "fetched_at": "2026-11-07 18:50:39",
+      "fetched_at": "2026-11-08 00:43:54",
       "published_cn": "11-04 18:18"
     },
     {
@@ -633,7 +633,7 @@
       "category": "world",
       "summary": "<p>Party expected to get less than a third of the vote amid frustration over water outages and power cuts</p><p>The African National Congress is on course for a bruising result in South Africa’s local elections on Wednes",
       "published": 1793803847.0,
-      "fetched_at": "2026-11-07 18:50:39",
+      "fetched_at": "2026-11-08 00:43:54",
       "published_cn": "11-04 14:50"
     },
     {
@@ -643,12 +643,13 @@
       "category": "world",
       "summary": "<p>There is no end in sight for the drivers of illegal mining, while police action appears ineffective</p><p>Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the t",
       "published": 1793336445.0,
-      "fetched_at": "2026-11-07 18:50:39",
+      "fetched_at": "2026-11-08 00:43:54",
       "published_cn": "10-30 05:00"
     }
   ],
   "feed_failures": [
     "虎嗅: ReadTimeout HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=20)",
+    "华尔街见闻: HTTPError 404 Client Error: Not Found for url: https://wallstreetcn.com/rss",
     "FT中文网: HTTPError 522 Server Error: <none> for url: https://www.ftchinese.com/rss/feed"
   ]
 }

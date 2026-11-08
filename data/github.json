@@ -1,41 +1,14 @@
 {
-  "updated_at": "2026-11-08 00:43:55",
+  "updated_at": "2026-11-08 10:04:04",
   "window_days": 7,
   "repos": [
-    {
-      "repo": "deepseek-ai/dsh-superagent-prototype",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "desc": "Towards a More Autonomous Agent System",
-      "lang": "TypeScript",
-      "stars": 20718,
-      "forks": 2437,
-      "created": "2026-10-31"
-    },
-    {
-      "repo": "storytold/craft-anything",
-      "url": "https://github.com/storytold/craft-anything",
-      "desc": "Craft Anything: understand how any software works, and craft your own.",
-      "lang": "Rust",
-      "stars": 19998,
-      "forks": 3804,
-      "created": "2026-10-31"
-    },
-    {
-      "repo": "zortos293/Lichii",
-      "url": "https://github.com/zortos293/Lichii",
-      "desc": "VERY experimental Nintendo Switch 2 emulator",
-      "lang": "C++",
-      "stars": 4956,
-      "forks": 762,
-      "created": "2026-10-31"
-    },
     {
       "repo": "KKKKhazix/agent-autoloop",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
       "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
       "lang": "TypeScript",
-      "stars": 3920,
-      "forks": 711,
+      "stars": 3968,
+      "forks": 722,
       "created": "2026-11-03"
     },
     {
@@ -43,26 +16,26 @@
       "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
       "desc": "Google_AI_Pro_2Year_ZeroCost_Auto",
       "lang": "Python",
-      "stars": 3021,
-      "forks": 1171,
+      "stars": 3062,
+      "forks": 1175,
       "created": "2026-11-04"
     },
     {
-      "repo": "Verlintas/NOIR",
-      "url": "https://github.com/Verlintas/NOIR",
-      "desc": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
-      "lang": "Kotlin",
-      "stars": 2865,
-      "forks": 271,
-      "created": "2026-10-31"
+      "repo": "Minireel/HGhub",
+      "url": "https://github.com/Minireel/HGhub",
+      "desc": "YellowFruit third-party client",
+      "lang": "TypeScript",
+      "stars": 2341,
+      "forks": 1127,
+      "created": "2026-11-03"
     },
     {
       "repo": "govijr/terminal-mac",
       "url": "https://github.com/govijr/terminal-mac",
       "desc": "Entire MacOS running in your terminal.",
       "lang": "Swift",
-      "stars": 2220,
-      "forks": 144,
+      "stars": 2247,
+      "forks": 146,
       "created": "2026-11-03"
     },
     {
@@ -70,53 +43,17 @@
       "url": "https://github.com/mromidev/claude-animated-shorts",
       "desc": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
       "lang": "TypeScript",
-      "stars": 2169,
-      "forks": 470,
+      "stars": 2235,
+      "forks": 480,
       "created": "2026-11-01"
-    },
-    {
-      "repo": "Minireel/HGhub",
-      "url": "https://github.com/Minireel/HGhub",
-      "desc": "YellowFruit third-party client",
-      "lang": "TypeScript",
-      "stars": 2145,
-      "forks": 1090,
-      "created": "2026-11-03"
     },
     {
       "repo": "caru-ini/stack-diagram",
       "url": "https://github.com/caru-ini/stack-diagram",
       "desc": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
       "lang": "TypeScript",
-      "stars": 2042,
-      "forks": 96,
-      "created": "2026-11-01"
-    },
-    {
-      "repo": "wquguru/cicada",
-      "url": "https://github.com/wquguru/cicada",
-      "desc": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
-      "lang": "Swift",
-      "stars": 1611,
-      "forks": 289,
-      "created": "2026-11-01"
-    },
-    {
-      "repo": "JenkinWoo/sheeridVerify",
-      "url": "https://github.com/JenkinWoo/sheeridVerify",
-      "desc": "",
-      "lang": "JavaScript",
-      "stars": 1559,
-      "forks": 855,
-      "created": "2026-11-06"
-    },
-    {
-      "repo": "s1dashu/quiet-md",
-      "url": "https://github.com/s1dashu/quiet-md",
-      "desc": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
-      "lang": "Rust",
-      "stars": 1259,
-      "forks": 116,
+      "stars": 2076,
+      "forks": 100,
       "created": "2026-11-01"
     },
     {
@@ -124,17 +61,44 @@
       "url": "https://github.com/NotRexed/Hookshot",
       "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
       "lang": "C++",
-      "stars": 1252,
-      "forks": 104,
+      "stars": 1887,
+      "forks": 172,
       "created": "2026-11-05"
+    },
+    {
+      "repo": "JenkinWoo/sheeridVerify",
+      "url": "https://github.com/JenkinWoo/sheeridVerify",
+      "desc": "",
+      "lang": "JavaScript",
+      "stars": 1677,
+      "forks": 905,
+      "created": "2026-11-06"
+    },
+    {
+      "repo": "wquguru/cicada",
+      "url": "https://github.com/wquguru/cicada",
+      "desc": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+      "lang": "Swift",
+      "stars": 1626,
+      "forks": 291,
+      "created": "2026-11-01"
+    },
+    {
+      "repo": "s1dashu/quiet-md",
+      "url": "https://github.com/s1dashu/quiet-md",
+      "desc": "Blazing-fast native notes app for macOS & Windows. Rust + GPUI, local-first, compatible with Feishu/Lark DocxXML.",
+      "lang": "Rust",
+      "stars": 1271,
+      "forks": 115,
+      "created": "2026-11-01"
     },
     {
       "repo": "livliv-dev/player",
       "url": "https://github.com/livliv-dev/player",
       "desc": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
       "lang": "TypeScript",
-      "stars": 1150,
-      "forks": 121,
+      "stars": 1210,
+      "forks": 126,
       "created": "2026-11-04"
     },
     {
@@ -142,8 +106,8 @@
       "url": "https://github.com/mmdoctor/google-pro-helper",
       "desc": "",
       "lang": "Python",
-      "stars": 1115,
-      "forks": 418,
+      "stars": 1145,
+      "forks": 426,
       "created": "2026-11-05"
     },
     {
@@ -151,53 +115,17 @@
       "url": "https://github.com/Sandflow-ai/sand3d",
       "desc": "3D modeling in Python, built for LLMs.",
       "lang": "HTML",
-      "stars": 977,
-      "forks": 111,
+      "stars": 1064,
+      "forks": 117,
       "created": "2026-11-03"
-    },
-    {
-      "repo": "chadyi/StudyOnTV",
-      "url": "https://github.com/chadyi/StudyOnTV",
-      "desc": "StudyOnTV (Tiledaoti TV) — open-source Android TV app where kids unlock screen time by answering questions. Runs fully on the TV: no server, no account. Parents scan a QR code and manage questions fro",
-      "lang": "Kotlin",
-      "stars": 829,
-      "forks": 198,
-      "created": "2026-11-01"
-    },
-    {
-      "repo": "AssassinCreator/steam-stash-value-report-card",
-      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
-      "desc": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
-      "lang": "Python",
-      "stars": 790,
-      "forks": 56,
-      "created": "2026-11-02"
-    },
-    {
-      "repo": "joeblau/subvox",
-      "url": "https://github.com/joeblau/subvox",
-      "desc": "",
-      "lang": "Swift",
-      "stars": 781,
-      "forks": 112,
-      "created": "2026-10-31"
-    },
-    {
-      "repo": "Minglink/dsh-jailbreak-workflow",
-      "url": "https://github.com/Minglink/dsh-jailbreak-workflow",
-      "desc": "DSH 破甲词制作作工作流 ",
-      "lang": "TypeScript",
-      "stars": 741,
-      "forks": 251,
-      "created": "2026-11-01"
     },
     {
       "repo": "voyager-so/vork",
       "url": "https://github.com/voyager-so/vork",
       "desc": "Headless 3D and VFX engine for agents. Research preview.",
       "lang": "Rust",
-      "stars": 741,
-      "forks": 44,
+      "stars": 890,
+      "forks": 58,
       "created": "2026-11-05"
     },
     {
@@ -205,17 +133,53 @@
       "url": "https://github.com/libracoder/kiri",
       "desc": "A small, fast container runtime for macOS, Windows and Linux",
       "lang": "Rust",
-      "stars": 713,
-      "forks": 49,
+      "stars": 871,
+      "forks": 56,
       "created": "2026-11-02"
+    },
+    {
+      "repo": "chadyi/StudyOnTV",
+      "url": "https://github.com/chadyi/StudyOnTV",
+      "desc": "StudyOnTV (Tiledaoti TV) — open-source Android TV app where kids unlock screen time by answering questions. Runs fully on the TV: no server, no account. Parents scan a QR code and manage questions fro",
+      "lang": "Kotlin",
+      "stars": 857,
+      "forks": 200,
+      "created": "2026-11-01"
+    },
+    {
+      "repo": "sarpstar/cinecode",
+      "url": "https://github.com/sarpstar/cinecode",
+      "desc": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+      "lang": "Python",
+      "stars": 846,
+      "forks": 150,
+      "created": "2026-11-03"
+    },
+    {
+      "repo": "sostenesfreitas/ocarina-recomp",
+      "url": "https://github.com/sostenesfreitas/ocarina-recomp",
+      "desc": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+      "lang": "C",
+      "stars": 811,
+      "forks": 43,
+      "created": "2026-11-06"
     },
     {
       "repo": "Leviidev/Henge",
       "url": "https://github.com/Leviidev/Henge",
       "desc": "Emulate macOS on iOS and iPadOS",
       "lang": "C",
-      "stars": 680,
-      "forks": 48,
+      "stars": 798,
+      "forks": 63,
+      "created": "2026-11-02"
+    },
+    {
+      "repo": "AssassinCreator/steam-stash-value-report-card",
+      "url": "https://github.com/AssassinCreator/steam-stash-value-report-card",
+      "desc": "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account.",
+      "lang": "Python",
+      "stars": 791,
+      "forks": 56,
       "created": "2026-11-02"
     },
     {
@@ -223,54 +187,90 @@
       "url": "https://github.com/egoist/mygo-music",
       "desc": "A native music player you extend with plugins",
       "lang": "Go",
-      "stars": 680,
-      "forks": 112,
+      "stars": 783,
+      "forks": 122,
       "created": "2026-11-04"
-    },
-    {
-      "repo": "Gezine/CivSwitch",
-      "url": "https://github.com/Gezine/CivSwitch",
-      "desc": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
-      "lang": "JavaScript",
-      "stars": 639,
-      "forks": 132,
-      "created": "2026-11-01"
     },
     {
       "repo": "CzJam/gjgjxweb",
       "url": "https://github.com/CzJam/gjgjxweb",
       "desc": "《搞机工具箱》Web移植版",
       "lang": "HTML",
-      "stars": 637,
-      "forks": 55,
+      "stars": 764,
+      "forks": 71,
       "created": "2026-11-03"
     },
     {
-      "repo": "jyotipmahes/ML-Interview-Prep",
-      "url": "https://github.com/jyotipmahes/ML-Interview-Prep",
-      "desc": "",
-      "lang": "Jupyter Notebook",
-      "stars": 630,
-      "forks": 105,
-      "created": "2026-10-31"
+      "repo": "Minglink/dsh-jailbreak-workflow",
+      "url": "https://github.com/Minglink/dsh-jailbreak-workflow",
+      "desc": "DSH 破甲词制作作工作流 ",
+      "lang": "TypeScript",
+      "stars": 747,
+      "forks": 252,
+      "created": "2026-11-01"
     },
     {
-      "repo": "sqlpxc/airhand",
-      "url": "https://github.com/sqlpxc/airhand",
-      "desc": "High-performance remote desktop over QUIC · Rust + Tauri + React",
-      "lang": "Rust",
-      "stars": 627,
-      "forks": 103,
-      "created": "2026-10-31"
+      "repo": "Gezine/CivSwitch",
+      "url": "https://github.com/Gezine/CivSwitch",
+      "desc": "Nintendo Switch userland code execution using Civilization 7 game cartridge",
+      "lang": "JavaScript",
+      "stars": 645,
+      "forks": 133,
+      "created": "2026-11-01"
     },
     {
       "repo": "WoYun520/gif-factory",
       "url": "https://github.com/WoYun520/gif-factory",
       "desc": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
       "lang": "Python",
-      "stars": 616,
-      "forks": 74,
+      "stars": 625,
+      "forks": 75,
       "created": "2026-11-05"
+    },
+    {
+      "repo": "kevintngo/looseleaf",
+      "url": "https://github.com/kevintngo/looseleaf",
+      "desc": "shadcn/ui, drawn by hand: 123 accessible React components that look drawn on paper, with a shadcn registry.",
+      "lang": "TypeScript",
+      "stars": 541,
+      "forks": 31,
+      "created": "2026-11-01"
+    },
+    {
+      "repo": "shanselman/gputaskman",
+      "url": "https://github.com/shanselman/gputaskman",
+      "desc": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+      "lang": "Python",
+      "stars": 533,
+      "forks": 24,
+      "created": "2026-11-03"
+    },
+    {
+      "repo": "JosssphZhou/poki",
+      "url": "https://github.com/JosssphZhou/poki",
+      "desc": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+      "lang": "JavaScript",
+      "stars": 515,
+      "forks": 108,
+      "created": "2026-11-05"
+    },
+    {
+      "repo": "majorminorlabs/hermes-voice",
+      "url": "https://github.com/majorminorlabs/hermes-voice",
+      "desc": "Talk to a Hermes Agent profile through Home Assistant Assist",
+      "lang": "Python",
+      "stars": 506,
+      "forks": 28,
+      "created": "2026-11-05"
+    },
+    {
+      "repo": "zeekk0/OpenAmika",
+      "url": "https://github.com/zeekk0/OpenAmika",
+      "desc": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
+      "lang": "Python",
+      "stars": 505,
+      "forks": 68,
+      "created": "2026-11-03"
     }
   ],
   "note": ""

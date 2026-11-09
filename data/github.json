@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09 20:25:49",
+  "updated_at": "2026-11-10 05:16:55",
   "window_days": 7,
   "repos": [
     {
@@ -7,17 +7,8 @@
       "url": "https://github.com/Minireel/HGhub",
       "desc": "YellowFruit third-party client",
       "lang": "TypeScript",
-      "stars": 4809,
-      "forks": 1852,
-      "created": "2026-11-03"
-    },
-    {
-      "repo": "KKKKhazix/agent-autoloop",
-      "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "lang": "TypeScript",
-      "stars": 4235,
-      "forks": 768,
+      "stars": 5704,
+      "forks": 2104,
       "created": "2026-11-03"
     },
     {
@@ -25,53 +16,80 @@
       "url": "https://github.com/NotRexed/Hookshot",
       "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
       "lang": "C++",
-      "stars": 3807,
-      "forks": 358,
+      "stars": 4744,
+      "forks": 416,
       "created": "2026-11-05"
+    },
+    {
+      "repo": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "lang": "TypeScript",
+      "stars": 4268,
+      "forks": 776,
+      "created": "2026-11-03"
     },
     {
       "repo": "govijr/terminal-mac",
       "url": "https://github.com/govijr/terminal-mac",
       "desc": "Entire MacOS running in your terminal.",
       "lang": "Swift",
-      "stars": 2464,
-      "forks": 168,
+      "stars": 2502,
+      "forks": 172,
       "created": "2026-11-03"
-    },
-    {
-      "repo": "JenkinWoo/sheeridVerify",
-      "url": "https://github.com/JenkinWoo/sheeridVerify",
-      "desc": "",
-      "lang": "JavaScript",
-      "stars": 1899,
-      "forks": 1017,
-      "created": "2026-11-06"
     },
     {
       "repo": "tangerineturtle1/NX2navi",
       "url": "https://github.com/tangerineturtle1/NX2navi",
       "desc": "",
       "lang": "C",
-      "stars": 1826,
-      "forks": 97,
+      "stars": 2274,
+      "forks": 140,
       "created": "2026-11-07"
+    },
+    {
+      "repo": "JenkinWoo/sheeridVerify",
+      "url": "https://github.com/JenkinWoo/sheeridVerify",
+      "desc": "",
+      "lang": "JavaScript",
+      "stars": 1925,
+      "forks": 1031,
+      "created": "2026-11-06"
     },
     {
       "repo": "sarpstar/cinecode",
       "url": "https://github.com/sarpstar/cinecode",
       "desc": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
       "lang": "Python",
-      "stars": 1805,
-      "forks": 323,
+      "stars": 1896,
+      "forks": 336,
       "created": "2026-11-03"
+    },
+    {
+      "repo": "janestreet/agent_skills",
+      "url": "https://github.com/janestreet/agent_skills",
+      "desc": "Agent skills",
+      "lang": "—",
+      "stars": 1868,
+      "forks": 102,
+      "created": "2026-11-03"
+    },
+    {
+      "repo": "jhaizhou-ops/S2Arm",
+      "url": "https://github.com/jhaizhou-ops/S2Arm",
+      "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
+      "lang": "C#",
+      "stars": 1699,
+      "forks": 339,
+      "created": "2026-11-08"
     },
     {
       "repo": "Sandflow-ai/sand3d",
       "url": "https://github.com/Sandflow-ai/sand3d",
       "desc": "3D modeling in Python, built for LLMs.",
       "lang": "HTML",
-      "stars": 1548,
-      "forks": 172,
+      "stars": 1609,
+      "forks": 180,
       "created": "2026-11-03"
     },
     {
@@ -79,44 +97,8 @@
       "url": "https://github.com/Leviidev/Henge",
       "desc": "Emulate macOS on iOS and iPadOS",
       "lang": "C",
-      "stars": 1408,
-      "forks": 103,
-      "created": "2026-11-02"
-    },
-    {
-      "repo": "CzJam/gjgjxweb",
-      "url": "https://github.com/CzJam/gjgjxweb",
-      "desc": "《搞机工具箱》Web移植版",
-      "lang": "HTML",
-      "stars": 1394,
-      "forks": 123,
-      "created": "2026-11-03"
-    },
-    {
-      "repo": "livliv-dev/player",
-      "url": "https://github.com/livliv-dev/player",
-      "desc": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
-      "lang": "TypeScript",
-      "stars": 1374,
-      "forks": 145,
-      "created": "2026-11-04"
-    },
-    {
-      "repo": "jhaizhou-ops/S2Arm",
-      "url": "https://github.com/jhaizhou-ops/S2Arm",
-      "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
-      "lang": "C#",
-      "stars": 1332,
-      "forks": 282,
-      "created": "2026-11-08"
-    },
-    {
-      "repo": "libracoder/kiri",
-      "url": "https://github.com/libracoder/kiri",
-      "desc": "A small, fast container runtime for macOS, Windows and Linux",
-      "lang": "Rust",
-      "stars": 1324,
-      "forks": 83,
+      "stars": 1571,
+      "forks": 111,
       "created": "2026-11-02"
     },
     {
@@ -124,35 +106,44 @@
       "url": "https://github.com/shanselman/gputaskman",
       "desc": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
       "lang": "Python",
-      "stars": 1321,
-      "forks": 64,
+      "stars": 1458,
+      "forks": 70,
       "created": "2026-11-03"
     },
     {
-      "repo": "mmdoctor/google-pro-helper",
-      "url": "https://github.com/mmdoctor/google-pro-helper",
-      "desc": "",
-      "lang": "Python",
-      "stars": 1310,
-      "forks": 463,
-      "created": "2026-11-05"
+      "repo": "CzJam/gjgjxweb",
+      "url": "https://github.com/CzJam/gjgjxweb",
+      "desc": "《搞机工具箱》Web移植版",
+      "lang": "HTML",
+      "stars": 1445,
+      "forks": 126,
+      "created": "2026-11-03"
     },
     {
       "repo": "DIYgod/pinky",
       "url": "https://github.com/DIYgod/pinky",
       "desc": "Let AI agents use your phone, with you in the loop.",
       "lang": "Go",
-      "stars": 1272,
-      "forks": 134,
+      "stars": 1409,
+      "forks": 149,
       "created": "2026-11-06"
     },
     {
-      "repo": "voyager-so/vork",
-      "url": "https://github.com/voyager-so/vork",
-      "desc": "Headless 3D and VFX engine for agents. Research preview.",
-      "lang": "Rust",
-      "stars": 1229,
-      "forks": 91,
+      "repo": "livliv-dev/player",
+      "url": "https://github.com/livliv-dev/player",
+      "desc": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+      "lang": "TypeScript",
+      "stars": 1395,
+      "forks": 146,
+      "created": "2026-11-04"
+    },
+    {
+      "repo": "mmdoctor/google-pro-helper",
+      "url": "https://github.com/mmdoctor/google-pro-helper",
+      "desc": "",
+      "lang": "Python",
+      "stars": 1380,
+      "forks": 491,
       "created": "2026-11-05"
     },
     {
@@ -160,8 +151,44 @@
       "url": "https://github.com/IainKay/ram-altman",
       "desc": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
       "lang": "Shell",
-      "stars": 1087,
-      "forks": 26,
+      "stars": 1373,
+      "forks": 39,
+      "created": "2026-11-05"
+    },
+    {
+      "repo": "libracoder/kiri",
+      "url": "https://github.com/libracoder/kiri",
+      "desc": "A small, fast container runtime for macOS, Windows and Linux",
+      "lang": "Rust",
+      "stars": 1366,
+      "forks": 88,
+      "created": "2026-11-02"
+    },
+    {
+      "repo": "huamidev/GestaltX",
+      "url": "https://github.com/huamidev/GestaltX",
+      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+      "lang": "Swift",
+      "stars": 1333,
+      "forks": 506,
+      "created": "2026-11-09"
+    },
+    {
+      "repo": "voyager-so/vork",
+      "url": "https://github.com/voyager-so/vork",
+      "desc": "Headless 3D and VFX engine for agents. Research preview.",
+      "lang": "Rust",
+      "stars": 1277,
+      "forks": 95,
+      "created": "2026-11-05"
+    },
+    {
+      "repo": "jamesondh/chimera-vocal-synth",
+      "url": "https://github.com/jamesondh/chimera-vocal-synth",
+      "desc": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+      "lang": "Rust",
+      "stars": 1150,
+      "forks": 128,
       "created": "2026-11-05"
     },
     {
@@ -169,26 +196,17 @@
       "url": "https://github.com/egoist/mygo-music",
       "desc": "A native music player you extend with plugins",
       "lang": "Go",
-      "stars": 1074,
-      "forks": 170,
+      "stars": 1100,
+      "forks": 176,
       "created": "2026-11-04"
-    },
-    {
-      "repo": "janestreet/agent_skills",
-      "url": "https://github.com/janestreet/agent_skills",
-      "desc": "Agent skills",
-      "lang": "—",
-      "stars": 1051,
-      "forks": 60,
-      "created": "2026-11-03"
     },
     {
       "repo": "sostenesfreitas/ocarina-recomp",
       "url": "https://github.com/sostenesfreitas/ocarina-recomp",
       "desc": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
       "lang": "C",
-      "stars": 1016,
-      "forks": 66,
+      "stars": 1060,
+      "forks": 71,
       "created": "2026-11-06"
     },
     {
@@ -196,8 +214,8 @@
       "url": "https://github.com/WoYun520/gif-factory",
       "desc": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
       "lang": "Python",
-      "stars": 995,
-      "forks": 119,
+      "stars": 1024,
+      "forks": 123,
       "created": "2026-11-05"
     },
     {
@@ -205,18 +223,9 @@
       "url": "https://github.com/Th0rgal/satmux",
       "desc": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
       "lang": "Python",
-      "stars": 979,
-      "forks": 45,
+      "stars": 1004,
+      "forks": 48,
       "created": "2026-11-07"
-    },
-    {
-      "repo": "jamesondh/chimera-vocal-synth",
-      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-      "desc": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
-      "lang": "Rust",
-      "stars": 933,
-      "forks": 111,
-      "created": "2026-11-05"
     },
     {
       "repo": "AssassinCreator/steam-stash-value-report-card",
@@ -228,21 +237,21 @@
       "created": "2026-11-02"
     },
     {
-      "repo": "sassiestrhihno/boxshelf-beta",
-      "url": "https://github.com/sassiestrhihno/boxshelf-beta",
-      "desc": "Boxshelf public beta for Windows, Android (AYN Thor) and Linux / Steam Deck: a TV-style 3D box-art shelf for your emulators, Steam games and media apps.",
-      "lang": "—",
-      "stars": 668,
-      "forks": 16,
-      "created": "2026-11-05"
-    },
-    {
       "repo": "JosssphZhou/poki",
       "url": "https://github.com/JosssphZhou/poki",
       "desc": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
       "lang": "Swift",
-      "stars": 644,
-      "forks": 130,
+      "stars": 743,
+      "forks": 157,
+      "created": "2026-11-05"
+    },
+    {
+      "repo": "sassiestrhihno/boxshelf-beta",
+      "url": "https://github.com/sassiestrhihno/boxshelf-beta",
+      "desc": "Boxshelf public beta for Windows, Android (AYN Thor) and Linux / Steam Deck: a TV-style 3D box-art shelf for your emulators, Steam games and media apps.",
+      "lang": "—",
+      "stars": 713,
+      "forks": 18,
       "created": "2026-11-05"
     },
     {
@@ -250,27 +259,18 @@
       "url": "https://github.com/AtomIllusionistDwell/watson-username-footprint-finder",
       "desc": "Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
       "lang": "TypeScript",
-      "stars": 632,
-      "forks": 97,
+      "stars": 687,
+      "forks": 102,
       "created": "2026-11-05"
     },
     {
-      "repo": "majorminorlabs/hermes-voice",
-      "url": "https://github.com/majorminorlabs/hermes-voice",
-      "desc": "Talk to a Hermes Agent profile through Home Assistant Assist",
-      "lang": "Python",
-      "stars": 591,
-      "forks": 36,
-      "created": "2026-11-05"
-    },
-    {
-      "repo": "zeekk0/OpenAmika",
-      "url": "https://github.com/zeekk0/OpenAmika",
-      "desc": "OpenAmika: MekaHime's AI companion Amika, open source. Live2D avatar, real-time voice, long-term memory, OpenRouter or Ollama brain.",
-      "lang": "Python",
-      "stars": 558,
-      "forks": 76,
-      "created": "2026-11-03"
+      "repo": "expo/exact",
+      "url": "https://github.com/expo/exact",
+      "desc": "",
+      "lang": "Rust",
+      "stars": 638,
+      "forks": 15,
+      "created": "2026-11-02"
     }
   ],
   "note": ""

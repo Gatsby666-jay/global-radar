@@ -1,23 +1,14 @@
 {
-  "updated_at": "2026-11-11 02:26:47",
+  "updated_at": "2026-11-11 10:32:55",
   "window_days": 7,
   "repos": [
-    {
-      "repo": "Minireel/HGhub",
-      "url": "https://github.com/Minireel/HGhub",
-      "desc": "YellowFruit third-party client",
-      "lang": "—",
-      "stars": 8052,
-      "forks": 3134,
-      "created": "2026-11-03"
-    },
     {
       "repo": "NotRexed/Hookshot",
       "url": "https://github.com/NotRexed/Hookshot",
       "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
       "lang": "C++",
-      "stars": 6249,
-      "forks": 553,
+      "stars": 6648,
+      "forks": 588,
       "created": "2026-11-05"
     },
     {
@@ -25,71 +16,35 @@
       "url": "https://github.com/huamidev/GestaltX",
       "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
       "lang": "Swift",
-      "stars": 4537,
-      "forks": 1742,
+      "stars": 4988,
+      "forks": 1897,
       "created": "2026-11-09"
-    },
-    {
-      "repo": "KKKKhazix/agent-autoloop",
-      "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "desc": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-      "lang": "TypeScript",
-      "stars": 4414,
-      "forks": 802,
-      "created": "2026-11-03"
-    },
-    {
-      "repo": "janestreet/agent_skills",
-      "url": "https://github.com/janestreet/agent_skills",
-      "desc": "Agent skills",
-      "lang": "—",
-      "stars": 3481,
-      "forks": 197,
-      "created": "2026-11-03"
     },
     {
       "repo": "tangerineturtle1/NX2navi",
       "url": "https://github.com/tangerineturtle1/NX2navi",
       "desc": "",
       "lang": "C",
-      "stars": 2759,
-      "forks": 179,
+      "stars": 2916,
+      "forks": 192,
       "created": "2026-11-07"
-    },
-    {
-      "repo": "govijr/terminal-mac",
-      "url": "https://github.com/govijr/terminal-mac",
-      "desc": "Entire MacOS running in your terminal.",
-      "lang": "Swift",
-      "stars": 2546,
-      "forks": 177,
-      "created": "2026-11-03"
     },
     {
       "repo": "jhaizhou-ops/S2Arm",
       "url": "https://github.com/jhaizhou-ops/S2Arm",
       "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
       "lang": "C#",
-      "stars": 2349,
-      "forks": 445,
+      "stars": 2411,
+      "forks": 449,
       "created": "2026-11-08"
-    },
-    {
-      "repo": "sarpstar/cinecode",
-      "url": "https://github.com/sarpstar/cinecode",
-      "desc": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
-      "lang": "Python",
-      "stars": 2039,
-      "forks": 364,
-      "created": "2026-11-03"
     },
     {
       "repo": "JenkinWoo/sheeridVerify",
       "url": "https://github.com/JenkinWoo/sheeridVerify",
       "desc": "",
       "lang": "JavaScript",
-      "stars": 2005,
-      "forks": 1086,
+      "stars": 2010,
+      "forks": 1088,
       "created": "2026-11-06"
     },
     {
@@ -97,26 +52,26 @@
       "url": "https://github.com/IainKay/ram-altman",
       "desc": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
       "lang": "Shell",
-      "stars": 1779,
-      "forks": 52,
+      "stars": 1829,
+      "forks": 54,
       "created": "2026-11-05"
     },
     {
-      "repo": "Sandflow-ai/sand3d",
-      "url": "https://github.com/Sandflow-ai/sand3d",
-      "desc": "3D modeling in Python, built for LLMs.",
-      "lang": "HTML",
-      "stars": 1736,
-      "forks": 196,
-      "created": "2026-11-03"
+      "repo": "jamesondh/chimera-vocal-synth",
+      "url": "https://github.com/jamesondh/chimera-vocal-synth",
+      "desc": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+      "lang": "Rust",
+      "stars": 1716,
+      "forks": 197,
+      "created": "2026-11-05"
     },
     {
       "repo": "DIYgod/pinky",
       "url": "https://github.com/DIYgod/pinky",
       "desc": "Let AI agents use your phone, with you in the loop.",
       "lang": "Go",
-      "stars": 1646,
-      "forks": 176,
+      "stars": 1708,
+      "forks": 182,
       "created": "2026-11-06"
     },
     {
@@ -124,44 +79,17 @@
       "url": "https://github.com/mmdoctor/google-pro-helper",
       "desc": "",
       "lang": "Python",
-      "stars": 1619,
-      "forks": 556,
+      "stars": 1653,
+      "forks": 568,
       "created": "2026-11-05"
-    },
-    {
-      "repo": "shanselman/gputaskman",
-      "url": "https://github.com/shanselman/gputaskman",
-      "desc": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
-      "lang": "Python",
-      "stars": 1612,
-      "forks": 84,
-      "created": "2026-11-03"
-    },
-    {
-      "repo": "jamesondh/chimera-vocal-synth",
-      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-      "desc": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
-      "lang": "Rust",
-      "stars": 1581,
-      "forks": 180,
-      "created": "2026-11-05"
-    },
-    {
-      "repo": "CzJam/gjgjxweb",
-      "url": "https://github.com/CzJam/gjgjxweb",
-      "desc": "《搞机工具箱》Web移植版",
-      "lang": "HTML",
-      "stars": 1573,
-      "forks": 136,
-      "created": "2026-11-03"
     },
     {
       "repo": "livliv-dev/player",
       "url": "https://github.com/livliv-dev/player",
       "desc": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
       "lang": "TypeScript",
-      "stars": 1450,
-      "forks": 150,
+      "stars": 1465,
+      "forks": 154,
       "created": "2026-11-04"
     },
     {
@@ -169,8 +97,8 @@
       "url": "https://github.com/voyager-so/vork",
       "desc": "Headless 3D and VFX engine for agents. Research preview.",
       "lang": "Rust",
-      "stars": 1349,
-      "forks": 105,
+      "stars": 1359,
+      "forks": 108,
       "created": "2026-11-05"
     },
     {
@@ -178,17 +106,26 @@
       "url": "https://github.com/egoist/mygo-music",
       "desc": "A native music player you extend with plugins",
       "lang": "Go",
-      "stars": 1186,
-      "forks": 193,
+      "stars": 1193,
+      "forks": 194,
       "created": "2026-11-04"
+    },
+    {
+      "repo": "Kianuni/Erosion-CN",
+      "url": "https://github.com/Kianuni/Erosion-CN",
+      "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
+      "lang": "Swift",
+      "stars": 1108,
+      "forks": 257,
+      "created": "2026-11-10"
     },
     {
       "repo": "WoYun520/gif-factory",
       "url": "https://github.com/WoYun520/gif-factory",
       "desc": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
       "lang": "Python",
-      "stars": 1083,
-      "forks": 130,
+      "stars": 1094,
+      "forks": 134,
       "created": "2026-11-05"
     },
     {
@@ -196,8 +133,8 @@
       "url": "https://github.com/sostenesfreitas/ocarina-recomp",
       "desc": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
       "lang": "C",
-      "stars": 1076,
-      "forks": 72,
+      "stars": 1092,
+      "forks": 71,
       "created": "2026-11-06"
     },
     {
@@ -205,26 +142,17 @@
       "url": "https://github.com/Th0rgal/satmux",
       "desc": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
       "lang": "Python",
-      "stars": 1027,
+      "stars": 1035,
       "forks": 49,
       "created": "2026-11-07"
-    },
-    {
-      "repo": "Kianuni/Erosion-CN",
-      "url": "https://github.com/Kianuni/Erosion-CN",
-      "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
-      "lang": "Swift",
-      "stars": 949,
-      "forks": 218,
-      "created": "2026-11-10"
     },
     {
       "repo": "JosssphZhou/poki",
       "url": "https://github.com/JosssphZhou/poki",
       "desc": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
       "lang": "Swift",
-      "stars": 903,
-      "forks": 175,
+      "stars": 923,
+      "forks": 176,
       "created": "2026-11-05"
     },
     {
@@ -232,8 +160,8 @@
       "url": "https://github.com/yappologistic/CUI",
       "desc": "Native UI components for C: about 150 of them, with spring motion and full keyboard support. Windows, macOS and Linux, no dependencies.",
       "lang": "C",
-      "stars": 857,
-      "forks": 47,
+      "stars": 881,
+      "forks": 51,
       "created": "2026-11-05"
     },
     {
@@ -241,36 +169,108 @@
       "url": "https://github.com/sassiestrhihno/boxshelf-beta",
       "desc": "Boxshelf public beta for Windows, Android (AYN Thor) and Linux / Steam Deck: a TV-style 3D box-art shelf for your emulators, Steam games and media apps.",
       "lang": "—",
-      "stars": 808,
-      "forks": 21,
+      "stars": 819,
+      "forks": 22,
       "created": "2026-11-05"
     },
     {
-      "repo": "AtomIllusionistDwell/watson-username-footprint-finder",
-      "url": "https://github.com/AtomIllusionistDwell/watson-username-footprint-finder",
-      "desc": "Free people-search desktop app: look up a nickname, email, phone or site across 3,100+ public pages and get one readable report.",
+      "repo": "thiagoaureliomartins-programador/chief-architect-premier",
+      "url": "https://github.com/thiagoaureliomartins-programador/chief-architect-premier",
+      "desc": "Chief Architect Premier 2026: Pre-Configured Desktop Edition with All Features Enabled",
+      "lang": "Rust",
+      "stars": 775,
+      "forks": 0,
+      "created": "2026-11-06"
+    },
+    {
+      "repo": "ayanprob/coreldraw-desktop-installer",
+      "url": "https://github.com/ayanprob/coreldraw-desktop-installer",
+      "desc": "CorelDraw 2026 Professional Desktop Installer with Ready-to-Run Utility Configuration",
+      "lang": "HTML",
+      "stars": 774,
+      "forks": 0,
+      "created": "2026-11-06"
+    },
+    {
+      "repo": "rdeepak-wq121/quicken-deluxe-installer",
+      "url": "https://github.com/rdeepak-wq121/quicken-deluxe-installer",
+      "desc": "Quicken Deluxe Desktop Installer with Full Feature Set Enabled",
       "lang": "TypeScript",
-      "stars": 742,
-      "forks": 102,
-      "created": "2026-11-05"
+      "stars": 773,
+      "forks": 0,
+      "created": "2026-11-06"
     },
     {
-      "repo": "kubai087/kubai-icons",
-      "url": "https://github.com/kubai087/kubai-icons",
-      "desc": "An agent skill that draws animated icons in one consistent style, for Claude Code, Codex and other coding agents. Comes with 2,600+ open-source icons for React, Vue and SVG, and a website to browse th",
-      "lang": "JavaScript",
-      "stars": 643,
-      "forks": 30,
-      "created": "2026-11-03"
+      "repo": "woo20080623-cell/cinebench-desktop",
+      "url": "https://github.com/woo20080623-cell/cinebench-desktop",
+      "desc": "Cinebench 2026 Standalone Desktop Setup with Pre-Activated Features",
+      "lang": "HTML",
+      "stars": 773,
+      "forks": 0,
+      "created": "2026-11-06"
     },
     {
-      "repo": "majorminorlabs/hermes-voice",
-      "url": "https://github.com/majorminorlabs/hermes-voice",
-      "desc": "Talk to a Hermes Agent profile through Home Assistant Assist",
-      "lang": "Python",
-      "stars": 640,
-      "forks": 38,
-      "created": "2026-11-05"
+      "repo": "mahmoudtawfik1998/secure-pdf-document-processor",
+      "url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
+      "desc": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
+      "lang": "HTML",
+      "stars": 773,
+      "forks": 0,
+      "created": "2026-11-06"
+    },
+    {
+      "repo": "SK-Dev666/rust-external-trainer-tool",
+      "url": "https://github.com/SK-Dev666/rust-external-trainer-tool",
+      "desc": "Rust External 2026: Full Standalone Trainer Setup, Tools and Dependencies Ready to Run",
+      "lang": "TypeScript",
+      "stars": 773,
+      "forks": 0,
+      "created": "2026-11-06"
+    },
+    {
+      "repo": "shayannazar84-hero/honkai-star-rail-companion-suite",
+      "url": "https://github.com/shayannazar84-hero/honkai-star-rail-companion-suite",
+      "desc": "Honkai Star Rail 2026 Trainer Tool: Complete Standalone Setup, Ready to Run",
+      "lang": "HTML",
+      "stars": 773,
+      "forks": 0,
+      "created": "2026-11-06"
+    },
+    {
+      "repo": "bipro45/actual-multi-display-configurator",
+      "url": "https://github.com/bipro45/actual-multi-display-configurator",
+      "desc": "Multi-Monitor Desktop Configuration Installer with Enhanced Display Options",
+      "lang": "HTML",
+      "stars": 773,
+      "forks": 0,
+      "created": "2026-11-06"
+    },
+    {
+      "repo": "daiphu2708-crypto/melodyne-5-desktop-setup",
+      "url": "https://github.com/daiphu2708-crypto/melodyne-5-desktop-setup",
+      "desc": "Melodyne-5: Professional Audio Editing Desktop Suite with Full Feature Set",
+      "lang": "HTML",
+      "stars": 773,
+      "forks": 0,
+      "created": "2026-11-06"
+    },
+    {
+      "repo": "Eriazeri/on1-photo-raw-max-config",
+      "url": "https://github.com/Eriazeri/on1-photo-raw-max-config",
+      "desc": "on1-photo-raw-max: complete standalone setup with advanced image tools",
+      "lang": "HTML",
+      "stars": 773,
+      "forks": 0,
+      "created": "2026-11-06"
+    },
+    {
+      "repo": "leanislizarzado/ibm-spss-desktop-suite",
+      "url": "https://github.com/leanislizarzado/ibm-spss-desktop-suite",
+      "desc": "IBM SPSS Statistics 2026 Standalone Setup with Full Feature Configuration",
+      "lang": "HTML",
+      "stars": 773,
+      "forks": 0,
+      "created": "2026-11-06"
     }
   ],
   "note": ""

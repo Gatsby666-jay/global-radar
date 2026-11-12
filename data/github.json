@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 11:37:58",
+  "updated_at": "2026-11-12 20:03:39",
   "window_days": 7,
   "repos": [
     {
@@ -7,17 +7,17 @@
       "url": "https://github.com/NotRexed/Hookshot",
       "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
       "lang": "C++",
-      "stars": 7924,
-      "forks": 712,
+      "stars": 8270,
+      "forks": 749,
       "created": "2026-11-05"
     },
     {
       "repo": "huamidev/GestaltX",
       "url": "https://github.com/huamidev/GestaltX",
-      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
+      "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
       "lang": "Swift",
-      "stars": 6396,
-      "forks": 2448,
+      "stars": 6761,
+      "forks": 2507,
       "created": "2026-11-09"
     },
     {
@@ -25,8 +25,8 @@
       "url": "https://github.com/tangerineturtle1/NX2navi",
       "desc": "",
       "lang": "C",
-      "stars": 3302,
-      "forks": 222,
+      "stars": 3390,
+      "forks": 227,
       "created": "2026-11-07"
     },
     {
@@ -34,35 +34,35 @@
       "url": "https://github.com/jhaizhou-ops/S2Arm",
       "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
       "lang": "C#",
-      "stars": 2622,
-      "forks": 485,
+      "stars": 2713,
+      "forks": 500,
       "created": "2026-11-08"
-    },
-    {
-      "repo": "JenkinWoo/sheeridVerify",
-      "url": "https://github.com/JenkinWoo/sheeridVerify",
-      "desc": "",
-      "lang": "JavaScript",
-      "stars": 2044,
-      "forks": 1106,
-      "created": "2026-11-06"
     },
     {
       "repo": "jamesondh/chimera-vocal-synth",
       "url": "https://github.com/jamesondh/chimera-vocal-synth",
       "desc": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
       "lang": "Rust",
-      "stars": 1998,
-      "forks": 236,
+      "stars": 2074,
+      "forks": 239,
       "created": "2026-11-05"
+    },
+    {
+      "repo": "JenkinWoo/sheeridVerify",
+      "url": "https://github.com/JenkinWoo/sheeridVerify",
+      "desc": "",
+      "lang": "JavaScript",
+      "stars": 2060,
+      "forks": 1121,
+      "created": "2026-11-06"
     },
     {
       "repo": "IainKay/ram-altman",
       "url": "https://github.com/IainKay/ram-altman",
       "desc": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
       "lang": "Shell",
-      "stars": 1949,
-      "forks": 59,
+      "stars": 1979,
+      "forks": 61,
       "created": "2026-11-05"
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/DIYgod/pinky",
       "desc": "Let AI agents use your phone, with you in the loop.",
       "lang": "Go",
-      "stars": 1894,
-      "forks": 197,
+      "stars": 1956,
+      "forks": 204,
       "created": "2026-11-06"
     },
     {
@@ -79,8 +79,8 @@
       "url": "https://github.com/mmdoctor/google-pro-helper",
       "desc": "",
       "lang": "Python",
-      "stars": 1739,
-      "forks": 588,
+      "stars": 1768,
+      "forks": 597,
       "created": "2026-11-05"
     },
     {
@@ -88,35 +88,44 @@
       "url": "https://github.com/Kianuni/Erosion-CN",
       "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
       "lang": "Swift",
-      "stars": 1598,
-      "forks": 359,
+      "stars": 1668,
+      "forks": 371,
       "created": "2026-11-10"
-    },
-    {
-      "repo": "voyager-so/vork",
-      "url": "https://github.com/voyager-so/vork",
-      "desc": "Headless 3D and VFX engine for agents. Research preview.",
-      "lang": "Rust",
-      "stars": 1460,
-      "forks": 119,
-      "created": "2026-11-05"
     },
     {
       "repo": "WoYun520/gif-factory",
       "url": "https://github.com/WoYun520/gif-factory",
       "desc": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
       "lang": "Python",
-      "stars": 1412,
-      "forks": 161,
+      "stars": 1543,
+      "forks": 173,
       "created": "2026-11-05"
+    },
+    {
+      "repo": "voyager-so/vork",
+      "url": "https://github.com/voyager-so/vork",
+      "desc": "Headless 3D and VFX engine for agents. Research preview.",
+      "lang": "Rust",
+      "stars": 1480,
+      "forks": 123,
+      "created": "2026-11-05"
+    },
+    {
+      "repo": "HybridRobotics/supermimic",
+      "url": "https://github.com/HybridRobotics/supermimic",
+      "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "lang": "Python",
+      "stars": 1235,
+      "forks": 82,
+      "created": "2026-11-10"
     },
     {
       "repo": "mahmoudtawfik1998/secure-pdf-document-processor",
       "url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
       "desc": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
       "lang": "HTML",
-      "stars": 1305,
-      "forks": 0,
+      "stars": 1210,
+      "forks": 1,
       "created": "2026-11-06"
     },
     {
@@ -124,7 +133,7 @@
       "url": "https://github.com/hembramneeraj3-create/aida-64-extreme",
       "desc": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
       "lang": "HTML",
-      "stars": 1304,
+      "stars": 1207,
       "forks": 0,
       "created": "2026-11-06"
     },
@@ -133,7 +142,7 @@
       "url": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio",
       "desc": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
       "lang": "HTML",
-      "stars": 1304,
+      "stars": 1207,
       "forks": 0,
       "created": "2026-11-06"
     },
@@ -142,16 +151,7 @@
       "url": "https://github.com/AleRibeiro44/archicad-desktop-setup",
       "desc": "Archicad 2026 complete standalone desktop setup with pre-configured ready-to-run installation build",
       "lang": "HTML",
-      "stars": 1301,
-      "forks": 0,
-      "created": "2026-11-06"
-    },
-    {
-      "repo": "Somenicehispanic/ashampoo-winoptimizer-desktop",
-      "url": "https://github.com/Somenicehispanic/ashampoo-winoptimizer-desktop",
-      "desc": "Ashampoo WinOptimizer 2026 Standalone Setup with Full Feature Set Enabled",
-      "lang": "HTML",
-      "stars": 1301,
+      "stars": 1204,
       "forks": 0,
       "created": "2026-11-06"
     },
@@ -160,7 +160,7 @@
       "url": "https://github.com/PHISHER420/autodesk-inventor-desktop-config",
       "desc": "Autodesk Inventor 2026 Professional Desktop Installer with Pre-Configured Full Feature Set",
       "lang": "HTML",
-      "stars": 1300,
+      "stars": 1203,
       "forks": 0,
       "created": "2026-11-06"
     },
@@ -169,7 +169,7 @@
       "url": "https://github.com/CodeSouvik/clion-standalone-enhancement",
       "desc": "CLion full installer: complete standalone setup, all features activated",
       "lang": "HTML",
-      "stars": 1298,
+      "stars": 1201,
       "forks": 0,
       "created": "2026-11-06"
     },
@@ -178,7 +178,7 @@
       "url": "https://github.com/sajawal-12/cubase-studio-desktop",
       "desc": "Cubase Studio 2026 desktop setup with full plugin suite and complete feature set",
       "lang": "HTML",
-      "stars": 1298,
+      "stars": 1201,
       "forks": 0,
       "created": "2026-11-06"
     },
@@ -187,7 +187,7 @@
       "url": "https://github.com/Arda313131882/aion-2-trainer-tool",
       "desc": "Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup",
       "lang": "HTML",
-      "stars": 1296,
+      "stars": 1199,
       "forks": 0,
       "created": "2026-11-06"
     },
@@ -196,7 +196,7 @@
       "url": "https://github.com/ebtsamalhakmy-sketch/desktop-backup-suite",
       "desc": "Aomei Backupper 2026: Full-Feature Desktop Backup and Recovery Suite",
       "lang": "TypeScript",
-      "stars": 1296,
+      "stars": 1199,
       "forks": 0,
       "created": "2026-11-06"
     },
@@ -205,7 +205,7 @@
       "url": "https://github.com/IsaiaR09/daemon-pro-desktop",
       "desc": "daemon-pro: Complete Standalone Desktop Setup with Full Feature setup",
       "lang": "HTML",
-      "stars": 1295,
+      "stars": 1198,
       "forks": 0,
       "created": "2026-11-06"
     },
@@ -214,7 +214,7 @@
       "url": "https://github.com/tss878/delta-executor-toolkit",
       "desc": "Delta Executor for PC: Full Working Installer with All Tools Pre-Configured",
       "lang": "TypeScript",
-      "stars": 1295,
+      "stars": 1198,
       "forks": 0,
       "created": "2026-11-06"
     },
@@ -223,7 +223,7 @@
       "url": "https://github.com/JasonCharb/directory-opus",
       "desc": "directory-opus: complete standalone desktop setup with all features pre-enabled, ready to run",
       "lang": "HTML",
-      "stars": 1294,
+      "stars": 1197,
       "forks": 0,
       "created": "2026-11-06"
     },
@@ -232,7 +232,7 @@
       "url": "https://github.com/kcgeekedup-hash/delta-force-trainer-tool",
       "desc": "Delta Force Trainer Tool: Full Working Installer With All Tools and Configurations",
       "lang": "HTML",
-      "stars": 1294,
+      "stars": 1197,
       "forks": 0,
       "created": "2026-11-06"
     },
@@ -241,7 +241,7 @@
       "url": "https://github.com/Elegantic/designcenter-nx-desktop",
       "desc": "Designcenter-NX: Full-Feature Desktop Installer for Immediate Deployment",
       "lang": "HTML",
-      "stars": 1279,
+      "stars": 1182,
       "forks": 0,
       "created": "2026-11-06"
     },
@@ -250,8 +250,17 @@
       "url": "https://github.com/Vesuvio1/display-fusion",
       "desc": "Display Fusion 2026 standalone desktop setup with complete feature configuration",
       "lang": "HTML",
-      "stars": 1271,
+      "stars": 1174,
       "forks": 0,
+      "created": "2026-11-06"
+    },
+    {
+      "repo": "sostenesfreitas/ocarina-recomp",
+      "url": "https://github.com/sostenesfreitas/ocarina-recomp",
+      "desc": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+      "lang": "C",
+      "stars": 1159,
+      "forks": 75,
       "created": "2026-11-06"
     },
     {
@@ -259,16 +268,7 @@
       "url": "https://github.com/Sanidhya0510/dvd-creator-game-enhancement",
       "desc": "DVD-Creator 2026: Full Desktop Build, Every Feature Enabled",
       "lang": "HTML",
-      "stars": 1252,
-      "forks": 0,
-      "created": "2026-11-06"
-    },
-    {
-      "repo": "RyoTheOne/dxo-photolab-10-config",
-      "url": "https://github.com/RyoTheOne/dxo-photolab-10-config",
-      "desc": "dxo-photolab-10: complete standalone config, ready to run, nothing held back",
-      "lang": "HTML",
-      "stars": 1241,
+      "stars": 1155,
       "forks": 0,
       "created": "2026-11-06"
     }

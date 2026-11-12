@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 20:03:39",
+  "updated_at": "2026-11-13 02:40:37",
   "window_days": 7,
   "repos": [
     {
@@ -7,8 +7,8 @@
       "url": "https://github.com/NotRexed/Hookshot",
       "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
       "lang": "C++",
-      "stars": 8270,
-      "forks": 749,
+      "stars": 8571,
+      "forks": 787,
       "created": "2026-11-05"
     },
     {
@@ -16,8 +16,8 @@
       "url": "https://github.com/huamidev/GestaltX",
       "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
       "lang": "Swift",
-      "stars": 6761,
-      "forks": 2507,
+      "stars": 6894,
+      "forks": 2537,
       "created": "2026-11-09"
     },
     {
@@ -25,8 +25,8 @@
       "url": "https://github.com/tangerineturtle1/NX2navi",
       "desc": "",
       "lang": "C",
-      "stars": 3390,
-      "forks": 227,
+      "stars": 3483,
+      "forks": 241,
       "created": "2026-11-07"
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/jhaizhou-ops/S2Arm",
       "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
       "lang": "C#",
-      "stars": 2713,
-      "forks": 500,
+      "stars": 2750,
+      "forks": 503,
       "created": "2026-11-08"
     },
     {
@@ -43,8 +43,8 @@
       "url": "https://github.com/jamesondh/chimera-vocal-synth",
       "desc": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
       "lang": "Rust",
-      "stars": 2074,
-      "forks": 239,
+      "stars": 2128,
+      "forks": 247,
       "created": "2026-11-05"
     },
     {
@@ -52,8 +52,8 @@
       "url": "https://github.com/JenkinWoo/sheeridVerify",
       "desc": "",
       "lang": "JavaScript",
-      "stars": 2060,
-      "forks": 1121,
+      "stars": 2079,
+      "forks": 1126,
       "created": "2026-11-06"
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://github.com/IainKay/ram-altman",
       "desc": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
       "lang": "Shell",
-      "stars": 1979,
-      "forks": 61,
+      "stars": 2007,
+      "forks": 62,
       "created": "2026-11-05"
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/DIYgod/pinky",
       "desc": "Let AI agents use your phone, with you in the loop.",
       "lang": "Go",
-      "stars": 1956,
-      "forks": 204,
+      "stars": 1992,
+      "forks": 209,
       "created": "2026-11-06"
     },
     {
@@ -79,8 +79,8 @@
       "url": "https://github.com/mmdoctor/google-pro-helper",
       "desc": "",
       "lang": "Python",
-      "stars": 1768,
-      "forks": 597,
+      "stars": 1787,
+      "forks": 602,
       "created": "2026-11-05"
     },
     {
@@ -88,8 +88,8 @@
       "url": "https://github.com/Kianuni/Erosion-CN",
       "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
       "lang": "Swift",
-      "stars": 1668,
-      "forks": 371,
+      "stars": 1715,
+      "forks": 375,
       "created": "2026-11-10"
     },
     {
@@ -97,8 +97,8 @@
       "url": "https://github.com/WoYun520/gif-factory",
       "desc": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
       "lang": "Python",
-      "stars": 1543,
-      "forks": 173,
+      "stars": 1608,
+      "forks": 177,
       "created": "2026-11-05"
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/voyager-so/vork",
       "desc": "Headless 3D and VFX engine for agents. Research preview.",
       "lang": "Rust",
-      "stars": 1480,
-      "forks": 123,
+      "stars": 1492,
+      "forks": 125,
       "created": "2026-11-05"
     },
     {
@@ -115,8 +115,8 @@
       "url": "https://github.com/HybridRobotics/supermimic",
       "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
       "lang": "Python",
-      "stars": 1235,
-      "forks": 82,
+      "stars": 1292,
+      "forks": 84,
       "created": "2026-11-10"
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
       "desc": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
       "lang": "HTML",
-      "stars": 1210,
+      "stars": 1212,
       "forks": 1,
       "created": "2026-11-06"
     },
@@ -259,8 +259,8 @@
       "url": "https://github.com/sostenesfreitas/ocarina-recomp",
       "desc": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
       "lang": "C",
-      "stars": 1159,
-      "forks": 75,
+      "stars": 1157,
+      "forks": 76,
       "created": "2026-11-06"
     },
     {

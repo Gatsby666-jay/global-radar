@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12 02:19:13",
+  "updated_at": "2026-11-12 11:37:58",
   "window_days": 7,
   "repos": [
     {
@@ -7,8 +7,8 @@
       "url": "https://github.com/NotRexed/Hookshot",
       "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
       "lang": "C++",
-      "stars": 7431,
-      "forks": 652,
+      "stars": 7924,
+      "forks": 712,
       "created": "2026-11-05"
     },
     {
@@ -16,8 +16,8 @@
       "url": "https://github.com/huamidev/GestaltX",
       "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups, and support for 7 languages.",
       "lang": "Swift",
-      "stars": 6098,
-      "forks": 2383,
+      "stars": 6396,
+      "forks": 2448,
       "created": "2026-11-09"
     },
     {
@@ -25,8 +25,8 @@
       "url": "https://github.com/tangerineturtle1/NX2navi",
       "desc": "",
       "lang": "C",
-      "stars": 3148,
-      "forks": 212,
+      "stars": 3302,
+      "forks": 222,
       "created": "2026-11-07"
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/jhaizhou-ops/S2Arm",
       "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
       "lang": "C#",
-      "stars": 2575,
-      "forks": 477,
+      "stars": 2622,
+      "forks": 485,
       "created": "2026-11-08"
     },
     {
@@ -43,8 +43,8 @@
       "url": "https://github.com/JenkinWoo/sheeridVerify",
       "desc": "",
       "lang": "JavaScript",
-      "stars": 2027,
-      "forks": 1093,
+      "stars": 2044,
+      "forks": 1106,
       "created": "2026-11-06"
     },
     {
@@ -52,8 +52,8 @@
       "url": "https://github.com/jamesondh/chimera-vocal-synth",
       "desc": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
       "lang": "Rust",
-      "stars": 1923,
-      "forks": 230,
+      "stars": 1998,
+      "forks": 236,
       "created": "2026-11-05"
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://github.com/IainKay/ram-altman",
       "desc": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
       "lang": "Shell",
-      "stars": 1919,
-      "forks": 56,
+      "stars": 1949,
+      "forks": 59,
       "created": "2026-11-05"
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/DIYgod/pinky",
       "desc": "Let AI agents use your phone, with you in the loop.",
       "lang": "Go",
-      "stars": 1850,
-      "forks": 195,
+      "stars": 1894,
+      "forks": 197,
       "created": "2026-11-06"
     },
     {
@@ -79,26 +79,17 @@
       "url": "https://github.com/mmdoctor/google-pro-helper",
       "desc": "",
       "lang": "Python",
-      "stars": 1716,
-      "forks": 581,
+      "stars": 1739,
+      "forks": 588,
       "created": "2026-11-05"
-    },
-    {
-      "repo": "livliv-dev/player",
-      "url": "https://github.com/livliv-dev/player",
-      "desc": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
-      "lang": "TypeScript",
-      "stars": 1490,
-      "forks": 155,
-      "created": "2026-11-04"
     },
     {
       "repo": "Kianuni/Erosion-CN",
       "url": "https://github.com/Kianuni/Erosion-CN",
       "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
       "lang": "Swift",
-      "stars": 1480,
-      "forks": 342,
+      "stars": 1598,
+      "forks": 359,
       "created": "2026-11-10"
     },
     {
@@ -106,8 +97,17 @@
       "url": "https://github.com/voyager-so/vork",
       "desc": "Headless 3D and VFX engine for agents. Research preview.",
       "lang": "Rust",
-      "stars": 1411,
-      "forks": 115,
+      "stars": 1460,
+      "forks": 119,
+      "created": "2026-11-05"
+    },
+    {
+      "repo": "WoYun520/gif-factory",
+      "url": "https://github.com/WoYun520/gif-factory",
+      "desc": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+      "lang": "Python",
+      "stars": 1412,
+      "forks": 161,
       "created": "2026-11-05"
     },
     {
@@ -115,7 +115,7 @@
       "url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
       "desc": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
       "lang": "HTML",
-      "stars": 1304,
+      "stars": 1305,
       "forks": 0,
       "created": "2026-11-06"
     },
@@ -160,7 +160,7 @@
       "url": "https://github.com/PHISHER420/autodesk-inventor-desktop-config",
       "desc": "Autodesk Inventor 2026 Professional Desktop Installer with Pre-Configured Full Feature Set",
       "lang": "HTML",
-      "stars": 1299,
+      "stars": 1300,
       "forks": 0,
       "created": "2026-11-06"
     },
@@ -210,19 +210,19 @@
       "created": "2026-11-06"
     },
     {
-      "repo": "JasonCharb/directory-opus",
-      "url": "https://github.com/JasonCharb/directory-opus",
-      "desc": "directory-opus: complete standalone desktop setup with all features pre-enabled, ready to run",
-      "lang": "HTML",
-      "stars": 1294,
-      "forks": 0,
-      "created": "2026-11-06"
-    },
-    {
       "repo": "tss878/delta-executor-toolkit",
       "url": "https://github.com/tss878/delta-executor-toolkit",
       "desc": "Delta Executor for PC: Full Working Installer with All Tools Pre-Configured",
       "lang": "TypeScript",
+      "stars": 1295,
+      "forks": 0,
+      "created": "2026-11-06"
+    },
+    {
+      "repo": "JasonCharb/directory-opus",
+      "url": "https://github.com/JasonCharb/directory-opus",
+      "desc": "directory-opus: complete standalone desktop setup with all features pre-enabled, ready to run",
+      "lang": "HTML",
       "stars": 1294,
       "forks": 0,
       "created": "2026-11-06"
@@ -235,15 +235,6 @@
       "stars": 1294,
       "forks": 0,
       "created": "2026-11-06"
-    },
-    {
-      "repo": "WoYun520/gif-factory",
-      "url": "https://github.com/WoYun520/gif-factory",
-      "desc": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
-      "lang": "Python",
-      "stars": 1289,
-      "forks": 151,
-      "created": "2026-11-05"
     },
     {
       "repo": "Elegantic/designcenter-nx-desktop",
@@ -269,6 +260,15 @@
       "desc": "DVD-Creator 2026: Full Desktop Build, Every Feature Enabled",
       "lang": "HTML",
       "stars": 1252,
+      "forks": 0,
+      "created": "2026-11-06"
+    },
+    {
+      "repo": "RyoTheOne/dxo-photolab-10-config",
+      "url": "https://github.com/RyoTheOne/dxo-photolab-10-config",
+      "desc": "dxo-photolab-10: complete standalone config, ready to run, nothing held back",
+      "lang": "HTML",
+      "stars": 1241,
       "forks": 0,
       "created": "2026-11-06"
     }

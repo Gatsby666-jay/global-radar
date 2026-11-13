@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 19:47:29",
+  "updated_at": "2026-11-14 02:21:30",
   "window_days": 7,
   "repos": [
     {
@@ -7,8 +7,8 @@
       "url": "https://github.com/huamidev/GestaltX",
       "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
       "lang": "Swift",
-      "stars": 7147,
-      "forks": 2585,
+      "stars": 7253,
+      "forks": 2591,
       "created": "2026-11-09"
     },
     {
@@ -16,8 +16,8 @@
       "url": "https://github.com/tangerineturtle1/NX2navi",
       "desc": "",
       "lang": "C",
-      "stars": 3679,
-      "forks": 262,
+      "stars": 3804,
+      "forks": 279,
       "created": "2026-11-07"
     },
     {
@@ -25,8 +25,8 @@
       "url": "https://github.com/jhaizhou-ops/S2Arm",
       "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
       "lang": "C#",
-      "stars": 2832,
-      "forks": 520,
+      "stars": 2857,
+      "forks": 521,
       "created": "2026-11-08"
     },
     {
@@ -34,17 +34,17 @@
       "url": "https://github.com/JenkinWoo/sheeridVerify",
       "desc": "",
       "lang": "JavaScript",
-      "stars": 2330,
-      "forks": 1240,
+      "stars": 2576,
+      "forks": 1328,
       "created": "2026-11-06"
     },
     {
       "repo": "DIYgod/pinky",
       "url": "https://github.com/DIYgod/pinky",
-      "desc": "Let AI agents use your phone, with you in the loop.",
+      "desc": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
       "lang": "Go",
-      "stars": 2058,
-      "forks": 224,
+      "stars": 2075,
+      "forks": 226,
       "created": "2026-11-06"
     },
     {
@@ -52,8 +52,8 @@
       "url": "https://github.com/Kianuni/Erosion-CN",
       "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
       "lang": "Swift",
-      "stars": 1834,
-      "forks": 396,
+      "stars": 1897,
+      "forks": 403,
       "created": "2026-11-10"
     },
     {
@@ -61,18 +61,36 @@
       "url": "https://github.com/HybridRobotics/supermimic",
       "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
       "lang": "Python",
-      "stars": 1398,
-      "forks": 90,
+      "stars": 1421,
+      "forks": 92,
       "created": "2026-11-10"
+    },
+    {
+      "repo": "apex-compute/ANR",
+      "url": "https://github.com/apex-compute/ANR",
+      "desc": "Apex Neural Rendering (ANR) by Apex Compute",
+      "lang": "C++",
+      "stars": 1362,
+      "forks": 20,
+      "created": "2026-11-11"
     },
     {
       "repo": "agentes-chat/agentes-chat",
       "url": "https://github.com/agentes-chat/agentes-chat",
       "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and ",
       "lang": "TypeScript",
-      "stars": 1269,
-      "forks": 207,
+      "stars": 1318,
+      "forks": 220,
       "created": "2026-11-09"
+    },
+    {
+      "repo": "FrigadeHQ/yogurt",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "desc": "Private AI meeting notes. Free and open source.",
+      "lang": "TypeScript",
+      "stars": 1216,
+      "forks": 49,
+      "created": "2026-11-10"
     },
     {
       "repo": "mahmoudtawfik1998/secure-pdf-document-processor",
@@ -82,15 +100,6 @@
       "stars": 1212,
       "forks": 2,
       "created": "2026-11-06"
-    },
-    {
-      "repo": "apex-compute/ANR",
-      "url": "https://github.com/apex-compute/ANR",
-      "desc": "Apex Neural Rendering (ANR) by Apex Compute",
-      "lang": "C++",
-      "stars": 1211,
-      "forks": 17,
-      "created": "2026-11-11"
     },
     {
       "repo": "abdulmannanmalik13-wq/adobe-substance-3d-studio",
@@ -107,16 +116,7 @@
       "desc": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
       "lang": "HTML",
       "stars": 1208,
-      "forks": 0,
-      "created": "2026-11-06"
-    },
-    {
-      "repo": "AleRibeiro44/archicad-desktop-setup",
-      "url": "https://github.com/AleRibeiro44/archicad-desktop-setup",
-      "desc": "Archicad 2026 complete standalone desktop setup with pre-configured ready-to-run installation build",
-      "lang": "HTML",
-      "stars": 1207,
-      "forks": 0,
+      "forks": 1,
       "created": "2026-11-06"
     },
     {
@@ -125,6 +125,15 @@
       "desc": "Cubase Studio 2026 desktop setup with full plugin suite and complete feature set",
       "lang": "HTML",
       "stars": 1201,
+      "forks": 0,
+      "created": "2026-11-06"
+    },
+    {
+      "repo": "tss878/delta-executor-toolkit",
+      "url": "https://github.com/tss878/delta-executor-toolkit",
+      "desc": "Delta Executor for PC: Full Working Installer with All Tools Pre-Configured",
+      "lang": "TypeScript",
+      "stars": 1199,
       "forks": 0,
       "created": "2026-11-06"
     },
@@ -156,21 +165,21 @@
       "created": "2026-11-06"
     },
     {
-      "repo": "tss878/delta-executor-toolkit",
-      "url": "https://github.com/tss878/delta-executor-toolkit",
-      "desc": "Delta Executor for PC: Full Working Installer with All Tools Pre-Configured",
-      "lang": "TypeScript",
-      "stars": 1198,
-      "forks": 0,
-      "created": "2026-11-06"
-    },
-    {
       "repo": "kcgeekedup-hash/delta-force-trainer-tool",
       "url": "https://github.com/kcgeekedup-hash/delta-force-trainer-tool",
       "desc": "Delta Force Trainer Tool: Full Working Installer With All Tools and Configurations",
       "lang": "HTML",
       "stars": 1197,
       "forks": 0,
+      "created": "2026-11-06"
+    },
+    {
+      "repo": "sostenesfreitas/ocarina-recomp",
+      "url": "https://github.com/sostenesfreitas/ocarina-recomp",
+      "desc": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+      "lang": "C",
+      "stars": 1182,
+      "forks": 76,
       "created": "2026-11-06"
     },
     {
@@ -192,15 +201,6 @@
       "created": "2026-11-06"
     },
     {
-      "repo": "sostenesfreitas/ocarina-recomp",
-      "url": "https://github.com/sostenesfreitas/ocarina-recomp",
-      "desc": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
-      "lang": "C",
-      "stars": 1173,
-      "forks": 77,
-      "created": "2026-11-06"
-    },
-    {
       "repo": "Sanidhya0510/dvd-creator-game-enhancement",
       "url": "https://github.com/Sanidhya0510/dvd-creator-game-enhancement",
       "desc": "DVD-Creator 2026: Full Desktop Build, Every Feature Enabled",
@@ -219,15 +219,6 @@
       "created": "2026-11-06"
     },
     {
-      "repo": "FrigadeHQ/yogurt",
-      "url": "https://github.com/FrigadeHQ/yogurt",
-      "desc": "Private AI meeting notes. Free and open source.",
-      "lang": "TypeScript",
-      "stars": 1116,
-      "forks": 44,
-      "created": "2026-11-10"
-    },
-    {
       "repo": "Luk177Master/easy-worship-desktop",
       "url": "https://github.com/Luk177Master/easy-worship-desktop",
       "desc": "Easy-Worship 2026: Complete Standalone Desktop Setup with All Features Enabled",
@@ -241,7 +232,7 @@
       "url": "https://github.com/RolandoV3/metatrader-5-bot",
       "desc": "Community-driven MetaTrader 5 bot with full features ready for desktop use",
       "lang": "TypeScript",
-      "stars": 1109,
+      "stars": 1110,
       "forks": 0,
       "created": "2026-11-06"
     },
@@ -270,6 +261,15 @@
       "lang": "HTML",
       "stars": 1104,
       "forks": 0,
+      "created": "2026-11-06"
+    },
+    {
+      "repo": "SirBonney/scrcpy-mirror-control",
+      "url": "https://github.com/SirBonney/scrcpy-mirror-control",
+      "desc": "Android Screen Mirroring and Control Workflow, Simplified",
+      "lang": "HTML",
+      "stars": 1104,
+      "forks": 1,
       "created": "2026-11-06"
     }
   ],

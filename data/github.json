@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 11:09:35",
+  "updated_at": "2026-11-13 19:47:29",
   "window_days": 7,
   "repos": [
     {
@@ -7,8 +7,8 @@
       "url": "https://github.com/huamidev/GestaltX",
       "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
       "lang": "Swift",
-      "stars": 6981,
-      "forks": 2557,
+      "stars": 7147,
+      "forks": 2585,
       "created": "2026-11-09"
     },
     {
@@ -16,8 +16,8 @@
       "url": "https://github.com/tangerineturtle1/NX2navi",
       "desc": "",
       "lang": "C",
-      "stars": 3599,
-      "forks": 252,
+      "stars": 3679,
+      "forks": 262,
       "created": "2026-11-07"
     },
     {
@@ -25,8 +25,8 @@
       "url": "https://github.com/jhaizhou-ops/S2Arm",
       "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
       "lang": "C#",
-      "stars": 2777,
-      "forks": 508,
+      "stars": 2832,
+      "forks": 520,
       "created": "2026-11-08"
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/JenkinWoo/sheeridVerify",
       "desc": "",
       "lang": "JavaScript",
-      "stars": 2097,
-      "forks": 1132,
+      "stars": 2330,
+      "forks": 1240,
       "created": "2026-11-06"
     },
     {
@@ -43,8 +43,8 @@
       "url": "https://github.com/DIYgod/pinky",
       "desc": "Let AI agents use your phone, with you in the loop.",
       "lang": "Go",
-      "stars": 2013,
-      "forks": 214,
+      "stars": 2058,
+      "forks": 224,
       "created": "2026-11-06"
     },
     {
@@ -52,8 +52,8 @@
       "url": "https://github.com/Kianuni/Erosion-CN",
       "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
       "lang": "Swift",
-      "stars": 1739,
-      "forks": 377,
+      "stars": 1834,
+      "forks": 396,
       "created": "2026-11-10"
     },
     {
@@ -61,9 +61,18 @@
       "url": "https://github.com/HybridRobotics/supermimic",
       "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
       "lang": "Python",
-      "stars": 1326,
-      "forks": 87,
+      "stars": 1398,
+      "forks": 90,
       "created": "2026-11-10"
+    },
+    {
+      "repo": "agentes-chat/agentes-chat",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and ",
+      "lang": "TypeScript",
+      "stars": 1269,
+      "forks": 207,
+      "created": "2026-11-09"
     },
     {
       "repo": "mahmoudtawfik1998/secure-pdf-document-processor",
@@ -71,24 +80,24 @@
       "desc": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
       "lang": "HTML",
       "stars": 1212,
-      "forks": 1,
+      "forks": 2,
       "created": "2026-11-06"
     },
     {
-      "repo": "agentes-chat/agentes-chat",
-      "url": "https://github.com/agentes-chat/agentes-chat",
-      "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and ",
-      "lang": "TypeScript",
-      "stars": 1209,
-      "forks": 195,
-      "created": "2026-11-09"
+      "repo": "apex-compute/ANR",
+      "url": "https://github.com/apex-compute/ANR",
+      "desc": "Apex Neural Rendering (ANR) by Apex Compute",
+      "lang": "C++",
+      "stars": 1211,
+      "forks": 17,
+      "created": "2026-11-11"
     },
     {
       "repo": "abdulmannanmalik13-wq/adobe-substance-3d-studio",
       "url": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio",
       "desc": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
       "lang": "HTML",
-      "stars": 1209,
+      "stars": 1210,
       "forks": 1,
       "created": "2026-11-06"
     },
@@ -106,25 +115,7 @@
       "url": "https://github.com/AleRibeiro44/archicad-desktop-setup",
       "desc": "Archicad 2026 complete standalone desktop setup with pre-configured ready-to-run installation build",
       "lang": "HTML",
-      "stars": 1204,
-      "forks": 0,
-      "created": "2026-11-06"
-    },
-    {
-      "repo": "PHISHER420/autodesk-inventor-desktop-config",
-      "url": "https://github.com/PHISHER420/autodesk-inventor-desktop-config",
-      "desc": "Autodesk Inventor 2026 Professional Desktop Installer with Pre-Configured Full Feature Set",
-      "lang": "HTML",
-      "stars": 1203,
-      "forks": 0,
-      "created": "2026-11-06"
-    },
-    {
-      "repo": "CodeSouvik/clion-standalone-enhancement",
-      "url": "https://github.com/CodeSouvik/clion-standalone-enhancement",
-      "desc": "CLion full installer: complete standalone setup, all features activated",
-      "lang": "HTML",
-      "stars": 1201,
+      "stars": 1207,
       "forks": 0,
       "created": "2026-11-06"
     },
@@ -174,15 +165,6 @@
       "created": "2026-11-06"
     },
     {
-      "repo": "JasonCharb/directory-opus",
-      "url": "https://github.com/JasonCharb/directory-opus",
-      "desc": "directory-opus: complete standalone desktop setup with all features pre-enabled, ready to run",
-      "lang": "HTML",
-      "stars": 1197,
-      "forks": 0,
-      "created": "2026-11-06"
-    },
-    {
       "repo": "kcgeekedup-hash/delta-force-trainer-tool",
       "url": "https://github.com/kcgeekedup-hash/delta-force-trainer-tool",
       "desc": "Delta Force Trainer Tool: Full Working Installer With All Tools and Configurations",
@@ -205,7 +187,7 @@
       "url": "https://github.com/Vesuvio1/display-fusion",
       "desc": "Display Fusion 2026 standalone desktop setup with complete feature configuration",
       "lang": "HTML",
-      "stars": 1174,
+      "stars": 1175,
       "forks": 0,
       "created": "2026-11-06"
     },
@@ -214,8 +196,8 @@
       "url": "https://github.com/sostenesfreitas/ocarina-recomp",
       "desc": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
       "lang": "C",
-      "stars": 1167,
-      "forks": 76,
+      "stars": 1173,
+      "forks": 77,
       "created": "2026-11-06"
     },
     {
@@ -237,6 +219,15 @@
       "created": "2026-11-06"
     },
     {
+      "repo": "FrigadeHQ/yogurt",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "desc": "Private AI meeting notes. Free and open source.",
+      "lang": "TypeScript",
+      "stars": 1116,
+      "forks": 44,
+      "created": "2026-11-10"
+    },
+    {
       "repo": "Luk177Master/easy-worship-desktop",
       "url": "https://github.com/Luk177Master/easy-worship-desktop",
       "desc": "Easy-Worship 2026: Complete Standalone Desktop Setup with All Features Enabled",
@@ -250,7 +241,7 @@
       "url": "https://github.com/RolandoV3/metatrader-5-bot",
       "desc": "Community-driven MetaTrader 5 bot with full features ready for desktop use",
       "lang": "TypeScript",
-      "stars": 1108,
+      "stars": 1109,
       "forks": 0,
       "created": "2026-11-06"
     },
@@ -267,6 +258,15 @@
       "repo": "janitoff0/ninjatrader-bot",
       "url": "https://github.com/janitoff0/ninjatrader-bot",
       "desc": "Ninjatrader Bot 2026: a friendly, community-driven trading companion packed with powerful features",
+      "lang": "HTML",
+      "stars": 1104,
+      "forks": 0,
+      "created": "2026-11-06"
+    },
+    {
+      "repo": "leanislizarzado/ibm-spss-desktop-suite",
+      "url": "https://github.com/leanislizarzado/ibm-spss-desktop-suite",
+      "desc": "IBM SPSS Statistics 2026 Standalone Setup with Full Feature Configuration",
       "lang": "HTML",
       "stars": 1104,
       "forks": 0,

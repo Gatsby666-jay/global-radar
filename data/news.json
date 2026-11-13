@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 11:09:34",
+  "updated_at": "2026-11-13 19:47:28",
   "categories": [
     "tech",
     "finance",
@@ -7,24 +7,194 @@
   ],
   "items": [
     {
-      "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
-      "url": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+      "title": "The Fed expected rate cuts this year. Now it’s bracing for another inflation fight",
+      "url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
       "source": "CNBC",
       "category": "finance",
-      "summary": "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
-      "published": 1794537806.0,
-      "fetched_at": "2026-11-13 11:09:34",
-      "published_cn": "11-13 02:43"
+      "summary": "The most recent inflation reading for October was higher than expected, coming in at 0.4% for the month.",
+      "published": 1794569470.0,
+      "fetched_at": "2026-11-13 19:47:27",
+      "published_cn": "11-13 11:31"
     },
     {
-      "title": "The world's super-rich are piling into alternative investments. Here's why",
-      "url": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
+      "title": "Widespread Microsoft outage continues, taking down Outlook and other 365 services",
+      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
       "source": "CNBC",
       "category": "finance",
-      "summary": "Alternative investments now account for 60% of single-family office portfolios, surpassing traditional assets for the first time, according to BNY Wealth.",
-      "published": 1794536702.0,
-      "fetched_at": "2026-11-13 11:09:34",
-      "published_cn": "11-13 02:25"
+      "summary": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
+      "published": 1794569006.0,
+      "fetched_at": "2026-11-13 19:47:27",
+      "published_cn": "11-13 11:23"
+    },
+    {
+      "title": "CNBC's Official NHL Team Valuations 2026: How the 32 franchises stack up",
+      "url": "https://www.cnbc.com/2026/11/13/cnbcs-official-nhl-team-valuations-2026-how-the-32-clubs-stack-up.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "The average NHL team is worth $2.71 billion, 23% more than a year ago.",
+      "published": 1794568024.0,
+      "fetched_at": "2026-11-13 19:47:27",
+      "published_cn": "11-13 11:07"
+    },
+    {
+      "title": "Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Commerce Secretary Lutnick will testify before the Senate Banking Committee following revelations about Jensen Huang's affair with an alleged Chinese spy.",
+      "published": 1794567280.0,
+      "fetched_at": "2026-11-13 19:47:27",
+      "published_cn": "11-13 10:54"
+    },
+    {
+      "title": "九合一前夕：台灣幾乎年年選舉，會引起「投票疲勞」嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/c63egjkzqpz2o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "台灣在過去七年間，幾乎每年都有大型選舉、罷免或公投。有學者形容台灣政治人物常處於「選舉模式」，在面對不同議題時往往急於回應。",
+      "published": 1794566346.0,
+      "fetched_at": "2026-11-13 19:47:28",
+      "published_cn": "11-13 10:39"
+    },
+    {
+      "title": "李飞飞最新世界模型正式开放，我用它一句话造出重庆山城",
+      "url": "https://www.ifanr.com/1689379?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "世界模型的竞争要开始了吗<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1794564295.0,
+      "fetched_at": "2026-11-13 19:47:24",
+      "published_cn": "11-13 10:04"
+    },
+    {
+      "title": "Nvidia stock inches higher as investors continue to weigh Jensen Huang’s departure",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Jensen Huang resigned as CEO of Nvidia on Thursday after coming under scrutiny for two extramarital affairs.",
+      "published": 1794564037.0,
+      "fetched_at": "2026-11-13 19:47:27",
+      "published_cn": "11-13 10:00"
+    },
+    {
+      "title": "「台灣乾爹」光環崩塌：黃仁勳事件如何震動台灣產業、政治與社會？",
+      "url": "https://www.bbc.com/zhongwen/articles/cmn80j39wq06o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "黃仁勳光速跌落神壇的事件，讓台灣社會對他的崇拜、政治對他的政績綁定，以及產業對他個人的依賴重新校準。",
+      "published": 1794563471.0,
+      "fetched_at": "2026-11-13 19:47:28",
+      "published_cn": "11-13 09:51"
+    },
+    {
+      "title": "‘We will sue them’: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans",
+      "url": "https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "The dispute comes after Stellantis scrapped planned Jeep Compass production in Brampton and shifted future output to Illinois amid U.S. auto tariffs.",
+      "published": 1794563104.0,
+      "fetched_at": "2026-11-13 19:47:27",
+      "published_cn": "11-13 09:45"
+    },
+    {
+      "title": "黃仁勳辭職餘波：中國輿論場上的「間諜」迷因、選舉猜想與股價「黑天鵝」",
+      "url": "https://www.bbc.com/zhongwen/articles/cjn50zq2n7v1o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "接連被揭發兩段婚外情後，黃仁勳於週四（11月12日）辭職。事件曝光後的一個禮拜內，全球媒體、社交軟體全部捲入這次事件，民眾對於「中國間諜」展開討論，股民亦為黃仁勳事件買單，輿論依然持續發酵，且沒有停下的趨勢。",
+      "published": 1794562778.0,
+      "fetched_at": "2026-11-13 19:47:28",
+      "published_cn": "11-13 09:39"
+    },
+    {
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "url": "https://sspai.com/post/118999",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "📅本周新预告《银翼杀手2099》终极预告11月10日，剧集《银翼杀手2099》发布了终极预告，将于11月25日上线PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，为了彻底结束逃亡生活 ...<a href=\"https://sspai.com/post/118999\" target=\"_blank\">查看全文</a>",
+      "published": 1794562762.0,
+      "fetched_at": "2026-11-13 19:47:26",
+      "published_cn": "11-13 09:39"
+    },
+    {
+      "title": "Storm Charles causes floods and flight cancellations across southern Europe",
+      "url": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather",
+      "source": "卫报·世界",
+      "category": "world",
+      "summary": "<p>Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week </p><p>Storm Charles has brought destructive weather to the Iberian peninsula this week, particularly in Port",
+      "published": 1794559759.0,
+      "fetched_at": "2026-11-13 19:47:28",
+      "published_cn": "11-13 08:49"
+    },
+    {
+      "title": "黄仁勋自嘲是「人渣」，英伟达员工集体喊话求回归",
+      "url": "https://www.ifanr.com/1689360?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "没有黄仁勋的英伟达会怎样？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1794558696.0,
+      "fetched_at": "2026-11-13 19:47:24",
+      "published_cn": "11-13 08:31"
+    },
+    {
+      "title": "BBC調查揭英國「全球人才簽證」造假產業：中介助移民冒充藝術家及科技專才",
+      "url": "https://www.bbc.com/zhongwen/articles/cw4gn0mgz1m3o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "BBC臥底調查揭露一場精心策劃的騙局，協助富裕移民透過快速通道取得英國永久居留權。",
+      "published": 1794558473.0,
+      "fetched_at": "2026-11-13 19:47:28",
+      "published_cn": "11-13 08:27"
+    },
+    {
+      "title": "Nvidia’s turmoil is prompting a rotation across chip stocks. Here's what we know",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "That shift comes as Nvidia grapples with the fallout from Huang's resignation, following revelations about his multiple affairs.",
+      "published": 1794558427.0,
+      "fetched_at": "2026-11-13 19:47:27",
+      "published_cn": "11-13 08:27"
+    },
+    {
+      "title": "微軟系統全球癱瘓：Outlook、Teams、Copilot受影響",
+      "url": "https://www.bbc.com/zhongwen/articles/crvg2d7v05yno/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "監測網站顯示，這次中斷影響74個國家的用戶，已持續超過八小時。",
+      "published": 1794555138.0,
+      "fetched_at": "2026-11-13 19:47:28",
+      "published_cn": "11-13 07:32"
+    },
+    {
+      "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+      "url": "https://sspai.com/post/118153",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。<a href=\"https://sspai.com/post/118153\" target=\"_blank\">查看全文</a>",
+      "published": 1794553200.0,
+      "fetched_at": "2026-11-13 19:47:26",
+      "published_cn": "11-13 07:00"
+    },
+    {
+      "title": "AI 时代，公司的「新厂房」长什么样？",
+      "url": "https://www.ifanr.com/1689182?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "真正决定公司未来十年身位的，是谁先动手重建那座名叫「智能组织」的新厂房。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1794551659.0,
+      "fetched_at": "2026-11-13 19:47:24",
+      "published_cn": "11-13 06:34"
+    },
+    {
+      "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
+      "url": "https://sspai.com/post/118512",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows ...<a href=\"https://sspai.com/post/118512\" target=\"_blank\">查看全文</a>",
+      "published": 1794540948.0,
+      "fetched_at": "2026-11-13 19:47:26",
+      "published_cn": "11-13 03:35"
     },
     {
       "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
@@ -33,7 +203,7 @@
       "category": "tech",
       "summary": "2026 年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。<a href=\"https://sspai.com/post/118966\" target=\"_blank\">查看全文</a>",
       "published": 1794530897.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-13 00:48"
     },
     {
@@ -43,7 +213,7 @@
       "category": "tech",
       "summary": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump i",
       "published": 1794530767.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-13 00:46"
     },
     {
@@ -53,7 +223,7 @@
       "category": "tech",
       "summary": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just da",
       "published": 1794528704.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-13 00:11"
     },
     {
@@ -63,7 +233,7 @@
       "category": "tech",
       "summary": "· 接近腾讯人士称「裁员 50%」传闻不实，管理层提出两条 AI 转型路线\n· 张雪：今年已经挣到了「一个小目标」\n· Claude 10 月网站访问量增近 24%，增幅超过 ChatGPT 和 Gemini<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794528046.0,
-      "fetched_at": "2026-11-13 11:09:12",
+      "fetched_at": "2026-11-13 19:47:24",
       "published_cn": "11-13 00:00"
     },
     {
@@ -73,7 +243,7 @@
       "category": "tech",
       "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story",
       "published": 1794527002.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 23:43"
     },
     {
@@ -83,7 +253,7 @@
       "category": "tech",
       "summary": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Ga",
       "published": 1794526252.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 23:30"
     },
     {
@@ -91,9 +261,9 @@
       "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
       "source": "The Verge",
       "category": "tech",
-      "summary": "Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its Microsoft 3",
+      "summary": "Microsoft Outlook continues to be unavailable for people, businesses, and public services across the globe, leaving people unable to access their email, either through the web or apps. Reports around the issue starting r",
       "published": 1794525853.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 23:24"
     },
     {
@@ -103,7 +273,7 @@
       "category": "tech",
       "summary": "更快更便宜还更聪明<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794525071.0,
-      "fetched_at": "2026-11-13 11:09:12",
+      "fetched_at": "2026-11-13 19:47:24",
       "published_cn": "11-12 23:11"
     },
     {
@@ -113,7 +283,7 @@
       "category": "tech",
       "summary": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xb",
       "published": 1794524400.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 23:00"
     },
     {
@@ -123,7 +293,7 @@
       "category": "tech",
       "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
       "published": 1794524391.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 22:59"
     },
     {
@@ -133,7 +303,7 @@
       "category": "finance",
       "summary": "The woman with whom Jensen Huang reportedly had a relationship also owned stakes in companies that provided computing power to Huawei, a key Nvidia competitor.",
       "published": 1794523648.0,
-      "fetched_at": "2026-11-13 11:09:34",
+      "fetched_at": "2026-11-13 19:47:27",
       "published_cn": "11-12 22:47"
     },
     {
@@ -143,7 +313,7 @@
       "category": "tech",
       "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke.",
       "published": 1794523371.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 22:42"
     },
     {
@@ -153,18 +323,8 @@
       "category": "tech",
       "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
       "published": 1794522527.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 22:28"
-    },
-    {
-      "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
-      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
-      "published": 1794522252.0,
-      "fetched_at": "2026-11-13 11:09:34",
-      "published_cn": "11-12 22:24"
     },
     {
       "title": "Muse can now place calls to US businesses — if you pay",
@@ -173,7 +333,7 @@
       "category": "tech",
       "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
       "published": 1794522148.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 22:22"
     },
     {
@@ -183,7 +343,7 @@
       "category": "tech",
       "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break do",
       "published": 1794520532.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 21:55"
     },
     {
@@ -193,7 +353,7 @@
       "category": "tech",
       "summary": "Nvidia announced this morning that Jensen Huang has resigned as CEO following reports of two affairs, including one with an alleged Chinese spy and one with a direct report. The situation surrounding Huang has unfolded q",
       "published": 1794519900.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 21:45"
     },
     {
@@ -203,7 +363,7 @@
       "category": "tech",
       "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
       "published": 1794519300.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 21:35"
     },
     {
@@ -213,18 +373,8 @@
       "category": "tech",
       "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
       "published": 1794518830.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 21:27"
-    },
-    {
-      "title": "Trump says ‘we don’t need a deal with Iran’",
-      "url": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Trump directed Vice President JD Vance to instead focus his attention on corruption and crime in Democratic cities and states.",
-      "published": 1794515671.0,
-      "fetched_at": "2026-11-13 11:09:34",
-      "published_cn": "11-12 20:34"
     },
     {
       "title": "Jensen Huang was having a third affair, Reuters reports",
@@ -233,18 +383,8 @@
       "category": "tech",
       "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
       "published": 1794515207.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 20:26"
-    },
-    {
-      "title": "Jensen Huang is out and Nvidia stock is down—what market pros say about buying dips",
-      "url": "https://www.cnbc.com/make-it/2026/11/12/nvidia-what-market-pros-say-about-buying-dips.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Nvidia stock fell 5% on Thursday following the departure of CEO Jensen Huang. Some see it as a signal to sell, others an opportunity to buy.",
-      "published": 1794513689.0,
-      "fetched_at": "2026-11-13 11:09:34",
-      "published_cn": "11-12 20:01"
     },
     {
       "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
@@ -253,18 +393,8 @@
       "category": "tech",
       "summary": "A livestream Ars discussion is happening on November 17 at 1 pm Eastern Time.",
       "published": 1794513599.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 19:59"
-    },
-    {
-      "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
-      "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "The retention of Wachtell, Lipton for the Nvidia probe comes on the heels of the law firm's investigation for the NBA into the Los Angeles Clippers.",
-      "published": 1794513491.0,
-      "fetched_at": "2026-11-13 11:09:34",
-      "published_cn": "11-12 19:58"
     },
     {
       "title": "The Elder Scrolls' most obscure adventure gets a 4K PC makeover",
@@ -273,7 +403,7 @@
       "category": "tech",
       "summary": "N-Gage exclusive <em>Shadowkey</em> gets an AI-coded glow-up with plenty of new features.",
       "published": 1794512951.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 19:49"
     },
     {
@@ -283,7 +413,7 @@
       "category": "tech",
       "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
       "published": 1794511665.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 19:27"
     },
     {
@@ -293,7 +423,7 @@
       "category": "tech",
       "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
       "published": 1794511383.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 19:23"
     },
     {
@@ -303,7 +433,7 @@
       "category": "tech",
       "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
       "published": 1794510660.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 19:11"
     },
     {
@@ -313,7 +443,7 @@
       "category": "tech",
       "summary": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
       "published": 1794510597.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 19:09"
     },
     {
@@ -323,7 +453,7 @@
       "category": "tech",
       "summary": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
       "published": 1794510219.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 19:03"
     },
     {
@@ -333,7 +463,7 @@
       "category": "tech",
       "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
       "published": 1794509865.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 18:57"
     },
     {
@@ -343,38 +473,88 @@
       "category": "tech",
       "summary": "\"It's hard being the only honest players in a crooked game.\"",
       "published": 1794508718.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 18:38"
     },
     {
-      "title": "IRS announces 2027 401(k) contribution limits, raises savings cap: What it means for your money",
-      "url": "https://www.cnbc.com/2026/11/12/401k-contribution-limits-2027.html",
-      "source": "CNBC",
+      "title": "“黄仁勋危机”将扰乱人工智能行业",
+      "url": "https://www.ftchinese.com/story/001111366",
+      "source": "FT中文网",
       "category": "finance",
-      "summary": "The IRS has announced higher 401(k) contribution limits for 2027. Here’s what retirement savers need to know.",
-      "published": 1794504194.0,
-      "fetched_at": "2026-11-13 11:09:34",
-      "published_cn": "11-12 17:23"
+      "summary": "这位英伟达掌门人的离职，可能会加深华盛顿与北京方面之间的技术裂痕。",
+      "published": 1794499200.0,
+      "fetched_at": "2026-11-13 19:47:27",
+      "published_cn": "11-12 16:00"
     },
     {
-      "title": "從科技巨星到跌落神壇——黃仁勳如何深陷醜聞漩渦？",
-      "url": "https://www.bbc.com/zhongwen/articles/cm3wgp60p952o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "短短幾天內，黃仁勳作為全球科技競賽領軍人物、看似無可撼動的地位便迅速崩塌。",
-      "published": 1794500081.0,
-      "fetched_at": "2026-11-13 11:09:34",
-      "published_cn": "11-12 16:14"
+      "title": "美议员就芯片出口管控问题向卢特尼克施压",
+      "url": "https://www.ftchinese.com/story/001111365",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "国会议员要求特朗普的商务部长解释其为何允许向一家与所谓“中国间谍”有关联的公司销售芯片。",
+      "published": 1794499200.0,
+      "fetched_at": "2026-11-13 19:47:27",
+      "published_cn": "11-12 16:00"
     },
     {
-      "title": "黃仁勳辭職：暫時接掌Nvidia的克雷斯是誰？還有哪些正式接班人選？",
-      "url": "https://www.bbc.com/zhongwen/articles/cm894lw1925eo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "財務長科萊特·克雷斯將暫時接替黃仁勳，但另有數人被視為可能的正式接班人。",
-      "published": 1794499939.0,
-      "fetched_at": "2026-11-13 11:09:34",
-      "published_cn": "11-12 16:12"
+      "title": "今天的英国，为何要为奴隶贸易道歉？",
+      "url": "https://www.ftchinese.com/story/001111364",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "何越：情况并非“今天的英国人用今天的标准衡量古人”，而是“承认什么以及如何评价过去的历史，始终是今天的人要做的最新决定”。",
+      "published": 1794499200.0,
+      "fetched_at": "2026-11-13 19:47:27",
+      "published_cn": "11-12 16:00"
+    },
+    {
+      "title": "首位女性联邦总统即将诞生，德国社会怎么看？",
+      "url": "https://www.ftchinese.com/story/001111362",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "袁杰：目前看下届联邦总统候选人的阵容还不小，艾格纳在民调中遥遥领先，位居榜首。但在执政党的危机时刻，新总统肩负着凝聚人心的重任。",
+      "published": 1794499200.0,
+      "fetched_at": "2026-11-13 19:47:27",
+      "published_cn": "11-12 16:00"
+    },
+    {
+      "title": "钧达海外扩产遇阻　叫停阿曼2.8亿美元项目",
+      "url": "https://www.ftchinese.com/story/001111363",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "光伏电池制造商钧达新能源表示，中东战事、关税不确定性及中国新增的技术出口限制，促使公司作出上述决定。",
+      "published": 1794499200.0,
+      "fetched_at": "2026-11-13 19:47:27",
+      "published_cn": "11-12 16:00"
+    },
+    {
+      "title": "高雄市长选战：辩论杀出来的“人气女王”",
+      "url": "https://www.ftchinese.com/story/001111361",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "叶胜舟：不分性别、年龄、职业、党派，一个真诚执着的人，总是容易让人敬重。柯志恩的辩论表现，蓝营好评如潮，绿营也间接承认技不如人。",
+      "published": 1794499200.0,
+      "fetched_at": "2026-11-13 19:47:27",
+      "published_cn": "11-12 16:00"
+    },
+    {
+      "title": "中国警告美国不要以黄仁勋之事为借口收紧技术出口限制",
+      "url": "https://www.ftchinese.com/story/001111358",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "中国指责美国编造所谓的“间谍叙事”，为实施科技封锁寻找借口。",
+      "published": 1794499200.0,
+      "fetched_at": "2026-11-13 19:47:27",
+      "published_cn": "11-12 16:00"
+    },
+    {
+      "title": "“平价时尚”女王橘朵 加入中国美妆品牌出海行列",
+      "url": "https://www.ftchinese.com/story/001111360",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "继去年在新加坡开设首家海外门店后，彩妆公司橘宜集团再与土耳其零售商Gratis及电商平台Trendyol合作，进军当地市场。",
+      "published": 1794499200.0,
+      "fetched_at": "2026-11-13 19:47:27",
+      "published_cn": "11-12 16:00"
     },
     {
       "title": "突发！黄仁勋辞任 CEO，英伟达迎来历史性换帅",
@@ -383,18 +563,8 @@
       "category": "tech",
       "summary": "黑皮衣传奇谢幕<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794494207.0,
-      "fetched_at": "2026-11-13 11:09:12",
+      "fetched_at": "2026-11-13 19:47:24",
       "published_cn": "11-12 14:36"
-    },
-    {
-      "title": "Nvidia董事會宣佈黃仁勳辭任執行長",
-      "url": "https://www.bbc.com/zhongwen/articles/c63egjy85wq8o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "Nvidia董事會宣布，黃仁勳已辭去公司執行長一職，原任公司執行副總裁兼財務長的科萊特·克雷斯（Colette Kress）已同意出任臨時執行長。",
-      "published": 1794493737.0,
-      "fetched_at": "2026-11-13 11:09:34",
-      "published_cn": "11-12 14:28"
     },
     {
       "title": "26.99 万元起！腾势 N8 上市，内饰最美的比亚迪来了",
@@ -403,7 +573,7 @@
       "category": "tech",
       "summary": "这还是熟悉的比亚迪吗？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794490752.0,
-      "fetched_at": "2026-11-13 11:09:12",
+      "fetched_at": "2026-11-13 19:47:24",
       "published_cn": "11-12 13:39"
     },
     {
@@ -413,7 +583,7 @@
       "category": "world",
       "summary": "<p>After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’</p><p>The Zimbabwean author Simbarashe Kundizeza has been cleared of us",
       "published": 1794489278.0,
-      "fetched_at": "2026-11-13 11:09:34",
+      "fetched_at": "2026-11-13 19:47:28",
       "published_cn": "11-12 13:14"
     },
     {
@@ -423,18 +593,8 @@
       "category": "tech",
       "summary": "旗舰无线头戴，应该有的样子<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794482639.0,
-      "fetched_at": "2026-11-13 11:09:12",
+      "fetched_at": "2026-11-13 19:47:24",
       "published_cn": "11-12 11:23"
-    },
-    {
-      "title": "iPhone Siri AI 体验：距离真正的 AI Phone，苹果还有多远？| 附开通指南",
-      "url": "https://www.ifanr.com/1688980?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "这是一个更好的 Siri，但还不是一个合格的 Agent<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1794480473.0,
-      "fetched_at": "2026-11-13 11:09:12",
-      "published_cn": "11-12 10:47"
     },
     {
       "title": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
@@ -443,18 +603,8 @@
       "category": "tech",
       "summary": "在炎热但逐渐清爽的夏末，我和女朋友去了一趟日本。我尝试用眼用心记录下所见所感，转写成文字。当我重新阅读这些词句，闭上眼睛，仿佛又回到了关西。我希望能把这份心情与光景，也分享给你。4:3/3:4比例的图 ...<a href=\"https://sspai.com/post/118366\" target=\"_blank\">查看全文</a>",
       "published": 1794472645.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 08:37"
-    },
-    {
-      "title": "「你甚至不會告訴密友」：分娩後遺症，為何多年後仍揮之不去？",
-      "url": "https://www.bbc.com/zhongwen/articles/cwr7grvx00yxo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "從失禁到長期疼痛，數以百萬計的女性在分娩數十年後仍然飽受後遺症困擾。",
-      "published": 1794472419.0,
-      "fetched_at": "2026-11-13 11:09:34",
-      "published_cn": "11-12 08:33"
     },
     {
       "title": "Mac 选购指南 2026 冬季版",
@@ -463,28 +613,8 @@
       "category": "tech",
       "summary": "内存、存储涨价但又得换 Mac？记得收下这份选购指南。<a href=\"https://sspai.com/post/85735\" target=\"_blank\">查看全文</a>",
       "published": 1794465724.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 06:42"
-    },
-    {
-      "title": "刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了",
-      "url": "https://www.ifanr.com/1689176?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "国产大模型开始组团办公<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1794459005.0,
-      "fetched_at": "2026-11-13 11:09:12",
-      "published_cn": "11-12 04:50"
-    },
-    {
-      "title": "拆解触屏 MacBook Pro：点亮苹果 LOGO 的秘密，藏在这里",
-      "url": "https://www.ifanr.com/1689129?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "苹果终于听劝了？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1794456007.0,
-      "fetched_at": "2026-11-13 11:09:12",
-      "published_cn": "11-12 04:00"
     },
     {
       "title": "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验",
@@ -493,18 +623,8 @@
       "category": "tech",
       "summary": "玩智能家居这几年，灯光、传感器和开关基本已经靠着Matter和HomeAssistant打通了，唯独多房间音频（Multi-roomAudio）还停留在各自为战的阶段。想让客厅的HomePod、书房的 ...<a href=\"https://sspai.com/post/118921\" target=\"_blank\">查看全文</a>",
       "published": 1794453122.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 03:12"
-    },
-    {
-      "title": "西班牙大罷工：數萬人參與、巴塞羅那爆發警民衝突",
-      "url": "https://www.bbc.com/zhongwen/articles/c8wy5x2q2wryo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "數以萬計民眾參與這場由西班牙主要工會發起的工業行動，抗議住房問題及生活成本高漲。",
-      "published": 1794453040.0,
-      "fetched_at": "2026-11-13 11:09:34",
-      "published_cn": "11-12 03:10"
     },
     {
       "title": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
@@ -513,7 +633,7 @@
       "category": "tech",
       "summary": "Arm 发布 Cortex-M42 处理器、任天堂宣布「轻松登入」功能将下线等。<a href=\"https://sspai.com/post/118935\" target=\"_blank\">查看全文</a>",
       "published": 1794442929.0,
-      "fetched_at": "2026-11-13 11:09:13",
+      "fetched_at": "2026-11-13 19:47:26",
       "published_cn": "11-12 00:22"
     },
     {
@@ -523,7 +643,7 @@
       "category": "world",
       "summary": "<p>Remains believed to have belonged to Africans or Afro-Brazilians repatriated after being flown back by diplomats </p><p>Two skulls, including that of a man believed to have taken part in Brazil’s greatest slave revolt",
       "published": 1794437437.0,
-      "fetched_at": "2026-11-13 11:09:34",
+      "fetched_at": "2026-11-13 19:47:28",
       "published_cn": "11-11 22:50"
     },
     {
@@ -533,48 +653,8 @@
       "category": "world",
       "summary": "<p>Leonardo Bertulazzi, 74, awaiting extradition to Italy, reportedly used harness to flee custody</p><p>A 74-year-old former member of <a href=\"https://www.theguardian.com/world/italy\">Italy</a>’s radical Marxist group ",
       "published": 1794423633.0,
-      "fetched_at": "2026-11-13 11:09:34",
+      "fetched_at": "2026-11-13 19:47:28",
       "published_cn": "11-11 19:00"
-    },
-    {
-      "title": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case",
-      "source": "卫报·世界",
-      "category": "world",
-      "summary": "<p>Lawyer says Britain wrong to believe in historic doctrine that crown has sovereignty over parts of oceans</p><p>Britain should not be permitted to act as a 17th-century colonial power treating the waters around the Fa",
-      "published": 1794413145.0,
-      "fetched_at": "2026-11-13 11:09:34",
-      "published_cn": "11-11 16:05"
-    },
-    {
-      "title": "城市漫步指南 | 安特卫普，时尚就在生活中",
-      "url": "https://sspai.com/post/118781",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "原本今年夏天的旅行是要在佛罗伦萨结束的，但突发状况导致我不用上班了，就顺势使用了我的国际机票退改券，增加了一段安特卫普的行程。打卡安特卫普的理由跟意大利一样奇怪——因为这个地方举办过好几届体操世锦赛（ ...<a href=\"https://sspai.com/post/118781\" target=\"_blank\">查看全文</a>",
-      "published": 1794389400.0,
-      "fetched_at": "2026-11-13 11:09:13",
-      "published_cn": "11-11 09:30"
-    },
-    {
-      "title": "从优胜美地到金门大桥：跟着 macOS 游览加州",
-      "url": "https://sspai.com/post/118175",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？<a href=\"https://sspai.com/post/118175\" target=\"_blank\">查看全文</a>",
-      "published": 1794379839.0,
-      "fetched_at": "2026-11-13 11:09:13",
-      "published_cn": "11-11 06:50"
-    },
-    {
-      "title": "RetroSweeper Go：复古外观、更有手感的扫雷游戏",
-      "url": "https://sspai.com/post/118458",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "复古游戏机风格的界面和「手柄」设计，希望可以唤起你的一些回忆。<a href=\"https://sspai.com/post/118458\" target=\"_blank\">查看全文</a>",
-      "published": 1794366784.0,
-      "fetched_at": "2026-11-13 11:09:13",
-      "published_cn": "11-11 03:13"
     },
     {
       "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
@@ -583,7 +663,7 @@
       "category": "world",
       "summary": "<p>Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red Crescent</p><p>Lewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sendin",
       "published": 1794325166.0,
-      "fetched_at": "2026-11-13 11:09:34",
+      "fetched_at": "2026-11-13 19:47:28",
       "published_cn": "11-10 15:39"
     },
     {
@@ -593,7 +673,7 @@
       "category": "world",
       "summary": "<p>President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo</p><p>Seven people were killed and at least 125 injured when two trains collided on Sunday south of the Egyp",
       "published": 1794160277.0,
-      "fetched_at": "2026-11-13 11:09:34",
+      "fetched_at": "2026-11-13 19:47:28",
       "published_cn": "11-08 17:51"
     },
     {
@@ -603,7 +683,7 @@
       "category": "world",
       "summary": "<p>See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creatives</p><p>African philosophies including exploring how lessons from the p",
       "published": 1794139239.0,
-      "fetched_at": "2026-11-13 11:09:34",
+      "fetched_at": "2026-11-13 19:47:28",
       "published_cn": "11-08 12:00"
     },
     {
@@ -613,7 +693,7 @@
       "category": "world",
       "summary": "<p>Paul Mackenzie convicted over deaths of children and one adult after followers were ordered to starve themselves and their families</p><p>The leader of a Kenyan doomsday sect has been sentenced to 200 years in prison ",
       "published": 1793977723.0,
-      "fetched_at": "2026-11-13 11:09:34",
+      "fetched_at": "2026-11-13 19:47:28",
       "published_cn": "11-06 15:08"
     },
     {
@@ -623,7 +703,7 @@
       "category": "world",
       "summary": "「除籍滿10年」如何計算，成為這屆選舉多位陸配被剔除參選資格的爭議焦點。今年有25位「陸配」參選，當中逾4成參選人不符參選資格。",
       "published": 1793594246.0,
-      "fetched_at": "2026-11-13 11:09:34",
+      "fetched_at": "2026-11-13 19:47:28",
       "published_cn": "11-02 04:37"
     },
     {
@@ -633,7 +713,7 @@
       "category": "world",
       "summary": "作為全台人口最多的直轄市，新北市被視為「最關鍵戰場」，將判定藍綠整體勝負，並可能牽動2028年總統大選。",
       "published": 1793359907.0,
-      "fetched_at": "2026-11-13 11:09:34",
+      "fetched_at": "2026-11-13 19:47:28",
       "published_cn": "10-30 11:31"
     },
     {
@@ -643,12 +723,12 @@
       "category": "world",
       "summary": "中共是否介入台灣選舉？ 這次選舉將如何影響賴清德與國民黨主席鄭麗文的政治能量？捲土重來、希望藉著地方議員選舉有所斬獲的小黨，此次結盟能否在主流政黨夾殺中突圍而出？",
       "published": 1793155508.0,
-      "fetched_at": "2026-11-13 11:09:34",
+      "fetched_at": "2026-11-13 19:47:28",
       "published_cn": "10-28 02:45"
     }
   ],
   "feed_failures": [
     "虎嗅: ReadTimeout HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=20)",
-    "FT中文网: ReadTimeout HTTPSConnectionPool(host='www.ftchinese.com', port=443): Read timed out. (read timeout=20)"
+    "华尔街见闻: HTTPError 404 Client Error: Not Found for url: https://wallstreetcn.com/rss"
   ]
 }

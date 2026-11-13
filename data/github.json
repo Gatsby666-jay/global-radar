@@ -1,23 +1,14 @@
 {
-  "updated_at": "2026-11-13 02:40:37",
+  "updated_at": "2026-11-13 11:09:35",
   "window_days": 7,
   "repos": [
-    {
-      "repo": "NotRexed/Hookshot",
-      "url": "https://github.com/NotRexed/Hookshot",
-      "desc": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
-      "lang": "C++",
-      "stars": 8571,
-      "forks": 787,
-      "created": "2026-11-05"
-    },
     {
       "repo": "huamidev/GestaltX",
       "url": "https://github.com/huamidev/GestaltX",
       "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
       "lang": "Swift",
-      "stars": 6894,
-      "forks": 2537,
+      "stars": 6981,
+      "forks": 2557,
       "created": "2026-11-09"
     },
     {
@@ -25,8 +16,8 @@
       "url": "https://github.com/tangerineturtle1/NX2navi",
       "desc": "",
       "lang": "C",
-      "stars": 3483,
-      "forks": 241,
+      "stars": 3599,
+      "forks": 252,
       "created": "2026-11-07"
     },
     {
@@ -34,89 +25,44 @@
       "url": "https://github.com/jhaizhou-ops/S2Arm",
       "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
       "lang": "C#",
-      "stars": 2750,
-      "forks": 503,
+      "stars": 2777,
+      "forks": 508,
       "created": "2026-11-08"
-    },
-    {
-      "repo": "jamesondh/chimera-vocal-synth",
-      "url": "https://github.com/jamesondh/chimera-vocal-synth",
-      "desc": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
-      "lang": "Rust",
-      "stars": 2128,
-      "forks": 247,
-      "created": "2026-11-05"
     },
     {
       "repo": "JenkinWoo/sheeridVerify",
       "url": "https://github.com/JenkinWoo/sheeridVerify",
       "desc": "",
       "lang": "JavaScript",
-      "stars": 2079,
-      "forks": 1126,
+      "stars": 2097,
+      "forks": 1132,
       "created": "2026-11-06"
-    },
-    {
-      "repo": "IainKay/ram-altman",
-      "url": "https://github.com/IainKay/ram-altman",
-      "desc": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
-      "lang": "Shell",
-      "stars": 2007,
-      "forks": 62,
-      "created": "2026-11-05"
     },
     {
       "repo": "DIYgod/pinky",
       "url": "https://github.com/DIYgod/pinky",
       "desc": "Let AI agents use your phone, with you in the loop.",
       "lang": "Go",
-      "stars": 1992,
-      "forks": 209,
+      "stars": 2013,
+      "forks": 214,
       "created": "2026-11-06"
-    },
-    {
-      "repo": "mmdoctor/google-pro-helper",
-      "url": "https://github.com/mmdoctor/google-pro-helper",
-      "desc": "",
-      "lang": "Python",
-      "stars": 1787,
-      "forks": 602,
-      "created": "2026-11-05"
     },
     {
       "repo": "Kianuni/Erosion-CN",
       "url": "https://github.com/Kianuni/Erosion-CN",
       "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
       "lang": "Swift",
-      "stars": 1715,
-      "forks": 375,
+      "stars": 1739,
+      "forks": 377,
       "created": "2026-11-10"
-    },
-    {
-      "repo": "WoYun520/gif-factory",
-      "url": "https://github.com/WoYun520/gif-factory",
-      "desc": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
-      "lang": "Python",
-      "stars": 1608,
-      "forks": 177,
-      "created": "2026-11-05"
-    },
-    {
-      "repo": "voyager-so/vork",
-      "url": "https://github.com/voyager-so/vork",
-      "desc": "Headless 3D and VFX engine for agents. Research preview.",
-      "lang": "Rust",
-      "stars": 1492,
-      "forks": 125,
-      "created": "2026-11-05"
     },
     {
       "repo": "HybridRobotics/supermimic",
       "url": "https://github.com/HybridRobotics/supermimic",
       "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
       "lang": "Python",
-      "stars": 1292,
-      "forks": 84,
+      "stars": 1326,
+      "forks": 87,
       "created": "2026-11-10"
     },
     {
@@ -129,20 +75,29 @@
       "created": "2026-11-06"
     },
     {
-      "repo": "hembramneeraj3-create/aida-64-extreme",
-      "url": "https://github.com/hembramneeraj3-create/aida-64-extreme",
-      "desc": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
-      "lang": "HTML",
-      "stars": 1207,
-      "forks": 0,
-      "created": "2026-11-06"
+      "repo": "agentes-chat/agentes-chat",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and ",
+      "lang": "TypeScript",
+      "stars": 1209,
+      "forks": 195,
+      "created": "2026-11-09"
     },
     {
       "repo": "abdulmannanmalik13-wq/adobe-substance-3d-studio",
       "url": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio",
       "desc": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
       "lang": "HTML",
-      "stars": 1207,
+      "stars": 1209,
+      "forks": 1,
+      "created": "2026-11-06"
+    },
+    {
+      "repo": "hembramneeraj3-create/aida-64-extreme",
+      "url": "https://github.com/hembramneeraj3-create/aida-64-extreme",
+      "desc": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
+      "lang": "HTML",
+      "stars": 1208,
       "forks": 0,
       "created": "2026-11-06"
     },
@@ -259,7 +214,7 @@
       "url": "https://github.com/sostenesfreitas/ocarina-recomp",
       "desc": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
       "lang": "C",
-      "stars": 1157,
+      "stars": 1167,
       "forks": 76,
       "created": "2026-11-06"
     },
@@ -269,6 +224,51 @@
       "desc": "DVD-Creator 2026: Full Desktop Build, Every Feature Enabled",
       "lang": "HTML",
       "stars": 1155,
+      "forks": 0,
+      "created": "2026-11-06"
+    },
+    {
+      "repo": "RyoTheOne/dxo-photolab-10-config",
+      "url": "https://github.com/RyoTheOne/dxo-photolab-10-config",
+      "desc": "dxo-photolab-10: complete standalone config, ready to run, nothing held back",
+      "lang": "HTML",
+      "stars": 1144,
+      "forks": 0,
+      "created": "2026-11-06"
+    },
+    {
+      "repo": "Luk177Master/easy-worship-desktop",
+      "url": "https://github.com/Luk177Master/easy-worship-desktop",
+      "desc": "Easy-Worship 2026: Complete Standalone Desktop Setup with All Features Enabled",
+      "lang": "HTML",
+      "stars": 1113,
+      "forks": 0,
+      "created": "2026-11-06"
+    },
+    {
+      "repo": "RolandoV3/metatrader-5-bot",
+      "url": "https://github.com/RolandoV3/metatrader-5-bot",
+      "desc": "Community-driven MetaTrader 5 bot with full features ready for desktop use",
+      "lang": "TypeScript",
+      "stars": 1108,
+      "forks": 0,
+      "created": "2026-11-06"
+    },
+    {
+      "repo": "dikshantghimire321-droid/kontakt-8-config",
+      "url": "https://github.com/dikshantghimire321-droid/kontakt-8-config",
+      "desc": "Kontakt 8 desktop utility config: opinionated dotfiles, ready to run",
+      "lang": "HTML",
+      "stars": 1104,
+      "forks": 0,
+      "created": "2026-11-06"
+    },
+    {
+      "repo": "janitoff0/ninjatrader-bot",
+      "url": "https://github.com/janitoff0/ninjatrader-bot",
+      "desc": "Ninjatrader Bot 2026: a friendly, community-driven trading companion packed with powerful features",
+      "lang": "HTML",
+      "stars": 1104,
       "forks": 0,
       "created": "2026-11-06"
     }

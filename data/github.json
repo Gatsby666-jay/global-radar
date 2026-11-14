@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 02:21:30",
+  "updated_at": "2026-11-14 10:54:57",
   "window_days": 7,
   "repos": [
     {
@@ -7,8 +7,8 @@
       "url": "https://github.com/huamidev/GestaltX",
       "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
       "lang": "Swift",
-      "stars": 7253,
-      "forks": 2591,
+      "stars": 7351,
+      "forks": 2600,
       "created": "2026-11-09"
     },
     {
@@ -16,8 +16,8 @@
       "url": "https://github.com/tangerineturtle1/NX2navi",
       "desc": "",
       "lang": "C",
-      "stars": 3804,
-      "forks": 279,
+      "stars": 3919,
+      "forks": 297,
       "created": "2026-11-07"
     },
     {
@@ -25,44 +25,17 @@
       "url": "https://github.com/jhaizhou-ops/S2Arm",
       "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
       "lang": "C#",
-      "stars": 2857,
-      "forks": 521,
+      "stars": 2879,
+      "forks": 522,
       "created": "2026-11-08"
-    },
-    {
-      "repo": "JenkinWoo/sheeridVerify",
-      "url": "https://github.com/JenkinWoo/sheeridVerify",
-      "desc": "",
-      "lang": "JavaScript",
-      "stars": 2576,
-      "forks": 1328,
-      "created": "2026-11-06"
-    },
-    {
-      "repo": "DIYgod/pinky",
-      "url": "https://github.com/DIYgod/pinky",
-      "desc": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
-      "lang": "Go",
-      "stars": 2075,
-      "forks": 226,
-      "created": "2026-11-06"
     },
     {
       "repo": "Kianuni/Erosion-CN",
       "url": "https://github.com/Kianuni/Erosion-CN",
       "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
       "lang": "Swift",
-      "stars": 1897,
-      "forks": 403,
-      "created": "2026-11-10"
-    },
-    {
-      "repo": "HybridRobotics/supermimic",
-      "url": "https://github.com/HybridRobotics/supermimic",
-      "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
-      "lang": "Python",
-      "stars": 1421,
-      "forks": 92,
+      "stars": 1938,
+      "forks": 408,
       "created": "2026-11-10"
     },
     {
@@ -70,207 +43,234 @@
       "url": "https://github.com/apex-compute/ANR",
       "desc": "Apex Neural Rendering (ANR) by Apex Compute",
       "lang": "C++",
-      "stars": 1362,
-      "forks": 20,
+      "stars": 1505,
+      "forks": 21,
       "created": "2026-11-11"
+    },
+    {
+      "repo": "HybridRobotics/supermimic",
+      "url": "https://github.com/HybridRobotics/supermimic",
+      "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "lang": "Python",
+      "stars": 1442,
+      "forks": 93,
+      "created": "2026-11-10"
     },
     {
       "repo": "agentes-chat/agentes-chat",
       "url": "https://github.com/agentes-chat/agentes-chat",
       "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and ",
       "lang": "TypeScript",
-      "stars": 1318,
-      "forks": 220,
+      "stars": 1348,
+      "forks": 231,
       "created": "2026-11-09"
     },
     {
       "repo": "FrigadeHQ/yogurt",
       "url": "https://github.com/FrigadeHQ/yogurt",
-      "desc": "Private AI meeting notes. Free and open source.",
+      "desc": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
       "lang": "TypeScript",
-      "stars": 1216,
-      "forks": 49,
+      "stars": 1298,
+      "forks": 57,
       "created": "2026-11-10"
     },
     {
-      "repo": "mahmoudtawfik1998/secure-pdf-document-processor",
-      "url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
-      "desc": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
-      "lang": "HTML",
-      "stars": 1212,
-      "forks": 2,
-      "created": "2026-11-06"
+      "repo": "HolyArrs/HolyArrs",
+      "url": "https://github.com/HolyArrs/HolyArrs",
+      "desc": "One self-hosted app for your shows, movies and music.",
+      "lang": "Go",
+      "stars": 1104,
+      "forks": 57,
+      "created": "2026-11-09"
     },
     {
-      "repo": "abdulmannanmalik13-wq/adobe-substance-3d-studio",
-      "url": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio",
-      "desc": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
-      "lang": "HTML",
-      "stars": 1210,
-      "forks": 1,
-      "created": "2026-11-06"
+      "repo": "Th0rgal/satmux",
+      "url": "https://github.com/Th0rgal/satmux",
+      "desc": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
+      "lang": "Python",
+      "stars": 1075,
+      "forks": 51,
+      "created": "2026-11-07"
     },
     {
-      "repo": "hembramneeraj3-create/aida-64-extreme",
-      "url": "https://github.com/hembramneeraj3-create/aida-64-extreme",
-      "desc": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
-      "lang": "HTML",
-      "stars": 1208,
-      "forks": 1,
-      "created": "2026-11-06"
+      "repo": "Goblinmine/homelab-diagram",
+      "url": "https://github.com/Goblinmine/homelab-diagram",
+      "desc": "Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.",
+      "lang": "Python",
+      "stars": 989,
+      "forks": 84,
+      "created": "2026-11-07"
     },
     {
-      "repo": "sajawal-12/cubase-studio-desktop",
-      "url": "https://github.com/sajawal-12/cubase-studio-desktop",
-      "desc": "Cubase Studio 2026 desktop setup with full plugin suite and complete feature set",
-      "lang": "HTML",
-      "stars": 1201,
-      "forks": 0,
-      "created": "2026-11-06"
-    },
-    {
-      "repo": "tss878/delta-executor-toolkit",
-      "url": "https://github.com/tss878/delta-executor-toolkit",
-      "desc": "Delta Executor for PC: Full Working Installer with All Tools Pre-Configured",
+      "repo": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "desc": "Chat Demo",
       "lang": "TypeScript",
-      "stars": 1199,
-      "forks": 0,
-      "created": "2026-11-06"
+      "stars": 877,
+      "forks": 151,
+      "created": "2026-11-12"
     },
     {
-      "repo": "Arda313131882/aion-2-trainer-tool",
-      "url": "https://github.com/Arda313131882/aion-2-trainer-tool",
-      "desc": "Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup",
-      "lang": "HTML",
-      "stars": 1199,
-      "forks": 0,
-      "created": "2026-11-06"
+      "repo": "dabingfy-dot/solo-to-team-skills",
+      "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
+      "desc": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
+      "lang": "—",
+      "stars": 846,
+      "forks": 90,
+      "created": "2026-11-07"
     },
     {
-      "repo": "ebtsamalhakmy-sketch/desktop-backup-suite",
-      "url": "https://github.com/ebtsamalhakmy-sketch/desktop-backup-suite",
-      "desc": "Aomei Backupper 2026: Full-Feature Desktop Backup and Recovery Suite",
+      "repo": "kolbicz/WQFiles",
+      "url": "https://github.com/kolbicz/WQFiles",
+      "desc": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
+      "lang": "Objective-C",
+      "stars": 807,
+      "forks": 60,
+      "created": "2026-11-09"
+    },
+    {
+      "repo": "serveroshq/panel",
+      "url": "https://github.com/serveroshq/panel",
+      "desc": "The open source ServerOS panel: one place to run the Linux servers you already own.",
+      "lang": "PHP",
+      "stars": 752,
+      "forks": 59,
+      "created": "2026-11-09"
+    },
+    {
+      "repo": "alexeyw/lot-map",
+      "url": "https://github.com/alexeyw/lot-map",
+      "desc": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
       "lang": "TypeScript",
-      "stars": 1199,
-      "forks": 0,
-      "created": "2026-11-06"
+      "stars": 743,
+      "forks": 87,
+      "created": "2026-11-09"
     },
     {
-      "repo": "IsaiaR09/daemon-pro-desktop",
-      "url": "https://github.com/IsaiaR09/daemon-pro-desktop",
-      "desc": "daemon-pro: Complete Standalone Desktop Setup with Full Feature setup",
-      "lang": "HTML",
-      "stars": 1198,
-      "forks": 0,
-      "created": "2026-11-06"
+      "repo": "Goldoire/fefw-recomp",
+      "url": "https://github.com/Goldoire/fefw-recomp",
+      "desc": "Native Windows PC port of Fire Emblem: Fortune's Weave by static recompilation. Bring your own dump; no game files included.",
+      "lang": "C++",
+      "stars": 710,
+      "forks": 67,
+      "created": "2026-11-07"
     },
     {
-      "repo": "kcgeekedup-hash/delta-force-trainer-tool",
-      "url": "https://github.com/kcgeekedup-hash/delta-force-trainer-tool",
-      "desc": "Delta Force Trainer Tool: Full Working Installer With All Tools and Configurations",
-      "lang": "HTML",
-      "stars": 1197,
-      "forks": 0,
-      "created": "2026-11-06"
-    },
-    {
-      "repo": "sostenesfreitas/ocarina-recomp",
-      "url": "https://github.com/sostenesfreitas/ocarina-recomp",
-      "desc": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+      "repo": "adriadam10/mkw-recomp",
+      "url": "https://github.com/adriadam10/mkw-recomp",
+      "desc": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
       "lang": "C",
-      "stars": 1182,
-      "forks": 76,
-      "created": "2026-11-06"
+      "stars": 708,
+      "forks": 37,
+      "created": "2026-11-09"
     },
     {
-      "repo": "Elegantic/designcenter-nx-desktop",
-      "url": "https://github.com/Elegantic/designcenter-nx-desktop",
-      "desc": "Designcenter-NX: Full-Feature Desktop Installer for Immediate Deployment",
-      "lang": "HTML",
-      "stars": 1182,
-      "forks": 0,
-      "created": "2026-11-06"
-    },
-    {
-      "repo": "Vesuvio1/display-fusion",
-      "url": "https://github.com/Vesuvio1/display-fusion",
-      "desc": "Display Fusion 2026 standalone desktop setup with complete feature configuration",
-      "lang": "HTML",
-      "stars": 1175,
-      "forks": 0,
-      "created": "2026-11-06"
-    },
-    {
-      "repo": "Sanidhya0510/dvd-creator-game-enhancement",
-      "url": "https://github.com/Sanidhya0510/dvd-creator-game-enhancement",
-      "desc": "DVD-Creator 2026: Full Desktop Build, Every Feature Enabled",
-      "lang": "HTML",
-      "stars": 1155,
-      "forks": 0,
-      "created": "2026-11-06"
-    },
-    {
-      "repo": "RyoTheOne/dxo-photolab-10-config",
-      "url": "https://github.com/RyoTheOne/dxo-photolab-10-config",
-      "desc": "dxo-photolab-10: complete standalone config, ready to run, nothing held back",
-      "lang": "HTML",
-      "stars": 1144,
-      "forks": 0,
-      "created": "2026-11-06"
-    },
-    {
-      "repo": "Luk177Master/easy-worship-desktop",
-      "url": "https://github.com/Luk177Master/easy-worship-desktop",
-      "desc": "Easy-Worship 2026: Complete Standalone Desktop Setup with All Features Enabled",
-      "lang": "HTML",
-      "stars": 1113,
-      "forks": 0,
-      "created": "2026-11-06"
-    },
-    {
-      "repo": "RolandoV3/metatrader-5-bot",
-      "url": "https://github.com/RolandoV3/metatrader-5-bot",
-      "desc": "Community-driven MetaTrader 5 bot with full features ready for desktop use",
+      "repo": "JDhruv14/line-art-animation",
+      "url": "https://github.com/JDhruv14/line-art-animation",
+      "desc": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
       "lang": "TypeScript",
-      "stars": 1110,
-      "forks": 0,
-      "created": "2026-11-06"
+      "stars": 664,
+      "forks": 106,
+      "created": "2026-11-10"
     },
     {
-      "repo": "dikshantghimire321-droid/kontakt-8-config",
-      "url": "https://github.com/dikshantghimire321-droid/kontakt-8-config",
-      "desc": "Kontakt 8 desktop utility config: opinionated dotfiles, ready to run",
-      "lang": "HTML",
-      "stars": 1104,
-      "forks": 0,
-      "created": "2026-11-06"
+      "repo": "lxe/phoneuse",
+      "url": "https://github.com/lxe/phoneuse",
+      "desc": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
+      "lang": "Python",
+      "stars": 649,
+      "forks": 61,
+      "created": "2026-11-07"
     },
     {
-      "repo": "janitoff0/ninjatrader-bot",
-      "url": "https://github.com/janitoff0/ninjatrader-bot",
-      "desc": "Ninjatrader Bot 2026: a friendly, community-driven trading companion packed with powerful features",
-      "lang": "HTML",
-      "stars": 1104,
-      "forks": 0,
-      "created": "2026-11-06"
+      "repo": "forcequitOS/worse_query",
+      "url": "https://github.com/forcequitOS/worse_query",
+      "desc": "A sandbox escape for iOS 26 and 27, again",
+      "lang": "Objective-C",
+      "stars": 617,
+      "forks": 152,
+      "created": "2026-11-08"
     },
     {
-      "repo": "leanislizarzado/ibm-spss-desktop-suite",
-      "url": "https://github.com/leanislizarzado/ibm-spss-desktop-suite",
-      "desc": "IBM SPSS Statistics 2026 Standalone Setup with Full Feature Configuration",
-      "lang": "HTML",
-      "stars": 1104,
+      "repo": "DevedevT/FFmpeg-GUI-Editor-Windows",
+      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
+      "desc": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
+      "lang": "Visual Basic .NET",
+      "stars": 541,
       "forks": 0,
-      "created": "2026-11-06"
+      "created": "2026-11-12"
     },
     {
-      "repo": "SirBonney/scrcpy-mirror-control",
-      "url": "https://github.com/SirBonney/scrcpy-mirror-control",
-      "desc": "Android Screen Mirroring and Control Workflow, Simplified",
-      "lang": "HTML",
-      "stars": 1104,
-      "forks": 1,
-      "created": "2026-11-06"
+      "repo": "LNPANDY/HGhub-MacOS-iOS-Version",
+      "url": "https://github.com/LNPANDY/HGhub-MacOS-iOS-Version",
+      "desc": "HGhub 跨平台客户端 (macOS & iOS 增强版) · 支持 Apple Silicon / Intel 双架构 DMG 与 iOS 免签 IPA · 沉浸式刷剧 / 手势缩放 / 原生横屏全屏 / 多线路镜像测速",
+      "lang": "—",
+      "stars": 518,
+      "forks": 320,
+      "created": "2026-11-07"
+    },
+    {
+      "repo": "AIRzZ90/study-materials-fork",
+      "url": "https://github.com/AIRzZ90/study-materials-fork",
+      "desc": "A cross-platform Tauri 2 interface and interaction practice project",
+      "lang": "TypeScript",
+      "stars": 499,
+      "forks": 711,
+      "created": "2026-11-12"
+    },
+    {
+      "repo": "Robbyant/lingbot-touch",
+      "url": "https://github.com/Robbyant/lingbot-touch",
+      "desc": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+      "lang": "Python",
+      "stars": 495,
+      "forks": 5,
+      "created": "2026-11-09"
+    },
+    {
+      "repo": "makepad/relax",
+      "url": "https://github.com/makepad/relax",
+      "desc": "Relax Rust JIT",
+      "lang": "Rust",
+      "stars": 494,
+      "forks": 27,
+      "created": "2026-11-11"
+    },
+    {
+      "repo": "luobinger/PerkRadar",
+      "url": "https://github.com/luobinger/PerkRadar",
+      "desc": "PerkRadar — A self-hosted deals aggregator that fetches freebies, limited-time offers, and discounts from multiple sources every two hours, with source status tracking, expiration handling, and person",
+      "lang": "TypeScript",
+      "stars": 493,
+      "forks": 99,
+      "created": "2026-11-08"
+    },
+    {
+      "repo": "Dodaios/ste80-humanizer",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "desc": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "lang": "Python",
+      "stars": 490,
+      "forks": 29,
+      "created": "2026-11-09"
+    },
+    {
+      "repo": "21stware/bowel",
+      "url": "https://github.com/21stware/bowel",
+      "desc": "Bowel is a mihomo client for macOS, Windows, Linux and Android.",
+      "lang": "Go",
+      "stars": 484,
+      "forks": 25,
+      "created": "2026-11-07"
+    },
+    {
+      "repo": "TooonyChen/finallyshell",
+      "url": "https://github.com/TooonyChen/finallyshell",
+      "desc": "类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI",
+      "lang": "Go",
+      "stars": 474,
+      "forks": 47,
+      "created": "2026-11-07"
     }
   ],
   "note": ""

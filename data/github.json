@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 10:54:57",
+  "updated_at": "2026-11-14 19:08:57",
   "window_days": 7,
   "repos": [
     {
@@ -7,8 +7,8 @@
       "url": "https://github.com/huamidev/GestaltX",
       "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
       "lang": "Swift",
-      "stars": 7351,
-      "forks": 2600,
+      "stars": 7473,
+      "forks": 2620,
       "created": "2026-11-09"
     },
     {
@@ -16,8 +16,8 @@
       "url": "https://github.com/tangerineturtle1/NX2navi",
       "desc": "",
       "lang": "C",
-      "stars": 3919,
-      "forks": 297,
+      "stars": 3996,
+      "forks": 305,
       "created": "2026-11-07"
     },
     {
@@ -25,8 +25,8 @@
       "url": "https://github.com/jhaizhou-ops/S2Arm",
       "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
       "lang": "C#",
-      "stars": 2879,
-      "forks": 522,
+      "stars": 2916,
+      "forks": 526,
       "created": "2026-11-08"
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/Kianuni/Erosion-CN",
       "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
       "lang": "Swift",
-      "stars": 1938,
-      "forks": 408,
+      "stars": 1993,
+      "forks": 418,
       "created": "2026-11-10"
     },
     {
@@ -43,8 +43,8 @@
       "url": "https://github.com/apex-compute/ANR",
       "desc": "Apex Neural Rendering (ANR) by Apex Compute",
       "lang": "C++",
-      "stars": 1505,
-      "forks": 21,
+      "stars": 1620,
+      "forks": 25,
       "created": "2026-11-11"
     },
     {
@@ -52,17 +52,26 @@
       "url": "https://github.com/HybridRobotics/supermimic",
       "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
       "lang": "Python",
-      "stars": 1442,
-      "forks": 93,
+      "stars": 1476,
+      "forks": 99,
       "created": "2026-11-10"
+    },
+    {
+      "repo": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "desc": "Chat Demo",
+      "lang": "TypeScript",
+      "stars": 1367,
+      "forks": 227,
+      "created": "2026-11-12"
     },
     {
       "repo": "agentes-chat/agentes-chat",
       "url": "https://github.com/agentes-chat/agentes-chat",
       "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and ",
       "lang": "TypeScript",
-      "stars": 1348,
-      "forks": 231,
+      "stars": 1363,
+      "forks": 239,
       "created": "2026-11-09"
     },
     {
@@ -70,8 +79,8 @@
       "url": "https://github.com/FrigadeHQ/yogurt",
       "desc": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
       "lang": "TypeScript",
-      "stars": 1298,
-      "forks": 57,
+      "stars": 1350,
+      "forks": 65,
       "created": "2026-11-10"
     },
     {
@@ -79,7 +88,7 @@
       "url": "https://github.com/HolyArrs/HolyArrs",
       "desc": "One self-hosted app for your shows, movies and music.",
       "lang": "Go",
-      "stars": 1104,
+      "stars": 1136,
       "forks": 57,
       "created": "2026-11-09"
     },
@@ -88,35 +97,35 @@
       "url": "https://github.com/Th0rgal/satmux",
       "desc": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
       "lang": "Python",
-      "stars": 1075,
+      "stars": 1083,
       "forks": 51,
       "created": "2026-11-07"
+    },
+    {
+      "repo": "DevedevT/FFmpeg-GUI-Editor-Windows",
+      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
+      "desc": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
+      "lang": "Visual Basic .NET",
+      "stars": 1040,
+      "forks": 0,
+      "created": "2026-11-12"
     },
     {
       "repo": "Goblinmine/homelab-diagram",
       "url": "https://github.com/Goblinmine/homelab-diagram",
       "desc": "Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.",
       "lang": "Python",
-      "stars": 989,
-      "forks": 84,
+      "stars": 1001,
+      "forks": 85,
       "created": "2026-11-07"
-    },
-    {
-      "repo": "deepseek-ai/chat-demo",
-      "url": "https://github.com/deepseek-ai/chat-demo",
-      "desc": "Chat Demo",
-      "lang": "TypeScript",
-      "stars": 877,
-      "forks": 151,
-      "created": "2026-11-12"
     },
     {
       "repo": "dabingfy-dot/solo-to-team-skills",
       "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
       "desc": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
       "lang": "—",
-      "stars": 846,
-      "forks": 90,
+      "stars": 865,
+      "forks": 94,
       "created": "2026-11-07"
     },
     {
@@ -124,17 +133,8 @@
       "url": "https://github.com/kolbicz/WQFiles",
       "desc": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
       "lang": "Objective-C",
-      "stars": 807,
+      "stars": 831,
       "forks": 60,
-      "created": "2026-11-09"
-    },
-    {
-      "repo": "serveroshq/panel",
-      "url": "https://github.com/serveroshq/panel",
-      "desc": "The open source ServerOS panel: one place to run the Linux servers you already own.",
-      "lang": "PHP",
-      "stars": 752,
-      "forks": 59,
       "created": "2026-11-09"
     },
     {
@@ -142,26 +142,26 @@
       "url": "https://github.com/alexeyw/lot-map",
       "desc": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
       "lang": "TypeScript",
-      "stars": 743,
+      "stars": 770,
       "forks": 87,
       "created": "2026-11-09"
     },
     {
-      "repo": "Goldoire/fefw-recomp",
-      "url": "https://github.com/Goldoire/fefw-recomp",
-      "desc": "Native Windows PC port of Fire Emblem: Fortune's Weave by static recompilation. Bring your own dump; no game files included.",
-      "lang": "C++",
-      "stars": 710,
-      "forks": 67,
-      "created": "2026-11-07"
+      "repo": "serveroshq/panel",
+      "url": "https://github.com/serveroshq/panel",
+      "desc": "The open source ServerOS panel: one place to run the Linux servers you already own.",
+      "lang": "PHP",
+      "stars": 766,
+      "forks": 61,
+      "created": "2026-11-09"
     },
     {
       "repo": "adriadam10/mkw-recomp",
       "url": "https://github.com/adriadam10/mkw-recomp",
       "desc": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
       "lang": "C",
-      "stars": 708,
-      "forks": 37,
+      "stars": 760,
+      "forks": 40,
       "created": "2026-11-09"
     },
     {
@@ -169,8 +169,8 @@
       "url": "https://github.com/JDhruv14/line-art-animation",
       "desc": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
       "lang": "TypeScript",
-      "stars": 664,
-      "forks": 106,
+      "stars": 690,
+      "forks": 110,
       "created": "2026-11-10"
     },
     {
@@ -178,7 +178,7 @@
       "url": "https://github.com/lxe/phoneuse",
       "desc": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
       "lang": "Python",
-      "stars": 649,
+      "stars": 655,
       "forks": 61,
       "created": "2026-11-07"
     },
@@ -187,90 +187,90 @@
       "url": "https://github.com/forcequitOS/worse_query",
       "desc": "A sandbox escape for iOS 26 and 27, again",
       "lang": "Objective-C",
-      "stars": 617,
-      "forks": 152,
+      "stars": 622,
+      "forks": 155,
       "created": "2026-11-08"
-    },
-    {
-      "repo": "DevedevT/FFmpeg-GUI-Editor-Windows",
-      "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
-      "desc": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
-      "lang": "Visual Basic .NET",
-      "stars": 541,
-      "forks": 0,
-      "created": "2026-11-12"
-    },
-    {
-      "repo": "LNPANDY/HGhub-MacOS-iOS-Version",
-      "url": "https://github.com/LNPANDY/HGhub-MacOS-iOS-Version",
-      "desc": "HGhub 跨平台客户端 (macOS & iOS 增强版) · 支持 Apple Silicon / Intel 双架构 DMG 与 iOS 免签 IPA · 沉浸式刷剧 / 手势缩放 / 原生横屏全屏 / 多线路镜像测速",
-      "lang": "—",
-      "stars": 518,
-      "forks": 320,
-      "created": "2026-11-07"
     },
     {
       "repo": "AIRzZ90/study-materials-fork",
       "url": "https://github.com/AIRzZ90/study-materials-fork",
       "desc": "A cross-platform Tauri 2 interface and interaction practice project",
       "lang": "TypeScript",
-      "stars": 499,
-      "forks": 711,
+      "stars": 571,
+      "forks": 740,
       "created": "2026-11-12"
     },
     {
-      "repo": "Robbyant/lingbot-touch",
-      "url": "https://github.com/Robbyant/lingbot-touch",
-      "desc": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
-      "lang": "Python",
-      "stars": 495,
-      "forks": 5,
-      "created": "2026-11-09"
+      "repo": "opencoredev/islandcn",
+      "url": "https://github.com/opencoredev/islandcn",
+      "desc": "The open-source Dynamic Island for React, installed with shadcn.",
+      "lang": "TypeScript",
+      "stars": 536,
+      "forks": 48,
+      "created": "2026-11-13"
     },
     {
       "repo": "makepad/relax",
       "url": "https://github.com/makepad/relax",
       "desc": "Relax Rust JIT",
       "lang": "Rust",
-      "stars": 494,
+      "stars": 521,
       "forks": 27,
       "created": "2026-11-11"
     },
     {
-      "repo": "luobinger/PerkRadar",
-      "url": "https://github.com/luobinger/PerkRadar",
-      "desc": "PerkRadar — A self-hosted deals aggregator that fetches freebies, limited-time offers, and discounts from multiple sources every two hours, with source status tracking, expiration handling, and person",
-      "lang": "TypeScript",
-      "stars": 493,
-      "forks": 99,
-      "created": "2026-11-08"
+      "repo": "LNPANDY/HGhub-MacOS-iOS-Version",
+      "url": "https://github.com/LNPANDY/HGhub-MacOS-iOS-Version",
+      "desc": "HGhub 跨平台客户端 (macOS & iOS 增强版) · 支持 Apple Silicon / Intel 双架构 DMG 与 iOS 免签 IPA · 沉浸式刷剧 / 手势缩放 / 原生横屏全屏 / 多线路镜像测速",
+      "lang": "—",
+      "stars": 514,
+      "forks": 326,
+      "created": "2026-11-07"
+    },
+    {
+      "repo": "Robbyant/lingbot-touch",
+      "url": "https://github.com/Robbyant/lingbot-touch",
+      "desc": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+      "lang": "Python",
+      "stars": 512,
+      "forks": 5,
+      "created": "2026-11-09"
     },
     {
       "repo": "Dodaios/ste80-humanizer",
       "url": "https://github.com/Dodaios/ste80-humanizer",
       "desc": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
       "lang": "Python",
-      "stars": 490,
+      "stars": 499,
       "forks": 29,
       "created": "2026-11-09"
+    },
+    {
+      "repo": "luobinger/PerkRadar",
+      "url": "https://github.com/luobinger/PerkRadar",
+      "desc": "PerkRadar — A self-hosted deals aggregator that fetches freebies, limited-time offers, and discounts from multiple sources every two hours, with source status tracking, expiration handling, and person",
+      "lang": "TypeScript",
+      "stars": 494,
+      "forks": 100,
+      "created": "2026-11-08"
     },
     {
       "repo": "21stware/bowel",
       "url": "https://github.com/21stware/bowel",
       "desc": "Bowel is a mihomo client for macOS, Windows, Linux and Android.",
       "lang": "Go",
-      "stars": 484,
+      "stars": 490,
       "forks": 25,
       "created": "2026-11-07"
     },
     {
-      "repo": "TooonyChen/finallyshell",
-      "url": "https://github.com/TooonyChen/finallyshell",
-      "desc": "类finalshell的ssh客户端 // An source-available finalshell copy, with go runtime and mygo UI",
-      "lang": "Go",
-      "stars": 474,
-      "forks": 47,
-      "created": "2026-11-07"
+      "repo": "rivet-dev/open-orange",
+      "url": "https://github.com/rivet-dev/open-orange",
+      "desc": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
+      "lang": "TypeScript",
+      "stars": 486,
+      "forks": 18,
+      "created": "2026-11-12"
     }
   ],
   "note": ""

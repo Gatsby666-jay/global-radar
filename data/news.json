@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14 10:54:56",
+  "updated_at": "2026-11-14 19:08:56",
   "categories": [
     "tech",
     "finance",
@@ -7,23 +7,63 @@
   ],
   "items": [
     {
-      "title": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
-      "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+      "title": "U.S. flights resume after FAA ground stop, but travel disruption continues",
+      "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
       "source": "CNBC",
       "category": "finance",
-      "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, disrupting thousands of departing of flights.",
-      "published": 1794623628.0,
-      "fetched_at": "2026-11-14 10:54:55",
-      "published_cn": "11-14 02:33"
+      "summary": "U.S. flights are resuming after the FAA ground stop, but delays and cancellations are still piling up.",
+      "published": 1794650683.0,
+      "fetched_at": "2026-11-14 19:08:56",
+      "published_cn": "11-14 10:04"
+    },
+    {
+      "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
+      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
+      "published": 1794643888.0,
+      "fetched_at": "2026-11-14 19:08:56",
+      "published_cn": "11-14 08:11"
+    },
+    {
+      "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+      "url": "https://sspai.com/post/118276",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/118276\" target=\"_blank\">查看全文</a>",
+      "published": 1794642021.0,
+      "fetched_at": "2026-11-14 19:08:55",
+      "published_cn": "11-14 07:40"
+    },
+    {
+      "title": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one",
+      "url": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Jensen Huang’s exit tests Nvidia’s succession planning and governance, and offers lessons for companies that elevate their CEOs to rockstar status.",
+      "published": 1794640125.0,
+      "fetched_at": "2026-11-14 19:08:56",
+      "published_cn": "11-14 07:08"
+    },
+    {
+      "title": "黃仁勳辭職風波：從「中國間諜」熱議到資本市場「冷熱分化」",
+      "url": "https://www.bbc.com/zhongwen/articles/cjn50zq2n7v1o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "中國官方否認相關指控，批評所謂「中國間諜」的論調純屬污衊，但並未全面封殺討論，相關詞條仍頻頻登上微博熱搜和小紅書熱帖。而在互聯網防火牆的內外，輿論正朝著截然不同的方向發酵。",
+      "published": 1794636773.0,
+      "fetched_at": "2026-11-14 19:08:56",
+      "published_cn": "11-14 06:12"
     },
     {
       "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
       "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
       "source": "The Verge",
       "category": "tech",
-      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be ",
+      "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after the s",
       "published": 1794621184.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-14 01:53"
     },
     {
@@ -33,7 +73,7 @@
       "category": "finance",
       "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
       "published": 1794620051.0,
-      "fetched_at": "2026-11-14 10:54:55",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-14 01:34"
     },
     {
@@ -43,7 +83,7 @@
       "category": "finance",
       "summary": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.",
       "published": 1794619131.0,
-      "fetched_at": "2026-11-14 10:54:55",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-14 01:18"
     },
     {
@@ -53,8 +93,18 @@
       "category": "tech",
       "summary": "One way or another, the company will get some more data on Saturday.",
       "published": 1794617353.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-14 00:49"
+    },
+    {
+      "title": "早报｜英伟达员工请愿黄仁勋回归/余承东重申华为与赛力斯分工/Microsoft 365故障延续至48小时",
+      "url": "https://www.ifanr.com/1689450?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "· 两部门公布新型储能方案，提出到 2030 年平均储能约 3 小时\n· LangChain 完成 3 亿美元 C 轮融资，估值 30 亿美元\n· 荣耀 700 系列定档 11 月 23 日，背屏可贴 GIF、看通知<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1794614442.0,
+      "fetched_at": "2026-11-14 19:08:52",
+      "published_cn": "11-14 00:00"
     },
     {
       "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
@@ -63,7 +113,7 @@
       "category": "finance",
       "summary": "The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.",
       "published": 1794614076.0,
-      "fetched_at": "2026-11-14 10:54:55",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-13 23:54"
     },
     {
@@ -73,7 +123,7 @@
       "category": "tech",
       "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, cal",
       "published": 1794613751.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 23:49"
     },
     {
@@ -83,17 +133,17 @@
       "category": "finance",
       "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
       "published": 1794613338.0,
-      "fetched_at": "2026-11-14 10:54:55",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-13 23:42"
     },
     {
-      "title": "FAA orders third nationwide ground stop in its history",
+      "title": "FAA has lifted its third-ever nationwide ground stop",
       "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
       "source": "Ars Technica",
       "category": "tech",
-      "summary": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots.",
+      "summary": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
       "published": 1794611858.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 23:17"
     },
     {
@@ -103,7 +153,7 @@
       "category": "tech",
       "summary": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
       "published": 1794610800.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 23:00"
     },
     {
@@ -113,18 +163,8 @@
       "category": "tech",
       "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
       "published": 1794609780.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 22:43"
-    },
-    {
-      "title": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
-      "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Jensen Huang's resignation added to Nvidia's market woes, with the stock already in a downward slide since early October.",
-      "published": 1794608323.0,
-      "fetched_at": "2026-11-14 10:54:55",
-      "published_cn": "11-13 22:18"
     },
     {
       "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
@@ -133,7 +173,7 @@
       "category": "tech",
       "summary": "Cost and access barriers are pushing people to modified use and unapproved versions.",
       "published": 1794607141.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 21:59"
     },
     {
@@ -143,7 +183,7 @@
       "category": "tech",
       "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
       "published": 1794606278.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 21:44"
     },
     {
@@ -153,18 +193,8 @@
       "category": "tech",
       "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
       "published": 1794604847.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 21:20"
-    },
-    {
-      "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
-      "url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
-      "published": 1794604710.0,
-      "fetched_at": "2026-11-14 10:54:55",
-      "published_cn": "11-13 21:18"
     },
     {
       "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
@@ -173,7 +203,7 @@
       "category": "tech",
       "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US ",
       "published": 1794602710.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 20:45"
     },
     {
@@ -183,7 +213,7 @@
       "category": "tech",
       "summary": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for ju",
       "published": 1794601800.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 20:30"
     },
     {
@@ -193,7 +223,7 @@
       "category": "tech",
       "summary": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
       "published": 1794600444.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 20:07"
     },
     {
@@ -203,8 +233,18 @@
       "category": "tech",
       "summary": "In Sri Lanka, ecological change is shrinking a park's elephant population.",
       "published": 1794600193.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 20:03"
+    },
+    {
+      "title": "After Jensen Huang’s exit, what top financial advisors are doing with Nvidia: Exclusive CNBC poll",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-advisors-jensen-huang-exit-exclusive-poll.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Advisors say investors should weigh their Nvidia exposure, time horizon and risk tolerance before reacting to the leadership change.",
+      "published": 1794599618.0,
+      "fetched_at": "2026-11-14 19:08:56",
+      "published_cn": "11-13 19:53"
     },
     {
       "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted \"optics\" weren't good",
@@ -213,7 +253,7 @@
       "category": "tech",
       "summary": "Trump son advised Kalshi and got equity while Trump admin helped Kalshi in lawsuits.",
       "published": 1794599356.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 19:49"
     },
     {
@@ -223,7 +263,7 @@
       "category": "tech",
       "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
       "published": 1794598677.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 19:37"
     },
     {
@@ -233,7 +273,7 @@
       "category": "tech",
       "summary": "The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you a few bucks on your dig",
       "published": 1794597278.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 19:14"
     },
     {
@@ -243,7 +283,7 @@
       "category": "tech",
       "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
       "published": 1794595230.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 18:40"
     },
     {
@@ -253,18 +293,8 @@
       "category": "tech",
       "summary": "新 M8 的升级，主打「实用主义」。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794593976.0,
-      "fetched_at": "2026-11-14 10:54:52",
+      "fetched_at": "2026-11-14 19:08:52",
       "published_cn": "11-13 18:19"
-    },
-    {
-      "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
-      "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
-      "published": 1794593908.0,
-      "fetched_at": "2026-11-14 10:54:55",
-      "published_cn": "11-13 18:18"
     },
     {
       "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
@@ -273,7 +303,7 @@
       "category": "tech",
       "summary": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like ",
       "published": 1794593441.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 18:10"
     },
     {
@@ -283,7 +313,7 @@
       "category": "tech",
       "summary": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-inten",
       "published": 1794591862.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 17:44"
     },
     {
@@ -293,7 +323,7 @@
       "category": "tech",
       "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
       "published": 1794590745.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 17:25"
     },
     {
@@ -303,7 +333,7 @@
       "category": "tech",
       "summary": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wa",
       "published": 1794589976.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 17:12"
     },
     {
@@ -313,7 +343,7 @@
       "category": "tech",
       "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
       "published": 1794587192.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 16:26"
     },
     {
@@ -323,7 +353,7 @@
       "category": "tech",
       "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
       "published": 1794585612.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 16:00"
     },
     {
@@ -333,7 +363,7 @@
       "category": "tech",
       "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
       "published": 1794585480.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 15:58"
     },
     {
@@ -343,7 +373,7 @@
       "category": "tech",
       "summary": "iPhone 20 会是一台伟大的产品吗？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794584688.0,
-      "fetched_at": "2026-11-14 10:54:52",
+      "fetched_at": "2026-11-14 19:08:52",
       "published_cn": "11-13 15:44"
     },
     {
@@ -353,7 +383,7 @@
       "category": "world",
       "summary": "台灣在過去七年間，幾乎每年都有大型選舉、罷免或公投。有學者形容台灣政治人物常處於「選舉模式」，在面對不同議題時往往急於回應。",
       "published": 1794566346.0,
-      "fetched_at": "2026-11-14 10:54:55",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-13 10:39"
     },
     {
@@ -363,7 +393,7 @@
       "category": "tech",
       "summary": "世界模型的竞争要开始了吗<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794564295.0,
-      "fetched_at": "2026-11-14 10:54:52",
+      "fetched_at": "2026-11-14 19:08:52",
       "published_cn": "11-13 10:04"
     },
     {
@@ -373,18 +403,8 @@
       "category": "world",
       "summary": "黃仁勳光速跌落神壇的事件，讓台灣社會對他的崇拜、政治對他的政績綁定，以及產業對他個人的依賴重新校準。",
       "published": 1794563471.0,
-      "fetched_at": "2026-11-14 10:54:55",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-13 09:51"
-    },
-    {
-      "title": "黃仁勳辭職餘波：中國輿論場上的「間諜」迷因、選舉猜想與股價「黑天鵝」",
-      "url": "https://www.bbc.com/zhongwen/articles/cjn50zq2n7v1o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "接連被揭發兩段婚外情後，黃仁勳於週四（11月12日）辭職。事件曝光後的一個禮拜內，全球媒體、社交軟體全部捲入這次事件，民眾對於「中國間諜」展開討論，股民亦為黃仁勳事件買單，輿論依然持續發酵，且沒有停下的趨勢。",
-      "published": 1794562778.0,
-      "fetched_at": "2026-11-14 10:54:55",
-      "published_cn": "11-13 09:39"
     },
     {
       "title": "本周看什么 | 最近值得一看的 10 部作品",
@@ -393,7 +413,7 @@
       "category": "tech",
       "summary": "📅本周新预告《银翼杀手2099》终极预告11月10日，剧集《银翼杀手2099》发布了终极预告，将于11月25日上线PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，为了彻底结束逃亡生活 ...<a href=\"https://sspai.com/post/118999\" target=\"_blank\">查看全文</a>",
       "published": 1794562762.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 09:39"
     },
     {
@@ -403,7 +423,7 @@
       "category": "world",
       "summary": "<p>Heavy rain and strong winds have also caused disruption across British Columbia, Canada, over the last week </p><p>Storm Charles has brought destructive weather to the Iberian peninsula this week, particularly in Port",
       "published": 1794559759.0,
-      "fetched_at": "2026-11-14 10:54:56",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-13 08:49"
     },
     {
@@ -413,7 +433,7 @@
       "category": "tech",
       "summary": "没有黄仁勋的英伟达会怎样？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794558696.0,
-      "fetched_at": "2026-11-14 10:54:52",
+      "fetched_at": "2026-11-14 19:08:52",
       "published_cn": "11-13 08:31"
     },
     {
@@ -423,7 +443,7 @@
       "category": "world",
       "summary": "BBC臥底調查揭露一場精心策劃的騙局，協助富裕移民透過快速通道取得英國永久居留權。",
       "published": 1794558473.0,
-      "fetched_at": "2026-11-14 10:54:55",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-13 08:27"
     },
     {
@@ -433,7 +453,7 @@
       "category": "world",
       "summary": "監測網站顯示，這次中斷影響74個國家的用戶，已持續超過八小時。",
       "published": 1794555138.0,
-      "fetched_at": "2026-11-14 10:54:55",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-13 07:32"
     },
     {
@@ -443,7 +463,7 @@
       "category": "tech",
       "summary": "AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。<a href=\"https://sspai.com/post/118153\" target=\"_blank\">查看全文</a>",
       "published": 1794553200.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 07:00"
     },
     {
@@ -453,7 +473,7 @@
       "category": "tech",
       "summary": "真正决定公司未来十年身位的，是谁先动手重建那座名叫「智能组织」的新厂房。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794551659.0,
-      "fetched_at": "2026-11-14 10:54:52",
+      "fetched_at": "2026-11-14 19:08:52",
       "published_cn": "11-13 06:34"
     },
     {
@@ -463,7 +483,7 @@
       "category": "tech",
       "summary": "距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows ...<a href=\"https://sspai.com/post/118512\" target=\"_blank\">查看全文</a>",
       "published": 1794540948.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 03:35"
     },
     {
@@ -473,7 +493,7 @@
       "category": "tech",
       "summary": "2026 年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。<a href=\"https://sspai.com/post/118966\" target=\"_blank\">查看全文</a>",
       "published": 1794530897.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-13 00:48"
     },
     {
@@ -483,7 +503,7 @@
       "category": "tech",
       "summary": "· 接近腾讯人士称「裁员 50%」传闻不实，管理层提出两条 AI 转型路线\n· 张雪：今年已经挣到了「一个小目标」\n· Claude 10 月网站访问量增近 24%，增幅超过 ChatGPT 和 Gemini<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794528046.0,
-      "fetched_at": "2026-11-14 10:54:52",
+      "fetched_at": "2026-11-14 19:08:52",
       "published_cn": "11-13 00:00"
     },
     {
@@ -493,7 +513,7 @@
       "category": "tech",
       "summary": "更快更便宜还更聪明<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794525071.0,
-      "fetched_at": "2026-11-14 10:54:52",
+      "fetched_at": "2026-11-14 19:08:52",
       "published_cn": "11-12 23:11"
     },
     {
@@ -503,7 +523,7 @@
       "category": "finance",
       "summary": "现已辞职的英伟达CEO黄仁勋此前一直支持美国继续对华销售芯片。",
       "published": 1794499200.0,
-      "fetched_at": "2026-11-14 10:54:55",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-12 16:00"
     },
     {
@@ -513,7 +533,7 @@
       "category": "finance",
       "summary": "这位英伟达掌门人的离职，可能会加深华盛顿与北京方面之间的技术裂痕。",
       "published": 1794499200.0,
-      "fetched_at": "2026-11-14 10:54:55",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-12 16:00"
     },
     {
@@ -523,7 +543,7 @@
       "category": "finance",
       "summary": "国会议员要求特朗普的商务部长解释其为何允许向一家与所谓“中国间谍”有关联的公司销售芯片。",
       "published": 1794499200.0,
-      "fetched_at": "2026-11-14 10:54:55",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-12 16:00"
     },
     {
@@ -533,7 +553,7 @@
       "category": "finance",
       "summary": "何越：情况并非“今天的英国人用今天的标准衡量古人”，而是“承认什么以及如何评价过去的历史，始终是今天的人要做的最新决定”。",
       "published": 1794499200.0,
-      "fetched_at": "2026-11-14 10:54:55",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-12 16:00"
     },
     {
@@ -543,7 +563,7 @@
       "category": "finance",
       "summary": "袁杰：目前看下届联邦总统候选人的阵容还不小，艾格纳在民调中遥遥领先，位居榜首。但在执政党的危机时刻，新总统肩负着凝聚人心的重任。",
       "published": 1794499200.0,
-      "fetched_at": "2026-11-14 10:54:55",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-12 16:00"
     },
     {
@@ -553,7 +573,7 @@
       "category": "finance",
       "summary": "光伏电池制造商钧达新能源表示，中东战事、关税不确定性及中国新增的技术出口限制，促使公司作出上述决定。",
       "published": 1794499200.0,
-      "fetched_at": "2026-11-14 10:54:55",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-12 16:00"
     },
     {
@@ -563,7 +583,7 @@
       "category": "finance",
       "summary": "叶胜舟：不分性别、年龄、职业、党派，一个真诚执着的人，总是容易让人敬重。柯志恩的辩论表现，蓝营好评如潮，绿营也间接承认技不如人。",
       "published": 1794499200.0,
-      "fetched_at": "2026-11-14 10:54:55",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-12 16:00"
     },
     {
@@ -573,18 +593,8 @@
       "category": "finance",
       "summary": "中国指责美国编造所谓的“间谍叙事”，为实施科技封锁寻找借口。",
       "published": 1794499200.0,
-      "fetched_at": "2026-11-14 10:54:55",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-12 16:00"
-    },
-    {
-      "title": "突发！黄仁勋辞任 CEO，英伟达迎来历史性换帅",
-      "url": "https://www.ifanr.com/1689249?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "黑皮衣传奇谢幕<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1794494207.0,
-      "fetched_at": "2026-11-14 10:54:52",
-      "published_cn": "11-12 14:36"
     },
     {
       "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
@@ -593,7 +603,7 @@
       "category": "world",
       "summary": "<p>After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’</p><p>The Zimbabwean author Simbarashe Kundizeza has been cleared of us",
       "published": 1794489278.0,
-      "fetched_at": "2026-11-14 10:54:56",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-12 13:14"
     },
     {
@@ -603,7 +613,7 @@
       "category": "tech",
       "summary": "在炎热但逐渐清爽的夏末，我和女朋友去了一趟日本。我尝试用眼用心记录下所见所感，转写成文字。当我重新阅读这些词句，闭上眼睛，仿佛又回到了关西。我希望能把这份心情与光景，也分享给你。4:3/3:4比例的图 ...<a href=\"https://sspai.com/post/118366\" target=\"_blank\">查看全文</a>",
       "published": 1794472645.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-12 08:37"
     },
     {
@@ -613,7 +623,7 @@
       "category": "tech",
       "summary": "内存、存储涨价但又得换 Mac？记得收下这份选购指南。<a href=\"https://sspai.com/post/85735\" target=\"_blank\">查看全文</a>",
       "published": 1794465724.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-12 06:42"
     },
     {
@@ -623,18 +633,8 @@
       "category": "tech",
       "summary": "玩智能家居这几年，灯光、传感器和开关基本已经靠着Matter和HomeAssistant打通了，唯独多房间音频（Multi-roomAudio）还停留在各自为战的阶段。想让客厅的HomePod、书房的 ...<a href=\"https://sspai.com/post/118921\" target=\"_blank\">查看全文</a>",
       "published": 1794453122.0,
-      "fetched_at": "2026-11-14 10:54:54",
+      "fetched_at": "2026-11-14 19:08:55",
       "published_cn": "11-12 03:12"
-    },
-    {
-      "title": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
-      "url": "https://sspai.com/post/118935",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "Arm 发布 Cortex-M42 处理器、任天堂宣布「轻松登入」功能将下线等。<a href=\"https://sspai.com/post/118935\" target=\"_blank\">查看全文</a>",
-      "published": 1794442929.0,
-      "fetched_at": "2026-11-14 10:54:54",
-      "published_cn": "11-12 00:22"
     },
     {
       "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
@@ -643,7 +643,7 @@
       "category": "world",
       "summary": "<p>Remains believed to have belonged to Africans or Afro-Brazilians repatriated after being flown back by diplomats </p><p>Two skulls, including that of a man believed to have taken part in Brazil’s greatest slave revolt",
       "published": 1794437437.0,
-      "fetched_at": "2026-11-14 10:54:56",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-11 22:50"
     },
     {
@@ -653,7 +653,7 @@
       "category": "world",
       "summary": "<p>Leonardo Bertulazzi, 74, awaiting extradition to Italy, reportedly used harness to flee custody</p><p>A 74-year-old former member of <a href=\"https://www.theguardian.com/world/italy\">Italy</a>’s radical Marxist group ",
       "published": 1794423633.0,
-      "fetched_at": "2026-11-14 10:54:56",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-11 19:00"
     },
     {
@@ -663,7 +663,7 @@
       "category": "world",
       "summary": "<p>Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red Crescent</p><p>Lewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sendin",
       "published": 1794325166.0,
-      "fetched_at": "2026-11-14 10:54:56",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-10 15:39"
     },
     {
@@ -673,7 +673,7 @@
       "category": "world",
       "summary": "<p>President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo</p><p>Seven people were killed and at least 125 injured when two trains collided on Sunday south of the Egyp",
       "published": 1794160277.0,
-      "fetched_at": "2026-11-14 10:54:56",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-08 17:51"
     },
     {
@@ -683,7 +683,7 @@
       "category": "world",
       "summary": "<p>See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creatives</p><p>African philosophies including exploring how lessons from the p",
       "published": 1794139239.0,
-      "fetched_at": "2026-11-14 10:54:56",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-08 12:00"
     },
     {
@@ -693,7 +693,7 @@
       "category": "world",
       "summary": "<p>Paul Mackenzie convicted over deaths of children and one adult after followers were ordered to starve themselves and their families</p><p>The leader of a Kenyan doomsday sect has been sentenced to 200 years in prison ",
       "published": 1793977723.0,
-      "fetched_at": "2026-11-14 10:54:56",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-06 15:08"
     },
     {
@@ -703,7 +703,7 @@
       "category": "world",
       "summary": "「除籍滿10年」如何計算，成為這屆選舉多位陸配被剔除參選資格的爭議焦點。今年有25位「陸配」參選，當中逾4成參選人不符參選資格。",
       "published": 1793594246.0,
-      "fetched_at": "2026-11-14 10:54:55",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "11-02 04:37"
     },
     {
@@ -713,7 +713,7 @@
       "category": "world",
       "summary": "作為全台人口最多的直轄市，新北市被視為「最關鍵戰場」，將判定藍綠整體勝負，並可能牽動2028年總統大選。",
       "published": 1793359907.0,
-      "fetched_at": "2026-11-14 10:54:55",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "10-30 11:31"
     },
     {
@@ -723,12 +723,11 @@
       "category": "world",
       "summary": "中共是否介入台灣選舉？ 這次選舉將如何影響賴清德與國民黨主席鄭麗文的政治能量？捲土重來、希望藉著地方議員選舉有所斬獲的小黨，此次結盟能否在主流政黨夾殺中突圍而出？",
       "published": 1793155508.0,
-      "fetched_at": "2026-11-14 10:54:55",
+      "fetched_at": "2026-11-14 19:08:56",
       "published_cn": "10-28 02:45"
     }
   ],
   "feed_failures": [
-    "虎嗅: ReadTimeout HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=20)",
-    "华尔街见闻: HTTPError 404 Client Error: Not Found for url: https://wallstreetcn.com/rss"
+    "虎嗅: ReadTimeout HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=20)"
   ]
 }

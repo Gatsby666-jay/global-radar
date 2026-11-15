@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 10:24:49",
+  "updated_at": "2026-11-15 19:42:23",
   "window_days": 7,
   "repos": [
     {
@@ -7,8 +7,8 @@
       "url": "https://github.com/huamidev/GestaltX",
       "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
       "lang": "Swift",
-      "stars": 7581,
-      "forks": 2640,
+      "stars": 7664,
+      "forks": 2655,
       "created": "2026-11-09"
     },
     {
@@ -16,8 +16,8 @@
       "url": "https://github.com/jhaizhou-ops/S2Arm",
       "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
       "lang": "C#",
-      "stars": 3005,
-      "forks": 547,
+      "stars": 3093,
+      "forks": 554,
       "created": "2026-11-08"
     },
     {
@@ -25,44 +25,44 @@
       "url": "https://github.com/Kianuni/Erosion-CN",
       "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
       "lang": "Swift",
-      "stars": 2063,
-      "forks": 423,
+      "stars": 2101,
+      "forks": 426,
       "created": "2026-11-10"
-    },
-    {
-      "repo": "apex-compute/ANR",
-      "url": "https://github.com/apex-compute/ANR",
-      "desc": "Apex Neural Rendering (ANR) by Apex Compute",
-      "lang": "C++",
-      "stars": 1847,
-      "forks": 29,
-      "created": "2026-11-11"
     },
     {
       "repo": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
       "desc": "Chat Demo",
       "lang": "TypeScript",
-      "stars": 1795,
-      "forks": 298,
+      "stars": 2017,
+      "forks": 340,
       "created": "2026-11-12"
     },
     {
-      "repo": "HybridRobotics/supermimic",
-      "url": "https://github.com/HybridRobotics/supermimic",
-      "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
-      "lang": "Python",
-      "stars": 1502,
-      "forks": 102,
-      "created": "2026-11-10"
+      "repo": "apex-compute/ANR",
+      "url": "https://github.com/apex-compute/ANR",
+      "desc": "Apex Neural Rendering (ANR) by Apex Compute",
+      "lang": "C++",
+      "stars": 1928,
+      "forks": 30,
+      "created": "2026-11-11"
     },
     {
       "repo": "FrigadeHQ/yogurt",
       "url": "https://github.com/FrigadeHQ/yogurt",
       "desc": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
       "lang": "TypeScript",
-      "stars": 1501,
-      "forks": 81,
+      "stars": 1557,
+      "forks": 89,
+      "created": "2026-11-10"
+    },
+    {
+      "repo": "HybridRobotics/supermimic",
+      "url": "https://github.com/HybridRobotics/supermimic",
+      "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
+      "lang": "Python",
+      "stars": 1525,
+      "forks": 104,
       "created": "2026-11-10"
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/agentes-chat/agentes-chat",
       "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and ",
       "lang": "TypeScript",
-      "stars": 1406,
-      "forks": 248,
+      "stars": 1453,
+      "forks": 255,
       "created": "2026-11-09"
     },
     {
@@ -79,8 +79,17 @@
       "url": "https://github.com/HolyArrs/HolyArrs",
       "desc": "One self-hosted app for your shows, movies and music.",
       "lang": "Go",
-      "stars": 1188,
+      "stars": 1217,
       "forks": 61,
+      "created": "2026-11-09"
+    },
+    {
+      "repo": "adriadam10/mkw-recomp",
+      "url": "https://github.com/adriadam10/mkw-recomp",
+      "desc": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
+      "lang": "C",
+      "stars": 1056,
+      "forks": 60,
       "created": "2026-11-09"
     },
     {
@@ -88,26 +97,17 @@
       "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
       "desc": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
       "lang": "Visual Basic .NET",
-      "stars": 1049,
+      "stars": 1054,
       "forks": 1,
       "created": "2026-11-12"
-    },
-    {
-      "repo": "adriadam10/mkw-recomp",
-      "url": "https://github.com/adriadam10/mkw-recomp",
-      "desc": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
-      "lang": "C",
-      "stars": 939,
-      "forks": 51,
-      "created": "2026-11-09"
     },
     {
       "repo": "kolbicz/WQFiles",
       "url": "https://github.com/kolbicz/WQFiles",
       "desc": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
       "lang": "Objective-C",
-      "stars": 860,
-      "forks": 63,
+      "stars": 885,
+      "forks": 67,
       "created": "2026-11-09"
     },
     {
@@ -115,8 +115,8 @@
       "url": "https://github.com/alexeyw/lot-map",
       "desc": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
       "lang": "TypeScript",
-      "stars": 836,
-      "forks": 88,
+      "stars": 850,
+      "forks": 89,
       "created": "2026-11-09"
     },
     {
@@ -124,26 +124,44 @@
       "url": "https://github.com/serveroshq/panel",
       "desc": "The open source ServerOS panel: one place to run the Linux servers you already own.",
       "lang": "PHP",
-      "stars": 799,
-      "forks": 63,
+      "stars": 824,
+      "forks": 65,
       "created": "2026-11-09"
+    },
+    {
+      "repo": "Eynnzerr/TelemetryCleaner",
+      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
+      "desc": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+      "lang": "Kotlin",
+      "stars": 805,
+      "forks": 73,
+      "created": "2026-11-11"
     },
     {
       "repo": "JDhruv14/line-art-animation",
       "url": "https://github.com/JDhruv14/line-art-animation",
       "desc": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
       "lang": "TypeScript",
-      "stars": 760,
-      "forks": 124,
+      "stars": 802,
+      "forks": 125,
       "created": "2026-11-10"
+    },
+    {
+      "repo": "duwqijlk/muse-protocol",
+      "url": "https://github.com/duwqijlk/muse-protocol",
+      "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+      "lang": "Python",
+      "stars": 737,
+      "forks": 346,
+      "created": "2026-11-14"
     },
     {
       "repo": "opencoredev/islandcn",
       "url": "https://github.com/opencoredev/islandcn",
       "desc": "The open-source Dynamic Island for React, installed with shadcn.",
       "lang": "TypeScript",
-      "stars": 678,
-      "forks": 56,
+      "stars": 705,
+      "forks": 57,
       "created": "2026-11-13"
     },
     {
@@ -160,7 +178,7 @@
       "url": "https://github.com/WarriorRemember/IPTV_Player_2.0",
       "desc": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
       "lang": "Rust",
-      "stars": 672,
+      "stars": 673,
       "forks": 12,
       "created": "2026-11-14"
     },
@@ -172,6 +190,15 @@
       "stars": 672,
       "forks": 12,
       "created": "2026-11-14"
+    },
+    {
+      "repo": "Noniv/abyssal-garden",
+      "url": "https://github.com/Noniv/abyssal-garden",
+      "desc": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound fi",
+      "lang": "JavaScript",
+      "stars": 671,
+      "forks": 103,
+      "created": "2026-11-12"
     },
     {
       "repo": "TrapAccountant/GitHub-Copilot-app",
@@ -219,10 +246,19 @@
       "created": "2026-11-14"
     },
     {
+      "repo": "toppatronweave/GitHub-Copilot-app",
+      "url": "https://github.com/toppatronweave/GitHub-Copilot-app",
+      "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "lang": "—",
+      "stars": 666,
+      "forks": 309,
+      "created": "2026-11-14"
+    },
+    {
       "repo": "Trapbraneedle/IPTV_Player_2.0",
       "url": "https://github.com/Trapbraneedle/IPTV_Player_2.0",
       "desc": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
-      "lang": "Go",
+      "lang": "Rust",
       "stars": 666,
       "forks": 12,
       "created": "2026-11-14"
@@ -234,42 +270,6 @@
       "lang": "—",
       "stars": 666,
       "forks": 12,
-      "created": "2026-11-14"
-    },
-    {
-      "repo": "Titanlushrink/IPTV_Player_2.0",
-      "url": "https://github.com/Titanlushrink/IPTV_Player_2.0",
-      "desc": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
-      "lang": "Rust",
-      "stars": 665,
-      "forks": 12,
-      "created": "2026-11-14"
-    },
-    {
-      "repo": "TradesmanRecord/GitHub-Copilot-app",
-      "url": "https://github.com/TradesmanRecord/GitHub-Copilot-app",
-      "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-      "lang": "—",
-      "stars": 665,
-      "forks": 12,
-      "created": "2026-11-14"
-    },
-    {
-      "repo": "toppatronweave/ai--manus2.0",
-      "url": "https://github.com/toppatronweave/ai--manus2.0",
-      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
-      "lang": "—",
-      "stars": 665,
-      "forks": 5,
-      "created": "2026-11-14"
-    },
-    {
-      "repo": "toppatronweave/GitHub-Copilot-app",
-      "url": "https://github.com/toppatronweave/GitHub-Copilot-app",
-      "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
-      "lang": "—",
-      "stars": 665,
-      "forks": 309,
       "created": "2026-11-14"
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15 00:49:56",
+  "updated_at": "2026-11-15 10:24:49",
   "window_days": 7,
   "repos": [
     {
@@ -7,26 +7,17 @@
       "url": "https://github.com/huamidev/GestaltX",
       "desc": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
       "lang": "Swift",
-      "stars": 7530,
-      "forks": 2635,
+      "stars": 7581,
+      "forks": 2640,
       "created": "2026-11-09"
-    },
-    {
-      "repo": "tangerineturtle1/NX2navi",
-      "url": "https://github.com/tangerineturtle1/NX2navi",
-      "desc": "",
-      "lang": "C",
-      "stars": 4053,
-      "forks": 310,
-      "created": "2026-11-07"
     },
     {
       "repo": "jhaizhou-ops/S2Arm",
       "url": "https://github.com/jhaizhou-ops/S2Arm",
       "desc": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iP",
       "lang": "C#",
-      "stars": 2952,
-      "forks": 540,
+      "stars": 3005,
+      "forks": 547,
       "created": "2026-11-08"
     },
     {
@@ -34,8 +25,8 @@
       "url": "https://github.com/Kianuni/Erosion-CN",
       "desc": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版）",
       "lang": "Swift",
-      "stars": 2040,
-      "forks": 421,
+      "stars": 2063,
+      "forks": 423,
       "created": "2026-11-10"
     },
     {
@@ -43,7 +34,7 @@
       "url": "https://github.com/apex-compute/ANR",
       "desc": "Apex Neural Rendering (ANR) by Apex Compute",
       "lang": "C++",
-      "stars": 1730,
+      "stars": 1847,
       "forks": 29,
       "created": "2026-11-11"
     },
@@ -52,8 +43,8 @@
       "url": "https://github.com/deepseek-ai/chat-demo",
       "desc": "Chat Demo",
       "lang": "TypeScript",
-      "stars": 1622,
-      "forks": 268,
+      "stars": 1795,
+      "forks": 298,
       "created": "2026-11-12"
     },
     {
@@ -61,8 +52,8 @@
       "url": "https://github.com/HybridRobotics/supermimic",
       "desc": "Humanoid whole-body motion tracking with one differentiable world model.",
       "lang": "Python",
-      "stars": 1489,
-      "forks": 100,
+      "stars": 1502,
+      "forks": 102,
       "created": "2026-11-10"
     },
     {
@@ -70,8 +61,8 @@
       "url": "https://github.com/FrigadeHQ/yogurt",
       "desc": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
       "lang": "TypeScript",
-      "stars": 1401,
-      "forks": 72,
+      "stars": 1501,
+      "forks": 81,
       "created": "2026-11-10"
     },
     {
@@ -79,8 +70,8 @@
       "url": "https://github.com/agentes-chat/agentes-chat",
       "desc": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and ",
       "lang": "TypeScript",
-      "stars": 1382,
-      "forks": 244,
+      "stars": 1406,
+      "forks": 248,
       "created": "2026-11-09"
     },
     {
@@ -88,62 +79,35 @@
       "url": "https://github.com/HolyArrs/HolyArrs",
       "desc": "One self-hosted app for your shows, movies and music.",
       "lang": "Go",
-      "stars": 1159,
-      "forks": 59,
+      "stars": 1188,
+      "forks": 61,
       "created": "2026-11-09"
-    },
-    {
-      "repo": "Th0rgal/satmux",
-      "url": "https://github.com/Th0rgal/satmux",
-      "desc": "Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT Ground-TLS + zlib (zero dependencies)",
-      "lang": "Python",
-      "stars": 1084,
-      "forks": 51,
-      "created": "2026-11-07"
     },
     {
       "repo": "DevedevT/FFmpeg-GUI-Editor-Windows",
       "url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
       "desc": "Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-use .exe). Supports English, Russian, Chinese, German, French & Italian.",
       "lang": "Visual Basic .NET",
-      "stars": 1044,
-      "forks": 0,
+      "stars": 1049,
+      "forks": 1,
       "created": "2026-11-12"
-    },
-    {
-      "repo": "Goblinmine/homelab-diagram",
-      "url": "https://github.com/Goblinmine/homelab-diagram",
-      "desc": "Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.",
-      "lang": "Python",
-      "stars": 1028,
-      "forks": 87,
-      "created": "2026-11-07"
-    },
-    {
-      "repo": "dabingfy-dot/solo-to-team-skills",
-      "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
-      "desc": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
-      "lang": "—",
-      "stars": 875,
-      "forks": 95,
-      "created": "2026-11-07"
-    },
-    {
-      "repo": "kolbicz/WQFiles",
-      "url": "https://github.com/kolbicz/WQFiles",
-      "desc": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
-      "lang": "Objective-C",
-      "stars": 844,
-      "forks": 61,
-      "created": "2026-11-09"
     },
     {
       "repo": "adriadam10/mkw-recomp",
       "url": "https://github.com/adriadam10/mkw-recomp",
       "desc": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
       "lang": "C",
-      "stars": 821,
-      "forks": 45,
+      "stars": 939,
+      "forks": 51,
+      "created": "2026-11-09"
+    },
+    {
+      "repo": "kolbicz/WQFiles",
+      "url": "https://github.com/kolbicz/WQFiles",
+      "desc": "File browser, app data manager and cache cleaner for iOS 26 and 27 (worse_query, no jailbreak)",
+      "lang": "Objective-C",
+      "stars": 860,
+      "forks": 63,
       "created": "2026-11-09"
     },
     {
@@ -151,7 +115,7 @@
       "url": "https://github.com/alexeyw/lot-map",
       "desc": "A live map beside the chat that shows what Claude Code is doing: tool calls, model steps, hooks, skills and subagents light up as they happen. Local only, in 7 languages.",
       "lang": "TypeScript",
-      "stars": 795,
+      "stars": 836,
       "forks": 88,
       "created": "2026-11-09"
     },
@@ -160,8 +124,8 @@
       "url": "https://github.com/serveroshq/panel",
       "desc": "The open source ServerOS panel: one place to run the Linux servers you already own.",
       "lang": "PHP",
-      "stars": 781,
-      "forks": 62,
+      "stars": 799,
+      "forks": 63,
       "created": "2026-11-09"
     },
     {
@@ -169,108 +133,144 @@
       "url": "https://github.com/JDhruv14/line-art-animation",
       "desc": "A Claude skill and TypeScript library for animated line-art SVG components: ink figures that walk and react, scenes with a day/night cycle.",
       "lang": "TypeScript",
-      "stars": 725,
-      "forks": 118,
+      "stars": 760,
+      "forks": 124,
       "created": "2026-11-10"
-    },
-    {
-      "repo": "lxe/phoneuse",
-      "url": "https://github.com/lxe/phoneuse",
-      "desc": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
-      "lang": "Python",
-      "stars": 657,
-      "forks": 61,
-      "created": "2026-11-07"
-    },
-    {
-      "repo": "forcequitOS/worse_query",
-      "url": "https://github.com/forcequitOS/worse_query",
-      "desc": "A sandbox escape for iOS 26 and 27, again",
-      "lang": "Objective-C",
-      "stars": 631,
-      "forks": 154,
-      "created": "2026-11-08"
     },
     {
       "repo": "opencoredev/islandcn",
       "url": "https://github.com/opencoredev/islandcn",
       "desc": "The open-source Dynamic Island for React, installed with shadcn.",
       "lang": "TypeScript",
-      "stars": 624,
-      "forks": 55,
+      "stars": 678,
+      "forks": 56,
       "created": "2026-11-13"
     },
     {
-      "repo": "AIRzZ90/study-materials-fork",
-      "url": "https://github.com/AIRzZ90/study-materials-fork",
-      "desc": "A cross-platform Tauri 2 interface and interaction practice project",
-      "lang": "TypeScript",
-      "stars": 617,
-      "forks": 757,
-      "created": "2026-11-12"
-    },
-    {
-      "repo": "Dodaios/ste80-humanizer",
-      "url": "https://github.com/Dodaios/ste80-humanizer",
-      "desc": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
-      "lang": "Python",
-      "stars": 539,
-      "forks": 35,
-      "created": "2026-11-09"
-    },
-    {
-      "repo": "makepad/relax",
-      "url": "https://github.com/makepad/relax",
-      "desc": "Relax Rust JIT",
-      "lang": "Rust",
-      "stars": 533,
-      "forks": 27,
-      "created": "2026-11-11"
-    },
-    {
-      "repo": "Robbyant/lingbot-touch",
-      "url": "https://github.com/Robbyant/lingbot-touch",
-      "desc": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
-      "lang": "Python",
-      "stars": 523,
-      "forks": 5,
-      "created": "2026-11-09"
-    },
-    {
-      "repo": "rivet-dev/open-orange",
-      "url": "https://github.com/rivet-dev/open-orange",
-      "desc": "Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your own servers.",
-      "lang": "TypeScript",
-      "stars": 519,
-      "forks": 19,
-      "created": "2026-11-12"
-    },
-    {
-      "repo": "LNPANDY/HGhub-MacOS-iOS-Version",
-      "url": "https://github.com/LNPANDY/HGhub-MacOS-iOS-Version",
-      "desc": "HGhub 跨平台客户端 (macOS & iOS 增强版) · 支持 Apple Silicon / Intel 双架构 DMG 与 iOS 免签 IPA · 沉浸式刷剧 / 手势缩放 / 原生横屏全屏 / 多线路镜像测速",
+      "repo": "Topkiflare74/ai--manus2.0",
+      "url": "https://github.com/Topkiflare74/ai--manus2.0",
+      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
       "lang": "—",
-      "stars": 516,
-      "forks": 330,
-      "created": "2026-11-07"
+      "stars": 678,
+      "forks": 5,
+      "created": "2026-11-14"
     },
     {
-      "repo": "luobinger/PerkRadar",
-      "url": "https://github.com/luobinger/PerkRadar",
-      "desc": "PerkRadar — A self-hosted deals aggregator that fetches freebies, limited-time offers, and discounts from multiple sources every two hours, with source status tracking, expiration handling, and person",
-      "lang": "TypeScript",
-      "stars": 497,
-      "forks": 101,
-      "created": "2026-11-08"
+      "repo": "WarriorRemember/IPTV_Player_2.0",
+      "url": "https://github.com/WarriorRemember/IPTV_Player_2.0",
+      "desc": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "lang": "Rust",
+      "stars": 672,
+      "forks": 12,
+      "created": "2026-11-14"
     },
     {
-      "repo": "21stware/bowel",
-      "url": "https://github.com/21stware/bowel",
-      "desc": "Bowel is a mihomo client for macOS, Windows, Linux and Android.",
+      "repo": "trackboatwrightplan/GitHub-Copilot-app",
+      "url": "https://github.com/trackboatwrightplan/GitHub-Copilot-app",
+      "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "lang": "—",
+      "stars": 672,
+      "forks": 12,
+      "created": "2026-11-14"
+    },
+    {
+      "repo": "TrapAccountant/GitHub-Copilot-app",
+      "url": "https://github.com/TrapAccountant/GitHub-Copilot-app",
+      "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "lang": "—",
+      "stars": 670,
+      "forks": 12,
+      "created": "2026-11-14"
+    },
+    {
+      "repo": "TurquoiseDetective/IPTV_Player_2.0",
+      "url": "https://github.com/TurquoiseDetective/IPTV_Player_2.0",
+      "desc": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "lang": "Rust",
+      "stars": 669,
+      "forks": 12,
+      "created": "2026-11-14"
+    },
+    {
+      "repo": "tornadonovicewhirl40/IPTV_Player_2.0",
+      "url": "https://github.com/tornadonovicewhirl40/IPTV_Player_2.0",
+      "desc": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "lang": "Rust",
+      "stars": 669,
+      "forks": 12,
+      "created": "2026-11-14"
+    },
+    {
+      "repo": "WattBeetleLearn/IPTV_Player_2.0",
+      "url": "https://github.com/WattBeetleLearn/IPTV_Player_2.0",
+      "desc": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "lang": "Rust",
+      "stars": 667,
+      "forks": 12,
+      "created": "2026-11-14"
+    },
+    {
+      "repo": "topapothecarycanal/ai--manus2.0",
+      "url": "https://github.com/topapothecarycanal/ai--manus2.0",
+      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "lang": "—",
+      "stars": 666,
+      "forks": 12,
+      "created": "2026-11-14"
+    },
+    {
+      "repo": "Trapbraneedle/IPTV_Player_2.0",
+      "url": "https://github.com/Trapbraneedle/IPTV_Player_2.0",
+      "desc": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
       "lang": "Go",
-      "stars": 496,
-      "forks": 25,
-      "created": "2026-11-07"
+      "stars": 666,
+      "forks": 12,
+      "created": "2026-11-14"
+    },
+    {
+      "repo": "trackersnailgrip/GitHub-Copilot-app",
+      "url": "https://github.com/trackersnailgrip/GitHub-Copilot-app",
+      "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "lang": "—",
+      "stars": 666,
+      "forks": 12,
+      "created": "2026-11-14"
+    },
+    {
+      "repo": "Titanlushrink/IPTV_Player_2.0",
+      "url": "https://github.com/Titanlushrink/IPTV_Player_2.0",
+      "desc": "🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and community lists. Available for Windows, macOS, Linux, Android & TV Boxes. ",
+      "lang": "Rust",
+      "stars": 665,
+      "forks": 12,
+      "created": "2026-11-14"
+    },
+    {
+      "repo": "TradesmanRecord/GitHub-Copilot-app",
+      "url": "https://github.com/TradesmanRecord/GitHub-Copilot-app",
+      "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "lang": "—",
+      "stars": 665,
+      "forks": 12,
+      "created": "2026-11-14"
+    },
+    {
+      "repo": "toppatronweave/ai--manus2.0",
+      "url": "https://github.com/toppatronweave/ai--manus2.0",
+      "desc": "AI Manus is a general-purpose AI Agent system that supports running various tools and operations in a sandbox environment.",
+      "lang": "—",
+      "stars": 665,
+      "forks": 5,
+      "created": "2026-11-14"
+    },
+    {
+      "repo": "toppatronweave/GitHub-Copilot-app",
+      "url": "https://github.com/toppatronweave/GitHub-Copilot-app",
+      "desc": "The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories. ",
+      "lang": "—",
+      "stars": 665,
+      "forks": 309,
+      "created": "2026-11-14"
     }
   ],
   "note": ""

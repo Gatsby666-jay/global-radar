@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17 20:41:45",
+  "updated_at": "2026-11-18 03:32:30",
   "categories": [
     "tech",
     "finance",
@@ -7,24 +7,324 @@
   ],
   "items": [
     {
-      "title": "Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank",
-      "url": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html",
+      "title": "Kalshi takes down controversial Trump 'mention' markets at CFTC's request",
+      "url": "https://www.cnbc.com/2026/11/17/kalshi-takes-down-trump-mention-markets.html",
       "source": "CNBC",
       "category": "finance",
-      "summary": "Trump threatens Iran and responds to a tax leak report as his Asia trip begins.",
-      "published": 1794918958.0,
-      "fetched_at": "2026-11-17 20:41:44",
-      "published_cn": "11-17 12:35"
+      "summary": "Some Trump-related Kalshi mention contracts have been taken down as the CFTC warns the contract type carries heightened manipulation risk.",
+      "published": 1794943767.0,
+      "fetched_at": "2026-11-18 03:32:30",
+      "published_cn": "11-17 19:29"
     },
     {
-      "title": "Ukraine damages Putin’s prized Crimea bridge as Zelenskyy lauds ‘unprecedented operation’",
-      "url": "https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html",
+      "title": "JBL’s headphones that are great for in-flight entertainment are 67 percent off",
+      "url": "https://www.theverge.com/gadgets/1035085/jbl-tour-one-m3-deal-sale-black-friday-2026",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "If you’re looking to upgrade your headphones before the big wave of Black Friday deals arrives, you can buy JBL’s Tour One M3 for a new low price of $149 ($300 off) at Amazon, Best Buy, and directly from JBL. The deal is",
+      "published": 1794943150.0,
+      "fetched_at": "2026-11-18 03:32:09",
+      "published_cn": "11-17 19:19"
+    },
+    {
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+      "published": 1794942140.0,
+      "fetched_at": "2026-11-18 03:32:09",
+      "published_cn": "11-17 19:02"
+    },
+    {
+      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig ",
+      "published": 1794941881.0,
+      "fetched_at": "2026-11-18 03:32:09",
+      "published_cn": "11-17 18:58"
+    },
+    {
+      "title": "Apple services, including iCloud, App Store, and Apple Music, hit by outage",
+      "url": "https://techcrunch.com/2026/11/17/apple-services-including-icloud-app-store-and-apple-music-hit-by-outage/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Apple's status page confirms its services are facing outages, but has not confirmed the cause.",
+      "published": 1794941740.0,
+      "fetched_at": "2026-11-18 03:32:09",
+      "published_cn": "11-17 18:55"
+    },
+    {
+      "title": "FAA pauses installation of new routers after ground stop",
+      "url": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
       "source": "CNBC",
       "category": "finance",
-      "summary": "Ukraine attacked the Kerch Bridge linking Russia to occupied Crimea for a second consecutive day, delivering a symbolic blow to President Vladimir Putin.",
-      "published": 1794918188.0,
-      "fetched_at": "2026-11-17 20:41:44",
-      "published_cn": "11-17 12:23"
+      "summary": "Problems with the overwhelmed technology led the agency to issue a rare nationwide ground stop on Friday.",
+      "published": 1794941313.0,
+      "fetched_at": "2026-11-18 03:32:30",
+      "published_cn": "11-17 18:48"
+    },
+    {
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+      "published": 1794941303.0,
+      "fetched_at": "2026-11-18 03:32:09",
+      "published_cn": "11-17 18:48"
+    },
+    {
+      "title": "Meta is testing a new standalone messaging app called Direct",
+      "url": "https://www.theverge.com/tech/1035740/meta-instagram-direct-messaging-app",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Meta announced Direct, a new messaging app from Instagram that it's currently testing in Turkey and Thailand on iOS and Android. Direct is essentially Instagram's direct messaging without Instagram's other features. Meta",
+      "published": 1794940382.0,
+      "fetched_at": "2026-11-18 03:32:09",
+      "published_cn": "11-17 18:33"
+    },
+    {
+      "title": "Amflow’s new urban e-bike series is deliciously overpowered for flat city streets",
+      "url": "https://www.theverge.com/transportation/1035318/amflow-ue-carbon-pro-commuter-ebike-dji-avinox-price-specs",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "DJI spinoff Amflow has spent the last couple of years shaking up the electric mountain bike (eMTB) market with ridiculously high-torque, lightweight models. Today, it's bringing that same overengineered energy to pavemen",
+      "published": 1794940203.0,
+      "fetched_at": "2026-11-18 03:32:09",
+      "published_cn": "11-17 18:30"
+    },
+    {
+      "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
+      "url": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "“Wake up! They haven’t come 24 trillion miles to negotiate. They are coming to exterminate us.”",
+      "published": 1794939986.0,
+      "fetched_at": "2026-11-18 03:32:10",
+      "published_cn": "11-17 18:26"
+    },
+    {
+      "title": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-statement.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "He said he had seen support from investors and employees and was willing to come back as CEO.",
+      "published": 1794939663.0,
+      "fetched_at": "2026-11-18 03:32:30",
+      "published_cn": "11-17 18:21"
+    },
+    {
+      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
+      "published": 1794939214.0,
+      "fetched_at": "2026-11-18 03:32:10",
+      "published_cn": "11-17 18:13"
+    },
+    {
+      "title": "U.S. officially loses measles elimination status amid ongoing outbreaks",
+      "url": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "The director of PAHO made the final call that measles is endemic — or always present — in the U.S. following 12 months of continuous transmission.",
+      "published": 1794939016.0,
+      "fetched_at": "2026-11-18 03:32:30",
+      "published_cn": "11-17 18:10"
+    },
+    {
+      "title": "As decision model use skyrockets, is customization the next frontier?",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+      "published": 1794939000.0,
+      "fetched_at": "2026-11-18 03:32:09",
+      "published_cn": "11-17 18:10"
+    },
+    {
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "The company uses agentic AI to make supply chains faster and more reliable.",
+      "published": 1794938656.0,
+      "fetched_at": "2026-11-18 03:32:09",
+      "published_cn": "11-17 18:04"
+    },
+    {
+      "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
+      "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
+      "published": 1794938451.0,
+      "fetched_at": "2026-11-18 03:32:10",
+      "published_cn": "11-17 18:00"
+    },
+    {
+      "title": "YouTube found a new way to inflate view counts",
+      "url": "https://www.theverge.com/streaming/1035683/youtube-co-views-count",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "YouTube's view counts will now include the number of people that it estimates are watching a video together on TV. In an update on Monday, the platform says it's bringing \"co-views\" to public view counts across long-form",
+      "published": 1794937822.0,
+      "fetched_at": "2026-11-18 03:32:09",
+      "published_cn": "11-17 17:50"
+    },
+    {
+      "title": "Trump on Iran's reported DC dirty bomb plan: 'We take it very seriously'",
+      "url": "https://www.cnbc.com/2026/11/17/trump-iran-dirty-bomb-washington.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "\"This is why they can't have a nuclear weapon,\" Trump added, reiterating his main rationale for launching the Iran war.",
+      "published": 1794937785.0,
+      "fetched_at": "2026-11-18 03:32:30",
+      "published_cn": "11-17 17:49"
+    },
+    {
+      "title": "The iPhone Duo feels far more intuitive with Apple’s new face unlock",
+      "url": "https://www.theverge.com/tech/1035437/iphone-duo-face-unlock-front-camera-hands-on",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Apple is testing adding face unlock to the iPhone Duo - not true Face ID, but something a little simpler and less secure. So far, it works great, and even with a few Apple-imposed security limitations, it makes the Duo q",
+      "published": 1794937282.0,
+      "fetched_at": "2026-11-18 03:32:09",
+      "published_cn": "11-17 17:41"
+    },
+    {
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+      "published": 1794936745.0,
+      "fetched_at": "2026-11-18 03:32:09",
+      "published_cn": "11-17 17:32"
+    },
+    {
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+      "published": 1794936041.0,
+      "fetched_at": "2026-11-18 03:32:09",
+      "published_cn": "11-17 17:20"
+    },
+    {
+      "title": "Costa Rican journalist shot dead in first such killing in 25 years",
+      "url": "https://www.theguardian.com/world/2026/nov/17/costa-rica-journalist-camilo-rodriguez-shot-dead",
+      "source": "卫报·世界",
+      "category": "world",
+      "summary": "<p>Camilo Rodriguez’s death comes as the country grapples with a surge in drug violence </p><p>The Costa Rican journalist Camilo Rodríguez, who gained prominence for publishing allegations against ⁠suspected drug traffic",
+      "published": 1794935952.0,
+      "fetched_at": "2026-11-18 03:32:30",
+      "published_cn": "11-17 17:19"
+    },
+    {
+      "title": "Inside Microsoft’s giant Outlook outage",
+      "url": "https://www.theverge.com/tech/1035364/microsoft-outlook-outage-notepad",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "At 9AM last Thursday, everything seemed normal. Microsoft employees were arriving on campus, ready for a regular day of emails and meetings. But barely an hour later, one of Microsoft's worst outages in history started t",
+      "published": 1794934800.0,
+      "fetched_at": "2026-11-18 03:32:09",
+      "published_cn": "11-17 17:00"
+    },
+    {
+      "title": "Google makes it easier to use Gemini without training AI on your data",
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
+      "published": 1794934210.0,
+      "fetched_at": "2026-11-18 03:32:10",
+      "published_cn": "11-17 16:50"
+    },
+    {
+      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
+      "published": 1794933855.0,
+      "fetched_at": "2026-11-18 03:32:09",
+      "published_cn": "11-17 16:44"
+    },
+    {
+      "title": "台灣高雄市選戰：「知識藍」柯志恩對決「新潮流」賴瑞隆，國民黨有可能複製「韓流」嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/c6n4ex4y9837o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "柯志恩以「知識藍」的姿態拉攏中間選民，支持度大幅追貼深耕高雄20年的賴瑞隆，選情咬緊。",
+      "published": 1794932749.0,
+      "fetched_at": "2026-11-18 03:32:30",
+      "published_cn": "11-17 16:25"
+    },
+    {
+      "title": "The DOJ says it’s investigating Megaspeed",
+      "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investiga",
+      "published": 1794932343.0,
+      "fetched_at": "2026-11-18 03:32:09",
+      "published_cn": "11-17 16:19"
+    },
+    {
+      "title": "Homebuilder sentiment plunges to 14-year low, leading more builders to drop prices",
+      "url": "https://www.cnbc.com/2026/11/17/homebuilder-sentiment-plunges-to-14-year-low-leading-more-builders-to-drop-prices.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Homebuilder sentiment fell to a 14-year low amid high mortgage rates and higher prices for energy, labor and materials. That caused more builder price cuts.",
+      "published": 1794929803.0,
+      "fetched_at": "2026-11-18 03:32:30",
+      "published_cn": "11-17 15:36"
+    },
+    {
+      "title": "House Democrats promise a US return to global climate talks",
+      "url": "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "A new House majority can push climate policy, but a full US return remains uncertain.",
+      "published": 1794929563.0,
+      "fetched_at": "2026-11-18 03:32:10",
+      "published_cn": "11-17 15:32"
+    },
+    {
+      "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Ars Live discussion is happening today, November 17, at 1 pm Eastern Time.",
+      "published": 1794929339.0,
+      "fetched_at": "2026-11-18 03:32:10",
+      "published_cn": "11-17 15:28"
+    },
+    {
+      "title": "Anthropic likely to price IPO above the current range of $70 to $78, sources tell CNBC",
+      "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Anthropic is slated to list on the Nasdaq under the ticker symbol \"ANT\" and start trading on Nov. 19.",
+      "published": 1794926088.0,
+      "fetched_at": "2026-11-18 03:32:30",
+      "published_cn": "11-17 14:34"
+    },
+    {
+      "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+      "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
+      "published": 1794924029.0,
+      "fetched_at": "2026-11-18 03:32:10",
+      "published_cn": "11-17 14:00"
     },
     {
       "title": "Artist brings old Space Shuttle tank back to life",
@@ -33,28 +333,8 @@
       "category": "tech",
       "summary": "\"It's definitely the largest art project I've ever worked on.\"",
       "published": 1794917754.0,
-      "fetched_at": "2026-11-17 20:41:43",
+      "fetched_at": "2026-11-18 03:32:10",
       "published_cn": "11-17 12:15"
-    },
-    {
-      "title": "Disney beats fourth-quarter estimates, targets $3 billion in savings through cost-cutting efforts",
-      "url": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Investors will be looking for more insight into CEO Josh D'Amaro's strategy following several rounds of layoffs.",
-      "published": 1794917657.0,
-      "fetched_at": "2026-11-17 20:41:44",
-      "published_cn": "11-17 12:14"
-    },
-    {
-      "title": "Nike hosts first investor day in 9 years as it tries to rightsize its business",
-      "url": "https://www.cnbc.com/2026/11/17/nike-investor-day-elliott-hill.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Nike is hosting an investor day at its Oregon headquarters as the company tries to prove to investors that its turnaround is working.",
-      "published": 1794916801.0,
-      "fetched_at": "2026-11-17 20:41:44",
-      "published_cn": "11-17 12:00"
     },
     {
       "title": "中國以AI奇境接待各國領袖，但他們看不到的另一面是什麼？",
@@ -63,7 +343,7 @@
       "category": "world",
       "summary": "離開深圳充滿科技感的天際線後，你將會看到習近平治下中國所面臨的種種挑戰。",
       "published": 1794915842.0,
-      "fetched_at": "2026-11-17 20:41:44",
+      "fetched_at": "2026-11-18 03:32:30",
       "published_cn": "11-17 11:44"
     },
     {
@@ -73,18 +353,8 @@
       "category": "world",
       "summary": "在美國限制最先進英偉達芯片直接銷往中國的背景下，中國大型互聯網公司和AI實驗室逐漸轉向「只租算力、不買硬件」的模式。芯片部署在第三國數據中心，中國企業再通過互聯網遠程調用算力訓練模型，而無須把相關硬件運入中國。",
       "published": 1794915432.0,
-      "fetched_at": "2026-11-17 20:41:44",
+      "fetched_at": "2026-11-18 03:32:30",
       "published_cn": "11-17 11:37"
-    },
-    {
-      "title": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
-      "url": "https://www.cnbc.com/2026/11/17/home-depot-hd-q3-earnings-2026.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Home Depot named Richard McPhail as its new CEO effective next week.",
-      "published": 1794915224.0,
-      "fetched_at": "2026-11-17 20:41:44",
-      "published_cn": "11-17 11:33"
     },
     {
       "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
@@ -93,7 +363,7 @@
       "category": "finance",
       "summary": "Trump’s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang’s relationship with a suspected Chinese spy.",
       "published": 1794910112.0,
-      "fetched_at": "2026-11-17 20:41:44",
+      "fetched_at": "2026-11-18 03:32:30",
       "published_cn": "11-17 10:08"
     },
     {
@@ -103,7 +373,7 @@
       "category": "tech",
       "summary": "AI 越自由，人越麻烦<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794909627.0,
-      "fetched_at": "2026-11-17 20:41:40",
+      "fetched_at": "2026-11-18 03:32:08",
       "published_cn": "11-17 10:00"
     },
     {
@@ -113,18 +383,8 @@
       "category": "world",
       "summary": "新竹市是民眾黨此前唯一贏得執政權的縣市，現任市長高虹安尋求連任，她這次雖已退出民眾黨、改以無黨籍身分參選，但學者指出其選情不僅將影響雙方未來合作模式能否延續，也可能牽動2028年全國大選的政治布局。",
       "published": 1794908989.0,
-      "fetched_at": "2026-11-17 20:41:44",
+      "fetched_at": "2026-11-18 03:32:30",
       "published_cn": "11-17 09:49"
-    },
-    {
-      "title": "Deutsche Bank shares sink as whistleblowers reveal Epstein payments, Trump tax leak, Russia bets",
-      "url": "https://www.cnbc.com/2026/11/17/deutsche-bank-leak-epstein-trump.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "A 15-million-file leak details alleged control failures at Deutsche Bank, including Epstein-linked payments and a Trump tax blunder.",
-      "published": 1794907420.0,
-      "fetched_at": "2026-11-17 20:41:44",
-      "published_cn": "11-17 09:23"
     },
     {
       "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
@@ -133,7 +393,7 @@
       "category": "tech",
       "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/119184\" target=\"_blank\">查看全文</a>",
       "published": 1794906120.0,
-      "fetched_at": "2026-11-17 20:41:43",
+      "fetched_at": "2026-11-18 03:32:09",
       "published_cn": "11-17 09:02"
     },
     {
@@ -143,7 +403,7 @@
       "category": "tech",
       "summary": "花钱接 API，导入历史记录<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794905484.0,
-      "fetched_at": "2026-11-17 20:41:40",
+      "fetched_at": "2026-11-18 03:32:08",
       "published_cn": "11-17 08:51"
     },
     {
@@ -153,7 +413,7 @@
       "category": "world",
       "summary": "台灣試圖以企業家身分與科技優勢擴大能見度，中國則以原則框架維持主導權。APEC作為平台，或許能讓雙方同時在場，但仍難以消弭兩岸在全球外交參與的既有分歧。",
       "published": 1794905080.0,
-      "fetched_at": "2026-11-17 20:41:44",
+      "fetched_at": "2026-11-18 03:32:30",
       "published_cn": "11-17 08:44"
     },
     {
@@ -163,18 +423,8 @@
       "category": "world",
       "summary": "英國首相在倫敦金融城市長晚宴上向與會人士表示，「我們得到的脫歐結果並沒有奏效」。",
       "published": 1794901973.0,
-      "fetched_at": "2026-11-17 20:41:44",
+      "fetched_at": "2026-11-18 03:32:30",
       "published_cn": "11-17 07:52"
-    },
-    {
-      "title": "Nvidia warns chip buyers of legal risks tied to China AI access, sources tell CNBC",
-      "url": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "The U.S. Commerce Department is making moves to tighten export controls.",
-      "published": 1794899255.0,
-      "fetched_at": "2026-11-17 20:41:44",
-      "published_cn": "11-17 07:07"
     },
     {
       "title": "TDS REVIEW｜Bose 有线消噪耳塞体验",
@@ -183,7 +433,7 @@
       "category": "tech",
       "summary": "这篇文章是TDSStudio在少数派上的第35篇文章，依然是全平台首发。早先我们评价过绯乐的虹，当时在评论区曾经有一些读者好奇它和BoseQC20的区别。有线降噪入耳耳机，在TWS时代到来之前曾经是一 ...<a href=\"https://sspai.com/post/118976\" target=\"_blank\">查看全文</a>",
       "published": 1794898800.0,
-      "fetched_at": "2026-11-17 20:41:43",
+      "fetched_at": "2026-11-18 03:32:09",
       "published_cn": "11-17 07:00"
     },
     {
@@ -193,7 +443,7 @@
       "category": "world",
       "summary": "<p>About a third of cases involved chemicals banned for use on EU farms, according to investigation by Unearthed and Public Eye </p><p>Pesticides sold by European chemical companies were named in more than 1,600 poisonin",
       "published": 1794895205.0,
-      "fetched_at": "2026-11-17 20:41:45",
+      "fetched_at": "2026-11-18 03:32:30",
       "published_cn": "11-17 06:00"
     },
     {
@@ -203,7 +453,7 @@
       "category": "tech",
       "summary": "一人犯错，全员受罚。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794885728.0,
-      "fetched_at": "2026-11-17 20:41:40",
+      "fetched_at": "2026-11-18 03:32:08",
       "published_cn": "11-17 03:22"
     },
     {
@@ -213,7 +463,7 @@
       "category": "tech",
       "summary": "当外部的限制开始逐渐渗透、内化到每个人的内心，另一种真正的「可能性」在现今尤为珍贵。<a href=\"https://sspai.com/post/118442\" target=\"_blank\">查看全文</a>",
       "published": 1794884391.0,
-      "fetched_at": "2026-11-17 20:41:43",
+      "fetched_at": "2026-11-18 03:32:09",
       "published_cn": "11-17 02:59"
     },
     {
@@ -223,7 +473,7 @@
       "category": "tech",
       "summary": "微软宕机与美国航班停飞，背后都是 AI 失控吗？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794882230.0,
-      "fetched_at": "2026-11-17 20:41:40",
+      "fetched_at": "2026-11-18 03:32:08",
       "published_cn": "11-17 02:23"
     },
     {
@@ -233,7 +483,7 @@
       "category": "world",
       "summary": "<p>Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’</p><p>Five EU member states have announced plans to set up an offshore centre in Rwanda for peo",
       "published": 1794877859.0,
-      "fetched_at": "2026-11-17 20:41:45",
+      "fetched_at": "2026-11-18 03:32:30",
       "published_cn": "11-17 01:10"
     },
     {
@@ -243,7 +493,7 @@
       "category": "tech",
       "summary": "· 阿里发布 Qwen4-Max，缓存命中价格低至每百万 Token 0.5 元\n· 腾讯混元推出 Hy4 flash，WorkBuddy 限时开放免费使用\n· 腾讯公开司庆讲话，要求核心业务团队面向 AI 再创业<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794874730.0,
-      "fetched_at": "2026-11-17 20:41:40",
+      "fetched_at": "2026-11-18 03:32:08",
       "published_cn": "11-17 00:18"
     },
     {
@@ -253,318 +503,8 @@
       "category": "tech",
       "summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...<a href=\"https://sspai.com/post/119160\" target=\"_blank\">查看全文</a>",
       "published": 1794873460.0,
-      "fetched_at": "2026-11-17 20:41:43",
+      "fetched_at": "2026-11-18 03:32:09",
       "published_cn": "11-16 23:57"
-    },
-    {
-      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
-      "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Arion Kurtaj, a member of the Lapsus$ cybercrime group who leaked 90 videos of Grand Theft Auto VI in 2022 and hacked other big companies, pleaded guilty on Monday, according to the UK's Crown Prosecution Service (CPS). ",
-      "published": 1794872158.0,
-      "fetched_at": "2026-11-17 20:41:43",
-      "published_cn": "11-16 23:35"
-    },
-    {
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA.",
-      "published": 1794871952.0,
-      "fetched_at": "2026-11-17 20:41:43",
-      "published_cn": "11-16 23:32"
-    },
-    {
-      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
-      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board w",
-      "published": 1794871054.0,
-      "fetched_at": "2026-11-17 20:41:43",
-      "published_cn": "11-16 23:17"
-    },
-    {
-      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
-      "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
-      "published": 1794869907.0,
-      "fetched_at": "2026-11-17 20:41:43",
-      "published_cn": "11-16 22:58"
-    },
-    {
-      "title": "United Airlines system outage disrupts departures just days after the big ground stop",
-      "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Less than a week after an issue with air traffic control communications and radar caused the FAA to halt takeoffs nationwide, United Airlines departing flights are being disrupted by an outage. At 6:13PM ET, United said ",
-      "published": 1794869699.0,
-      "fetched_at": "2026-11-17 20:41:43",
-      "published_cn": "11-16 22:54"
-    },
-    {
-      "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
-      "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "The cybersecurity and automation giant said it's working with outside investigators to understand the scale of the breach.",
-      "published": 1794867151.0,
-      "fetched_at": "2026-11-17 20:41:43",
-      "published_cn": "11-16 22:12"
-    },
-    {
-      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, there are a number o",
-      "published": 1794866582.0,
-      "fetched_at": "2026-11-17 20:41:43",
-      "published_cn": "11-16 22:03"
-    },
-    {
-      "title": "Three small failures combined to take down Microsoft 365",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
-      "published": 1794866199.0,
-      "fetched_at": "2026-11-17 20:41:43",
-      "published_cn": "11-16 21:56"
-    },
-    {
-      "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
-      "url": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Before Clavicular and other manosphere streamers were introducing young guys to the concept of breaking their facial bones to become more attractive, there was an older generation of creators building massive followings ",
-      "published": 1794865317.0,
-      "fetched_at": "2026-11-17 20:41:43",
-      "published_cn": "11-16 21:41"
-    },
-    {
-      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
-      "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Following an October announcement, Apple has detailed new permission controls, warnings, and transparency features coming to macOS 27.3 to address risks posed by AI agents and other apps.",
-      "published": 1794862862.0,
-      "fetched_at": "2026-11-17 20:41:43",
-      "published_cn": "11-16 21:01"
-    },
-    {
-      "title": "Hyperscale data centers use 2% of US electricity",
-      "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Study attempts to tally hyperscalers’ energy use and emissions.",
-      "published": 1794862330.0,
-      "fetched_at": "2026-11-17 20:41:43",
-      "published_cn": "11-16 20:52"
-    },
-    {
-      "title": "California sues OpenAI over rogue AI hacking incidents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating ",
-      "published": 1794861961.0,
-      "fetched_at": "2026-11-17 20:41:43",
-      "published_cn": "11-16 20:46"
-    },
-    {
-      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own c",
-      "published": 1794861688.0,
-      "fetched_at": "2026-11-17 20:41:43",
-      "published_cn": "11-16 20:41"
-    },
-    {
-      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
-      "published": 1794861467.0,
-      "fetched_at": "2026-11-17 20:41:43",
-      "published_cn": "11-16 20:37"
-    },
-    {
-      "title": "Some of our favorite PlayStation games are steeply discounted for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Black Friday is approaching, and some companies are already rolling out the discounts ahead of the big day. If you’re hunting for PlayStation 5 accessories, we’ve already rounded up some of our favorite controllers and h",
-      "published": 1794861374.0,
-      "fetched_at": "2026-11-17 20:41:43",
-      "published_cn": "11-16 20:36"
-    },
-    {
-      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-      "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call la",
-      "published": 1794860977.0,
-      "fetched_at": "2026-11-17 20:41:43",
-      "published_cn": "11-16 20:29"
-    },
-    {
-      "title": "Comcast's \"fiber-powered Wi-Fi\" is just cable, AT&T says in false advertising case",
-      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "AT&#038;T demands Comcast give AT&#038;T profits it made from advertising cable as fiber.",
-      "published": 1794860878.0,
-      "fetched_at": "2026-11-17 20:41:43",
-      "published_cn": "11-16 20:27"
-    },
-    {
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
-      "published": 1794859633.0,
-      "fetched_at": "2026-11-17 20:41:43",
-      "published_cn": "11-16 20:07"
-    },
-    {
-      "title": "Supreme Court keeps injunction against DEI grant defunding in place",
-      "url": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Appeals court ruling rejected grant cancellations on First Amendment grounds.",
-      "published": 1794858861.0,
-      "fetched_at": "2026-11-17 20:41:43",
-      "published_cn": "11-16 19:54"
-    },
-    {
-      "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
-      "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
-      "published": 1794858780.0,
-      "fetched_at": "2026-11-17 20:41:43",
-      "published_cn": "11-16 19:53"
-    },
-    {
-      "title": "When will humans actually fly on Starship?",
-      "url": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
-      "published": 1794858368.0,
-      "fetched_at": "2026-11-17 20:41:43",
-      "published_cn": "11-16 19:46"
-    },
-    {
-      "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
-      "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
-      "published": 1794857215.0,
-      "fetched_at": "2026-11-17 20:41:43",
-      "published_cn": "11-16 19:26"
-    },
-    {
-      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
-      "published": 1794856322.0,
-      "fetched_at": "2026-11-17 20:41:43",
-      "published_cn": "11-16 19:12"
-    },
-    {
-      "title": "FT社评：美国对华AI芯片战的微妙平衡",
-      "url": "https://www.ftchinese.com/story/001111395",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "美国应加强现有出口管制的执行，而非扩大封锁范围。如果美国迅速转向更为严厉的管制，反而会加快中国寻求国产替代的步伐。",
-      "published": 1794844800.0,
-      "fetched_at": "2026-11-17 20:41:44",
-      "published_cn": "11-16 16:00"
-    },
-    {
-      "title": "收入升利润跌 明基医院经营压力大",
-      "url": "https://www.ftchinese.com/story/001111393",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "中国内地民营医院竞争十分激烈，利润空间收窄，台资的明基医院上市不足一年较发行价跌去七成，但股价暂时仍难言见底。",
-      "published": 1794844800.0,
-      "fetched_at": "2026-11-17 20:41:44",
-      "published_cn": "11-16 16:00"
-    },
-    {
-      "title": "英伟达董事会不考虑恢复黄仁勋的CEO职位",
-      "url": "https://www.ftchinese.com/story/001111390",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "特朗普表示对黄仁勋复出持开放态度。董事会表示，在遴选新任首席执行官时，将同时考虑内部和外部候选人。",
-      "published": 1794844800.0,
-      "fetched_at": "2026-11-17 20:41:44",
-      "published_cn": "11-16 16:00"
-    },
-    {
-      "title": "克里姆林宫希望中美俄会晤后发表“联合声明”",
-      "url": "https://www.ftchinese.com/story/001111389",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "特朗普、习近平和普京将在周四举行史无前例的三方会晤，这已引起国际社会的密切关注。",
-      "published": 1794844800.0,
-      "fetched_at": "2026-11-17 20:41:44",
-      "published_cn": "11-16 16:00"
-    },
-    {
-      "title": "科技投资者：“成功和名望”损害硅谷企业领导水平",
-      "url": "https://www.ftchinese.com/story/001111388",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "英国知名基金经理安德森严厉批评硅谷盛行的“强势创始人-领导者”模式。他警告，黄仁勋和马斯克等人的超级明星地位有损企业领导水平。",
-      "published": 1794844800.0,
-      "fetched_at": "2026-11-17 20:41:44",
-      "published_cn": "11-16 16:00"
-    },
-    {
-      "title": "黄仁勋与AI的雅尔塔时刻",
-      "url": "https://www.ftchinese.com/story/001111387",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "陈白：我们正在进入一个新的时代。没有人能够独善其身，哪怕你是黄仁勋。",
-      "published": 1794844800.0,
-      "fetched_at": "2026-11-17 20:41:44",
-      "published_cn": "11-16 16:00"
-    },
-    {
-      "title": "欧盟再度推动AI治理全球协议",
-      "url": "https://www.ftchinese.com/story/001111386",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "欧盟迄今未能说服特朗普加入一项关于AI治理的国际协议。然而，特朗普在中期选举中受挫，一定程度上突显了美国选民对AI和数据中心的担忧。",
-      "published": 1794844800.0,
-      "fetched_at": "2026-11-17 20:41:44",
-      "published_cn": "11-16 16:00"
-    },
-    {
-      "title": "全世界“做多”美国的隐忧",
-      "url": "https://www.ftchinese.com/story/001111385",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "夏尔马：今年以来，全球80%的股票投资资金流入美国市场，两倍于长期平均水平。一旦美国股市出现动荡，全球散户大军将付出沉重代价。",
-      "published": 1794844800.0,
-      "fetched_at": "2026-11-17 20:41:44",
-      "published_cn": "11-16 16:00"
     },
     {
       "title": "US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities",
@@ -573,7 +513,7 @@
       "category": "world",
       "summary": "<ul><li><p>Suspect named as Greene Da’monte Khiree</p></li><li><p>Drug smuggling carries life sentence in Nigeria</p></li></ul><p>An American basketball player has been arrested in Nigeria for allegedly attempting to smu",
       "published": 1794834996.0,
-      "fetched_at": "2026-11-17 20:41:45",
+      "fetched_at": "2026-11-18 03:32:30",
       "published_cn": "11-16 13:16"
     },
     {
@@ -583,7 +523,7 @@
       "category": "tech",
       "summary": "纸面上流转的不再是魔法世界的头条新闻，而是我们生活里那些真正值得举杯的闪光时刻。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794830401.0,
-      "fetched_at": "2026-11-17 20:41:40",
+      "fetched_at": "2026-11-18 03:32:08",
       "published_cn": "11-16 12:00"
     },
     {
@@ -593,7 +533,7 @@
       "category": "tech",
       "summary": "这不会是苹果真正想带给这个时代的答案<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794826425.0,
-      "fetched_at": "2026-11-17 20:41:40",
+      "fetched_at": "2026-11-18 03:32:08",
       "published_cn": "11-16 10:53"
     },
     {
@@ -603,7 +543,7 @@
       "category": "tech",
       "summary": "别让营销高于安全。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794824842.0,
-      "fetched_at": "2026-11-17 20:41:40",
+      "fetched_at": "2026-11-18 03:32:08",
       "published_cn": "11-16 10:27"
     },
     {
@@ -613,7 +553,7 @@
       "category": "world",
       "summary": "<p>Demonstrators tried to block vehicle carrying the baboons, whose capture authorities say is needed to protect both primate and human</p><p>The relocation of a troop of baboons in Cape Town to a wildlife sanctuary has ",
       "published": 1794824348.0,
-      "fetched_at": "2026-11-17 20:41:45",
+      "fetched_at": "2026-11-18 03:32:30",
       "published_cn": "11-16 10:19"
     },
     {
@@ -623,7 +563,7 @@
       "category": "tech",
       "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/119148\" target=\"_blank\">查看全文</a>",
       "published": 1794823787.0,
-      "fetched_at": "2026-11-17 20:41:43",
+      "fetched_at": "2026-11-18 03:32:09",
       "published_cn": "11-16 10:09"
     },
     {
@@ -633,7 +573,7 @@
       "category": "world",
       "summary": "<p>Meanwhile, severe thunderstorms bring hailstones the size of baseballs in Argentina</p><p>The National Weather Service in the US has confirmed that an EF1 tornado touched down south-east of Newark in the Salem Woods n",
       "published": 1794821226.0,
-      "fetched_at": "2026-11-17 20:41:45",
+      "fetched_at": "2026-11-18 03:32:30",
       "published_cn": "11-16 09:27"
     },
     {
@@ -643,7 +583,7 @@
       "category": "world",
       "summary": "台灣地方選舉即將到來，近年北京對台統戰工作重心從政商菁英轉向基層社會，而里長作為選舉期間的地方「樁腳」，就成為了北京的重要接觸對象。",
       "published": 1794819802.0,
-      "fetched_at": "2026-11-17 20:41:44",
+      "fetched_at": "2026-11-18 03:32:30",
       "published_cn": "11-16 09:03"
     },
     {
@@ -653,7 +593,7 @@
       "category": "tech",
       "summary": "Apple在Mac电脑的发展历程中经历过数次架构转换。其中最广为人知的，当属2005年从PowerPC转向Intelx86架构，以及从2020年启动、由Intelx86转向ARM64架构的AppleS ...<a href=\"https://sspai.com/post/118100\" target=\"_blank\">查看全文</a>",
       "published": 1794814671.0,
-      "fetched_at": "2026-11-17 20:41:43",
+      "fetched_at": "2026-11-18 03:32:09",
       "published_cn": "11-16 07:37"
     },
     {
@@ -663,18 +603,8 @@
       "category": "tech",
       "summary": "能切换老设备音质的媒体播放器。<a href=\"https://sspai.com/post/119012\" target=\"_blank\">查看全文</a>",
       "published": 1794797531.0,
-      "fetched_at": "2026-11-17 20:41:43",
+      "fetched_at": "2026-11-18 03:32:09",
       "published_cn": "11-16 02:52"
-    },
-    {
-      "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
-      "url": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
-      "source": "卫报·世界",
-      "category": "world",
-      "summary": "<p>Pontiff delivers forceful speech in Peru as he travels from high in the Andes into the Amazon</p><p>Pope Leo XIV has demanded justice for environmental defenders killed for protecting the Amazon and backed efforts by ",
-      "published": 1794791624.0,
-      "fetched_at": "2026-11-17 20:41:45",
-      "published_cn": "11-16 01:13"
     },
     {
       "title": "派早报：逾十万人次联署要求黄仁勋复职",
@@ -683,7 +613,7 @@
       "category": "tech",
       "summary": "<p>逾十万人次联署要求黄仁勋复职</p><p>Microsoft 365 服务在 19 小时全球宕机后恢复</p><p>国产前沿模型携带 Blackwell GPU 特征</p><p>线缆更换导致全美飞机停飞</p><p>流媒体用户抱怨更难找到想看作品</p><p>特斯拉 Cybercab 订阅协议包含苛刻条款</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https",
       "published": 1794785074.0,
-      "fetched_at": "2026-11-17 20:41:43",
+      "fetched_at": "2026-11-18 03:32:09",
       "published_cn": "11-15 23:24"
     },
     {
@@ -693,7 +623,7 @@
       "category": "world",
       "summary": "台灣在過去七年間，幾乎每年都有大型選舉、罷免或公投。有學者形容台灣政治人物常處於「選舉模式」，在面對不同議題時往往急於回應。",
       "published": 1794566346.0,
-      "fetched_at": "2026-11-17 20:41:44",
+      "fetched_at": "2026-11-18 03:32:30",
       "published_cn": "11-13 10:39"
     },
     {
@@ -703,7 +633,7 @@
       "category": "world",
       "summary": "<p>After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’</p><p>The Zimbabwean author Simbarashe Kundizeza has been cleared of us",
       "published": 1794489278.0,
-      "fetched_at": "2026-11-17 20:41:45",
+      "fetched_at": "2026-11-18 03:32:30",
       "published_cn": "11-12 13:14"
     },
     {
@@ -713,22 +643,12 @@
       "category": "world",
       "summary": "<p>Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red Crescent</p><p>Lewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sendin",
       "published": 1794325166.0,
-      "fetched_at": "2026-11-17 20:41:45",
+      "fetched_at": "2026-11-18 03:32:30",
       "published_cn": "11-10 15:39"
-    },
-    {
-      "title": "「九合一」五大看點：「洋流」能否撼動台北？誰在卡位2028？",
-      "url": "https://www.bbc.com/zhongwen/articles/cm8xzrg40dq1o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "中共是否介入台灣選舉？ 這次選舉將如何影響賴清德與國民黨主席鄭麗文的政治能量？捲土重來、希望藉著地方議員選舉有所斬獲的小黨，此次結盟能否在主流政黨夾殺中突圍而出？",
-      "published": 1793155508.0,
-      "fetched_at": "2026-11-17 20:41:44",
-      "published_cn": "10-28 02:45"
     }
   ],
   "feed_failures": [
     "虎嗅: ReadTimeout HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=20)",
-    "华尔街见闻: HTTPError 404 Client Error: Not Found for url: https://wallstreetcn.com/rss"
+    "FT中文网: HTTPError 522 Server Error: <none> for url: https://www.ftchinese.com/rss/feed"
   ]
 }

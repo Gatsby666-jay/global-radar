@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18 12:02:09",
+  "updated_at": "2026-11-18 20:32:56",
   "categories": [
     "tech",
     "finance",
@@ -7,34 +7,284 @@
   ],
   "items": [
     {
+      "title": "Trump arrives in China for historic meeting with Xi, Putin",
+      "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "President Donald Trump in Shenzhen for historic trilateral talks with Chinese leader Xi Jinping and Russia's Vladimir Putin.",
+      "published": 1795004664.0,
+      "fetched_at": "2026-11-18 20:32:55",
+      "published_cn": "11-18 12:24"
+    },
+    {
+      "title": "Target posts best sales growth in five years, raises guidance",
+      "url": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Target beat third-quarter sales expectations and raised its guidance as it continues a turnaround effort.",
+      "published": 1795004253.0,
+      "fetched_at": "2026-11-18 20:32:55",
+      "published_cn": "11-18 12:17"
+    },
+    {
+      "title": "黃仁勳婚外情掀「中國間諜」迷因：幽默與偏見之間，亞裔女性如何自處？",
+      "url": "https://www.bbc.com/zhongwen/articles/cvze7n4gp5rro/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "黃仁勳醜聞曝光後，網上湧現大量「中國間諜」、「美人計」笑話。這些看似無傷大雅的時事迷因，卻讓部分亞裔女性感到困擾。",
+      "published": 1795004243.0,
+      "fetched_at": "2026-11-18 20:32:56",
+      "published_cn": "11-18 12:17"
+    },
+    {
+      "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
+      "url": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "\"They are pretty confident that it's going to last a long, long, long time...\"",
+      "published": 1795004144.0,
+      "fetched_at": "2026-11-18 20:32:50",
+      "published_cn": "11-18 12:15"
+    },
+    {
+      "title": "NASA’s Voyager 1 probe is now one light-day away",
+      "url": "https://www.theverge.com/science/1036431/nasa-voyager-1-light-day-milestone",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "After traveling through the void of space for 49 years, Voyager 1 has hit a momentous milestone: the spacecraft is now officially one light-day away from Earth, which is, as NASA put it, \"very, very far.\" The probe cross",
+      "published": 1795003416.0,
+      "fetched_at": "2026-11-18 20:32:50",
+      "published_cn": "11-18 12:03"
+    },
+    {
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
+      "published": 1795003200.0,
+      "fetched_at": "2026-11-18 20:32:50",
+      "published_cn": "11-18 12:00"
+    },
+    {
+      "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
+      "url": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Lowe's said it saw strength in online sales during its quarter that contributed to a guidance raise for the full year.",
+      "published": 1795002479.0,
+      "fetched_at": "2026-11-18 20:32:55",
+      "published_cn": "11-18 11:47"
+    },
+    {
+      "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+      "published": 1795001400.0,
+      "fetched_at": "2026-11-18 20:32:50",
+      "published_cn": "11-18 11:30"
+    },
+    {
+      "title": "Suno now lets you make AI videos for your AI music",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated video clips that autom",
+      "published": 1795000613.0,
+      "fetched_at": "2026-11-18 20:32:50",
+      "published_cn": "11-18 11:16"
+    },
+    {
+      "title": "Grand Theft Auto VI has arrived",
+      "url": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "More than a decade after Grand Theft Auto V was first released, its sequel is finally launching. On November 19th, GTA VI will be available on both the PS5 and Xbox Series X / S, and it’s quite possibly the most anticipa",
+      "published": 1794999976.0,
+      "fetched_at": "2026-11-18 20:32:50",
+      "published_cn": "11-18 11:06"
+    },
+    {
+      "title": "Nvidia’s Kress faces a divided workforce as some employees push for Huang’s return",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Nvidia's interim CEO Colette Kress calmed investors. Now she has to calm employees.",
+      "published": 1794999856.0,
+      "fetched_at": "2026-11-18 20:32:55",
+      "published_cn": "11-18 11:04"
+    },
+    {
+      "title": "Grand Theft Auto VI: The Ars Technica review",
+      "url": "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Jason and Lucia's crime-heavy love story fuels a wonder of digital urban simulation.",
+      "published": 1794999627.0,
+      "fetched_at": "2026-11-18 20:32:50",
+      "published_cn": "11-18 11:00"
+    },
+    {
+      "title": "China dominates battery graphite, but this startup could break the monopoly",
+      "url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly.",
+      "published": 1794999600.0,
+      "fetched_at": "2026-11-18 20:32:50",
+      "published_cn": "11-18 11:00"
+    },
+    {
+      "title": "Grand Theft Auto VI does something impossible — it lives up to the hype",
+      "url": "https://www.theverge.com/games/1035801/grand-theft-auto-6-review",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "How do you follow a game like Grand Theft Auto V? Thirteen years ago, Rockstar's crime-fueled epic went on to redefine what an open-world game could be and became an enormous success, selling more than 230 million copies",
+      "published": 1794999600.0,
+      "fetched_at": "2026-11-18 20:32:50",
+      "published_cn": "11-18 11:00"
+    },
+    {
+      "title": "‘It’s a risk’: How Rockstar built the most detailed (and romantic) GTA yet",
+      "url": "https://www.theverge.com/entertainment/1035806/grand-theft-auto-6-rob-nelson-interview",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Grand Theft Auto VI isn't just the biggest GTA game to date; it's also the most romantic. Though the series is well known for its sordid assortment of criminal leads, GTA VI switches things up by starring a pair of thiev",
+      "published": 1794999600.0,
+      "fetched_at": "2026-11-18 20:32:50",
+      "published_cn": "11-18 11:00"
+    },
+    {
+      "title": "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit",
+      "url": "https://www.cnbc.com/2026/11/18/ukraine-russia-war-trump-putin-deep-strikes.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "The dispute comes ahead of a planned meeting between Donald Trump, Vladimir Putin and Xi Jinping.",
+      "published": 1794998977.0,
+      "fetched_at": "2026-11-18 20:32:55",
+      "published_cn": "11-18 10:49"
+    },
+    {
+      "title": "这届高校学生，为何选择用鸿蒙创新？",
+      "url": "https://www.ifanr.com/1690168?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "有想法就是入场券。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1794998736.0,
+      "fetched_at": "2026-11-18 20:32:49",
+      "published_cn": "11-18 10:45"
+    },
+    {
+      "title": "China’s military seeks Nvidia’s advanced chips for AI capabilities, commission says",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-chips-china-military-ai.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "A congressional commission issued its findings as Nvidia has been rocked by its CEO's resignation after reports he had an affair with a suspected Chinese spy.",
+      "published": 1794998701.0,
+      "fetched_at": "2026-11-18 20:32:55",
+      "published_cn": "11-18 10:45"
+    },
+    {
+      "title": "APEC深圳峰會：習近平親赴機場迎接特朗普，46年來首次中國元首接機",
+      "url": "https://www.bbc.com/zhongwen/articles/cjy5xkw9g1zpo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "這是中國自1980年以來，首次有最高領導人親赴機場迎接外國元首。1980年前，華國鋒、毛澤東都有多次赴機場迎接外國領袖的歷史。",
+      "published": 1794998473.0,
+      "fetched_at": "2026-11-18 20:32:56",
+      "published_cn": "11-18 10:41"
+    },
+    {
+      "title": "深度实测 GPT-6.2：强是真强，难用也是真难用",
+      "url": "https://www.ifanr.com/1690130?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "希望国模也快快跟上啊<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1794996083.0,
+      "fetched_at": "2026-11-18 20:32:49",
+      "published_cn": "11-18 10:01"
+    },
+    {
+      "title": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
+      "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+      "source": "卫报·世界",
+      "category": "world",
+      "summary": "<p>A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in Gaza</p><p>Fears are growing that the US could impose sanctions on judges at the international court of justice, including this ",
+      "published": 1794995908.0,
+      "fetched_at": "2026-11-18 20:32:56",
+      "published_cn": "11-18 09:58"
+    },
+    {
+      "title": "Cantor Fitzgerald's Nvidia business interests targeted in Democrats' Lutnick probe",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-lutnick-china-ai-megaspeed-cantor-fitzgerald.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "The congressional probe is among the first to be announced since the blue-wave midterm that will deliver Democrats control of the House and Senate come January.",
+      "published": 1794995101.0,
+      "fetched_at": "2026-11-18 20:32:55",
+      "published_cn": "11-18 09:45"
+    },
+    {
+      "title": "10 月音乐精选：音乐丰收季，必听这 7 张新专辑",
+      "url": "https://sspai.com/post/118985",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...<a href=\"https://sspai.com/post/118985\" target=\"_blank\">查看全文</a>",
+      "published": 1794992398.0,
+      "fetched_at": "2026-11-18 20:32:50",
+      "published_cn": "11-18 08:59"
+    },
+    {
+      "title": "美中俄峰會：為何選在深圳麒麟山莊？習仲勳、金正日都曾下榻",
+      "url": "https://www.bbc.com/zhongwen/articles/cqn0dy4ppxp7o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "麒麟山莊離APEC主會場約30分鐘車程，三面環山、一面臨水，封閉性和安保條件都很好。它也與習近平的父親習仲勳有淵源，還接待過已故朝鮮領導人金正日。",
+      "published": 1794989209.0,
+      "fetched_at": "2026-11-18 20:32:56",
+      "published_cn": "11-18 08:06"
+    },
+    {
+      "title": "Senators press acting U.S. Navy Secretary on Iran war costs, sailor health in confirmation hearing",
+      "url": "https://www.cnbc.com/2026/11/18/us-iran-navy-hormuz-war-cao.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Acting Navy Secretary Hung Cao told senators the Navy recoded and used munitions he called expired as the Iran war strains weapons stocks and naval deployments.",
+      "published": 1794986646.0,
+      "fetched_at": "2026-11-18 20:32:55",
+      "published_cn": "11-18 07:24"
+    },
+    {
+      "title": "App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑",
+      "url": "https://sspai.com/post/118732",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "转头移动光标，歪头点击，开口说指令。不用摄像头，也不用另外戴什么设备。<a href=\"https://sspai.com/post/118732\" target=\"_blank\">查看全文</a>",
+      "published": 1794984870.0,
+      "fetched_at": "2026-11-18 20:32:50",
+      "published_cn": "11-18 06:54"
+    },
+    {
+      "title": "European Commission accused of sugarcoating figures to release funds to Egypt",
+      "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans",
+      "source": "卫报·世界",
+      "category": "world",
+      "summary": "<p>Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loans</p><p>The European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt unde",
+      "published": 1794978032.0,
+      "fetched_at": "2026-11-18 20:32:56",
+      "published_cn": "11-18 05:00"
+    },
+    {
       "title": "即梦 Seedance 2.5 大升级，AI 视频生成终于有了自己的 4K 生产线",
       "url": "https://www.ifanr.com/1690033?utm_source=rss&utm_medium=rss&utm_campaign=",
       "source": "爱范儿",
       "category": "tech",
       "summary": "从 AI 出片，走向 AI 交片<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794974443.0,
-      "fetched_at": "2026-11-18 12:02:05",
+      "fetched_at": "2026-11-18 20:32:49",
       "published_cn": "11-18 04:00"
-    },
-    {
-      "title": "Democrat Mary Peltola wins Alaska Senate election",
-      "url": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Peltola's defeat of incumbent Republican Dan Sullivan gives Democrats a solid majority of 56 seats in the Senate as of January.",
-      "published": 1794974172.0,
-      "fetched_at": "2026-11-18 12:02:08",
-      "published_cn": "11-18 03:56"
-    },
-    {
-      "title": "Putin says EU is losing industry, falling behind competition ahead of meeting with Trump, Xi",
-      "url": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
-      "published": 1794973744.0,
-      "fetched_at": "2026-11-18 12:02:08",
-      "published_cn": "11-18 03:49"
     },
     {
       "title": "曾经的纯电超跑之王 Rimac Nevera 宣布停产，CEO 转头造出了 16 缸的布加迪新旗舰",
@@ -43,38 +293,8 @@
       "category": "tech",
       "summary": "Rimac 已经拿到了大结果。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794973219.0,
-      "fetched_at": "2026-11-18 12:02:05",
+      "fetched_at": "2026-11-18 20:32:49",
       "published_cn": "11-18 03:40"
-    },
-    {
-      "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
-      "url": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Xi opened the APEC summit in Shenzhen by calling for lower trade and investment barriers, pledging broader access to China’s market and manufacturing sector.",
-      "published": 1794972651.0,
-      "fetched_at": "2026-11-18 12:02:08",
-      "published_cn": "11-18 03:30"
-    },
-    {
-      "title": "Three things to watch as Trump, Xi and Putin meet in China",
-      "url": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting.",
-      "published": 1794972332.0,
-      "fetched_at": "2026-11-18 12:02:08",
-      "published_cn": "11-18 03:25"
-    },
-    {
-      "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
-      "url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
-      "published": 1794971875.0,
-      "fetched_at": "2026-11-18 12:02:08",
-      "published_cn": "11-18 03:17"
     },
     {
       "title": "跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾",
@@ -83,18 +303,18 @@
       "category": "tech",
       "summary": "从深圳一路开车到广东最南端的徐闻，再和车分别乘坐渡轮，穿过地理课本里的琼州海峡。终于抵达海南后，老板却告诉我们这趟旅程真正的目的地，竟然是……<a href=\"https://sspai.com/post/119193\" target=\"_blank\">查看全文</a>",
       "published": 1794970800.0,
-      "fetched_at": "2026-11-18 12:02:07",
+      "fetched_at": "2026-11-18 20:32:50",
       "published_cn": "11-18 03:00"
     },
     {
-      "title": "Zelenskyy says Starshield speed curbs still in place over 'occupied territories' of Ukraine",
-      "url": "https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Ukraine's charge d'affaires to the U.S., Denys Sienik, said that Starshield had been speed-limited for seven days already in Ukraine.",
-      "published": 1794970216.0,
-      "fetched_at": "2026-11-18 12:02:08",
-      "published_cn": "11-18 02:50"
+      "title": "GPT-6.2 Astra 刚发布即遭大量差评，实测后我觉得它有点冤",
+      "url": "https://www.ifanr.com/1690103?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "最聪明的模型，未必是最好用的模型；最好用的模型，也未必需要证明自己最聪明。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1794969555.0,
+      "fetched_at": "2026-11-18 20:32:49",
+      "published_cn": "11-18 02:39"
     },
     {
       "title": "兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派",
@@ -103,7 +323,7 @@
       "category": "tech",
       "summary": "想找一台可以随身带着读书的墨水屏设备，也想自己改改界面、不被系统「绑架」？近期思维重置团队上架的小纸 Pico 墨水屏开发板是一个值得留意的选择。<a href=\"https://sspai.com/post/118975\" target=\"_blank\">查看全文</a>",
       "published": 1794969000.0,
-      "fetched_at": "2026-11-18 12:02:07",
+      "fetched_at": "2026-11-18 20:32:50",
       "published_cn": "11-18 02:30"
     },
     {
@@ -113,7 +333,7 @@
       "category": "tech",
       "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
       "published": 1794966261.0,
-      "fetched_at": "2026-11-18 12:02:07",
+      "fetched_at": "2026-11-18 20:32:50",
       "published_cn": "11-18 01:44"
     },
     {
@@ -123,7 +343,7 @@
       "category": "tech",
       "summary": "iPhone Duo 测试 2D 人脸解锁功能，松下发布紧凑型电影摄影机 SHX1 等。<a href=\"https://sspai.com/post/119210\" target=\"_blank\">查看全文</a>",
       "published": 1794962763.0,
-      "fetched_at": "2026-11-18 12:02:07",
+      "fetched_at": "2026-11-18 20:32:50",
       "published_cn": "11-18 00:46"
     },
     {
@@ -133,7 +353,7 @@
       "category": "tech",
       "summary": "出走容易，回归难<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794962396.0,
-      "fetched_at": "2026-11-18 12:02:05",
+      "fetched_at": "2026-11-18 20:32:49",
       "published_cn": "11-18 00:39"
     },
     {
@@ -143,18 +363,8 @@
       "category": "tech",
       "summary": "· 英伟达季度营收首次突破千亿美元，数据中心收入增长 110%\n· TGA 2026 公布提名，《GTA 6》领跑、《影之刃零》角逐年度游戏\n· macOS 27.3 收紧 App 文件访问权限<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794961969.0,
-      "fetched_at": "2026-11-18 12:02:05",
+      "fetched_at": "2026-11-18 20:32:49",
       "published_cn": "11-18 00:32"
-    },
-    {
-      "title": "身體最常受傷、卻很少人會刻意鍛鍊的部位：腳踝",
-      "url": "https://www.bbc.com/zhongwen/articles/cwj05r347d0lo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "運動物理治療師珍妮薇芙·陶亞（Genevieve Tawiah）分享了她護理關節的秘訣；關節問題佔急診就診量的 5%。",
-      "published": 1794961778.0,
-      "fetched_at": "2026-11-18 12:02:09",
-      "published_cn": "11-18 00:29"
     },
     {
       "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
@@ -163,7 +373,7 @@
       "category": "tech",
       "summary": "Word, Excel, and PowerPoint now live inside Copilot; always-on agents are next.",
       "published": 1794961649.0,
-      "fetched_at": "2026-11-18 12:02:07",
+      "fetched_at": "2026-11-18 20:32:50",
       "published_cn": "11-18 00:27"
     },
     {
@@ -173,7 +383,7 @@
       "category": "tech",
       "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
       "published": 1794961010.0,
-      "fetched_at": "2026-11-18 12:02:07",
+      "fetched_at": "2026-11-18 20:32:50",
       "published_cn": "11-18 00:16"
     },
     {
@@ -183,7 +393,7 @@
       "category": "tech",
       "summary": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
       "published": 1794960060.0,
-      "fetched_at": "2026-11-18 12:02:07",
+      "fetched_at": "2026-11-18 20:32:50",
       "published_cn": "11-18 00:01"
     },
     {
@@ -193,7 +403,7 @@
       "category": "tech",
       "summary": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense t",
       "published": 1794958878.0,
-      "fetched_at": "2026-11-18 12:02:07",
+      "fetched_at": "2026-11-18 20:32:50",
       "published_cn": "11-17 23:41"
     },
     {
@@ -203,7 +413,7 @@
       "category": "tech",
       "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
       "published": 1794958668.0,
-      "fetched_at": "2026-11-18 12:02:07",
+      "fetched_at": "2026-11-18 20:32:50",
       "published_cn": "11-17 23:37"
     },
     {
@@ -213,7 +423,7 @@
       "category": "tech",
       "summary": "500+ cameras will go dark just 3 years after mayor urged approval.",
       "published": 1794956949.0,
-      "fetched_at": "2026-11-18 12:02:07",
+      "fetched_at": "2026-11-18 20:32:50",
       "published_cn": "11-17 23:09"
     },
     {
@@ -223,7 +433,7 @@
       "category": "tech",
       "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
       "published": 1794956675.0,
-      "fetched_at": "2026-11-18 12:02:07",
+      "fetched_at": "2026-11-18 20:32:50",
       "published_cn": "11-17 23:04"
     },
     {
@@ -233,18 +443,8 @@
       "category": "tech",
       "summary": "\"Governments need control of their critical space infrastructure, and Europe needs it most.\"",
       "published": 1794955486.0,
-      "fetched_at": "2026-11-18 12:02:07",
+      "fetched_at": "2026-11-18 20:32:50",
       "published_cn": "11-17 22:44"
-    },
-    {
-      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
-      "published": 1794955347.0,
-      "fetched_at": "2026-11-18 12:02:07",
-      "published_cn": "11-17 22:42"
     },
     {
       "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
@@ -253,7 +453,7 @@
       "category": "tech",
       "summary": "Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon founder Jeff Bezos play",
       "published": 1794955121.0,
-      "fetched_at": "2026-11-18 12:02:07",
+      "fetched_at": "2026-11-18 20:32:50",
       "published_cn": "11-17 22:38"
     },
     {
@@ -263,7 +463,7 @@
       "category": "tech",
       "summary": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resig",
       "published": 1794954770.0,
-      "fetched_at": "2026-11-18 12:02:07",
+      "fetched_at": "2026-11-18 20:32:50",
       "published_cn": "11-17 22:32"
     },
     {
@@ -273,48 +473,8 @@
       "category": "tech",
       "summary": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
       "published": 1794954736.0,
-      "fetched_at": "2026-11-18 12:02:07",
+      "fetched_at": "2026-11-18 20:32:50",
       "published_cn": "11-17 22:32"
-    },
-    {
-      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
-      "published": 1794954545.0,
-      "fetched_at": "2026-11-18 12:02:07",
-      "published_cn": "11-17 22:29"
-    },
-    {
-      "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
-      "url": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks like a s",
-      "published": 1794954341.0,
-      "fetched_at": "2026-11-18 12:02:07",
-      "published_cn": "11-17 22:25"
-    },
-    {
-      "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
-      "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does not intend to reinstate ",
-      "published": 1794953105.0,
-      "fetched_at": "2026-11-18 12:02:07",
-      "published_cn": "11-17 22:05"
-    },
-    {
-      "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
-      "url": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Major outages showcase the risks of interconnected tech in the age of AI.",
-      "published": 1794953037.0,
-      "fetched_at": "2026-11-18 12:02:08",
-      "published_cn": "11-17 22:03"
     },
     {
       "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
@@ -323,38 +483,8 @@
       "category": "world",
       "summary": "<p>St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free access</p><p>The decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreign",
       "published": 1794952169.0,
-      "fetched_at": "2026-11-18 12:02:09",
+      "fetched_at": "2026-11-18 20:32:56",
       "published_cn": "11-17 21:49"
-    },
-    {
-      "title": "SEC reportedly investigating Nvidia amid Huang exit",
-      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
-      "published": 1794952087.0,
-      "fetched_at": "2026-11-18 12:02:07",
-      "published_cn": "11-17 21:48"
-    },
-    {
-      "title": "The MacBook Neo is receiving a rare $50 discount ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "If you’re looking for a new laptop or a gift for the student in your life, you can save $50 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $",
-      "published": 1794951980.0,
-      "fetched_at": "2026-11-18 12:02:07",
-      "published_cn": "11-17 21:46"
-    },
-    {
-      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. On the earnings call",
-      "published": 1794951659.0,
-      "fetched_at": "2026-11-18 12:02:07",
-      "published_cn": "11-17 21:40"
     },
     {
       "title": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life",
@@ -363,18 +493,8 @@
       "category": "world",
       "summary": "<p>Indigenous Awá people of Amazon make contact with villagers and accept food to take back to territory</p><p>About 20 Indigenous people emerged from isolation in Brazil’s Amazon rainforest, several organizations report",
       "published": 1794951656.0,
-      "fetched_at": "2026-11-18 12:02:09",
+      "fetched_at": "2026-11-18 20:32:56",
       "published_cn": "11-17 21:40"
-    },
-    {
-      "title": "Nike’s new air sole technology can mix soft and firm cushioning",
-      "url": "https://www.theverge.com/tech/1035911/nike-shoes-tuned-air-sole-printing-variable-cushioning",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "In 2024, Nike announced its Air Max 1000 that were manufactured using a 3D-printing process resulting in a shoe that had a uniform silhouette but varying areas of support and flexibility throughout. The company is now do",
-      "published": 1794951488.0,
-      "fetched_at": "2026-11-18 12:02:07",
-      "published_cn": "11-17 21:38"
     },
     {
       "title": "Eight-year-old Haitian boy returns home after release from ICE custody",
@@ -383,7 +503,7 @@
       "category": "world",
       "summary": "<p>Child reunited with family after he was detained by immigration agents in San Diego and transferred to Texas</p><p>An eight-year-old Haitian boy who was put into restraints and detained by immigration agents in San Di",
       "published": 1794949196.0,
-      "fetched_at": "2026-11-18 12:02:09",
+      "fetched_at": "2026-11-18 20:32:56",
       "published_cn": "11-17 20:59"
     },
     {
@@ -393,7 +513,7 @@
       "category": "tech",
       "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
       "published": 1794947575.0,
-      "fetched_at": "2026-11-18 12:02:07",
+      "fetched_at": "2026-11-18 20:32:50",
       "published_cn": "11-17 20:32"
     },
     {
@@ -403,28 +523,8 @@
       "category": "tech",
       "summary": "Studio head Heather Hazen is among those departing.",
       "published": 1794944725.0,
-      "fetched_at": "2026-11-18 12:02:07",
+      "fetched_at": "2026-11-18 20:32:50",
       "published_cn": "11-17 19:45"
-    },
-    {
-      "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
-      "url": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "“Wake up! They haven’t come 24 trillion miles to negotiate. They are coming to exterminate us.”",
-      "published": 1794939986.0,
-      "fetched_at": "2026-11-18 12:02:07",
-      "published_cn": "11-17 18:26"
-    },
-    {
-      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
-      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
-      "published": 1794939214.0,
-      "fetched_at": "2026-11-18 12:02:07",
-      "published_cn": "11-17 18:13"
     },
     {
       "title": "高雄選戰「知識藍」對決「新潮流」，國民黨能複製「韓流」嗎？",
@@ -433,7 +533,7 @@
       "category": "world",
       "summary": "柯志恩以「知識藍」的姿態拉攏中間選民，支持度大幅追貼深耕高雄20年的賴瑞隆，選情咬緊。",
       "published": 1794932749.0,
-      "fetched_at": "2026-11-18 12:02:09",
+      "fetched_at": "2026-11-18 20:32:56",
       "published_cn": "11-17 16:25"
     },
     {
@@ -443,18 +543,8 @@
       "category": "finance",
       "summary": "夏春：中国家庭在国民收入中分到的份额是否公平，工资占比该不该提高，这是正当且必要的争论。黄亚生提出这些问题本身有价值，但这不能兑换成错误论述的豁免权。",
       "published": 1794931200.0,
-      "fetched_at": "2026-11-18 12:02:08",
+      "fetched_at": "2026-11-18 20:32:51",
       "published_cn": "11-17 16:00"
-    },
-    {
-      "title": "中國以AI奇境接待各國領袖，但他們看不到的另一面是什麼？",
-      "url": "https://www.bbc.com/zhongwen/articles/crgj360lnqv6o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "離開深圳充滿科技感的天際線後，你將會看到習近平治下中國所面臨的種種挑戰。",
-      "published": 1794915842.0,
-      "fetched_at": "2026-11-18 12:02:09",
-      "published_cn": "11-17 11:44"
     },
     {
       "title": "特朗普訪華之際 美國封堵中國公司在東南亞租用AI算力的「後門」",
@@ -463,18 +553,8 @@
       "category": "world",
       "summary": "在美國限制最先進英偉達芯片直接銷往中國的背景下，中國大型互聯網公司和AI實驗室逐漸轉向「只租算力、不買硬件」的模式。芯片部署在第三國數據中心，中國企業再通過互聯網遠程調用算力訓練模型，而無須把相關硬件運入中國。",
       "published": 1794915432.0,
-      "fetched_at": "2026-11-18 12:02:09",
+      "fetched_at": "2026-11-18 20:32:56",
       "published_cn": "11-17 11:37"
-    },
-    {
-      "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
-      "url": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Trump’s accounts sold up to $1 million in Nvidia stock five days after he was briefed on Jensen Huang’s relationship with a suspected Chinese spy.",
-      "published": 1794910112.0,
-      "fetched_at": "2026-11-18 12:02:08",
-      "published_cn": "11-17 10:08"
     },
     {
       "title": "Mac 收紧权限，苹果开始防着 AI 了",
@@ -483,7 +563,7 @@
       "category": "tech",
       "summary": "AI 越自由，人越麻烦<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794909627.0,
-      "fetched_at": "2026-11-18 12:02:05",
+      "fetched_at": "2026-11-18 20:32:49",
       "published_cn": "11-17 10:00"
     },
     {
@@ -493,7 +573,7 @@
       "category": "world",
       "summary": "新竹市是民眾黨此前唯一贏得執政權的縣市，現任市長高虹安尋求連任，她這次雖已退出民眾黨、改以無黨籍身分參選，但學者指出其選情不僅將影響雙方未來合作模式能否延續，也可能牽動2028年全國大選的政治布局。",
       "published": 1794908989.0,
-      "fetched_at": "2026-11-18 12:02:09",
+      "fetched_at": "2026-11-18 20:32:56",
       "published_cn": "11-17 09:49"
     },
     {
@@ -503,28 +583,8 @@
       "category": "tech",
       "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/119184\" target=\"_blank\">查看全文</a>",
       "published": 1794906120.0,
-      "fetched_at": "2026-11-18 12:02:07",
+      "fetched_at": "2026-11-18 20:32:50",
       "published_cn": "11-17 09:02"
-    },
-    {
-      "title": "DeepSeek 不限额的用法，都在这里了 |  附指南",
-      "url": "https://www.ifanr.com/1689869?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "花钱接 API，导入历史记录<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1794905484.0,
-      "fetched_at": "2026-11-18 12:02:05",
-      "published_cn": "11-17 08:51"
-    },
-    {
-      "title": "APEC深圳峰會：賴清德派施振榮出席 台灣參會空間再成焦點",
-      "url": "https://www.bbc.com/zhongwen/articles/ck5y1g89jnnxo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "台灣試圖以企業家身分與科技優勢擴大能見度，中國則以原則框架維持主導權。APEC作為平台，或許能讓雙方同時在場，但仍難以消弭兩岸在全球外交參與的既有分歧。",
-      "published": 1794905080.0,
-      "fetched_at": "2026-11-18 12:02:09",
-      "published_cn": "11-17 08:44"
     },
     {
       "title": "TDS REVIEW｜Bose 有线消噪耳塞体验",
@@ -533,28 +593,8 @@
       "category": "tech",
       "summary": "这篇文章是TDSStudio在少数派上的第35篇文章，依然是全平台首发。早先我们评价过绯乐的虹，当时在评论区曾经有一些读者好奇它和BoseQC20的区别。有线降噪入耳耳机，在TWS时代到来之前曾经是一 ...<a href=\"https://sspai.com/post/118976\" target=\"_blank\">查看全文</a>",
       "published": 1794898800.0,
-      "fetched_at": "2026-11-18 12:02:07",
+      "fetched_at": "2026-11-18 20:32:50",
       "published_cn": "11-17 07:00"
-    },
-    {
-      "title": "除了人脸解锁，iPhone Duo 2 还值得哪些升级？",
-      "url": "https://www.ifanr.com/1690009?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "那我缺的实体 SIM 卡这一块谁给我补啊<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1794888026.0,
-      "fetched_at": "2026-11-18 12:02:05",
-      "published_cn": "11-17 04:00"
-    },
-    {
-      "title": "12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」",
-      "url": "https://www.ifanr.com/1689792?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "一人犯错，全员受罚。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1794885728.0,
-      "fetched_at": "2026-11-18 12:02:05",
-      "published_cn": "11-17 03:22"
     },
     {
       "title": "为了另一种可能性：在国内折腾 Linux 打游戏的二三事",
@@ -563,7 +603,7 @@
       "category": "tech",
       "summary": "当外部的限制开始逐渐渗透、内化到每个人的内心，另一种真正的「可能性」在现今尤为珍贵。<a href=\"https://sspai.com/post/118442\" target=\"_blank\">查看全文</a>",
       "published": 1794884391.0,
-      "fetched_at": "2026-11-18 12:02:07",
+      "fetched_at": "2026-11-18 20:32:50",
       "published_cn": "11-17 02:59"
     },
     {
@@ -573,18 +613,8 @@
       "category": "world",
       "summary": "<p>Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’</p><p>Five EU member states have announced plans to set up an offshore centre in Rwanda for peo",
       "published": 1794877859.0,
-      "fetched_at": "2026-11-18 12:02:09",
+      "fetched_at": "2026-11-18 20:32:56",
       "published_cn": "11-17 01:10"
-    },
-    {
-      "title": "派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等",
-      "url": "https://sspai.com/post/119160",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...<a href=\"https://sspai.com/post/119160\" target=\"_blank\">查看全文</a>",
-      "published": 1794873460.0,
-      "fetched_at": "2026-11-18 12:02:07",
-      "published_cn": "11-16 23:57"
     },
     {
       "title": "FT社评：美国对华AI芯片战的微妙平衡",
@@ -593,7 +623,7 @@
       "category": "finance",
       "summary": "美国应加强现有出口管制的执行，而非扩大封锁范围。如果美国迅速转向更为严厉的管制，反而会加快中国寻求国产替代的步伐。",
       "published": 1794844800.0,
-      "fetched_at": "2026-11-18 12:02:08",
+      "fetched_at": "2026-11-18 20:32:51",
       "published_cn": "11-16 16:00"
     },
     {
@@ -603,7 +633,7 @@
       "category": "finance",
       "summary": "中国内地民营医院竞争十分激烈，利润空间收窄，台资的明基医院上市不足一年较发行价跌去七成，但股价暂时仍难言见底。",
       "published": 1794844800.0,
-      "fetched_at": "2026-11-18 12:02:08",
+      "fetched_at": "2026-11-18 20:32:51",
       "published_cn": "11-16 16:00"
     },
     {
@@ -613,7 +643,7 @@
       "category": "finance",
       "summary": "特朗普表示对黄仁勋复出持开放态度。董事会表示，在遴选新任首席执行官时，将同时考虑内部和外部候选人。",
       "published": 1794844800.0,
-      "fetched_at": "2026-11-18 12:02:08",
+      "fetched_at": "2026-11-18 20:32:51",
       "published_cn": "11-16 16:00"
     },
     {
@@ -623,7 +653,7 @@
       "category": "finance",
       "summary": "特朗普、习近平和普京将在周四举行史无前例的三方会晤，这已引起国际社会的密切关注。",
       "published": 1794844800.0,
-      "fetched_at": "2026-11-18 12:02:08",
+      "fetched_at": "2026-11-18 20:32:51",
       "published_cn": "11-16 16:00"
     },
     {
@@ -633,7 +663,7 @@
       "category": "finance",
       "summary": "英国知名基金经理安德森严厉批评硅谷盛行的“强势创始人-领导者”模式。他警告，黄仁勋和马斯克等人的超级明星地位有损企业领导水平。",
       "published": 1794844800.0,
-      "fetched_at": "2026-11-18 12:02:08",
+      "fetched_at": "2026-11-18 20:32:51",
       "published_cn": "11-16 16:00"
     },
     {
@@ -643,7 +673,7 @@
       "category": "finance",
       "summary": "陈白：我们正在进入一个新的时代。没有人能够独善其身，哪怕你是黄仁勋。",
       "published": 1794844800.0,
-      "fetched_at": "2026-11-18 12:02:08",
+      "fetched_at": "2026-11-18 20:32:51",
       "published_cn": "11-16 16:00"
     },
     {
@@ -653,7 +683,7 @@
       "category": "finance",
       "summary": "欧盟迄今未能说服特朗普加入一项关于AI治理的国际协议。然而，特朗普在中期选举中受挫，一定程度上突显了美国选民对AI和数据中心的担忧。",
       "published": 1794844800.0,
-      "fetched_at": "2026-11-18 12:02:08",
+      "fetched_at": "2026-11-18 20:32:51",
       "published_cn": "11-16 16:00"
     },
     {
@@ -663,7 +693,7 @@
       "category": "world",
       "summary": "<ul><li><p>Suspect named as Greene Da’monte Khiree</p></li><li><p>Drug smuggling carries life sentence in Nigeria</p></li></ul><p>An American basketball player has been arrested in Nigeria for allegedly attempting to smu",
       "published": 1794834996.0,
-      "fetched_at": "2026-11-18 12:02:09",
+      "fetched_at": "2026-11-18 20:32:56",
       "published_cn": "11-16 13:16"
     },
     {
@@ -673,18 +703,8 @@
       "category": "world",
       "summary": "<p>Demonstrators tried to block vehicle carrying the baboons, whose capture authorities say is needed to protect both primate and human</p><p>The relocation of a troop of baboons in Cape Town to a wildlife sanctuary has ",
       "published": 1794824348.0,
-      "fetched_at": "2026-11-18 12:02:09",
+      "fetched_at": "2026-11-18 20:32:56",
       "published_cn": "11-16 10:19"
-    },
-    {
-      "title": "派评 | 近期值得关注的 App",
-      "url": "https://sspai.com/post/119148",
-      "source": "少数派",
-      "category": "tech",
-      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/119148\" target=\"_blank\">查看全文</a>",
-      "published": 1794823787.0,
-      "fetched_at": "2026-11-18 12:02:07",
-      "published_cn": "11-16 10:09"
     },
     {
       "title": "里長赴中旅遊受關注：為何北京鎖定里長？里長怎麼看？",
@@ -693,7 +713,7 @@
       "category": "world",
       "summary": "台灣地方選舉即將到來，近年北京對台統戰工作重心從政商菁英轉向基層社會，而里長作為選舉期間的地方「樁腳」，就成為了北京的重要接觸對象。",
       "published": 1794819802.0,
-      "fetched_at": "2026-11-18 12:02:09",
+      "fetched_at": "2026-11-18 20:32:56",
       "published_cn": "11-16 09:03"
     },
     {
@@ -703,28 +723,8 @@
       "category": "world",
       "summary": "台灣在過去七年間，幾乎每年都有大型選舉、罷免或公投。有學者形容台灣政治人物常處於「選舉模式」，在面對不同議題時往往急於回應。",
       "published": 1794566346.0,
-      "fetched_at": "2026-11-18 12:02:09",
+      "fetched_at": "2026-11-18 20:32:56",
       "published_cn": "11-13 10:39"
-    },
-    {
-      "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
-      "url": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
-      "source": "卫报·世界",
-      "category": "world",
-      "summary": "<p>After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’</p><p>The Zimbabwean author Simbarashe Kundizeza has been cleared of us",
-      "published": 1794489278.0,
-      "fetched_at": "2026-11-18 12:02:09",
-      "published_cn": "11-12 13:14"
-    },
-    {
-      "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
-      "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
-      "source": "卫报·世界",
-      "category": "world",
-      "summary": "<p>Seven-time F1 world champion tours border area and logistics warehouses operated by Egyptian Red Crescent</p><p>Lewis Hamilton has visited Egypt’s Rafah border crossing with the Gaza Strip to meet organisations sendin",
-      "published": 1794325166.0,
-      "fetched_at": "2026-11-18 12:02:09",
-      "published_cn": "11-10 15:39"
     }
   ],
   "feed_failures": [

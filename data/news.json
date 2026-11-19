@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19 20:23:45",
+  "updated_at": "2026-11-20 03:19:14",
   "categories": [
     "tech",
     "finance",
@@ -7,44 +7,324 @@
   ],
   "items": [
     {
+      "title": "Some creators are skeptical of Instagram’s new affiliate program",
+      "url": "https://www.theverge.com/news/1037951/instagram-amazon-affiliate-links-influencers-ads",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "For years, influencers have come up with workarounds on social media to figure out how to share affiliate links with followers. A new integration between Instagram and Amazon was announced earlier this month as a way to ",
+      "published": 1795115550.0,
+      "fetched_at": "2026-11-20 03:19:12",
+      "published_cn": "11-19 19:12"
+    },
+    {
+      "title": "Anthropic’s IPO could deliver $156 billion to charity",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, it's employee donations, and the company's match tot up to $156 billion.",
+      "published": 1795115445.0,
+      "fetched_at": "2026-11-20 03:19:12",
+      "published_cn": "11-19 19:10"
+    },
+    {
+      "title": "As Sanofi's Pompe drug shortage drags on, some patients struggle to access treatments",
+      "url": "https://www.cnbc.com/2026/11/19/as-pompe-drug-shortage-drags-on-patients-struggle-to-get-treatments.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "An ongoing shortage of Sanofi’s Pompe disease treatment is forcing some patients to miss critical doses. They worry their health is at risk.",
+      "published": 1795114557.0,
+      "fetched_at": "2026-11-20 03:19:14",
+      "published_cn": "11-19 18:55"
+    },
+    {
+      "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
+      "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Some models fare better, but all fail in similar ways.",
+      "published": 1795113879.0,
+      "fetched_at": "2026-11-20 03:19:12",
+      "published_cn": "11-19 18:44"
+    },
+    {
+      "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
+      "url": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Sonos speakers and soundbars aren&#8217;t exactly cheap, but thankfully the company&#8217;s Black Friday sale has already begun, making everything a little easier to afford through November 30th. Most notably, you can pi",
+      "published": 1795113188.0,
+      "fetched_at": "2026-11-20 03:19:12",
+      "published_cn": "11-19 18:33"
+    },
+    {
+      "title": "AMD dives on short-seller report of alleged China exposure",
+      "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "AMD was slumping after a short-seller alleged that its firmware showed up at a blacklisted Chinese company. The company said it complies with U.S. law.",
+      "published": 1795112694.0,
+      "fetched_at": "2026-11-20 03:19:14",
+      "published_cn": "11-19 18:24"
+    },
+    {
+      "title": "Gemini on Mac can now use your computer",
+      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful fo",
+      "published": 1795112473.0,
+      "fetched_at": "2026-11-20 03:19:12",
+      "published_cn": "11-19 18:21"
+    },
+    {
+      "title": "Leaked images reveal Motorola’s wide foldable",
+      "url": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "New leaked images of Motorola's next folding smartphone shared by SammyGuru add more credence to the theory that widescreen could be the default design for foldables moving forward. Following a single leaked shot shared ",
+      "published": 1795112343.0,
+      "fetched_at": "2026-11-20 03:19:12",
+      "published_cn": "11-19 18:19"
+    },
+    {
+      "title": "Oh, Elon Musk is ‘moderate’ now, is he?",
+      "url": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "A little less than two years ago, Elon Musk stood onstage at the Conservative Political Action Conference, sunglasses on, black MAGA hat perched atop his head, wielding a chainsaw. Last night, Musk called in to The New Y",
+      "published": 1795112100.0,
+      "fetched_at": "2026-11-20 03:19:12",
+      "published_cn": "11-19 18:15"
+    },
+    {
+      "title": "Apple’s iPhone camera leader has reportedly left the company",
+      "url": "https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Jon McCormack, Apple's vice president of camera software engineering, left the company last month, Bloomberg reports. Its sources say McCormack retired \"at the end of October after more than eight years at the company.\" ",
+      "published": 1795111985.0,
+      "fetched_at": "2026-11-20 03:19:12",
+      "published_cn": "11-19 18:13"
+    },
+    {
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      "published": 1795111751.0,
+      "fetched_at": "2026-11-20 03:19:12",
+      "published_cn": "11-19 18:09"
+    },
+    {
+      "title": "Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
+      "url": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Amazon has lobbied heavily against the proposed legislation, while New York City Mayor Zohran Mamdani backed the bill earlier this year.",
+      "published": 1795111383.0,
+      "fetched_at": "2026-11-20 03:19:14",
+      "published_cn": "11-19 18:03"
+    },
+    {
+      "title": "Google will launch Android app verification requirement globally in January 2027",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Google says almost all developers have already gotten on board with verification.",
+      "published": 1795111233.0,
+      "fetched_at": "2026-11-20 03:19:12",
+      "published_cn": "11-19 18:00"
+    },
+    {
+      "title": "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
+      "url": "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "President Trump disclosed purchases of Nvidia stock, SpaceX debt and Tesla shares in September, alongside millions of dollars in other investments.",
+      "published": 1795111144.0,
+      "fetched_at": "2026-11-20 03:19:14",
+      "published_cn": "11-19 17:59"
+    },
+    {
+      "title": "Amazon is pushing alerts opposing NYC’s Delivery Protection Act",
+      "url": "https://www.theverge.com/tech/1037813/amazon-is-pushing-alerts-to-shoppers-opposing-nycs-delivery-protection-act",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Amazon is serving up push notifications and banners on its home page to some users, warning that a new bill could add up to $5 per order in New York City. The Delivery Protection Act, which is backed by Mayor Zohran Mamd",
+      "published": 1795111081.0,
+      "fetched_at": "2026-11-20 03:19:12",
+      "published_cn": "11-19 17:58"
+    },
+    {
+      "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belo",
+      "published": 1795109920.0,
+      "fetched_at": "2026-11-20 03:19:12",
+      "published_cn": "11-19 17:38"
+    },
+    {
+      "title": "Amazon’s last-gen Kindle Paperwhite hasn’t been this cheap since June",
+      "url": "https://www.theverge.com/gadgets/1037635/amazon-kindle-paperwhite-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "alt: Amazon’s last-gen Kindle Paperwhite is just $10 more than the base modelalt: The last-gen Kindle Paperwhite for $130 is a stellar Black Friday deal Amazon debuted its latest Kindle Paperwhite in October, which is no",
+      "published": 1795108500.0,
+      "fetched_at": "2026-11-20 03:19:12",
+      "published_cn": "11-19 17:15"
+    },
+    {
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+      "published": 1795107600.0,
+      "fetched_at": "2026-11-20 03:19:12",
+      "published_cn": "11-19 17:00"
+    },
+    {
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+      "published": 1795107563.0,
+      "fetched_at": "2026-11-20 03:19:12",
+      "published_cn": "11-19 16:59"
+    },
+    {
+      "title": "Anthropic IPO: Investors who flip the stock may face brokerage penalty",
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-flipping-rules.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Brokerage firms may put future IPO limits in place for investors who sell their Anthropic stake too soon.",
+      "published": 1795105883.0,
+      "fetched_at": "2026-11-20 03:19:14",
+      "published_cn": "11-19 16:31"
+    },
+    {
+      "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
+      "url": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Palo Alto Networks reported better-than-expected first-quarter results and inked a $4.5 billion deal for AI startup Applied Compute",
+      "published": 1795105686.0,
+      "fetched_at": "2026-11-20 03:19:14",
+      "published_cn": "11-19 16:28"
+    },
+    {
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+      "published": 1795105181.0,
+      "fetched_at": "2026-11-20 03:19:12",
+      "published_cn": "11-19 16:19"
+    },
+    {
+      "title": "UK government forced to disclose secret Apple backdoor order",
+      "url": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.",
+      "published": 1795102340.0,
+      "fetched_at": "2026-11-20 03:19:12",
+      "published_cn": "11-19 15:32"
+    },
+    {
+      "title": "比亚迪发布折叠方向盘！首搭方程豹钛 9，27.99 万元起！",
+      "url": "https://www.ifanr.com/1690430?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "推翻百年来的空间格局。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1795100473.0,
+      "fetched_at": "2026-11-20 03:19:11",
+      "published_cn": "11-19 15:01"
+    },
+    {
+      "title": "刚刚，Anthropic 敲钟上市！史上最大IPO却让硅谷吵翻了",
+      "url": "https://www.ifanr.com/1690375?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "例如，为什么就你 A 社封号这么严格<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1795100337.0,
+      "fetched_at": "2026-11-20 03:19:11",
+      "published_cn": "11-19 14:58"
+    },
+    {
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+      "published": 1795100079.0,
+      "fetched_at": "2026-11-20 03:19:12",
+      "published_cn": "11-19 14:54"
+    },
+    {
+      "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
+      "url": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Kash Patel missed a congressional hearing after appearing the night before at a Mar-a-Lago gala offering donors of $50,000 access to top officials.",
+      "published": 1795097718.0,
+      "fetched_at": "2026-11-20 03:19:14",
+      "published_cn": "11-19 14:15"
+    },
+    {
+      "title": "Mouse fight club might explain why we like to watch violent things",
+      "url": "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Watching fights wasn't as good as practical experience, but it got the mice halfway there.",
+      "published": 1795097078.0,
+      "fetched_at": "2026-11-20 03:19:12",
+      "published_cn": "11-19 14:04"
+    },
+    {
+      "title": "NASA's new Moon plans have a problem: Orion wasn't designed to fly this way",
+      "url": "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "\"We also have a responsibility to not go too fast and cut too many corners.\"",
+      "published": 1795095602.0,
+      "fetched_at": "2026-11-20 03:19:12",
+      "published_cn": "11-19 13:40"
+    },
+    {
+      "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
+      "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Walmart said it saw strength with store-fulfilled pickup and delivery in its fiscal third quarter.",
+      "published": 1795094630.0,
+      "fetched_at": "2026-11-20 03:19:14",
+      "published_cn": "11-19 13:23"
+    },
+    {
+      "title": "今年是阔屏的元年，阔屏是手机的今后十年",
+      "url": "https://www.ifanr.com/1690322?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "新中产、新比例、新潮流<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1795093202.0,
+      "fetched_at": "2026-11-20 03:19:11",
+      "published_cn": "11-19 13:00"
+    },
+    {
       "title": "中美俄「三巨頭」峰會結束：涉及烏克蘭、伊朗議題，發表和平宣言承諾核對話",
       "url": "https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
       "category": "world",
       "summary": "會後發表的中俄美元首和平宣言顯示，三國領導人承諾就「減少核風險、防止核擴散」展開對話，並就聯合國改革、能源穩定和國際刑事法院管轄權等議題達成四點共識。",
       "published": 1795090924.0,
-      "fetched_at": "2026-11-19 20:23:45",
+      "fetched_at": "2026-11-20 03:19:14",
       "published_cn": "11-19 12:22"
-    },
-    {
-      "title": "Denmark ratifies Trump security deal over Greenland after months of diplomatic tensions",
-      "url": "https://www.cnbc.com/2026/11/19/greenland-denmark-trump-security-military-bases.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "It follows months of tensions after President Donald Trump repeatedly said the U.S. should take control of Greenland for national security reasons.",
-      "published": 1795089728.0,
-      "fetched_at": "2026-11-19 20:23:44",
-      "published_cn": "11-19 12:02"
-    },
-    {
-      "title": "Walmart raises sales and earnings outlook as e-commerce sales jump again",
-      "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Walmart said it saw strength with store-fulfilled pickup and delivery in its fiscal third quarter.",
-      "published": 1795089726.0,
-      "fetched_at": "2026-11-19 20:23:44",
-      "published_cn": "11-19 12:02"
-    },
-    {
-      "title": "Roblox money is pushing a controversial anorexia treatment",
-      "url": "https://www.theverge.com/features/1034740/ketogenic-diet-anorexia-roblox-medical-funding",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "In a dark room, a man with a camera makes his pitch: Therapy isn't the first treatment you should get if you have anorexia or bulimia, he says. He's in his late 20s, wearing a backward camo baseball cap and a silver chai",
-      "published": 1795089600.0,
-      "fetched_at": "2026-11-19 20:23:43",
-      "published_cn": "11-19 12:00"
     },
     {
       "title": "How to tell a cyberattack from a plain old outage",
@@ -53,7 +333,7 @@
       "category": "tech",
       "summary": "When everything goes down, don’t assume it’s a cyberattack.",
       "published": 1795086781.0,
-      "fetched_at": "2026-11-19 20:23:43",
+      "fetched_at": "2026-11-20 03:19:12",
       "published_cn": "11-19 11:13"
     },
     {
@@ -63,7 +343,7 @@
       "category": "world",
       "summary": "<p>The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permits</p><p>Environmentalists in South Africa are racing to replant five centuries-old baobabs after the 20-tonne tre",
       "published": 1795086204.0,
-      "fetched_at": "2026-11-19 20:23:45",
+      "fetched_at": "2026-11-20 03:19:14",
       "published_cn": "11-19 11:03"
     },
     {
@@ -73,7 +353,7 @@
       "category": "tech",
       "summary": "2026年以来，Apple在硬件领域明显加快了产品线的拓展。定价亲民、采用A系列芯片的MacBookNeo让Mac触及更广泛的消费群体，也引发了对性能妥协与长期使用价值的讨论。M6芯片继续推进Appl ...<a href=\"https://sspai.com/post/119191\" target=\"_blank\">查看全文</a>",
       "published": 1795083905.0,
-      "fetched_at": "2026-11-19 20:23:43",
+      "fetched_at": "2026-11-20 03:19:12",
       "published_cn": "11-19 10:25"
     },
     {
@@ -83,7 +363,7 @@
       "category": "world",
       "summary": "穆斯林社群因伊斯蘭AI助手Qaf能否頒布教法裁決爆發爭議。開發者強調僅供學習，學者則警告不可取代專業裁決，反映AI與傳統宗教的張力。",
       "published": 1795079804.0,
-      "fetched_at": "2026-11-19 20:23:45",
+      "fetched_at": "2026-11-20 03:19:14",
       "published_cn": "11-19 09:16"
     },
     {
@@ -93,28 +373,8 @@
       "category": "tech",
       "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/119287\" target=\"_blank\">查看全文</a>",
       "published": 1795079760.0,
-      "fetched_at": "2026-11-19 20:23:43",
+      "fetched_at": "2026-11-20 03:19:12",
       "published_cn": "11-19 09:16"
-    },
-    {
-      "title": "Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage",
-      "url": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping.",
-      "published": 1795078920.0,
-      "fetched_at": "2026-11-19 20:23:44",
-      "published_cn": "11-19 09:02"
-    },
-    {
-      "title": "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
-      "url": "https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Takaichi received a subdued welcome on her trip to attend the APEC summit, as Beijing shows limited appetite for repairing ties strained by Taiwan dispute.",
-      "published": 1795073909.0,
-      "fetched_at": "2026-11-19 20:23:44",
-      "published_cn": "11-19 07:38"
     },
     {
       "title": "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制",
@@ -123,7 +383,7 @@
       "category": "tech",
       "summary": "<p>[......]</p><a href=\"https://sspai.com/prime/story/system-app-protection-override-macos-27-3\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</",
       "published": 1795073651.0,
-      "fetched_at": "2026-11-19 20:23:43",
+      "fetched_at": "2026-11-20 03:19:12",
       "published_cn": "11-19 07:34"
     },
     {
@@ -133,18 +393,8 @@
       "category": "world",
       "summary": "在每一年的亞太經合組織峰會上，人們除了關心哪個國的領導人出席、他們之間的互動和談話，還有他們大合照時穿了什麼。",
       "published": 1795071939.0,
-      "fetched_at": "2026-11-19 20:23:45",
+      "fetched_at": "2026-11-20 03:19:14",
       "published_cn": "11-19 07:05"
-    },
-    {
-      "title": "Musk accuses Zelenskyy of lying about Starshield restrictions in Ukraine",
-      "url": "https://www.cnbc.com/2026/11/19/elon-musk-zelenskyy-starshield-ukraine.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Elon Musk was asked about Zelenskyy claims over the Starshield network, and he said, \"I don't want to blow your mind, but Zelenskyy is not always truthful.\"",
-      "published": 1795068449.0,
-      "fetched_at": "2026-11-19 20:23:44",
-      "published_cn": "11-19 06:07"
     },
     {
       "title": "One in four women globally unable to refuse sex within marriage, says UN",
@@ -153,7 +403,7 @@
       "category": "world",
       "summary": "<p>Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds</p><p>One in four women around the world have no power of consent if their husband or partner demands sex",
       "published": 1795060816.0,
-      "fetched_at": "2026-11-19 20:23:45",
+      "fetched_at": "2026-11-20 03:19:14",
       "published_cn": "11-19 04:00"
     },
     {
@@ -163,7 +413,7 @@
       "category": "tech",
       "summary": "英伟达何去何从<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795057165.0,
-      "fetched_at": "2026-11-19 20:23:42",
+      "fetched_at": "2026-11-20 03:19:11",
       "published_cn": "11-19 02:59"
     },
     {
@@ -173,48 +423,8 @@
       "category": "tech",
       "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/119039\" target=\"_blank\">查看全文</a>",
       "published": 1795057088.0,
-      "fetched_at": "2026-11-19 20:23:43",
+      "fetched_at": "2026-11-20 03:19:12",
       "published_cn": "11-19 02:58"
-    },
-    {
-      "title": "Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink",
-      "url": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Musk made the comments",
-      "published": 1795052385.0,
-      "fetched_at": "2026-11-19 20:23:43",
-      "published_cn": "11-19 01:39"
-    },
-    {
-      "title": "Intel signs first external customer for advanced 18A chips",
-      "url": "https://www.cnbc.com/2026/11/18/intel-first-18a-foundry-customer.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Intel CEO Lip-Bu Tan said Wednesday that the company signed its first outside customer for its 18A chips.",
-      "published": 1795050325.0,
-      "fetched_at": "2026-11-19 20:23:44",
-      "published_cn": "11-19 01:05"
-    },
-    {
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short an",
-      "published": 1795048976.0,
-      "fetched_at": "2026-11-19 20:23:43",
-      "published_cn": "11-19 00:42"
-    },
-    {
-      "title": "Elon Musk says: ‘I’m not MAGA’",
-      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during",
-      "published": 1795048849.0,
-      "fetched_at": "2026-11-19 20:23:43",
-      "published_cn": "11-19 00:40"
     },
     {
       "title": "早报｜GTA6开售，评分破纪录/大疆多款相机涨价/豆包工作三个月日活破800万",
@@ -223,7 +433,7 @@
       "category": "tech",
       "summary": "· Google 发布 Gemini 4 Neon，主打复杂任务与更低单次成本\n· 英伟达员工大会：董事会不让黄仁勋回归，临时 CEO 承诺涨薪\n· 英特尔再裁全球 IT 员工，继续推进组织精简<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795048564.0,
-      "fetched_at": "2026-11-19 20:23:42",
+      "fetched_at": "2026-11-20 03:19:11",
       "published_cn": "11-19 00:36"
     },
     {
@@ -233,18 +443,8 @@
       "category": "tech",
       "summary": "AMD 更新虚幻引擎 FSR 插件、Google Wallet 登陆 iOS 等。<a href=\"https://sspai.com/post/119239\" target=\"_blank\">查看全文</a>",
       "published": 1795048170.0,
-      "fetched_at": "2026-11-19 20:23:43",
+      "fetched_at": "2026-11-20 03:19:12",
       "published_cn": "11-19 00:29"
-    },
-    {
-      "title": "Microsoft CEO Satya Nadella calls Outlook outage a 'perfect storm.' Here's what went wrong",
-      "url": "https://www.cnbc.com/2026/11/18/microsoft-put-the-ai-threat-to-software-behind-it-then-came-the-outage.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Microsoft shares have dropped nearly 9% since closing at a record high on Nov. 4.",
-      "published": 1795047508.0,
-      "fetched_at": "2026-11-19 20:23:44",
-      "published_cn": "11-19 00:18"
     },
     {
       "title": "中美俄「三巨頭」坐在了一起，世界正滑向大國共管嗎？",
@@ -253,18 +453,8 @@
       "category": "world",
       "summary": "「他們能坐下來，就說明這個世界還沒有到第一次或第二次世界大戰那個狀況。」香港科技大學榮休教授丁學良對BBC說。",
       "published": 1795047117.0,
-      "fetched_at": "2026-11-19 20:23:45",
+      "fetched_at": "2026-11-20 03:19:14",
       "published_cn": "11-19 00:11"
-    },
-    {
-      "title": "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
-      "url": "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Kash Patel missed a congressional hearing after appearing the night before at a Mar-a-Lago gala offering donors of $50,000 access to top officials.",
-      "published": 1795046894.0,
-      "fetched_at": "2026-11-19 20:23:44",
-      "published_cn": "11-19 00:08"
     },
     {
       "title": "刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5",
@@ -273,28 +463,8 @@
       "category": "tech",
       "summary": "性能更强，还更便宜<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795046207.0,
-      "fetched_at": "2026-11-19 20:23:42",
+      "fetched_at": "2026-11-20 03:19:11",
       "published_cn": "11-18 23:56"
-    },
-    {
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-      "published": 1795045500.0,
-      "fetched_at": "2026-11-19 20:23:43",
-      "published_cn": "11-18 23:45"
-    },
-    {
-      "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
-      "published": 1795044317.0,
-      "fetched_at": "2026-11-19 20:23:43",
-      "published_cn": "11-18 23:25"
     },
     {
       "title": "Ted Cruz-led committee approves Trump FCC nominee 15-0 as Democrats boycott vote",
@@ -303,28 +473,8 @@
       "category": "tech",
       "summary": "Democrats try to prevent quorum, say Thumann lied about not working on media issues.",
       "published": 1795044304.0,
-      "fetched_at": "2026-11-19 20:23:43",
+      "fetched_at": "2026-11-20 03:19:12",
       "published_cn": "11-18 23:25"
-    },
-    {
-      "title": "The nation’s largest school districts consider ditching Google Search",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next yea",
-      "published": 1795043915.0,
-      "fetched_at": "2026-11-19 20:23:43",
-      "published_cn": "11-18 23:18"
-    },
-    {
-      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
-      "published": 1795043848.0,
-      "fetched_at": "2026-11-19 20:23:43",
-      "published_cn": "11-18 23:17"
     },
     {
       "title": "Ukraine blew up Putin’s bridge using relay drones to bypass Starlink limits",
@@ -333,18 +483,8 @@
       "category": "tech",
       "summary": "Ukraine's strike used homegrown tech while adapting battlefield lessons from its adversary.",
       "published": 1795043439.0,
-      "fetched_at": "2026-11-19 20:23:43",
+      "fetched_at": "2026-11-20 03:19:12",
       "published_cn": "11-18 23:10"
-    },
-    {
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-      "published": 1795042691.0,
-      "fetched_at": "2026-11-19 20:23:43",
-      "published_cn": "11-18 22:58"
     },
     {
       "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
@@ -353,18 +493,8 @@
       "category": "world",
       "summary": "<p>Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel Moïse</p><p>A Florida pastor with dual Haitian-American citizenship was convicted on Wednesday of US charges ar",
       "published": 1795041101.0,
-      "fetched_at": "2026-11-19 20:23:45",
+      "fetched_at": "2026-11-20 03:19:14",
       "published_cn": "11-18 22:31"
-    },
-    {
-      "title": "Anthropic prices IPO at $83 a share, above projected range",
-      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
-      "published": 1795039875.0,
-      "fetched_at": "2026-11-19 20:23:43",
-      "published_cn": "11-18 22:11"
     },
     {
       "title": "Trump abandons his FDA nominee, and Senate scraps vote on his NSF pick",
@@ -373,58 +503,8 @@
       "category": "tech",
       "summary": "\"This time requires leadership and fortitude,\" Senator Bill Cassidy said.",
       "published": 1795039737.0,
-      "fetched_at": "2026-11-19 20:23:43",
+      "fetched_at": "2026-11-20 03:19:12",
       "published_cn": "11-18 22:08"
-    },
-    {
-      "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
-      "url": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Senate commerce committee Chair Ted Cruz (R-TX) began a meeting Wednesday meant to confirm President Donald Trump's nominee to the Federal Communications Commission with a lopsided dais. To his right sat all 14 Republica",
-      "published": 1795039548.0,
-      "fetched_at": "2026-11-19 20:23:43",
-      "published_cn": "11-18 22:05"
-    },
-    {
-      "title": "Palmer Luckey doesn’t deny that he’s a prepper",
-      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.",
-      "published": 1795039443.0,
-      "fetched_at": "2026-11-19 20:23:43",
-      "published_cn": "11-18 22:04"
-    },
-    {
-      "title": "Netflix CEO admits app may bury stuff you want to watch under stuff you don’t",
-      "url": "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "CEO Ted Sarandos discusses gaps in making hit shows that streamers can find.",
-      "published": 1795037364.0,
-      "fetched_at": "2026-11-19 20:23:43",
-      "published_cn": "11-18 21:29"
-    },
-    {
-      "title": "Absolute Batman can save DC Studios",
-      "url": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building around movies like ",
-      "published": 1795036800.0,
-      "fetched_at": "2026-11-19 20:23:43",
-      "published_cn": "11-18 21:20"
-    },
-    {
-      "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
-      "url": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
-      "published": 1795034472.0,
-      "fetched_at": "2026-11-19 20:23:43",
-      "published_cn": "11-18 20:41"
     },
     {
       "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
@@ -433,58 +513,8 @@
       "category": "world",
       "summary": "<p>Defense secretary asserts US dominance on trip that would have seemed ‘impossible, almost unbelievable’ a year ago</p><p>Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former p",
       "published": 1795033459.0,
-      "fetched_at": "2026-11-19 20:23:45",
+      "fetched_at": "2026-11-20 03:19:14",
       "published_cn": "11-18 20:24"
-    },
-    {
-      "title": "Trump’s latest land grab is an AI hub in the Philippines",
-      "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and P",
-      "published": 1795030836.0,
-      "fetched_at": "2026-11-19 20:23:43",
-      "published_cn": "11-18 19:40"
-    },
-    {
-      "title": "Best Buy sells Blu-rays online and in-store again",
-      "url": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Popular titles like <em>The Odyssey</em> are being “sold &#038; shipped by Best Buy.\"",
-      "published": 1795030277.0,
-      "fetched_at": "2026-11-19 20:23:43",
-      "published_cn": "11-18 19:31"
-    },
-    {
-      "title": "Nvidia’s rise, visualized",
-      "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to ",
-      "published": 1795030200.0,
-      "fetched_at": "2026-11-19 20:23:43",
-      "published_cn": "11-18 19:30"
-    },
-    {
-      "title": "Sony’s impressive Bravia 8 II OLED hits a new low price ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1036693/sony-bravia-8-ii-oled-black-friday-2026-deal-sale",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Black Friday is a great time to save on a new OLED television for your winter movie nights. Though, it turns out that you can already get a great deal on the 65-inch Sony Bravia 8 II, one of our favorite OLED televisions",
-      "published": 1795030200.0,
-      "fetched_at": "2026-11-19 20:23:43",
-      "published_cn": "11-18 19:30"
-    },
-    {
-      "title": "Muse privacy invasions are freaking out Meta staffers, internal chats show",
-      "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Erratic Muse outputs sharing random bank, bitcoin balances aren’t real, Meta says.",
-      "published": 1795029573.0,
-      "fetched_at": "2026-11-19 20:23:43",
-      "published_cn": "11-18 19:19"
     },
     {
       "title": "《GTA VI》首发体验：过去十年最好的游戏，也可能是未来十年最好的游戏",
@@ -493,7 +523,7 @@
       "category": "tech",
       "summary": "欢迎回到罪城<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795022191.0,
-      "fetched_at": "2026-11-19 20:23:42",
+      "fetched_at": "2026-11-20 03:19:11",
       "published_cn": "11-18 17:16"
     },
     {
@@ -503,7 +533,7 @@
       "category": "finance",
       "summary": "沈建光：地缘政治竞争和人工智能正在冲击全球政经格局，APEC的一些优势可能进一步凸显。与其他全球治理机制相比，APEC有何特点？中国如何继续发挥引领性作用？",
       "published": 1795017600.0,
-      "fetched_at": "2026-11-19 20:23:44",
+      "fetched_at": "2026-11-20 03:19:13",
       "published_cn": "11-18 16:00"
     },
     {
@@ -513,18 +543,8 @@
       "category": "tech",
       "summary": "有想法就是入场券。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1794998736.0,
-      "fetched_at": "2026-11-19 20:23:42",
+      "fetched_at": "2026-11-20 03:19:11",
       "published_cn": "11-18 10:45"
-    },
-    {
-      "title": "深度实测 GPT-6.2：强是真强，难用也是真难用",
-      "url": "https://www.ifanr.com/1690130?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "希望国模也快快跟上啊<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1794996083.0,
-      "fetched_at": "2026-11-19 20:23:42",
-      "published_cn": "11-18 10:01"
     },
     {
       "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
@@ -533,7 +553,7 @@
       "category": "world",
       "summary": "<p>A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in Gaza</p><p>Fears are growing that the US could impose sanctions on judges at the international court of justice, including this ",
       "published": 1794995908.0,
-      "fetched_at": "2026-11-19 20:23:45",
+      "fetched_at": "2026-11-20 03:19:14",
       "published_cn": "11-18 09:58"
     },
     {
@@ -543,7 +563,7 @@
       "category": "tech",
       "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...<a href=\"https://sspai.com/post/118985\" target=\"_blank\">查看全文</a>",
       "published": 1794992398.0,
-      "fetched_at": "2026-11-19 20:23:43",
+      "fetched_at": "2026-11-20 03:19:12",
       "published_cn": "11-18 08:59"
     },
     {
@@ -553,7 +573,7 @@
       "category": "world",
       "summary": "麒麟山莊離APEC主會場約30分鐘車程，三面環山、一面臨水，封閉性和安保條件都很好。它也與習近平的父親習仲勳有淵源，還接待過已故朝鮮領導人金正日。",
       "published": 1794989209.0,
-      "fetched_at": "2026-11-19 20:23:45",
+      "fetched_at": "2026-11-20 03:19:14",
       "published_cn": "11-18 08:06"
     },
     {
@@ -563,7 +583,7 @@
       "category": "tech",
       "summary": "转头移动光标，歪头点击，开口说指令。不用摄像头，也不用另外戴什么设备。<a href=\"https://sspai.com/post/118732\" target=\"_blank\">查看全文</a>",
       "published": 1794984870.0,
-      "fetched_at": "2026-11-19 20:23:43",
+      "fetched_at": "2026-11-20 03:19:12",
       "published_cn": "11-18 06:54"
     },
     {
@@ -573,28 +593,8 @@
       "category": "world",
       "summary": "<p>Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loans</p><p>The European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt unde",
       "published": 1794978032.0,
-      "fetched_at": "2026-11-19 20:23:45",
+      "fetched_at": "2026-11-20 03:19:14",
       "published_cn": "11-18 05:00"
-    },
-    {
-      "title": "即梦 Seedance 2.5 大升级，AI 视频生成终于有了自己的 4K 生产线",
-      "url": "https://www.ifanr.com/1690033?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "从 AI 出片，走向 AI 交片<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1794974443.0,
-      "fetched_at": "2026-11-19 20:23:42",
-      "published_cn": "11-18 04:00"
-    },
-    {
-      "title": "曾经的纯电超跑之王 Rimac Nevera 宣布停产，CEO 转头造出了 16 缸的布加迪新旗舰",
-      "url": "https://www.ifanr.com/1690064?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "Rimac 已经拿到了大结果。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1794973219.0,
-      "fetched_at": "2026-11-19 20:23:42",
-      "published_cn": "11-18 03:40"
     },
     {
       "title": "跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾",
@@ -603,7 +603,7 @@
       "category": "tech",
       "summary": "从深圳一路开车到广东最南端的徐闻，再和车分别乘坐渡轮，穿过地理课本里的琼州海峡。终于抵达海南后，老板却告诉我们这趟旅程真正的目的地，竟然是……<a href=\"https://sspai.com/post/119193\" target=\"_blank\">查看全文</a>",
       "published": 1794970800.0,
-      "fetched_at": "2026-11-19 20:23:43",
+      "fetched_at": "2026-11-20 03:19:12",
       "published_cn": "11-18 03:00"
     },
     {
@@ -613,7 +613,7 @@
       "category": "world",
       "summary": "<p>St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free access</p><p>The decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreign",
       "published": 1794952169.0,
-      "fetched_at": "2026-11-19 20:23:45",
+      "fetched_at": "2026-11-20 03:19:14",
       "published_cn": "11-17 21:49"
     },
     {
@@ -623,7 +623,7 @@
       "category": "world",
       "summary": "柯志恩以「知識藍」的姿態拉攏中間選民，支持度大幅追貼深耕高雄20年的賴瑞隆，選情咬緊。",
       "published": 1794932749.0,
-      "fetched_at": "2026-11-19 20:23:45",
+      "fetched_at": "2026-11-20 03:19:14",
       "published_cn": "11-17 16:25"
     },
     {
@@ -633,7 +633,7 @@
       "category": "finance",
       "summary": "夏春：中国家庭在国民收入中分到的份额是否公平，工资占比该不该提高，这是正当且必要的争论。黄亚生提出这些问题本身有价值，但这不能兑换成错误论述的豁免权。",
       "published": 1794931200.0,
-      "fetched_at": "2026-11-19 20:23:44",
+      "fetched_at": "2026-11-20 03:19:13",
       "published_cn": "11-17 16:00"
     },
     {
@@ -643,7 +643,7 @@
       "category": "world",
       "summary": "新竹市是民眾黨此前唯一贏得執政權的縣市，現任市長高虹安尋求連任，她這次雖已退出民眾黨、改以無黨籍身分參選，但學者指出其選情不僅將影響雙方未來合作模式能否延續，也可能牽動2028年全國大選的政治布局。",
       "published": 1794908989.0,
-      "fetched_at": "2026-11-19 20:23:45",
+      "fetched_at": "2026-11-20 03:19:14",
       "published_cn": "11-17 09:49"
     },
     {
@@ -653,7 +653,7 @@
       "category": "world",
       "summary": "<p>Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’</p><p>Five EU member states have announced plans to set up an offshore centre in Rwanda for peo",
       "published": 1794877859.0,
-      "fetched_at": "2026-11-19 20:23:45",
+      "fetched_at": "2026-11-20 03:19:14",
       "published_cn": "11-17 01:10"
     },
     {
@@ -663,7 +663,7 @@
       "category": "finance",
       "summary": "美国应加强现有出口管制的执行，而非扩大封锁范围。如果美国迅速转向更为严厉的管制，反而会加快中国寻求国产替代的步伐。",
       "published": 1794844800.0,
-      "fetched_at": "2026-11-19 20:23:44",
+      "fetched_at": "2026-11-20 03:19:13",
       "published_cn": "11-16 16:00"
     },
     {
@@ -673,7 +673,7 @@
       "category": "finance",
       "summary": "中国内地民营医院竞争十分激烈，利润空间收窄，台资的明基医院上市不足一年较发行价跌去七成，但股价暂时仍难言见底。",
       "published": 1794844800.0,
-      "fetched_at": "2026-11-19 20:23:44",
+      "fetched_at": "2026-11-20 03:19:13",
       "published_cn": "11-16 16:00"
     },
     {
@@ -683,7 +683,7 @@
       "category": "finance",
       "summary": "特朗普表示对黄仁勋复出持开放态度。董事会表示，在遴选新任首席执行官时，将同时考虑内部和外部候选人。",
       "published": 1794844800.0,
-      "fetched_at": "2026-11-19 20:23:44",
+      "fetched_at": "2026-11-20 03:19:13",
       "published_cn": "11-16 16:00"
     },
     {
@@ -693,7 +693,7 @@
       "category": "finance",
       "summary": "特朗普、习近平和普京将在周四举行史无前例的三方会晤，这已引起国际社会的密切关注。",
       "published": 1794844800.0,
-      "fetched_at": "2026-11-19 20:23:44",
+      "fetched_at": "2026-11-20 03:19:13",
       "published_cn": "11-16 16:00"
     },
     {
@@ -703,7 +703,7 @@
       "category": "finance",
       "summary": "英国知名基金经理安德森严厉批评硅谷盛行的“强势创始人-领导者”模式。他警告，黄仁勋和马斯克等人的超级明星地位有损企业领导水平。",
       "published": 1794844800.0,
-      "fetched_at": "2026-11-19 20:23:44",
+      "fetched_at": "2026-11-20 03:19:13",
       "published_cn": "11-16 16:00"
     },
     {
@@ -713,7 +713,7 @@
       "category": "finance",
       "summary": "陈白：我们正在进入一个新的时代。没有人能够独善其身，哪怕你是黄仁勋。",
       "published": 1794844800.0,
-      "fetched_at": "2026-11-19 20:23:44",
+      "fetched_at": "2026-11-20 03:19:13",
       "published_cn": "11-16 16:00"
     },
     {
@@ -723,7 +723,7 @@
       "category": "world",
       "summary": "台灣在過去七年間，幾乎每年都有大型選舉、罷免或公投。有學者形容台灣政治人物常處於「選舉模式」，在面對不同議題時往往急於回應。",
       "published": 1794566346.0,
-      "fetched_at": "2026-11-19 20:23:45",
+      "fetched_at": "2026-11-20 03:19:14",
       "published_cn": "11-13 10:39"
     }
   ],

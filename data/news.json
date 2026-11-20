@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20 20:24:26",
+  "updated_at": "2026-11-21 02:57:01",
   "categories": [
     "tech",
     "finance",
@@ -7,23 +7,293 @@
   ],
   "items": [
     {
+      "title": "Trump says he still has confidence in Lutnick",
+      "url": "https://www.cnbc.com/2026/11/20/trump-lutnick-commerce-china-ai.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "",
+      "published": 1795200740.0,
+      "fetched_at": "2026-11-21 02:57:01",
+      "published_cn": "11-20 18:52"
+    },
+    {
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"",
+      "published": 1795200619.0,
+      "fetched_at": "2026-11-21 02:57:00",
+      "published_cn": "11-20 18:50"
+    },
+    {
+      "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+      "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
+      "published": 1795199716.0,
+      "fetched_at": "2026-11-21 02:57:01",
+      "published_cn": "11-20 18:35"
+    },
+    {
+      "title": "Super-hot rock geothermal could end data center energy woes",
+      "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "A new wave of geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
+      "published": 1795199640.0,
+      "fetched_at": "2026-11-21 02:57:00",
+      "published_cn": "11-20 18:34"
+    },
+    {
+      "title": "Jensen Huang wasn't mentioned in latest talks with China, Bessent says",
+      "url": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Questions have been raised over why the Trump administration did not impose restrictions on Megaspeed, a company at the center of the Nvidia scandal.",
+      "published": 1795198550.0,
+      "fetched_at": "2026-11-21 02:57:01",
+      "published_cn": "11-20 18:15"
+    },
+    {
+      "title": "Multiplying your Switch 2’s storage costs less than usual right now",
+      "url": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards, while physically identical to ones you might",
+      "published": 1795198500.0,
+      "fetched_at": "2026-11-21 02:57:00",
+      "published_cn": "11-20 18:15"
+    },
+    {
+      "title": "Google says it’s going to shut off Google Assistant on smart speakers next year",
+      "url": "https://www.theverge.com/tech/1038834/google-assistant-smart-speakers-nest-app-killed-shut-down",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Google is announcing some significant changes to its smart home software. Starting next year, the company will shut down the Nest app in favor of the Google Home app and retire Google Assistant on its smart home devices.",
+      "published": 1795197600.0,
+      "fetched_at": "2026-11-21 02:57:00",
+      "published_cn": "11-20 18:00"
+    },
+    {
+      "title": "Chips can survive the space environment — can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+      "published": 1795196401.0,
+      "fetched_at": "2026-11-21 02:57:00",
+      "published_cn": "11-20 17:40"
+    },
+    {
+      "title": "Here are the Apple deals actually worth picking up ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1035460/best-early-black-friday-apple-deals-2026",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "A new pair of AirPods or the latest Apple Watch can make a great holiday gift, but they can also take a pretty big dent out of your budget. That’s especially true this year, as rising hardware prices have made MacBooks a",
+      "published": 1795196039.0,
+      "fetched_at": "2026-11-21 02:57:00",
+      "published_cn": "11-20 17:33"
+    },
+    {
+      "title": "Gap stock soars as retailer says Old Navy turnaround shows signs of improvement",
+      "url": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
+      "published": 1795195229.0,
+      "fetched_at": "2026-11-21 02:57:01",
+      "published_cn": "11-20 17:20"
+    },
+    {
+      "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
+      "url": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or inside",
+      "published": 1795194352.0,
+      "fetched_at": "2026-11-21 02:57:00",
+      "published_cn": "11-20 17:05"
+    },
+    {
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Anthropic mathematician Levent Alp&#246;ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the wor",
+      "published": 1795192453.0,
+      "fetched_at": "2026-11-21 02:57:00",
+      "published_cn": "11-20 16:34"
+    },
+    {
+      "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
+      "url": "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "If you're wondering how Alex Ridha's (aka Boys Noize) collaboration with Nine Inch Nails influenced his new record 7LLVSION, the answer is simple: It didn't. That's not to say Ridha didn't learn anything from the virtuos",
+      "published": 1795191735.0,
+      "fetched_at": "2026-11-21 02:57:00",
+      "published_cn": "11-20 16:22"
+    },
+    {
+      "title": "Bending Spoons buys Mailchimp for $3.68B",
+      "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
+      "published": 1795191366.0,
+      "fetched_at": "2026-11-21 02:57:00",
+      "published_cn": "11-20 16:16"
+    },
+    {
+      "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
+      "url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "\"We don't yet know the number we are able to make, and at what price...\"",
+      "published": 1795191081.0,
+      "fetched_at": "2026-11-21 02:57:00",
+      "published_cn": "11-20 16:11"
+    },
+    {
+      "title": "Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives",
+      "url": "https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "The year is 2022. Vladimir Putin has announced the military draft. In Andrey Zvyagintsev's Minotaur, set in the fictional town of Krasoborsk, a quietly unhappy couple, called Gleb and Galina, carry on with their lives, o",
+      "published": 1795190400.0,
+      "fetched_at": "2026-11-21 02:57:00",
+      "published_cn": "11-20 16:00"
+    },
+    {
+      "title": "Ex-GM CEO on Mary Barra succession planning: 'It's going to be tough'",
+      "url": "https://www.cnbc.com/2026/11/20/gm-ceo-succession-mary-barra-dan-akerson.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Former GM CEO Dan Akerson says whoever replaces Mary Barra will have a difficult task because they'll inherit rapid change in technology and the auto industry.",
+      "published": 1795189827.0,
+      "fetched_at": "2026-11-21 02:57:01",
+      "published_cn": "11-20 15:50"
+    },
+    {
+      "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
+      "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.",
+      "published": 1795189567.0,
+      "fetched_at": "2026-11-21 02:57:00",
+      "published_cn": "11-20 15:46"
+    },
+    {
+      "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
+      "url": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.",
+      "published": 1795188054.0,
+      "fetched_at": "2026-11-21 02:57:01",
+      "published_cn": "11-20 15:20"
+    },
+    {
+      "title": "Anthropic raises $93.5 billion total as underwriters scoop up ‘greenshoe’ overallotment",
+      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "The AI company sold an aggregate of 1,127,000,000 shares at $83 per share in the record IPO.",
+      "published": 1795186778.0,
+      "fetched_at": "2026-11-21 02:57:01",
+      "published_cn": "11-20 14:59"
+    },
+    {
+      "title": "US will soon announce root cause behind FAA nationwide ground stop",
+      "url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
+      "published": 1795186371.0,
+      "fetched_at": "2026-11-21 02:57:00",
+      "published_cn": "11-20 14:52"
+    },
+    {
+      "title": "The bull market has a new problem. The 'smart money' is selling",
+      "url": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Companies are shifting from share buybacks to stock issuance, adding new supply. Anthropic’s $81 billion IPO puts that demand to the test.",
+      "published": 1795184129.0,
+      "fetched_at": "2026-11-21 02:57:01",
+      "published_cn": "11-20 14:15"
+    },
+    {
+      "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
+      "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
+      "published": 1795184121.0,
+      "fetched_at": "2026-11-21 02:57:00",
+      "published_cn": "11-20 14:15"
+    },
+    {
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "published": 1795183200.0,
+      "fetched_at": "2026-11-21 02:57:00",
+      "published_cn": "11-20 14:00"
+    },
+    {
+      "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
+      "url": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
+      "published": 1795181745.0,
+      "fetched_at": "2026-11-21 02:57:00",
+      "published_cn": "11-20 13:35"
+    },
+    {
+      "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+      "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
+      "published": 1795181100.0,
+      "fetched_at": "2026-11-21 02:57:00",
+      "published_cn": "11-20 13:25"
+    },
+    {
+      "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+      "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
+      "published": 1795180871.0,
+      "fetched_at": "2026-11-21 02:57:00",
+      "published_cn": "11-20 13:21"
+    },
+    {
+      "title": "Only the Seminole Tribe can offer online gambling in Florida—and they're furious at DraftKings",
+      "url": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Gambling? We're just swapping contracts!",
+      "published": 1795177829.0,
+      "fetched_at": "2026-11-21 02:57:00",
+      "published_cn": "11-20 12:30"
+    },
+    {
       "title": "Science has a home here at Ars—please help keep it that way",
       "url": "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
       "source": "Ars Technica",
       "category": "tech",
       "summary": "Your support for Ars matters more now than ever.",
       "published": 1795176936.0,
-      "fetched_at": "2026-11-20 20:24:24",
-      "published_cn": "11-20 12:15"
-    },
-    {
-      "title": "Cathie Wood's ARK Invest was a big buyer of Anthropic during debut",
-      "url": "https://www.cnbc.com/2026/11/20/cathie-woods-ark-invest-was-a-big-buyer-of-anthropic-during-debut.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Wood's firm bought $90.8 million worth of Anthropic in six funds, according to a trade notification from the firm.",
-      "published": 1795176924.0,
-      "fetched_at": "2026-11-20 20:24:25",
+      "fetched_at": "2026-11-21 02:57:00",
       "published_cn": "11-20 12:15"
     },
     {
@@ -33,48 +303,18 @@
       "category": "tech",
       "summary": "TP-Link's struggle illustrates how Trump admin wields control over device makers.",
       "published": 1795176043.0,
-      "fetched_at": "2026-11-20 20:24:24",
+      "fetched_at": "2026-11-21 02:57:00",
       "published_cn": "11-20 12:00"
     },
     {
-      "title": "Why the robots are ditching Uber",
-      "url": "https://www.theverge.com/transportation/1037667/waymo-serve-robotics-ditch-uber-autonomous-partnerships",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "In a late August earnings call, Uber CEO Dara Khosrowshahi sounded optimistic about his company's \"very strong\" partnership with Waymo, the global leader in autonomous robotaxis. The two companies had been working togeth",
-      "published": 1795176000.0,
-      "fetched_at": "2026-11-20 20:24:24",
-      "published_cn": "11-20 12:00"
-    },
-    {
-      "title": "‘Traumatizing’: hunger striker in ICE detention tells of force-feeding ordeal – and what made him crack",
+      "title": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
       "url": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
       "source": "卫报·世界",
       "category": "world",
-      "summary": "<p>Exclusive: Luis Alejandro Cora Perez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strike</p><p>The text message that came from inside the Immigration and Customs En",
+      "summary": "<p>Exclusive: Luis Alejandro Cora Pérez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strike</p><p>The text message that came from inside the Immigration and Customs En",
       "published": 1795172431.0,
-      "fetched_at": "2026-11-20 20:24:26",
+      "fetched_at": "2026-11-21 02:57:01",
       "published_cn": "11-20 11:00"
-    },
-    {
-      "title": "Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market",
-      "url": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Anthropic faced a market selloff, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
-      "published": 1795172401.0,
-      "fetched_at": "2026-11-20 20:24:25",
-      "published_cn": "11-20 11:00"
-    },
-    {
-      "title": "White House replaces cyber director Sean Cairncross amid widespread tech outages",
-      "url": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Sean Cairncross will be replaced by Pentagon chief information officer Kirsten Davies.",
-      "published": 1795172364.0,
-      "fetched_at": "2026-11-20 20:24:25",
-      "published_cn": "11-20 10:59"
     },
     {
       "title": "理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它",
@@ -83,18 +323,8 @@
       "category": "tech",
       "summary": "最好的智驾芯片，是让你彻底忘掉它。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795171187.0,
-      "fetched_at": "2026-11-20 20:24:23",
+      "fetched_at": "2026-11-21 02:56:59",
       "published_cn": "11-20 10:39"
-    },
-    {
-      "title": "Kushner says Russia 'comfortable' with idea of NATO-like security guarantees for Ukraine",
-      "url": "https://www.cnbc.com/2026/11/20/kushner-ukraine-nato-russia-trump-putin.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Kushner said President Donald Trump is open to such a guarantee, but its form and whether Russia and Ukraine would accept it remain unclear.",
-      "published": 1795168563.0,
-      "fetched_at": "2026-11-20 20:24:25",
-      "published_cn": "11-20 09:56"
     },
     {
       "title": "本周看什么 | 最近值得一看的 10 部作品",
@@ -103,18 +333,8 @@
       "category": "tech",
       "summary": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ...<a href=\"https://sspai.com/post/119337\" target=\"_blank\">查看全文</a>",
       "published": 1795168441.0,
-      "fetched_at": "2026-11-20 20:24:24",
+      "fetched_at": "2026-11-21 02:57:00",
       "published_cn": "11-20 09:54"
-    },
-    {
-      "title": "Putin scores ‘massive win’ at first trilateral meeting, rebuilding standing as Ukraine war grinds on",
-      "url": "https://www.cnbc.com/2026/11/20/putin-xi-china-trump-russia-ukraine-.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Putin was positioned as an equal beside the leaders of the U.S. and China, handing a win to the authoritarian leader bogged down in a multi-year war.",
-      "published": 1795166805.0,
-      "fetched_at": "2026-11-20 20:24:25",
-      "published_cn": "11-20 09:26"
     },
     {
       "title": "英國女子遭丈夫下藥，13年間被陌生男子輪流性侵",
@@ -123,7 +343,7 @@
       "category": "world",
       "summary": "四名男子性侵一名被其丈夫下藥的女子，被裁定性侵罪成。",
       "published": 1795166665.0,
-      "fetched_at": "2026-11-20 20:24:26",
+      "fetched_at": "2026-11-21 02:57:01",
       "published_cn": "11-20 09:24"
     },
     {
@@ -133,17 +353,17 @@
       "category": "tech",
       "summary": "在手机里打开了一个关于 AI 的「平行宇宙」<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795166225.0,
-      "fetched_at": "2026-11-20 20:24:23",
+      "fetched_at": "2026-11-21 02:56:59",
       "published_cn": "11-20 09:17"
     },
     {
-      "title": "The U.S. national cyber director is stepping down",
+      "title": "The US national cyber director is stepping down",
       "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
       "source": "TechCrunch",
       "category": "tech",
       "summary": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
       "published": 1795166059.0,
-      "fetched_at": "2026-11-20 20:24:24",
+      "fetched_at": "2026-11-21 02:57:00",
       "published_cn": "11-20 09:14"
     },
     {
@@ -153,7 +373,7 @@
       "category": "world",
       "summary": "<p>Hazard warnings issued throughout week after powerful swells and waves of more than 9 metres recorded</p><p>Multiple coastal hazard warnings were issued this week across California as successive areas of low pressure ",
       "published": 1795165400.0,
-      "fetched_at": "2026-11-20 20:24:26",
+      "fetched_at": "2026-11-21 02:57:01",
       "published_cn": "11-20 09:03"
     },
     {
@@ -163,7 +383,7 @@
       "category": "tech",
       "summary": "Gemini 4 真的越来越好用了。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795165393.0,
-      "fetched_at": "2026-11-20 20:24:23",
+      "fetched_at": "2026-11-21 02:56:59",
       "published_cn": "11-20 09:03"
     },
     {
@@ -173,7 +393,7 @@
       "category": "world",
       "summary": "BBC國際編輯寫道，律師將研究岡比亞如何證明緬甸意圖實施種族滅絕。",
       "published": 1795164780.0,
-      "fetched_at": "2026-11-20 20:24:26",
+      "fetched_at": "2026-11-21 02:57:01",
       "published_cn": "11-20 08:53"
     },
     {
@@ -183,7 +403,7 @@
       "category": "world",
       "summary": "備受矚目的Anthropic上市案，預料將讓其晉身美國十大最具價值企業之列，但AI產業前景依然存在變數。",
       "published": 1795161134.0,
-      "fetched_at": "2026-11-20 20:24:26",
+      "fetched_at": "2026-11-21 02:57:01",
       "published_cn": "11-20 07:52"
     },
     {
@@ -193,7 +413,7 @@
       "category": "tech",
       "summary": "编注：本文首发于「篝火营地」，原作者多边形。少数派经授权后转载，仅对文章格式略作调整。原标题：《侠盗猎车手6》游戏评测：10分｜篝火。作为RockstarGames时隔13年推出的《侠盗猎车手》系列新 ...<a href=\"https://sspai.com/post/119327\" target=\"_blank\">查看全文</a>",
       "published": 1795160066.0,
-      "fetched_at": "2026-11-20 20:24:24",
+      "fetched_at": "2026-11-21 02:57:00",
       "published_cn": "11-20 07:34"
     },
     {
@@ -203,18 +423,8 @@
       "category": "world",
       "summary": "香港教育局提出小學二年級學生應該初步掌握以「漢語拼音輸入法」在電腦上輸入中文。打字方式的改變，會如何影響下一代學習語言？",
       "published": 1795155138.0,
-      "fetched_at": "2026-11-20 20:24:26",
+      "fetched_at": "2026-11-21 02:57:01",
       "published_cn": "11-20 06:12"
-    },
-    {
-      "title": "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
-      "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Iceland’s famed Blue Lagoon geothermal spa is going public in a $110 million IPO, tapping investor interest in tourism and the booming wellness industry.",
-      "published": 1795154401.0,
-      "fetched_at": "2026-11-20 20:24:25",
-      "published_cn": "11-20 06:00"
     },
     {
       "title": "中俄美三方峰會「場面大於實質成果」",
@@ -223,7 +433,7 @@
       "category": "world",
       "summary": "BBC駐北美記者澤克爾：這次高峰唯一讓人留下的持久印象，或許只是歷史性的三方會晤的畫面。",
       "published": 1795153569.0,
-      "fetched_at": "2026-11-20 20:24:26",
+      "fetched_at": "2026-11-21 02:57:01",
       "published_cn": "11-20 05:46"
     },
     {
@@ -233,7 +443,7 @@
       "category": "world",
       "summary": "<p>Debate about dominance of permanent five members could reignite if major powers block Costa Rican frontrunner</p><p>The race to become the next UN secretary general could reach a decisive moment on Friday when a UN se",
       "published": 1795150824.0,
-      "fetched_at": "2026-11-20 20:24:26",
+      "fetched_at": "2026-11-21 02:57:01",
       "published_cn": "11-20 05:00"
     },
     {
@@ -243,7 +453,7 @@
       "category": "tech",
       "summary": "触屏不是她的全部<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795147217.0,
-      "fetched_at": "2026-11-20 20:24:23",
+      "fetched_at": "2026-11-21 02:56:59",
       "published_cn": "11-20 04:00"
     },
     {
@@ -253,7 +463,7 @@
       "category": "tech",
       "summary": "浮屏是我一个人开发的应用。它最初只是为了解决一杯柠檬水的取餐码问题，后来慢慢长成了一个记录生活小片段的工具。<a href=\"https://sspai.com/post/118879\" target=\"_blank\">查看全文</a>",
       "published": 1795142872.0,
-      "fetched_at": "2026-11-20 20:24:24",
+      "fetched_at": "2026-11-21 02:57:00",
       "published_cn": "11-20 02:47"
     },
     {
@@ -263,28 +473,8 @@
       "category": "tech",
       "summary": "苹果急了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795137436.0,
-      "fetched_at": "2026-11-20 20:24:23",
+      "fetched_at": "2026-11-21 02:56:59",
       "published_cn": "11-20 01:17"
-    },
-    {
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-      "published": 1795136161.0,
-      "fetched_at": "2026-11-20 20:24:24",
-      "published_cn": "11-20 00:56"
-    },
-    {
-      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-      "published": 1795135430.0,
-      "fetched_at": "2026-11-20 20:24:24",
-      "published_cn": "11-20 00:43"
     },
     {
       "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
@@ -293,7 +483,7 @@
       "category": "tech",
       "summary": "Google Play 将强制要求应用适配折叠屏，微软宣布 Microsoft To Do 将于明年 6 月全面停用等。<a href=\"https://sspai.com/post/119311\" target=\"_blank\">查看全文</a>",
       "published": 1795134871.0,
-      "fetched_at": "2026-11-20 20:24:24",
+      "fetched_at": "2026-11-21 02:57:00",
       "published_cn": "11-20 00:34"
     },
     {
@@ -303,208 +493,18 @@
       "category": "tech",
       "summary": "· 旅行者 1 号距地球达一光日，信号单程需 24 小时\n· 网易 UU 远程将上线付费会员，基础远控继续免费\n· 腾讯大幅削减元宝投入，微信小微日活达 3000 万<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795134584.0,
-      "fetched_at": "2026-11-20 20:24:23",
+      "fetched_at": "2026-11-21 02:56:59",
       "published_cn": "11-20 00:29"
     },
     {
-      "title": "Anthropic rival says companies can (mostly) skip the pricey models",
-      "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
-      "published": 1795134363.0,
-      "fetched_at": "2026-11-20 20:24:24",
-      "published_cn": "11-20 00:26"
-    },
-    {
-      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
-      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
-      "published": 1795131476.0,
-      "fetched_at": "2026-11-20 20:24:24",
-      "published_cn": "11-19 23:37"
-    },
-    {
-      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
-      "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
-      "published": 1795127606.0,
-      "fetched_at": "2026-11-20 20:24:24",
-      "published_cn": "11-19 22:33"
-    },
-    {
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg,",
-      "published": 1795127501.0,
-      "fetched_at": "2026-11-20 20:24:24",
-      "published_cn": "11-19 22:31"
-    },
-    {
-      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+      "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app popup",
       "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
       "source": "Ars Technica",
       "category": "tech",
       "summary": "Amazon now uses its shopping platform for political purposes.",
       "published": 1795126597.0,
-      "fetched_at": "2026-11-20 20:24:24",
+      "fetched_at": "2026-11-21 02:57:00",
       "published_cn": "11-19 22:16"
-    },
-    {
-      "title": "A brief history of Nvidia’s recent stock fluctuations",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 pe",
-      "published": 1795125575.0,
-      "fetched_at": "2026-11-20 20:24:24",
-      "published_cn": "11-19 21:59"
-    },
-    {
-      "title": "Meta’s new Muse Charm device may cost $300",
-      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-      "published": 1795125486.0,
-      "fetched_at": "2026-11-20 20:24:24",
-      "published_cn": "11-19 21:58"
-    },
-    {
-      "title": "These tech outages are giving Y2K, AI agent style",
-      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
-      "published": 1795124551.0,
-      "fetched_at": "2026-11-20 20:24:24",
-      "published_cn": "11-19 21:42"
-    },
-    {
-      "title": "Intuit to sell Mailchimp to Bending Spoons for $3.68 billion",
-      "url": "https://www.cnbc.com/2026/11/19/intuit-mailchimp-sale-bending-spoons.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Intuit is offloading a segment that has slowed down revenue growth, for less than a third of what it paid to acquire Mailchimp in 2021.",
-      "published": 1795124431.0,
-      "fetched_at": "2026-11-20 20:24:25",
-      "published_cn": "11-19 21:40"
-    },
-    {
-      "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
-      "url": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Expert called MAHA's spending \"pretty unusual\" for a PAC.",
-      "published": 1795123152.0,
-      "fetched_at": "2026-11-20 20:24:24",
-      "published_cn": "11-19 21:19"
-    },
-    {
-      "title": "Meta now sells 3D movies on Quest VR headsets",
-      "url": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spide",
-      "published": 1795122726.0,
-      "fetched_at": "2026-11-20 20:24:24",
-      "published_cn": "11-19 21:12"
-    },
-    {
-      "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
-      "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
-      "published": 1795120186.0,
-      "fetched_at": "2026-11-20 20:24:24",
-      "published_cn": "11-19 20:29"
-    },
-    {
-      "title": "Meta’s Muse Charm might cost $300",
-      "url": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and sai",
-      "published": 1795119737.0,
-      "fetched_at": "2026-11-20 20:24:24",
-      "published_cn": "11-19 20:22"
-    },
-    {
-      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-      "url": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
-      "published": 1795119568.0,
-      "fetched_at": "2026-11-20 20:24:24",
-      "published_cn": "11-19 20:19"
-    },
-    {
-      "title": "Google is putting AI chats right on the homepage",
-      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the G",
-      "published": 1795118706.0,
-      "fetched_at": "2026-11-20 20:24:24",
-      "published_cn": "11-19 20:05"
-    },
-    {
-      "title": "Google turns to Blue Origin for a rocket, but its long-term problem remains",
-      "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "\"Project Suncatcher is a long-term moonshot.\"",
-      "published": 1795117974.0,
-      "fetched_at": "2026-11-20 20:24:24",
-      "published_cn": "11-19 19:52"
-    },
-    {
-      "title": "FCC greenlights rule allowing prisons to jam cellphone signals",
-      "url": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "The Federal Communications Commission voted unanimously to allow state and local prisons to jam cellphones. In an announcement on Thursday, the FCC argues the rule will help combat an \"influx of contraband cellphones\" us",
-      "published": 1795117228.0,
-      "fetched_at": "2026-11-20 20:24:24",
-      "published_cn": "11-19 19:40"
-    },
-    {
-      "title": "Sony’s WH-1000XM5 are cheaper than ever for Black Friday",
-      "url": "https://www.theverge.com/gadgets/1037790/sony-wh-1000xm5-black-friday-deal-sale",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Back in my day, the only “Doorbuster” sales were at physical retail stores. But now, you can get ultra-low prices before Black Friday whether you want to shop in-store or online. One that stands out is the previous-gener",
-      "published": 1795116952.0,
-      "fetched_at": "2026-11-20 20:24:24",
-      "published_cn": "11-19 19:35"
-    },
-    {
-      "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
-      "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Some models fare better, but all fail in similar ways.",
-      "published": 1795113879.0,
-      "fetched_at": "2026-11-20 20:24:24",
-      "published_cn": "11-19 18:44"
-    },
-    {
-      "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
-      "url": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "\"It's not going to get any better for Jensen Huang; it's going to get far worse,\" said Salvatore Graziano, a New York securities litigation attorney.",
-      "published": 1795113874.0,
-      "fetched_at": "2026-11-20 20:24:25",
-      "published_cn": "11-19 18:44"
     },
     {
       "title": "APEC峰会：中美从更加均衡走向战略稳定",
@@ -513,7 +513,7 @@
       "category": "finance",
       "summary": "金刻羽：深圳APEC峰会正在见证中美关系的一次实力重估。经历多轮博弈后，双方需重新审视彼此的优势与筹码，以及制约与合作的边界。",
       "published": 1795104000.0,
-      "fetched_at": "2026-11-20 20:24:25",
+      "fetched_at": "2026-11-21 02:57:01",
       "published_cn": "11-19 16:00"
     },
     {
@@ -523,7 +523,7 @@
       "category": "finance",
       "summary": "《可能的爱》与《寄生虫》有一点相似，两部影片都认为，通过有限的善意已经无法跨越阶层的区隔。那些根深蒂固的差异性，会不自觉地在日常显影，而当它们一旦露出真容，便会显得更加凛冽可怖。",
       "published": 1795104000.0,
-      "fetched_at": "2026-11-20 20:24:25",
+      "fetched_at": "2026-11-21 02:57:01",
       "published_cn": "11-19 16:00"
     },
     {
@@ -533,7 +533,7 @@
       "category": "tech",
       "summary": "推翻百年来的空间格局。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795100473.0,
-      "fetched_at": "2026-11-20 20:24:23",
+      "fetched_at": "2026-11-21 02:56:59",
       "published_cn": "11-19 15:01"
     },
     {
@@ -543,7 +543,7 @@
       "category": "tech",
       "summary": "例如，为什么就你 A 社封号这么严格<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795100337.0,
-      "fetched_at": "2026-11-20 20:24:23",
+      "fetched_at": "2026-11-21 02:56:59",
       "published_cn": "11-19 14:58"
     },
     {
@@ -553,7 +553,7 @@
       "category": "world",
       "summary": "<p>The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permits</p><p>Environmentalists in South Africa are racing to replant five centuries-old baobabs after the 20-tonne tre",
       "published": 1795086204.0,
-      "fetched_at": "2026-11-20 20:24:26",
+      "fetched_at": "2026-11-21 02:57:01",
       "published_cn": "11-19 11:03"
     },
     {
@@ -563,7 +563,7 @@
       "category": "tech",
       "summary": "2026年以来，Apple在硬件领域明显加快了产品线的拓展。定价亲民、采用A系列芯片的MacBookNeo让Mac触及更广泛的消费群体，也引发了对性能妥协与长期使用价值的讨论。M6芯片继续推进Appl ...<a href=\"https://sspai.com/post/119191\" target=\"_blank\">查看全文</a>",
       "published": 1795083905.0,
-      "fetched_at": "2026-11-20 20:24:24",
+      "fetched_at": "2026-11-21 02:57:00",
       "published_cn": "11-19 10:25"
     },
     {
@@ -573,7 +573,7 @@
       "category": "tech",
       "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/119287\" target=\"_blank\">查看全文</a>",
       "published": 1795079760.0,
-      "fetched_at": "2026-11-20 20:24:24",
+      "fetched_at": "2026-11-21 02:57:00",
       "published_cn": "11-19 09:16"
     },
     {
@@ -583,7 +583,7 @@
       "category": "tech",
       "summary": "<p>[......]</p><a href=\"https://sspai.com/prime/story/system-app-protection-override-macos-27-3\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a>，订阅后可阅读全文。</",
       "published": 1795073651.0,
-      "fetched_at": "2026-11-20 20:24:24",
+      "fetched_at": "2026-11-21 02:57:00",
       "published_cn": "11-19 07:34"
     },
     {
@@ -593,7 +593,7 @@
       "category": "world",
       "summary": "<p>Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds</p><p>One in four women around the world have no power of consent if their husband or partner demands sex",
       "published": 1795060816.0,
-      "fetched_at": "2026-11-20 20:24:26",
+      "fetched_at": "2026-11-21 02:57:01",
       "published_cn": "11-19 04:00"
     },
     {
@@ -603,7 +603,7 @@
       "category": "tech",
       "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/119039\" target=\"_blank\">查看全文</a>",
       "published": 1795057088.0,
-      "fetched_at": "2026-11-20 20:24:24",
+      "fetched_at": "2026-11-21 02:57:00",
       "published_cn": "11-19 02:58"
     },
     {
@@ -613,7 +613,7 @@
       "category": "world",
       "summary": "<p>Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel Moïse</p><p>A Florida pastor with dual Haitian-American citizenship was convicted on Wednesday of US charges ar",
       "published": 1795041101.0,
-      "fetched_at": "2026-11-20 20:24:26",
+      "fetched_at": "2026-11-21 02:57:01",
       "published_cn": "11-18 22:31"
     },
     {
@@ -623,7 +623,7 @@
       "category": "finance",
       "summary": "沈建光：地缘政治竞争和人工智能正在冲击全球政经格局，APEC的一些优势可能进一步凸显。与其他全球治理机制相比，APEC有何特点？中国如何继续发挥引领性作用？",
       "published": 1795017600.0,
-      "fetched_at": "2026-11-20 20:24:25",
+      "fetched_at": "2026-11-21 02:57:01",
       "published_cn": "11-18 16:00"
     },
     {
@@ -633,7 +633,7 @@
       "category": "world",
       "summary": "<p>A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in Gaza</p><p>Fears are growing that the US could impose sanctions on judges at the international court of justice, including this ",
       "published": 1794995908.0,
-      "fetched_at": "2026-11-20 20:24:26",
+      "fetched_at": "2026-11-21 02:57:01",
       "published_cn": "11-18 09:58"
     },
     {
@@ -643,7 +643,7 @@
       "category": "world",
       "summary": "<p>Leaked documents raise questions about claims Egypt met welfare targets to qualify for €2.5bn in loans</p><p>The European Commission has been accused of sugarcoating figures to enable it to release funds to Egypt unde",
       "published": 1794978032.0,
-      "fetched_at": "2026-11-20 20:24:26",
+      "fetched_at": "2026-11-21 02:57:01",
       "published_cn": "11-18 05:00"
     },
     {
@@ -653,7 +653,7 @@
       "category": "world",
       "summary": "柯志恩以「知識藍」的姿態拉攏中間選民，支持度大幅追貼深耕高雄20年的賴瑞隆，選情咬緊。",
       "published": 1794932749.0,
-      "fetched_at": "2026-11-20 20:24:26",
+      "fetched_at": "2026-11-21 02:57:01",
       "published_cn": "11-17 16:25"
     },
     {
@@ -663,7 +663,7 @@
       "category": "finance",
       "summary": "夏春：中国家庭在国民收入中分到的份额是否公平，工资占比该不该提高，这是正当且必要的争论。黄亚生提出这些问题本身有价值，但这不能兑换成错误论述的豁免权。",
       "published": 1794931200.0,
-      "fetched_at": "2026-11-20 20:24:25",
+      "fetched_at": "2026-11-21 02:57:01",
       "published_cn": "11-17 16:00"
     },
     {
@@ -673,7 +673,7 @@
       "category": "world",
       "summary": "新竹市是民眾黨此前唯一贏得執政權的縣市，現任市長高虹安尋求連任，她這次雖已退出民眾黨、改以無黨籍身分參選，但學者指出其選情不僅將影響雙方未來合作模式能否延續，也可能牽動2028年全國大選的政治布局。",
       "published": 1794908989.0,
-      "fetched_at": "2026-11-20 20:24:26",
+      "fetched_at": "2026-11-21 02:57:01",
       "published_cn": "11-17 09:49"
     },
     {
@@ -683,7 +683,7 @@
       "category": "finance",
       "summary": "美国应加强现有出口管制的执行，而非扩大封锁范围。如果美国迅速转向更为严厉的管制，反而会加快中国寻求国产替代的步伐。",
       "published": 1794844800.0,
-      "fetched_at": "2026-11-20 20:24:25",
+      "fetched_at": "2026-11-21 02:57:01",
       "published_cn": "11-16 16:00"
     },
     {
@@ -693,7 +693,7 @@
       "category": "finance",
       "summary": "中国内地民营医院竞争十分激烈，利润空间收窄，台资的明基医院上市不足一年较发行价跌去七成，但股价暂时仍难言见底。",
       "published": 1794844800.0,
-      "fetched_at": "2026-11-20 20:24:25",
+      "fetched_at": "2026-11-21 02:57:01",
       "published_cn": "11-16 16:00"
     },
     {
@@ -703,7 +703,7 @@
       "category": "finance",
       "summary": "特朗普表示对黄仁勋复出持开放态度。董事会表示，在遴选新任首席执行官时，将同时考虑内部和外部候选人。",
       "published": 1794844800.0,
-      "fetched_at": "2026-11-20 20:24:25",
+      "fetched_at": "2026-11-21 02:57:01",
       "published_cn": "11-16 16:00"
     },
     {
@@ -713,7 +713,7 @@
       "category": "finance",
       "summary": "特朗普、习近平和普京将在周四举行史无前例的三方会晤，这已引起国际社会的密切关注。",
       "published": 1794844800.0,
-      "fetched_at": "2026-11-20 20:24:25",
+      "fetched_at": "2026-11-21 02:57:01",
       "published_cn": "11-16 16:00"
     },
     {
@@ -723,7 +723,7 @@
       "category": "world",
       "summary": "台灣在過去七年間，幾乎每年都有大型選舉、罷免或公投。有學者形容台灣政治人物常處於「選舉模式」，在面對不同議題時往往急於回應。",
       "published": 1794566346.0,
-      "fetched_at": "2026-11-20 20:24:26",
+      "fetched_at": "2026-11-21 02:57:01",
       "published_cn": "11-13 10:39"
     }
   ],

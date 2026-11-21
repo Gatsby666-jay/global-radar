@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21 19:58:20",
+  "updated_at": "2026-11-22 01:52:11",
   "window_days": 7,
   "repos": [
     {
@@ -7,8 +7,8 @@
       "url": "https://github.com/erkamyaman/rust-anything",
       "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
       "lang": "Rust",
-      "stars": 7017,
-      "forks": 555,
+      "stars": 7241,
+      "forks": 582,
       "created": "2026-11-16"
     },
     {
@@ -16,8 +16,8 @@
       "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
       "desc": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsa",
       "lang": "C++",
-      "stars": 5566,
-      "forks": 467,
+      "stars": 5724,
+      "forks": 479,
       "created": "2026-11-16"
     },
     {
@@ -25,8 +25,8 @@
       "url": "https://github.com/gylive/google-ultra",
       "desc": "",
       "lang": "Python",
-      "stars": 2565,
-      "forks": 69,
+      "stars": 2582,
+      "forks": 75,
       "created": "2026-11-17"
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/Hut-hzf/ung220z-tool",
       "desc": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
       "lang": "Python",
-      "stars": 2155,
-      "forks": 485,
+      "stars": 2206,
+      "forks": 500,
       "created": "2026-11-15"
     },
     {
@@ -43,7 +43,7 @@
       "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
       "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripti",
       "lang": "—",
-      "stars": 1914,
+      "stars": 2082,
       "forks": 31,
       "created": "2026-11-19"
     },
@@ -52,8 +52,8 @@
       "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
       "desc": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
       "lang": "JavaScript",
-      "stars": 1761,
-      "forks": 512,
+      "stars": 1781,
+      "forks": 517,
       "created": "2026-11-14"
     },
     {
@@ -61,17 +61,8 @@
       "url": "https://github.com/duwqijlk/muse-protocol",
       "desc": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
       "lang": "Python",
-      "stars": 1716,
-      "forks": 666,
-      "created": "2026-11-14"
-    },
-    {
-      "repo": "haziqahmedqasmi/PeakCut",
-      "url": "https://github.com/haziqahmedqasmi/PeakCut",
-      "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
-      "lang": "Python",
-      "stars": 1601,
-      "forks": 511,
+      "stars": 1723,
+      "forks": 667,
       "created": "2026-11-14"
     },
     {
@@ -79,17 +70,26 @@
       "url": "https://github.com/iamajmeena/neonclipping",
       "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
       "lang": "Python",
-      "stars": 1510,
-      "forks": 74,
+      "stars": 1667,
+      "forks": 81,
       "created": "2026-11-19"
+    },
+    {
+      "repo": "haziqahmedqasmi/PeakCut",
+      "url": "https://github.com/haziqahmedqasmi/PeakCut",
+      "desc": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key.",
+      "lang": "Python",
+      "stars": 1642,
+      "forks": 525,
+      "created": "2026-11-14"
     },
     {
       "repo": "sybil-solutions/inference-optimisation-skill",
       "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
       "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
       "lang": "Python",
-      "stars": 1412,
-      "forks": 128,
+      "stars": 1442,
+      "forks": 134,
       "created": "2026-11-16"
     },
     {
@@ -97,8 +97,8 @@
       "url": "https://github.com/joshpuckett/allo",
       "desc": "Allo is your friendly neighborhood typeface, free and open source",
       "lang": "Python",
-      "stars": 1280,
-      "forks": 37,
+      "stars": 1300,
+      "forks": 38,
       "created": "2026-11-15"
     },
     {
@@ -106,8 +106,8 @@
       "url": "https://github.com/chuanqisun/spaceship",
       "desc": "Steer ideas like a space pilot!",
       "lang": "HTML",
-      "stars": 1006,
-      "forks": 107,
+      "stars": 1014,
+      "forks": 109,
       "created": "2026-11-16"
     },
     {
@@ -115,8 +115,8 @@
       "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
       "desc": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
       "lang": "JavaScript",
-      "stars": 906,
-      "forks": 74,
+      "stars": 944,
+      "forks": 76,
       "created": "2026-11-16"
     },
     {
@@ -124,16 +124,25 @@
       "url": "https://github.com/Lemxy/WinRust",
       "desc": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
       "lang": "Rust",
-      "stars": 854,
-      "forks": 42,
+      "stars": 909,
+      "forks": 47,
       "created": "2026-11-17"
+    },
+    {
+      "repo": "hatsunemiku-ai/google-one-tools",
+      "url": "https://github.com/hatsunemiku-ai/google-one-tools",
+      "desc": "",
+      "lang": "Python",
+      "stars": 892,
+      "forks": 475,
+      "created": "2026-11-20"
     },
     {
       "repo": "n4ze3m/tiny-voca",
       "url": "https://github.com/n4ze3m/tiny-voca",
       "desc": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch",
       "lang": "Python",
-      "stars": 796,
+      "stars": 797,
       "forks": 99,
       "created": "2026-11-14"
     },
@@ -142,8 +151,8 @@
       "url": "https://github.com/yetanotherbrowser/yab",
       "desc": "Yab, yet another browser: a fast native macOS browser with an iPhone and Android companion",
       "lang": "Swift",
-      "stars": 766,
-      "forks": 83,
+      "stars": 768,
+      "forks": 84,
       "created": "2026-11-14"
     },
     {
@@ -151,17 +160,17 @@
       "url": "https://github.com/boringmarketer/boring-marketing-skills",
       "desc": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
       "lang": "Python",
-      "stars": 760,
-      "forks": 277,
+      "stars": 766,
+      "forks": 279,
       "created": "2026-11-16"
     },
     {
-      "repo": "hatsunemiku-ai/google-one-tools",
-      "url": "https://github.com/hatsunemiku-ai/google-one-tools",
-      "desc": "",
+      "repo": "ItsNotRexed/Leonida",
+      "url": "https://github.com/ItsNotRexed/Leonida",
+      "desc": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
       "lang": "Python",
-      "stars": 633,
-      "forks": 392,
+      "stars": 651,
+      "forks": 52,
       "created": "2026-11-20"
     },
     {
@@ -169,7 +178,7 @@
       "url": "https://github.com/MSNightmare/FastUnlock",
       "desc": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
       "lang": "—",
-      "stars": 625,
+      "stars": 638,
       "forks": 103,
       "created": "2026-11-19"
     },
@@ -178,7 +187,7 @@
       "url": "https://github.com/0xkaka/homeport",
       "desc": "",
       "lang": "HTML",
-      "stars": 613,
+      "stars": 614,
       "forks": 106,
       "created": "2026-11-17"
     },
@@ -187,17 +196,26 @@
       "url": "https://github.com/mankidev/antialgorithm",
       "desc": "Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI.",
       "lang": "Python",
-      "stars": 585,
+      "stars": 598,
       "forks": 34,
       "created": "2026-11-14"
+    },
+    {
+      "repo": "R0Y00/Xbox2Windows",
+      "url": "https://github.com/R0Y00/Xbox2Windows",
+      "desc": "Static recompilation research for Xbox Series X|S (Scarlett) on x64 Windows, including shader translation, BC7 textures, script-state replay and D3D12/PE checks.",
+      "lang": "Python",
+      "stars": 591,
+      "forks": 53,
+      "created": "2026-11-20"
     },
     {
       "repo": "nilbuild/stick-scene",
       "url": "https://github.com/nilbuild/stick-scene",
       "desc": "Skill to draw stick figure animated visuals",
       "lang": "JavaScript",
-      "stars": 543,
-      "forks": 60,
+      "stars": 554,
+      "forks": 62,
       "created": "2026-11-15"
     },
     {
@@ -205,8 +223,8 @@
       "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
       "desc": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face",
       "lang": "Python",
-      "stars": 515,
-      "forks": 420,
+      "stars": 517,
+      "forks": 422,
       "created": "2026-11-19"
     },
     {
@@ -214,7 +232,7 @@
       "url": "https://github.com/replit/datacat",
       "desc": "Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data.",
       "lang": "TypeScript",
-      "stars": 479,
+      "stars": 490,
       "forks": 52,
       "created": "2026-11-17"
     },
@@ -223,7 +241,7 @@
       "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
       "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
       "lang": "Makefile",
-      "stars": 474,
+      "stars": 472,
       "forks": 0,
       "created": "2026-11-15"
     },
@@ -232,7 +250,7 @@
       "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
       "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
       "lang": "Makefile",
-      "stars": 473,
+      "stars": 471,
       "forks": 0,
       "created": "2026-11-15"
     },
@@ -241,7 +259,7 @@
       "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
       "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
       "lang": "Makefile",
-      "stars": 472,
+      "stars": 470,
       "forks": 0,
       "created": "2026-11-15"
     },
@@ -250,26 +268,8 @@
       "url": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-",
       "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
       "lang": "Makefile",
-      "stars": 472,
+      "stars": 470,
       "forks": 1,
-      "created": "2026-11-15"
-    },
-    {
-      "repo": "TurtleReside/Gemini-Config-Checker-",
-      "url": "https://github.com/TurtleReside/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "lang": "Go",
-      "stars": 472,
-      "forks": 0,
-      "created": "2026-11-15"
-    },
-    {
-      "repo": "weldbladesmithwharf/Gemini-Config-Checker-",
-      "url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "lang": "Makefile",
-      "stars": 472,
-      "forks": 0,
       "created": "2026-11-15"
     }
   ],

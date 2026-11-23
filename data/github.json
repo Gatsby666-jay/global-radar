@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23 02:11:59",
+  "updated_at": "2026-11-23 11:31:21",
   "window_days": 7,
   "repos": [
     {
@@ -7,8 +7,8 @@
       "url": "https://github.com/ItsNotRexed/Leonida",
       "desc": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
       "lang": "Python",
-      "stars": 12646,
-      "forks": 1006,
+      "stars": 16003,
+      "forks": 1333,
       "created": "2026-11-20"
     },
     {
@@ -16,8 +16,8 @@
       "url": "https://github.com/erkamyaman/rust-anything",
       "desc": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
       "lang": "Rust",
-      "stars": 7870,
-      "forks": 626,
+      "stars": 8078,
+      "forks": 652,
       "created": "2026-11-16"
     },
     {
@@ -25,98 +25,62 @@
       "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
       "desc": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripti",
       "lang": "—",
-      "stars": 2744,
+      "stars": 2752,
       "forks": 38,
       "created": "2026-11-19"
-    },
-    {
-      "repo": "gylive/google-ultra",
-      "url": "https://github.com/gylive/google-ultra",
-      "desc": "",
-      "lang": "Python",
-      "stars": 2679,
-      "forks": 92,
-      "created": "2026-11-17"
-    },
-    {
-      "repo": "Hut-hzf/ung220z-tool",
-      "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "desc": "ung220z-tool 是一个针对 UNG220Z，另含中兴/烽火/华为/九联多厂商适配、固件指纹识别与分家族排障建议的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。",
-      "lang": "Python",
-      "stars": 2349,
-      "forks": 531,
-      "created": "2026-11-15"
     },
     {
       "repo": "iamajmeena/neonclipping",
       "url": "https://github.com/iamajmeena/neonclipping",
       "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
       "lang": "Python",
-      "stars": 2042,
-      "forks": 113,
+      "stars": 2113,
+      "forks": 121,
       "created": "2026-11-19"
-    },
-    {
-      "repo": "sybil-solutions/inference-optimisation-skill",
-      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-      "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
-      "lang": "Python",
-      "stars": 1912,
-      "forks": 179,
-      "created": "2026-11-16"
     },
     {
       "repo": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
       "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "lang": "Rust",
-      "stars": 1526,
-      "forks": 93,
+      "stars": 2050,
+      "forks": 128,
       "created": "2026-11-21"
     },
     {
-      "repo": "joshpuckett/allo",
-      "url": "https://github.com/joshpuckett/allo",
-      "desc": "Allo is your friendly neighborhood typeface, free and open source",
+      "repo": "sybil-solutions/inference-optimisation-skill",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "desc": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization",
       "lang": "Python",
-      "stars": 1436,
-      "forks": 39,
-      "created": "2026-11-15"
-    },
-    {
-      "repo": "hatsunemiku-ai/google-one-tools",
-      "url": "https://github.com/hatsunemiku-ai/google-one-tools",
-      "desc": "",
-      "lang": "Python",
-      "stars": 1243,
-      "forks": 571,
-      "created": "2026-11-20"
-    },
-    {
-      "repo": "R0Y00/Xbox2Windows",
-      "url": "https://github.com/R0Y00/Xbox2Windows",
-      "desc": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
-      "lang": "Python",
-      "stars": 1236,
-      "forks": 119,
-      "created": "2026-11-20"
+      "stars": 1969,
+      "forks": 183,
+      "created": "2026-11-16"
     },
     {
       "repo": "omonkeyz/xbox-emulator",
       "url": "https://github.com/omonkeyz/xbox-emulator",
       "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
       "lang": "Rust",
-      "stars": 1197,
-      "forks": 75,
+      "stars": 1356,
+      "forks": 82,
       "created": "2026-11-21"
+    },
+    {
+      "repo": "R0Y00/Xbox2Windows",
+      "url": "https://github.com/R0Y00/Xbox2Windows",
+      "desc": "GTA VI static recompilation research for x64 Windows. Source-built EXEs run on Windows, and two translated pixel shaders match reference outputs on hardware and WARP. Full-game startup is unverified.",
+      "lang": "Python",
+      "stars": 1330,
+      "forks": 126,
+      "created": "2026-11-20"
     },
     {
       "repo": "Lemxy/WinRust",
       "url": "https://github.com/Lemxy/WinRust",
       "desc": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
       "lang": "Rust",
-      "stars": 1152,
-      "forks": 65,
+      "stars": 1253,
+      "forks": 70,
       "created": "2026-11-17"
     },
     {
@@ -124,8 +88,8 @@
       "url": "https://github.com/chuanqisun/spaceship",
       "desc": "Steer ideas like a space pilot!",
       "lang": "HTML",
-      "stars": 1044,
-      "forks": 111,
+      "stars": 1049,
+      "forks": 112,
       "created": "2026-11-16"
     },
     {
@@ -133,8 +97,8 @@
       "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
       "desc": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats",
       "lang": "JavaScript",
-      "stars": 1024,
-      "forks": 85,
+      "stars": 1034,
+      "forks": 86,
       "created": "2026-11-16"
     },
     {
@@ -142,8 +106,8 @@
       "url": "https://github.com/boringmarketer/boring-marketing-skills",
       "desc": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT.",
       "lang": "Python",
-      "stars": 791,
-      "forks": 280,
+      "stars": 796,
+      "forks": 282,
       "created": "2026-11-16"
     },
     {
@@ -151,9 +115,27 @@
       "url": "https://github.com/MSNightmare/FastUnlock",
       "desc": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
       "lang": "—",
-      "stars": 673,
-      "forks": 110,
+      "stars": 682,
+      "forks": 111,
       "created": "2026-11-19"
+    },
+    {
+      "repo": "pierridotite/mobile-agent-testers",
+      "url": "https://github.com/pierridotite/mobile-agent-testers",
+      "desc": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bu",
+      "lang": "Python",
+      "stars": 668,
+      "forks": 69,
+      "created": "2026-11-16"
+    },
+    {
+      "repo": "leanprover-community/riemann-hypothesis",
+      "url": "https://github.com/leanprover-community/riemann-hypothesis",
+      "desc": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
+      "lang": "Lean",
+      "stars": 647,
+      "forks": 154,
+      "created": "2026-11-20"
     },
     {
       "repo": "0xkaka/homeport",
@@ -161,7 +143,7 @@
       "desc": "",
       "lang": "HTML",
       "stars": 623,
-      "forks": 112,
+      "forks": 113,
       "created": "2026-11-17"
     },
     {
@@ -169,53 +151,62 @@
       "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
       "desc": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face",
       "lang": "Python",
-      "stars": 608,
-      "forks": 503,
+      "stars": 619,
+      "forks": 509,
       "created": "2026-11-19"
     },
     {
-      "repo": "nilbuild/stick-scene",
-      "url": "https://github.com/nilbuild/stick-scene",
-      "desc": "Skill to draw stick figure animated visuals",
-      "lang": "JavaScript",
-      "stars": 594,
-      "forks": 65,
-      "created": "2026-11-15"
-    },
-    {
-      "repo": "leanprover-community/riemann-hypothesis",
-      "url": "https://github.com/leanprover-community/riemann-hypothesis",
-      "desc": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
-      "lang": "Lean",
-      "stars": 566,
-      "forks": 117,
-      "created": "2026-11-20"
+      "repo": "INK-Q/agy-fast",
+      "url": "https://github.com/INK-Q/agy-fast",
+      "desc": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+      "lang": "TypeScript",
+      "stars": 577,
+      "forks": 35,
+      "created": "2026-11-19"
     },
     {
       "repo": "replit/datacat",
       "url": "https://github.com/replit/datacat",
       "desc": "Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data.",
       "lang": "TypeScript",
-      "stars": 548,
-      "forks": 59,
+      "stars": 559,
+      "forks": 61,
       "created": "2026-11-17"
     },
     {
-      "repo": "CETPROAR/rob-run-ares-enhancer",
-      "url": "https://github.com/CETPROAR/rob-run-ares-enhancer",
-      "desc": "Rob Run Ares Enhancer - Elevate Your Gameplay",
-      "lang": "HTML",
-      "stars": 503,
-      "forks": 0,
-      "created": "2026-11-21"
+      "repo": "realdody/americas-recomp",
+      "url": "https://github.com/realdody/americas-recomp",
+      "desc": "",
+      "lang": "—",
+      "stars": 522,
+      "forks": 83,
+      "created": "2026-11-20"
     },
     {
       "repo": "CocoSgt/riemann-hypothesis-lean",
       "url": "https://github.com/CocoSgt/riemann-hypothesis-lean",
       "desc": "Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo.ge",
       "lang": "Lean",
-      "stars": 501,
-      "forks": 80,
+      "stars": 518,
+      "forks": 82,
+      "created": "2026-11-20"
+    },
+    {
+      "repo": "os6/nospeaker",
+      "url": "https://github.com/os6/nospeaker",
+      "desc": "make your macbook's trackpad talk using its haptic motor",
+      "lang": "Swift",
+      "stars": 495,
+      "forks": 24,
+      "created": "2026-11-22"
+    },
+    {
+      "repo": "danielwh2/sprite-stacking",
+      "url": "https://github.com/danielwh2/sprite-stacking",
+      "desc": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
+      "lang": "HTML",
+      "stars": 488,
+      "forks": 36,
       "created": "2026-11-20"
     },
     {
@@ -223,54 +214,63 @@
       "url": "https://github.com/Illson/RustText",
       "desc": "Portable Windows text editor with Sublime Text-style multi-cursor editing, regex find and replace, split views, and a live viewer for large log files.",
       "lang": "C#",
-      "stars": 472,
+      "stars": 470,
       "forks": 2,
       "created": "2026-11-16"
     },
     {
-      "repo": "YellowLaborerMarket/Gemini-Config-Checker-",
-      "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "lang": "Makefile",
-      "stars": 471,
-      "forks": 0,
-      "created": "2026-11-15"
+      "repo": "CoderL98/hghub-plugins",
+      "url": "https://github.com/CoderL98/hghub-plugins",
+      "desc": "HGhub HPP 1.0 单文件插件与订阅源",
+      "lang": "JavaScript",
+      "stars": 468,
+      "forks": 68,
+      "created": "2026-11-16"
     },
     {
-      "repo": "weightcashiercupola/Gemini-Config-Checker-",
-      "url": "https://github.com/weightcashiercupola/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "lang": "Makefile",
-      "stars": 470,
-      "forks": 0,
-      "created": "2026-11-15"
+      "repo": "sybil-solutions/skill-distill",
+      "url": "https://github.com/sybil-solutions/skill-distill",
+      "desc": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
+      "lang": "Python",
+      "stars": 462,
+      "forks": 42,
+      "created": "2026-11-21"
     },
     {
-      "repo": "WindGatorRise37/Gemini-Config-Checker-",
-      "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "lang": "Makefile",
-      "stars": 469,
-      "forks": 0,
-      "created": "2026-11-15"
+      "repo": "ItsNotRexed/Hookshot",
+      "url": "https://github.com/ItsNotRexed/Hookshot",
+      "desc": "Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake",
+      "lang": "C++",
+      "stars": 438,
+      "forks": 10,
+      "created": "2026-11-20"
     },
     {
-      "repo": "WyrmClimberManacle/Gemini-Config-Checker-",
-      "url": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "lang": "Makefile",
-      "stars": 469,
-      "forks": 1,
-      "created": "2026-11-15"
+      "repo": "duwqijlk/google-trial-tool",
+      "url": "https://github.com/duwqijlk/google-trial-tool",
+      "desc": "",
+      "lang": "JavaScript",
+      "stars": 432,
+      "forks": 171,
+      "created": "2026-11-19"
     },
     {
-      "repo": "TurtleReside/Gemini-Config-Checker-",
-      "url": "https://github.com/TurtleReside/Gemini-Config-Checker-",
-      "desc": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) ",
-      "lang": "Go",
-      "stars": 469,
-      "forks": 0,
-      "created": "2026-11-15"
+      "repo": "ThreatDefence/agentic-attack-detections",
+      "url": "https://github.com/ThreatDefence/agentic-attack-detections",
+      "desc": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero. KQL hunts for Microsoft Sentinel and Defender XDR, Sigma, Sur",
+      "lang": "Python",
+      "stars": 424,
+      "forks": 90,
+      "created": "2026-11-20"
+    },
+    {
+      "repo": "w01fb0ss/PiBot",
+      "url": "https://github.com/w01fb0ss/PiBot",
+      "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+      "lang": "TypeScript",
+      "stars": 414,
+      "forks": 56,
+      "created": "2026-11-21"
     }
   ],
   "note": ""

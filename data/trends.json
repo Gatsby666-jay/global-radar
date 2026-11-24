@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 06:25:39",
+  "updated_at": "2026-11-24 14:46:47",
   "platforms": {
     "appstore": {
       "name": "App Store 美国区免费榜",
@@ -28,8 +28,8 @@
           "url": "https://apps.apple.com/us/app/chatgpt/id6448311069?uo=2",
           "category": "Productivity",
           "rank": 3,
-          "signal": "up",
-          "delta": 1
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "Vinted: Pre-loved marketplace",
@@ -37,8 +37,8 @@
           "url": "https://apps.apple.com/us/app/vinted-pre-loved-marketplace/id632064380?uo=2",
           "category": "Shopping",
           "rank": 4,
-          "signal": "down",
-          "delta": 1
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "GoWish - Your Digital Wishlist",
@@ -64,8 +64,8 @@
           "url": "https://apps.apple.com/us/app/google-gemini/id6477489729?uo=2",
           "category": "Productivity",
           "rank": 7,
-          "signal": "up",
-          "delta": 2
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "PineDrama - Short Dramas",
@@ -73,8 +73,8 @@
           "url": "https://apps.apple.com/us/app/pinedrama-short-dramas/id6754134922?uo=2",
           "category": "Entertainment",
           "rank": 8,
-          "signal": "down",
-          "delta": 1
+          "signal": "same",
+          "delta": 0
         },
         {
           "name": "Google",
@@ -82,26 +82,26 @@
           "url": "https://apps.apple.com/us/app/google/id284815942?uo=2",
           "category": "Utilities",
           "rank": 9,
-          "signal": "up",
-          "delta": 2
+          "signal": "same",
+          "delta": 0
         },
         {
-          "name": "TikTok - Videos, Shop & LIVE",
-          "title": "TikTok - Videos, Shop & LIVE",
-          "url": "https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320?uo=2",
+          "name": "Netflix Game Controller",
+          "title": "Netflix Game Controller",
+          "url": "https://apps.apple.com/us/app/netflix-game-controller/id6447582581?uo=2",
           "category": "Entertainment",
           "rank": 10,
           "signal": "up",
-          "delta": 5
+          "delta": 12
         },
         {
-          "name": "PLAYFUL REWARDS: Earn Rewards",
-          "title": "PLAYFUL REWARDS: Earn Rewards",
-          "url": "https://apps.apple.com/us/app/playful-rewards-earn-rewards/id1631584032?uo=2",
-          "category": "Entertainment",
+          "name": "Shop: Track, Pay, Discover",
+          "title": "Shop: Track, Pay, Discover",
+          "url": "https://apps.apple.com/us/app/shop-track-pay-discover/id1223471316?uo=2",
+          "category": "Shopping",
           "rank": 11,
-          "signal": "down",
-          "delta": 1
+          "signal": "up",
+          "delta": 4
         },
         {
           "name": "Health100",
@@ -109,6 +109,33 @@
           "url": "https://apps.apple.com/us/app/health100/id6760536822?uo=2",
           "category": "Medical",
           "rank": 12,
+          "signal": "same",
+          "delta": 0
+        },
+        {
+          "name": "Walmart: Shopping & Savings",
+          "title": "Walmart: Shopping & Savings",
+          "url": "https://apps.apple.com/us/app/walmart-shopping-savings/id338137227?uo=2",
+          "category": "Shopping",
+          "rank": 13,
+          "signal": "up",
+          "delta": 5
+        },
+        {
+          "name": "TikTok - Videos, Shop & LIVE",
+          "title": "TikTok - Videos, Shop & LIVE",
+          "url": "https://apps.apple.com/us/app/tiktok-videos-shop-live/id835599320?uo=2",
+          "category": "Entertainment",
+          "rank": 14,
+          "signal": "down",
+          "delta": 4
+        },
+        {
+          "name": "CapCut: Video & Photo Editor",
+          "title": "CapCut: Video & Photo Editor",
+          "url": "https://apps.apple.com/us/app/capcut-video-photo-editor/id1500855883?uo=2",
+          "category": "Photo & Video",
+          "rank": 15,
           "signal": "new",
           "delta": null
         },
@@ -117,34 +144,16 @@
           "title": "Threads",
           "url": "https://apps.apple.com/us/app/threads/id6446901002?uo=2",
           "category": "Social Networking",
-          "rank": 13,
-          "signal": "up",
-          "delta": 1
+          "rank": 16,
+          "signal": "down",
+          "delta": 3
         },
         {
           "name": "WhatsApp",
           "title": "WhatsApp",
           "url": "https://apps.apple.com/us/app/whatsapp/id310633997?uo=2",
           "category": "Social Networking",
-          "rank": 14,
-          "signal": "up",
-          "delta": 8
-        },
-        {
-          "name": "Shop: Track, Pay, Discover",
-          "title": "Shop: Track, Pay, Discover",
-          "url": "https://apps.apple.com/us/app/shop-track-pay-discover/id1223471316?uo=2",
-          "category": "Shopping",
-          "rank": 15,
-          "signal": "up",
-          "delta": 4
-        },
-        {
-          "name": "CapCut: Photo & Video Editor",
-          "title": "CapCut: Photo & Video Editor",
-          "url": "https://apps.apple.com/us/app/capcut-photo-video-editor/id1500855883?uo=2",
-          "category": "Photo & Video",
-          "rank": 16,
+          "rank": 17,
           "signal": "down",
           "delta": 3
         },
@@ -153,78 +162,69 @@
           "title": "Gmail - Email by Google",
           "url": "https://apps.apple.com/us/app/gmail-email-by-google/id422689480?uo=2",
           "category": "Productivity",
-          "rank": 17,
-          "signal": "up",
-          "delta": 6
-        },
-        {
-          "name": "Walmart: Shopping & Savings",
-          "title": "Walmart: Shopping & Savings",
-          "url": "https://apps.apple.com/us/app/walmart-shopping-savings/id338137227?uo=2",
-          "category": "Shopping",
           "rank": 18,
           "signal": "down",
           "delta": 1
-        },
-        {
-          "name": "YouTube",
-          "title": "YouTube",
-          "url": "https://apps.apple.com/us/app/youtube/id544007664?uo=2",
-          "category": "Photo & Video",
-          "rank": 19,
-          "signal": "new",
-          "delta": null
         },
         {
           "name": "Kalshi: Trade Sports & Events",
           "title": "Kalshi: Trade Sports & Events",
           "url": "https://apps.apple.com/us/app/kalshi-trade-sports-events/id1632713844?uo=2",
           "category": "Finance",
-          "rank": 20,
-          "signal": "down",
-          "delta": 8
-        },
-        {
-          "name": "Temu: Shop Like a Billionaire",
-          "title": "Temu: Shop Like a Billionaire",
-          "url": "https://apps.apple.com/us/app/temu-shop-like-a-billionaire/id1641486558?uo=2",
-          "category": "Shopping",
-          "rank": 21,
-          "signal": "down",
-          "delta": 5
-        },
-        {
-          "name": "Netflix Game Controller",
-          "title": "Netflix Game Controller",
-          "url": "https://apps.apple.com/us/app/netflix-game-controller/id6447582581?uo=2",
-          "category": "Entertainment",
-          "rank": 22,
-          "signal": "down",
-          "delta": 14
+          "rank": 19,
+          "signal": "up",
+          "delta": 1
         },
         {
           "name": "Google Chrome",
           "title": "Google Chrome",
           "url": "https://apps.apple.com/us/app/google-chrome/id535886823?uo=2",
           "category": "Utilities",
-          "rank": 23,
+          "rank": 20,
           "signal": "up",
+          "delta": 3
+        },
+        {
+          "name": "PLAYFUL REWARDS: Earn Rewards",
+          "title": "PLAYFUL REWARDS: Earn Rewards",
+          "url": "https://apps.apple.com/us/app/playful-rewards-earn-rewards/id1631584032?uo=2",
+          "category": "Entertainment",
+          "rank": 21,
+          "signal": "down",
+          "delta": 10
+        },
+        {
+          "name": "Temu: Shop Like a Billionaire",
+          "title": "Temu: Shop Like a Billionaire",
+          "url": "https://apps.apple.com/us/app/temu-shop-like-a-billionaire/id1641486558?uo=2",
+          "category": "Shopping",
+          "rank": 22,
+          "signal": "down",
           "delta": 1
         },
         {
-          "name": "Facebook",
-          "title": "Facebook",
-          "url": "https://apps.apple.com/us/app/facebook/id284882215?uo=2",
-          "category": "Social Networking",
-          "rank": 24,
+          "name": "Whatnot: Shop, Sell, Connect",
+          "title": "Whatnot: Shop, Sell, Connect",
+          "url": "https://apps.apple.com/us/app/whatnot-shop-sell-connect/id1488269261?uo=2",
+          "category": "Shopping",
+          "rank": 23,
           "signal": "new",
           "delta": null
         },
         {
-          "name": "Instagram",
-          "title": "Instagram",
-          "url": "https://apps.apple.com/us/app/instagram/id389801252?uo=2",
+          "name": "YouTube",
+          "title": "YouTube",
+          "url": "https://apps.apple.com/us/app/youtube/id544007664?uo=2",
           "category": "Photo & Video",
+          "rank": 24,
+          "signal": "down",
+          "delta": 5
+        },
+        {
+          "name": "Capital One Mobile",
+          "title": "Capital One Mobile",
+          "url": "https://apps.apple.com/us/app/capital-one-mobile/id407558537?uo=2",
+          "category": "Finance",
           "rank": 25,
           "signal": "new",
           "delta": null
@@ -239,18 +239,8 @@
           "title": "当我用AI续写爱情公寓4关谷悠悠婚礼【AI全民制作人】",
           "url": "https://www.bilibili.com/video/BV1atse6EEfx",
           "author": "Nero_闪灵",
-          "views": 6687163,
+          "views": 7138691,
           "rank": 1,
-          "signal": "same",
-          "delta": 0
-        },
-        {
-          "name": "BV1jKsq6cEEP",
-          "title": "【IGN独家】《鸣潮：永明的烬焰》实机演示",
-          "url": "https://www.bilibili.com/video/BV1jKsq6cEEP",
-          "author": "IGN中国",
-          "views": 4912663,
-          "rank": 2,
           "signal": "same",
           "delta": 0
         },
@@ -259,48 +249,68 @@
           "title": "侠盗猎车手6 第一集，GTA 6 Part 1",
           "url": "https://www.bilibili.com/video/BV1JpyazXEUD",
           "author": "鲤鱼Ace",
-          "views": 2320772,
-          "rank": 3,
-          "signal": "same",
-          "delta": 0
+          "views": 2380147,
+          "rank": 2,
+          "signal": "up",
+          "delta": 1
         },
         {
           "name": "BV1VvyazyEBo",
           "title": "我是Tim，我爹太离谱了…",
           "url": "https://www.bilibili.com/video/BV1VvyazyEBo",
           "author": "Tim潘子",
-          "views": 3416842,
-          "rank": 4,
-          "signal": "same",
-          "delta": 0
+          "views": 3547098,
+          "rank": 3,
+          "signal": "up",
+          "delta": 1
         },
         {
           "name": "BV1bMyazAEap",
           "title": "多国领导人明确表态：坚定恪守一个中国原则",
           "url": "https://www.bilibili.com/video/BV1bMyazAEap",
           "author": "央视新闻",
-          "views": 2144568,
-          "rank": 5,
-          "signal": "same",
-          "delta": 0
+          "views": 2190082,
+          "rank": 4,
+          "signal": "up",
+          "delta": 1
         },
         {
           "name": "BV1uyyazBEUA",
           "title": "考公务员很难，但是为人民服务却很容易！",
           "url": "https://www.bilibili.com/video/BV1uyyazBEUA",
           "author": "小阳yx",
-          "views": 1193905,
-          "rank": 6,
+          "views": 1287223,
+          "rank": 5,
           "signal": "up",
-          "delta": 3
+          "delta": 1
+        },
+        {
+          "name": "BV1jKsq6cEEP",
+          "title": "【IGN独家】《鸣潮：永明的烬焰》实机演示",
+          "url": "https://www.bilibili.com/video/BV1jKsq6cEEP",
+          "author": "IGN中国",
+          "views": 4982038,
+          "rank": 6,
+          "signal": "down",
+          "delta": 4
         },
         {
           "name": "BV1Poyaz8Ep4",
           "title": "【合集】人类消失后，深度思考三百年的大肥鱼",
           "url": "https://www.bilibili.com/video/BV1Poyaz8Ep4",
           "author": "奶糕兽",
-          "views": 1346294,
+          "views": 1511814,
           "rank": 7,
+          "signal": "same",
+          "delta": 0
+        },
+        {
+          "name": "BV1MMyazPEKy",
+          "title": "《明日方舟：终末地》特别映像「基石」",
+          "url": "https://www.bilibili.com/video/BV1MMyazPEKy",
+          "author": "明日方舟终末地",
+          "views": 1839560,
+          "rank": 8,
           "signal": "up",
           "delta": 4
         },
@@ -309,8 +319,8 @@
           "title": "真相，假是假了点，但看了不烧心。",
           "url": "https://www.bilibili.com/video/BV1tdypzgEx2",
           "author": "吟游诗人AT",
-          "views": 2649675,
-          "rank": 8,
+          "views": 2807503,
+          "rank": 9,
           "signal": "down",
           "delta": 1
         },
@@ -319,8 +329,8 @@
           "title": "《猫富贵 狗不让》",
           "url": "https://www.bilibili.com/video/BV1rhyszPE6p",
           "author": "IPx的粉红豹",
-          "views": 4329819,
-          "rank": 9,
+          "views": 4490799,
+          "rank": 10,
           "signal": "down",
           "delta": 1
         },
@@ -329,38 +339,118 @@
           "title": "《我救不死你》",
           "url": "https://www.bilibili.com/video/BV1bGysz7EoD",
           "author": "伤心欲茄222",
-          "views": 5173516,
-          "rank": 10,
-          "signal": "same",
-          "delta": 0
+          "views": 5373123,
+          "rank": 11,
+          "signal": "down",
+          "delta": 1
+        },
+        {
+          "name": "BV1MvyWzkEVx",
+          "title": "【星穹铁道HoYoFair】「红丝绒星期五」正式预告片 | 史上最棒的预告片",
+          "url": "https://www.bilibili.com/video/BV1MvyWzkEVx",
+          "author": "星穹餐车茶话会",
+          "views": 1577354,
+          "rank": 12,
+          "signal": "up",
+          "delta": 5
+        },
+        {
+          "name": "BV1zGy5ziEnd",
+          "title": "【BLG夺冠VLOG】这是属于我们的冠军记忆",
+          "url": "https://www.bilibili.com/video/BV1zGy5ziEnd",
+          "author": "BLG电子竞技俱乐部",
+          "views": 1462213,
+          "rank": 13,
+          "signal": "up",
+          "delta": 6
+        },
+        {
+          "name": "BV11HyszgESK",
+          "title": "当我被外星人👽取代",
+          "url": "https://www.bilibili.com/video/BV11HyszgESK",
+          "author": "一只萌萌哒chara",
+          "views": 1300118,
+          "rank": 14,
+          "signal": "up",
+          "delta": 1
+        },
+        {
+          "name": "BV1LoyGzZEX8",
+          "title": "我想回家吃饭（两小时大电影）",
+          "url": "https://www.bilibili.com/video/BV1LoyGzZEX8",
+          "author": "呖猪猫meme",
+          "views": 1700320,
+          "rank": 15,
+          "signal": "new",
+          "delta": null
         },
         {
           "name": "BV1LjyWzREC1",
           "title": "小时候眼中的罚抄神器be like:",
           "url": "https://www.bilibili.com/video/BV1LjyWzREC1",
           "author": "罐子pot",
-          "views": 3193107,
-          "rank": 11,
+          "views": 3290247,
+          "rank": 16,
           "signal": "down",
           "delta": 5
-        },
-        {
-          "name": "BV1MMyazPEKy",
-          "title": "《明日方舟：终末地》特别映像「基石」",
-          "url": "https://www.bilibili.com/video/BV1MMyazPEKy",
-          "author": "明日方舟终末地",
-          "views": 1802936,
-          "rank": 12,
-          "signal": "same",
-          "delta": 0
         },
         {
           "name": "BV1nuyWz8E7t",
           "title": "炒蔬菜的底层逻辑：4种方法搞定99%的蔬菜？",
           "url": "https://www.bilibili.com/video/BV1nuyWz8E7t",
           "author": "我的样子平平无奇",
-          "views": 2531971,
-          "rank": 13,
+          "views": 2623976,
+          "rank": 17,
+          "signal": "down",
+          "delta": 4
+        },
+        {
+          "name": "BV1QAypzyE7B",
+          "title": "你从未见过的硬核开箱视频！",
+          "url": "https://www.bilibili.com/video/BV1QAypzyE7B",
+          "author": "戴律请回答",
+          "views": 706492,
+          "rank": 18,
+          "signal": "new",
+          "delta": null
+        },
+        {
+          "name": "BV1nmyWzeEVP",
+          "title": "两套大连招 雷霆撸猫法 一镜到底",
+          "url": "https://www.bilibili.com/video/BV1nmyWzeEVP",
+          "author": "喵老登的猫",
+          "views": 2840571,
+          "rank": 19,
+          "signal": "new",
+          "delta": null
+        },
+        {
+          "name": "BV121yjzQEWf",
+          "title": "扎堆产卵 同类相食！蝗虫诡异行为原理被中国科学家破解！【主播说三农】",
+          "url": "https://www.bilibili.com/video/BV121yjzQEWf",
+          "author": "央视农业",
+          "views": 1660377,
+          "rank": 20,
+          "signal": "new",
+          "delta": null
+        },
+        {
+          "name": "BV1R6ypzJEpy",
+          "title": "🐧如果把人的一生换算成24小时🐧",
+          "url": "https://www.bilibili.com/video/BV1R6ypzJEpy",
+          "author": "川崎仁仁菜",
+          "views": 2050156,
+          "rank": 21,
+          "signal": "same",
+          "delta": 0
+        },
+        {
+          "name": "BV1vQybzKEhr",
+          "title": "《520AM》司凤版⚡思罢吗乐队激情演奏！小时候这集听哭了😭【AI MV大赛】",
+          "url": "https://www.bilibili.com/video/BV1vQybzKEhr",
+          "author": "69岁牢二次元",
+          "views": 2003283,
+          "rank": 22,
           "signal": "up",
           "delta": 1
         },
@@ -369,120 +459,30 @@
           "title": "村民装备演示",
           "url": "https://www.bilibili.com/video/BV12xsq67Ear",
           "author": "KKKKKQAQ",
-          "views": 2016261,
-          "rank": 14,
+          "views": 2042539,
+          "rank": 23,
           "signal": "down",
-          "delta": 1
-        },
-        {
-          "name": "BV11HyszgESK",
-          "title": "当我被外星人👽取代",
-          "url": "https://www.bilibili.com/video/BV11HyszgESK",
-          "author": "一只萌萌哒chara",
-          "views": 1283157,
-          "rank": 15,
-          "signal": "up",
-          "delta": 1
-        },
-        {
-          "name": "BV1vBypzDECn",
-          "title": "在B站就能玩到的像素射击游戏，点击即玩！【B站AI创造公开赛】",
-          "url": "https://www.bilibili.com/video/BV1vBypzDECn",
-          "author": "土豆味小哲",
-          "views": 804832,
-          "rank": 16,
-          "signal": "up",
-          "delta": 1
-        },
-        {
-          "name": "BV1MvyWzkEVx",
-          "title": "【星穹铁道HoYoFair】「红丝绒星期五」正式预告片 | 史上最棒的预告片",
-          "url": "https://www.bilibili.com/video/BV1MvyWzkEVx",
-          "author": "星穹餐车茶话会",
-          "views": 1503986,
-          "rank": 17,
-          "signal": "up",
-          "delta": 2
+          "delta": 9
         },
         {
           "name": "BV1UGyszjEGX",
           "title": "为何去玩这个剧本杀的人都失踪了？",
           "url": "https://www.bilibili.com/video/BV1UGyszjEGX",
           "author": "某幻君",
-          "views": 1988011,
-          "rank": 18,
-          "signal": "same",
-          "delta": 0
-        },
-        {
-          "name": "BV1zGy5ziEnd",
-          "title": "【BLG夺冠VLOG】这是属于我们的冠军记忆",
-          "url": "https://www.bilibili.com/video/BV1zGy5ziEnd",
-          "author": "BLG电子竞技俱乐部",
-          "views": 1364568,
-          "rank": 19,
-          "signal": "up",
-          "delta": 6
-        },
-        {
-          "name": "BV1yKse6YE16",
-          "title": "\"我在5:20入睡13:14准时起\"",
-          "url": "https://www.bilibili.com/video/BV1yKse6YE16",
-          "author": "我爱吃派大星",
-          "views": 1270094,
-          "rank": 20,
-          "signal": "up",
-          "delta": 2
-        },
-        {
-          "name": "BV1R6ypzJEpy",
-          "title": "🐧如果把人的一生换算成24小时🐧",
-          "url": "https://www.bilibili.com/video/BV1R6ypzJEpy",
-          "author": "川崎仁仁菜",
-          "views": 2021114,
-          "rank": 21,
-          "signal": "same",
-          "delta": 0
-        },
-        {
-          "name": "BV18mypzyEAV",
-          "title": "“我只是死在了讨厌的生活里”「烂奇迹·章鱼哥」",
-          "url": "https://www.bilibili.com/video/BV18mypzyEAV",
-          "author": "纽毕斯",
-          "views": 1074890,
-          "rank": 22,
-          "signal": "up",
-          "delta": 1
-        },
-        {
-          "name": "BV1vQybzKEhr",
-          "title": "《520AM》司凤版⚡思罢吗乐队激情演奏！小时候这集听哭了😭【AI MV大赛】",
-          "url": "https://www.bilibili.com/video/BV1vQybzKEhr",
-          "author": "69岁牢二次元",
-          "views": 1868801,
-          "rank": 23,
-          "signal": "new",
-          "delta": null
-        },
-        {
-          "name": "BV1bRyszmEXc",
-          "title": "学了五分钟建模做出来的绯英技能动画",
-          "url": "https://www.bilibili.com/video/BV1bRyszmEXc",
-          "author": "便当士",
-          "views": 1930411,
+          "views": 2027101,
           "rank": 24,
           "signal": "down",
-          "delta": 9
+          "delta": 6
         },
         {
           "name": "BV1GxyWzUEsn",
           "title": "挑战用第三人称逛商场",
           "url": "https://www.bilibili.com/video/BV1GxyWzUEsn",
           "author": "特辣的老痞",
-          "views": 3877431,
+          "views": 3952310,
           "rank": 25,
-          "signal": "new",
-          "delta": null
+          "signal": "same",
+          "delta": 0
         }
       ]
     },
@@ -494,160 +494,160 @@
           "title": "Nvidia Reinstates Jensen Huang as CEO",
           "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
           "discuss": "https://news.ycombinator.com/item?id=50611576",
-          "points": 1756,
-          "comments": 2865
+          "points": 2431,
+          "comments": 3369
         },
         {
           "rank": 2,
           "title": "Ladybird is now in alpha",
           "url": "https://ladybird.org/posts/alpha/",
           "discuss": "https://news.ycombinator.com/item?id=50614249",
-          "points": 1128,
-          "comments": 283
+          "points": 1690,
+          "comments": 389
         },
         {
           "rank": 3,
-          "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-          "url": "https://z.ai/blog/glm-5.4",
-          "discuss": "https://news.ycombinator.com/item?id=50609685",
-          "points": 984,
-          "comments": 326
+          "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+          "url": "https://twitter.com/ylecun/status/2124550037912920090",
+          "discuss": "https://news.ycombinator.com/item?id=50615308",
+          "points": 1491,
+          "comments": 840
         },
         {
           "rank": 4,
-          "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-          "url": "https://spelunkr.tv",
-          "discuss": "https://news.ycombinator.com/item?id=50606192",
-          "points": 900,
-          "comments": 158
+          "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+          "url": "https://z.ai/blog/glm-5.4",
+          "discuss": "https://news.ycombinator.com/item?id=50609685",
+          "points": 1099,
+          "comments": 359
         },
         {
           "rank": 5,
-          "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
-          "url": "https://twitter.com/ylecun/status/2124550037912920090",
-          "discuss": "https://news.ycombinator.com/item?id=50615308",
-          "points": 784,
-          "comments": 452
+          "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+          "url": "https://spelunkr.tv",
+          "discuss": "https://news.ycombinator.com/item?id=50606192",
+          "points": 981,
+          "comments": 170
         },
         {
           "rank": 6,
-          "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-          "discuss": "https://news.ycombinator.com/item?id=50603845",
-          "points": 734,
-          "comments": 293
-        },
-        {
-          "rank": 7,
           "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
           "url": "https://arm.jonpalmisc.com/",
           "discuss": "https://news.ycombinator.com/item?id=50617499",
-          "points": 653,
-          "comments": 127
+          "points": 970,
+          "comments": 224
         },
         {
-          "rank": 8,
-          "title": "XNU Linux: Full OS X GUI Userspace on Linux",
-          "url": "https://github.com/AFK-surf/xnulinux",
-          "discuss": "https://news.ycombinator.com/item?id=50607261",
-          "points": 586,
-          "comments": 241
-        },
-        {
-          "rank": 9,
-          "title": "Apple removed my open-source app from EU App Stores after 9 years",
-          "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
-          "discuss": "https://news.ycombinator.com/item?id=50616933",
-          "points": 396,
-          "comments": 79
-        },
-        {
-          "rank": 10,
+          "rank": 7,
           "title": "Kagi Mail (public beta)",
           "url": "https://blog.kagi.com/kagi-mail-public-beta",
           "discuss": "https://news.ycombinator.com/item?id=50615481",
-          "points": 286,
-          "comments": 220
+          "points": 395,
+          "comments": 306
         },
         {
-          "rank": 11,
+          "rank": 8,
+          "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+          "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+          "discuss": "https://news.ycombinator.com/item?id=50620349",
+          "points": 367,
+          "comments": 180
+        },
+        {
+          "rank": 9,
           "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
           "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
           "discuss": "https://news.ycombinator.com/item?id=50587439",
-          "points": 259,
-          "comments": 83
+          "points": 333,
+          "comments": 108
         },
         {
-          "rank": 12,
-          "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
-          "url": "https://github.com/os6/nospeaker",
-          "discuss": "https://news.ycombinator.com/item?id=50610318",
-          "points": 249,
-          "comments": 150
-        },
-        {
-          "rank": 13,
-          "title": "Nespresso's project to reduce grams of coffee per capsule",
-          "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
-          "discuss": "https://news.ycombinator.com/item?id=50605479",
-          "points": 244,
-          "comments": 267
-        },
-        {
-          "rank": 14,
-          "title": "The next circle of security hell",
-          "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
-          "discuss": "https://news.ycombinator.com/item?id=50610334",
-          "points": 221,
-          "comments": 131
-        },
-        {
-          "rank": 15,
+          "rank": 10,
           "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
           "url": "https://github.com/mikuta0407/win4wine",
           "discuss": "https://news.ycombinator.com/item?id=50610743",
+          "points": 228,
+          "comments": 120
+        },
+        {
+          "rank": 11,
+          "title": "GPUI is getting its own repository",
+          "url": "https://github.com/zed-industries/gpui",
+          "discuss": "https://news.ycombinator.com/item?id=50619103",
+          "points": 219,
+          "comments": 81
+        },
+        {
+          "rank": 12,
+          "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+          "url": "https://www.bored.com/",
+          "discuss": "https://news.ycombinator.com/item?id=50619207",
+          "points": 197,
+          "comments": 44
+        },
+        {
+          "rank": 13,
+          "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+          "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+          "discuss": "https://news.ycombinator.com/item?id=50622774",
           "points": 195,
-          "comments": 102
+          "comments": 61
         },
         {
-          "rank": 16,
-          "title": "Don't keep your SSH keys on disk",
-          "url": "https://jola.dev/posts/you-cant-afford-ssh-keys-disk",
-          "discuss": "https://news.ycombinator.com/item?id=50609579",
-          "points": 135,
-          "comments": 89
-        },
-        {
-          "rank": 17,
-          "title": "What's the difference between an integer and a pointer? (2018)",
-          "url": "https://blog.regehr.org/archives/1621",
-          "discuss": "https://news.ycombinator.com/item?id=50587286",
-          "points": 101,
-          "comments": 96
-        },
-        {
-          "rank": 18,
-          "title": "Show HN: Drive around my village in 3D",
-          "url": "https://cherwellvalleymotorclub.app",
-          "discuss": "https://news.ycombinator.com/item?id=50574412",
-          "points": 94,
-          "comments": 66
-        },
-        {
-          "rank": 19,
+          "rank": 14,
           "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
           "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
           "discuss": "https://news.ycombinator.com/item?id=50611402",
-          "points": 94,
-          "comments": 13
+          "points": 153,
+          "comments": 30
+        },
+        {
+          "rank": 15,
+          "title": "C++26 is done (again): ISO C++ meeting trip report",
+          "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+          "discuss": "https://news.ycombinator.com/item?id=50600838",
+          "points": 112,
+          "comments": 134
+        },
+        {
+          "rank": 16,
+          "title": "Derivative Flipping",
+          "url": "http://blog.sigfpe.com/2026/11/derivative-flipping.html",
+          "discuss": "https://news.ycombinator.com/item?id=50594935",
+          "points": 88,
+          "comments": 14
+        },
+        {
+          "rank": 17,
+          "title": "Freeing the iPod Nano 5G",
+          "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
+          "discuss": "https://news.ycombinator.com/item?id=50620721",
+          "points": 88,
+          "comments": 9
+        },
+        {
+          "rank": 18,
+          "title": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+          "url": "https://openai.com/index/introducing-shirudo/",
+          "discuss": "https://news.ycombinator.com/item?id=50619630",
+          "points": 63,
+          "comments": 17
+        },
+        {
+          "rank": 19,
+          "title": "Modernizing iperf/iperf3 and introducing fireperf",
+          "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
+          "discuss": "https://news.ycombinator.com/item?id=50604710",
+          "points": 55,
+          "comments": 1
         },
         {
           "rank": 20,
-          "title": "Let's Meet in the Middle",
-          "url": "https://george.mand.is/2026/11/lets-meet-in-the-middle/",
-          "discuss": "https://news.ycombinator.com/item?id=50577534",
-          "points": 85,
-          "comments": 11
+          "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+          "url": "https://arxiv.org/abs/2602.20031",
+          "discuss": "https://news.ycombinator.com/item?id=50620328",
+          "points": 52,
+          "comments": 4
         }
       ]
     },

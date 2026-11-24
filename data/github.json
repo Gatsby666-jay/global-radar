@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 14:46:47",
+  "updated_at": "2026-11-24 22:29:04",
   "window_days": 7,
   "repos": [
     {
@@ -7,8 +7,8 @@
       "url": "https://github.com/Marvisak/VIctory",
       "desc": "An attempt at running GTA VI on PC",
       "lang": "Rust",
-      "stars": 5462,
-      "forks": 707,
+      "stars": 9105,
+      "forks": 1245,
       "created": "2026-11-23"
     },
     {
@@ -16,8 +16,8 @@
       "url": "https://github.com/ivall/xcl",
       "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
       "lang": "Rust",
-      "stars": 4623,
-      "forks": 589,
+      "stars": 6813,
+      "forks": 837,
       "created": "2026-11-20"
     },
     {
@@ -25,8 +25,8 @@
       "url": "https://github.com/EL4CTEO/fast-anything",
       "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "lang": "Rust",
-      "stars": 3291,
-      "forks": 218,
+      "stars": 3484,
+      "forks": 240,
       "created": "2026-11-21"
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/AFK-surf/xnulinux",
       "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
       "lang": "Objective-C++",
-      "stars": 2492,
-      "forks": 100,
+      "stars": 2984,
+      "forks": 122,
       "created": "2026-11-20"
     },
     {
@@ -43,17 +43,17 @@
       "url": "https://github.com/iamajmeena/neonclipping",
       "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
       "lang": "Python",
-      "stars": 2334,
-      "forks": 149,
+      "stars": 2402,
+      "forks": 152,
       "created": "2026-11-19"
     },
     {
-      "repo": "omonkeyz/xbox-emulator",
-      "url": "https://github.com/omonkeyz/xbox-emulator",
-      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
-      "lang": "Rust",
-      "stars": 1720,
-      "forks": 110,
+      "repo": "4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "lang": "JavaScript",
+      "stars": 1974,
+      "forks": 47,
       "created": "2026-11-21"
     },
     {
@@ -61,17 +61,26 @@
       "url": "https://github.com/R0Y00/Xbox2Windows",
       "desc": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
       "lang": "Python",
-      "stars": 1660,
-      "forks": 180,
+      "stars": 1817,
+      "forks": 200,
       "created": "2026-11-20"
+    },
+    {
+      "repo": "omonkeyz/xbox-emulator",
+      "url": "https://github.com/omonkeyz/xbox-emulator",
+      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
+      "lang": "Rust",
+      "stars": 1766,
+      "forks": 117,
+      "created": "2026-11-21"
     },
     {
       "repo": "os6/nospeaker",
       "url": "https://github.com/os6/nospeaker",
       "desc": "make your macbook's trackpad talk using its haptic motor",
       "lang": "Swift",
-      "stars": 1550,
-      "forks": 75,
+      "stars": 1652,
+      "forks": 82,
       "created": "2026-11-22"
     },
     {
@@ -79,26 +88,26 @@
       "url": "https://github.com/Lemxy/WinRust",
       "desc": "Windows shell replacement in Rust: taskbar, file manager, NTFS search, task manager, disk cleaner. One installer exe.",
       "lang": "Rust",
-      "stars": 1405,
-      "forks": 84,
+      "stars": 1443,
+      "forks": 91,
       "created": "2026-11-17"
     },
     {
-      "repo": "4lwayz/portwatch-vi",
-      "url": "https://github.com/4lwayz/portwatch-vi",
-      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-      "lang": "JavaScript",
-      "stars": 1179,
-      "forks": 28,
-      "created": "2026-11-21"
+      "repo": "ubiquitarianism/leonida",
+      "url": "https://github.com/ubiquitarianism/leonida",
+      "desc": "A continuation of Leonida, the Xbox > PC port interface of GTA VI",
+      "lang": "Python",
+      "stars": 1279,
+      "forks": 268,
+      "created": "2026-11-23"
     },
     {
       "repo": "leanprover-community/riemann-hypothesis",
       "url": "https://github.com/leanprover-community/riemann-hypothesis",
-      "desc": "Independent Comparator setup for the Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
+      "desc": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20)",
       "lang": "Lean",
-      "stars": 912,
-      "forks": 335,
+      "stars": 971,
+      "forks": 360,
       "created": "2026-11-20"
     },
     {
@@ -106,26 +115,8 @@
       "url": "https://github.com/INK-Q/agy-fast",
       "desc": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
       "lang": "TypeScript",
-      "stars": 829,
-      "forks": 51,
-      "created": "2026-11-19"
-    },
-    {
-      "repo": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
-      "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
-      "desc": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face",
-      "lang": "Python",
-      "stars": 718,
-      "forks": 596,
-      "created": "2026-11-19"
-    },
-    {
-      "repo": "MSNightmare/FastUnlock",
-      "url": "https://github.com/MSNightmare/FastUnlock",
-      "desc": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
-      "lang": "—",
-      "stars": 705,
-      "forks": 118,
+      "stars": 955,
+      "forks": 57,
       "created": "2026-11-19"
     },
     {
@@ -133,144 +124,153 @@
       "url": "https://github.com/danielwh2/sprite-stacking",
       "desc": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
       "lang": "HTML",
-      "stars": 698,
-      "forks": 49,
+      "stars": 741,
+      "forks": 53,
       "created": "2026-11-20"
+    },
+    {
+      "repo": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+      "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+      "desc": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face",
+      "lang": "Python",
+      "stars": 721,
+      "forks": 600,
+      "created": "2026-11-19"
+    },
+    {
+      "repo": "MSNightmare/FastUnlock",
+      "url": "https://github.com/MSNightmare/FastUnlock",
+      "desc": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
+      "lang": "—",
+      "stars": 711,
+      "forks": 121,
+      "created": "2026-11-19"
     },
     {
       "repo": "ItsNotRexed/Hookshot",
       "url": "https://github.com/ItsNotRexed/Hookshot",
       "desc": "Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake",
       "lang": "C++",
-      "stars": 651,
-      "forks": 28,
+      "stars": 678,
+      "forks": 33,
       "created": "2026-11-20"
-    },
-    {
-      "repo": "0xkaka/homeport",
-      "url": "https://github.com/0xkaka/homeport",
-      "desc": "",
-      "lang": "HTML",
-      "stars": 641,
-      "forks": 115,
-      "created": "2026-11-17"
     },
     {
       "repo": "Ahmet-Dedeler/awesome-gta6-reverse-engineering",
       "url": "https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering",
       "desc": "Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / RPF9 archive explorers, TTPF texture & ADAT/AWC audio decoders, format docs, and Xbox Series / PS5 translation layers.",
       "lang": "HTML",
-      "stars": 614,
-      "forks": 27,
+      "stars": 656,
+      "forks": 30,
       "created": "2026-11-21"
     },
     {
-      "repo": "replit/datacat",
-      "url": "https://github.com/replit/datacat",
-      "desc": "Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data.",
-      "lang": "TypeScript",
-      "stars": 601,
-      "forks": 65,
+      "repo": "0xkaka/homeport",
+      "url": "https://github.com/0xkaka/homeport",
+      "desc": "",
+      "lang": "HTML",
+      "stars": 648,
+      "forks": 117,
       "created": "2026-11-17"
-    },
-    {
-      "repo": "ThreatDefence/agentic-attack-detections",
-      "url": "https://github.com/ThreatDefence/agentic-attack-detections",
-      "desc": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft ",
-      "lang": "Python",
-      "stars": 578,
-      "forks": 118,
-      "created": "2026-11-20"
-    },
-    {
-      "repo": "ubiquitarianism/leonida",
-      "url": "https://github.com/ubiquitarianism/leonida",
-      "desc": "A continuation of Leonida, the Xbox > PC port of GTA VI",
-      "lang": "Python",
-      "stars": 575,
-      "forks": 129,
-      "created": "2026-11-23"
-    },
-    {
-      "repo": "CocoSgt/riemann-hypothesis-lean",
-      "url": "https://github.com/CocoSgt/riemann-hypothesis-lean",
-      "desc": "Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo.ge",
-      "lang": "Lean",
-      "stars": 553,
-      "forks": 88,
-      "created": "2026-11-20"
     },
     {
       "repo": "sybil-solutions/skill-distill",
       "url": "https://github.com/sybil-solutions/skill-distill",
       "desc": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
       "lang": "Python",
-      "stars": 533,
-      "forks": 48,
+      "stars": 614,
+      "forks": 50,
       "created": "2026-11-21"
+    },
+    {
+      "repo": "ThreatDefence/agentic-attack-detections",
+      "url": "https://github.com/ThreatDefence/agentic-attack-detections",
+      "desc": "Detection rules and IOCs for AI agent attack frameworks: ARTEX, Cairn, PentAGI, HexStrike, CyberStrikeAI, Strix, Hermes Agent, Agent Zero, RedAmon, Xalgorix, Pentest Swarm AI. KQL hunts for Microsoft ",
+      "lang": "Python",
+      "stars": 607,
+      "forks": 127,
+      "created": "2026-11-20"
+    },
+    {
+      "repo": "replit/datacat",
+      "url": "https://github.com/replit/datacat",
+      "desc": "Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores data in PostgreSQL or ClickHouse. Accepts OpenTelemetry data.",
+      "lang": "TypeScript",
+      "stars": 604,
+      "forks": 68,
+      "created": "2026-11-17"
+    },
+    {
+      "repo": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "desc": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+      "lang": "Rust",
+      "stars": 591,
+      "forks": 46,
+      "created": "2026-11-22"
     },
     {
       "repo": "erkamyaman/safe-anything",
       "url": "https://github.com/erkamyaman/safe-anything",
       "desc": "Find the holes before someone else does. A fast, 100% Rust vulnerability scanner: XSS, SQL injection, leaked secrets, dependency CVEs and AI agent setups.",
       "lang": "Rust",
-      "stars": 527,
-      "forks": 37,
+      "stars": 585,
+      "forks": 46,
       "created": "2026-11-22"
-    },
-    {
-      "repo": "w01fb0ss/PiBot",
-      "url": "https://github.com/w01fb0ss/PiBot",
-      "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
-      "lang": "TypeScript",
-      "stars": 520,
-      "forks": 72,
-      "created": "2026-11-21"
-    },
-    {
-      "repo": "nkjDSLcvanv/antigravity-codex-theme",
-      "url": "https://github.com/nkjDSLcvanv/antigravity-codex-theme",
-      "desc": "Google Antigravity 桌面端增强插件：Codex 昼夜双主题、原生设置页与一键热更新、1,900+ 中文汉化、四态状态灯与实时用量监控（含旁路提问 / SSH 远端）、可选 Tab 下一句预测。不改安装包，模块化按需安装。",
-      "lang": "JavaScript",
-      "stars": 498,
-      "forks": 27,
-      "created": "2026-11-17"
     },
     {
       "repo": "xikhar/papercraft",
       "url": "https://github.com/xikhar/papercraft",
       "desc": "Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style",
       "lang": "JavaScript",
-      "stars": 492,
-      "forks": 50,
+      "stars": 568,
+      "forks": 55,
       "created": "2026-11-21"
     },
     {
-      "repo": "JimLiu/open-artifact",
-      "url": "https://github.com/JimLiu/open-artifact",
-      "desc": "Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards, docs, and motion.",
+      "repo": "qianyiai/kurocat",
+      "url": "https://github.com/qianyiai/kurocat",
+      "desc": "KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）",
       "lang": "TypeScript",
-      "stars": 455,
-      "forks": 57,
-      "created": "2026-11-17"
+      "stars": 562,
+      "forks": 89,
+      "created": "2026-11-21"
     },
     {
-      "repo": "duwqijlk/google-trial-tool",
-      "url": "https://github.com/duwqijlk/google-trial-tool",
-      "desc": "",
+      "repo": "CocoSgt/riemann-hypothesis-lean",
+      "url": "https://github.com/CocoSgt/riemann-hypothesis-lean",
+      "desc": "Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). All credit to Levent Alpöge. Source: alpo.ge",
+      "lang": "Lean",
+      "stars": 556,
+      "forks": 88,
+      "created": "2026-11-20"
+    },
+    {
+      "repo": "w01fb0ss/PiBot",
+      "url": "https://github.com/w01fb0ss/PiBot",
+      "desc": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
+      "lang": "TypeScript",
+      "stars": 542,
+      "forks": 77,
+      "created": "2026-11-21"
+    },
+    {
+      "repo": "deterministic-machines/deslop-please",
+      "url": "https://github.com/deterministic-machines/deslop-please",
+      "desc": "Bring (back) sanity to your code",
+      "lang": "Rust",
+      "stars": 537,
+      "forks": 21,
+      "created": "2026-11-22"
+    },
+    {
+      "repo": "nkjDSLcvanv/antigravity-codex-theme",
+      "url": "https://github.com/nkjDSLcvanv/antigravity-codex-theme",
+      "desc": "Google Antigravity 桌面端增强插件：Codex 昼夜双主题、原生设置页与一键热更新、1,900+ 中文汉化、四态状态灯与实时用量监控（含旁路提问 / SSH 远端）、可选 Tab 下一句预测。不改安装包，模块化按需安装。",
       "lang": "JavaScript",
-      "stars": 450,
-      "forks": 173,
-      "created": "2026-11-19"
-    },
-    {
-      "repo": "hoangsvit/google-ai",
-      "url": "https://github.com/hoangsvit/google-ai",
-      "desc": "A terminal toolkit for Windows and macOS to inspect Google AI Pro offers through Android, ADB, Frida and Google Play. The shared Textual dashboard uses a PowerShell/Python launcher on Windows and a na",
-      "lang": "Python",
-      "stars": 444,
-      "forks": 94,
-      "created": "2026-11-18"
+      "stars": 518,
+      "forks": 28,
+      "created": "2026-11-17"
     }
   ],
   "note": ""

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24 14:46:46",
+  "updated_at": "2026-11-24 22:29:02",
   "categories": [
     "tech",
     "finance",
@@ -7,14 +7,224 @@
   ],
   "items": [
     {
-      "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
-      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+      "title": "Jensen Huang is back as Nvidia CEO, but investigations and risks remain",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ceo-return.html",
       "source": "CNBC",
       "category": "finance",
-      "summary": "Jensen Huang’s return has underscored Nvidia’s deep reliance on its founder, putting the company's board oversight and corporate governance under scrutiny.",
-      "published": 1795501916.0,
-      "fetched_at": "2026-11-24 14:46:46",
-      "published_cn": "11-24 06:31"
+      "summary": "Jensen Huang is back as Nvidia CEO, but the company still faces an internal investigation and California and federal scrutiny.",
+      "published": 1795530033.0,
+      "fetched_at": "2026-11-24 22:29:02",
+      "published_cn": "11-24 14:20"
+    },
+    {
+      "title": "陳吉寧被調查：「清華系」失勢、「上海跳板」失靈與政治局委員落馬創紀錄",
+      "url": "https://www.bbc.com/zhongwen/articles/ck7v27vn9659o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "陳吉寧落馬的時點尤其敏感：距離二十一大換屆不到一年，他本是外界觀察下屆常委佈局的關鍵人物，被查前僅僅六天仍在公開調研。",
+      "published": 1795529740.0,
+      "fetched_at": "2026-11-24 22:29:02",
+      "published_cn": "11-24 14:15"
+    },
+    {
+      "title": "Harman Kardon’s classic, see-through SoundSticks 4 are half off",
+      "url": "https://www.theverge.com/gadgets/1040300/harman-kardon-soundsticks-4-speakers-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Harman Kardon’s alien-looking SoundSticks became synonymous with the Mac in the early 2000s, and they sounded pretty great. But did you know the company still makes them? After selling steadily for $300 for several years",
+      "published": 1795529602.0,
+      "fetched_at": "2026-11-24 22:29:01",
+      "published_cn": "11-24 14:13"
+    },
+    {
+      "title": "Bambu’s five-nozzle P3C isn’t quite the 3D printer I expected",
+      "url": "https://www.theverge.com/tech/1041034/bambu-p3c-3d-printer-price-release-date",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Three weeks ago, Bambu Lab introduced the state of the art in home printing tech at $2,499 - now, you can get many of its fancy new features for less than half the price. Like that bigger H3C, the new $1,149 Bambu P3C ca",
+      "published": 1795528800.0,
+      "fetched_at": "2026-11-24 22:29:01",
+      "published_cn": "11-24 14:00"
+    },
+    {
+      "title": "Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’",
+      "url": "https://www.cnbc.com/2026/11/24/russia-estonia-ukraine-war-nato-finland.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Russia accused Estonia of “hostile actions” and warned its border measures risk open war, as Tallinn prepares to close road crossings from Dec. 1.",
+      "published": 1795527775.0,
+      "fetched_at": "2026-11-24 22:29:02",
+      "published_cn": "11-24 13:42"
+    },
+    {
+      "title": "18.79 万元起！比亚迪唐 EV 正式上市，砍掉七座换来 850km 续航，还有线控底盘",
+      "url": "https://www.ifanr.com/1691381?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "十年之后，比亚迪唐终于卸下了第三排的担子。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1795527366.0,
+      "fetched_at": "2026-11-24 22:29:00",
+      "published_cn": "11-24 13:36"
+    },
+    {
+      "title": "Six key questions raised by Jensen Huang's return to Nvidia",
+      "url": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
+      "published": 1795527089.0,
+      "fetched_at": "2026-11-24 22:29:02",
+      "published_cn": "11-24 13:31"
+    },
+    {
+      "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
+      "url": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street Journal.",
+      "published": 1795526993.0,
+      "fetched_at": "2026-11-24 22:29:01",
+      "published_cn": "11-24 13:29"
+    },
+    {
+      "title": "Commercial real estate activity falls 14% in October, as interest rates rise",
+      "url": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Commercial real estate activity dropped 14% in October from September, according to an index from LightBox, a commercial real estate data platform.",
+      "published": 1795526236.0,
+      "fetched_at": "2026-11-24 22:29:02",
+      "published_cn": "11-24 13:17"
+    },
+    {
+      "title": "Uber, Nuro, and Lucid kick off fully driverless robotaxi testing",
+      "url": "https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Uber's high-stakes robotaxi bet is officially ditching its human safety net. Nuro, Lucid, and Uber are starting fully driverless public road testing in the San Francisco Bay Area, with employee-only rides launching short",
+      "published": 1795525200.0,
+      "fetched_at": "2026-11-24 22:29:01",
+      "published_cn": "11-24 13:00"
+    },
+    {
+      "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
+      "url": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Best Buy beat quarterly expectations for its fiscal third-quarter earnings results on Tuesday and raised its full-year guidance.",
+      "published": 1795525055.0,
+      "fetched_at": "2026-11-24 22:29:02",
+      "published_cn": "11-24 12:57"
+    },
+    {
+      "title": "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
+      "url": "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Sanofi faces a revenue drop towards the end of the decade as top-selling drugs lose exclusivity and open up for generic drugmakers to compete.",
+      "published": 1795523621.0,
+      "fetched_at": "2026-11-24 22:29:02",
+      "published_cn": "11-24 12:33"
+    },
+    {
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "published": 1795523405.0,
+      "fetched_at": "2026-11-24 22:29:01",
+      "published_cn": "11-24 12:30"
+    },
+    {
+      "title": "One terminal command gave my forgotten Android device a desk job",
+      "url": "https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "The free, open source PhoneBox dashboard puts old Android screens back to work.",
+      "published": 1795522538.0,
+      "fetched_at": "2026-11-24 22:29:01",
+      "published_cn": "11-24 12:15"
+    },
+    {
+      "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
+      "url": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Russian missile corvette latest casualty as Ukraine strikes back in war at sea.",
+      "published": 1795521657.0,
+      "fetched_at": "2026-11-24 22:29:01",
+      "published_cn": "11-24 12:00"
+    },
+    {
+      "title": "实测小豆：主动办事的背后，AI 正在走向每一个人",
+      "url": "https://www.ifanr.com/1691355?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "Personal Agent 的下半场，拼的是主动办事<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1795518280.0,
+      "fetched_at": "2026-11-24 22:29:00",
+      "published_cn": "11-24 11:04"
+    },
+    {
+      "title": "华为发布了大折叠手机和小折叠电脑，但 1 亿鸿蒙设备才是最大的亮点",
+      "url": "https://www.ifanr.com/1691302?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "一亿台鸿蒙设备之后<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1795516204.0,
+      "fetched_at": "2026-11-24 22:29:00",
+      "published_cn": "11-24 10:30"
+    },
+    {
+      "title": "宏福苑大火一周年：居民受壓、媒體噤聲，為何悼念變得小心翼翼？",
+      "url": "https://www.bbc.com/zhongwen/articles/cw8dv46pv125o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "宏福苑大火一周年前夕，港府官員稱「政府絕對容許」合法活動，但有遺屬表示悼念活動受壓，也有新聞工作者向BBC中文透露，相關周年報導在製作完成後突然「被抽起」。",
+      "published": 1795515203.0,
+      "fetched_at": "2026-11-24 22:29:02",
+      "published_cn": "11-24 10:13"
+    },
+    {
+      "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
+      "url": "https://sspai.com/post/119492",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/119492\" target=\"_blank\">查看全文</a>",
+      "published": 1795511651.0,
+      "fetched_at": "2026-11-24 22:29:01",
+      "published_cn": "11-24 09:14"
+    },
+    {
+      "title": "在一个长期相信考试可以改变命运的社会里，AI 已经开始动摇人们对成绩的信任",
+      "url": "https://www.ifanr.com/1691270?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "AI 带来的技术平权，甚至把作弊的门槛也一并打了下来<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1795511354.0,
+      "fetched_at": "2026-11-24 22:29:00",
+      "published_cn": "11-24 09:09"
+    },
+    {
+      "title": "Nvidia醜聞：美國將Megaspeed列入黑名單",
+      "url": "https://www.bbc.com/zhongwen/articles/c804wekz407ko/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "Megaspeed一名前高層與黃仁勳的婚外情緋聞曝光後，該企業被指控將 AI 晶片輸送至中國。",
+      "published": 1795508973.0,
+      "fetched_at": "2026-11-24 22:29:02",
+      "published_cn": "11-24 08:29"
+    },
+    {
+      "title": "[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔",
+      "url": "https://sspai.com/post/119035",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "写一篇短文，我们可能只需要一个能让人打开即用的编辑器，比如说Apple用户最常用的系统备忘录，或者广为人知的桌面应用MicrosoftWord。但当文章的篇幅逐渐变长，一些原本不太起眼的事情也会变得麻 ...<a href=\"https://sspai.com/post/119035\" target=\"_blank\">查看全文</a>",
+      "published": 1795505922.0,
+      "fetched_at": "2026-11-24 22:29:01",
+      "published_cn": "11-24 07:38"
     },
     {
       "title": "「试用期」已到，苹果开始给 AI 收费了 | AG&I",
@@ -23,7 +233,7 @@
       "category": "tech",
       "summary": "两年之期已到<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795499723.0,
-      "fetched_at": "2026-11-24 14:46:43",
+      "fetched_at": "2026-11-24 22:29:00",
       "published_cn": "11-24 05:55"
     },
     {
@@ -33,38 +243,8 @@
       "category": "tech",
       "summary": "「果味」影像，迎来新的变量<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795498849.0,
-      "fetched_at": "2026-11-24 14:46:43",
+      "fetched_at": "2026-11-24 22:29:00",
       "published_cn": "11-24 05:40"
-    },
-    {
-      "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
-      "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Iran said three oil tankers caught fire after hitting naval mines in the Strait of Hormuz, as the U.S. escalates sanctions aimed at cutting off Tehran's financial lifelines.",
-      "published": 1795496708.0,
-      "fetched_at": "2026-11-24 14:46:46",
-      "published_cn": "11-24 05:05"
-    },
-    {
-      "title": "China has changed tactics but is still thwarting India's rise, a U.S. panel says",
-      "url": "https://www.cnbc.com/2026/11/24/us-china-thwarting-india-growth.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "China is increasingly focused on containing India economically rather than through military actions.",
-      "published": 1795494458.0,
-      "fetched_at": "2026-11-24 14:46:46",
-      "published_cn": "11-24 04:27"
-    },
-    {
-      "title": "U.S. court orders to proceed with planned ammunition detonation in Iowa",
-      "url": "https://www.cnbc.com/2026/11/24/iowa-detonation-bomb-court-.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "A U.S. court cleared the Army to detonate degraded explosives at an Iowa ammunition plant amid public concern over contamination and health risks.",
-      "published": 1795491146.0,
-      "fetched_at": "2026-11-24 14:46:46",
-      "published_cn": "11-24 03:32"
     },
     {
       "title": "写在动荡之后：漫步巴黎的寻常一日",
@@ -73,18 +253,8 @@
       "category": "tech",
       "summary": "巴黎市徽上的那艘船，依然留着它的格言：「任凭风浪，亦不沉没。」<a href=\"https://sspai.com/post/119412\" target=\"_blank\">查看全文</a>",
       "published": 1795489390.0,
-      "fetched_at": "2026-11-24 14:46:44",
+      "fetched_at": "2026-11-24 22:29:01",
       "published_cn": "11-24 03:03"
-    },
-    {
-      "title": "U.S. adds Megaspeed to trade blacklist over export control concerns amid Nvidia controversy",
-      "url": "https://www.cnbc.com/2026/11/24/us-adds-megaspeed-to-trade-blacklist-over-export-control-concerns-.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "The U.S. has added Megaspeed and six other companies to its trade blacklist over concerns about the potential diversion of advanced computing products.",
-      "published": 1795487859.0,
-      "fetched_at": "2026-11-24 14:46:46",
-      "published_cn": "11-24 02:37"
     },
     {
       "title": "伊朗女歌手演出不戴頭巾「已遭執行74鞭笞刑」",
@@ -93,7 +263,7 @@
       "category": "world",
       "summary": "據律師團隊所稱，伊朗女歌手帕拉斯托·阿赫瑪迪、三名音樂人及一名製作人在庫姆被執行74鞭笞刑。",
       "published": 1795486794.0,
-      "fetched_at": "2026-11-24 14:46:46",
+      "fetched_at": "2026-11-24 22:29:02",
       "published_cn": "11-24 02:19"
     },
     {
@@ -103,7 +273,7 @@
       "category": "tech",
       "summary": "这玩笑并不好笑<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795486219.0,
-      "fetched_at": "2026-11-24 14:46:43",
+      "fetched_at": "2026-11-24 22:29:00",
       "published_cn": "11-24 02:10"
     },
     {
@@ -113,18 +283,8 @@
       "category": "tech",
       "summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...<a href=\"https://sspai.com/post/119460\" target=\"_blank\">查看全文</a>",
       "published": 1795480651.0,
-      "fetched_at": "2026-11-24 14:46:44",
+      "fetched_at": "2026-11-24 22:29:01",
       "published_cn": "11-24 00:37"
-    },
-    {
-      "title": "我們如何知道疫苗安全？它們是如何經過測試？",
-      "url": "https://www.bbc.com/zhongwen/articles/c6qj5772kl0go/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "從實驗室試驗到終身的安全監測，疫苗在提供給民眾前後，都會經過多重檢驗。",
-      "published": 1795480040.0,
-      "fetched_at": "2026-11-24 14:46:46",
-      "published_cn": "11-24 00:27"
     },
     {
       "title": "Nvidia和黃仁勳對美國經濟有多重要？",
@@ -133,7 +293,7 @@
       "category": "world",
       "summary": "黃仁勳離職僅11天便重掌英偉達，凸顯他對人工智能產業及美國經濟的重要性。他本人和這家晶片巨頭究竟有多大影響力？",
       "published": 1795479842.0,
-      "fetched_at": "2026-11-24 14:46:46",
+      "fetched_at": "2026-11-24 22:29:02",
       "published_cn": "11-24 00:24"
     },
     {
@@ -143,7 +303,7 @@
       "category": "tech",
       "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email ser",
       "published": 1795478572.0,
-      "fetched_at": "2026-11-24 14:46:44",
+      "fetched_at": "2026-11-24 22:29:01",
       "published_cn": "11-24 00:02"
     },
     {
@@ -153,18 +313,8 @@
       "category": "tech",
       "summary": "· 蚂蚁阿福上线视频咨询，同时推出福环和福戒\n· 韩国国家资格考试恢复统一收手机，考生还穿上了围裙\n· 知乎参投基金间接入股 DeepSeek<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795478521.0,
-      "fetched_at": "2026-11-24 14:46:43",
+      "fetched_at": "2026-11-24 22:29:00",
       "published_cn": "11-24 00:02"
-    },
-    {
-      "title": "Trump sealed deal for Nvidia to rehire Jensen Huang as CEO",
-      "url": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "President Trump said his administration gave Nvidia's board assurance that Jensen Huang would not be a national security threat if he was reinstated as CEO.",
-      "published": 1795477337.0,
-      "fetched_at": "2026-11-24 14:46:46",
-      "published_cn": "11-23 23:42"
     },
     {
       "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
@@ -173,7 +323,7 @@
       "category": "tech",
       "summary": "Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC ",
       "published": 1795476301.0,
-      "fetched_at": "2026-11-24 14:46:44",
+      "fetched_at": "2026-11-24 22:29:01",
       "published_cn": "11-23 23:25"
     },
     {
@@ -183,7 +333,7 @@
       "category": "tech",
       "summary": "Gift-giving isn't just about grabbing something solid under a determined spending limit. It's an expression of love, a way to show someone how well you really know them. That doesn't mean you have to do it all on your ow",
       "published": 1795475650.0,
-      "fetched_at": "2026-11-24 14:46:44",
+      "fetched_at": "2026-11-24 22:29:01",
       "published_cn": "11-23 23:14"
     },
     {
@@ -193,18 +343,8 @@
       "category": "tech",
       "summary": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.",
       "published": 1795475269.0,
-      "fetched_at": "2026-11-24 14:46:44",
+      "fetched_at": "2026-11-24 22:29:01",
       "published_cn": "11-23 23:07"
-    },
-    {
-      "title": "Nvidia surge: What investors should do with the stock and the AI trade now",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "The market is loving the return of Jensen Huang, but investors and lawmakers have their guards up.",
-      "published": 1795473818.0,
-      "fetched_at": "2026-11-24 14:46:46",
-      "published_cn": "11-23 22:43"
     },
     {
       "title": "Ladybird, the first new browser engine in years, is now available to test",
@@ -213,7 +353,7 @@
       "category": "tech",
       "summary": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux fol",
       "published": 1795473489.0,
-      "fetched_at": "2026-11-24 14:46:44",
+      "fetched_at": "2026-11-24 22:29:01",
       "published_cn": "11-23 22:38"
     },
     {
@@ -223,28 +363,8 @@
       "category": "tech",
       "summary": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on St",
       "published": 1795472712.0,
-      "fetched_at": "2026-11-24 14:46:44",
+      "fetched_at": "2026-11-24 22:29:01",
       "published_cn": "11-23 22:25"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Tim",
-      "published": 1795471832.0,
-      "fetched_at": "2026-11-24 14:46:44",
-      "published_cn": "11-23 22:10"
-    },
-    {
-      "title": "Welcome to elite impunity, Jensen Huang",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. N",
-      "published": 1795471766.0,
-      "fetched_at": "2026-11-24 14:46:44",
-      "published_cn": "11-23 22:09"
     },
     {
       "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
@@ -253,7 +373,7 @@
       "category": "tech",
       "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
       "published": 1795471550.0,
-      "fetched_at": "2026-11-24 14:46:44",
+      "fetched_at": "2026-11-24 22:29:01",
       "published_cn": "11-23 22:05"
     },
     {
@@ -263,7 +383,7 @@
       "category": "tech",
       "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
       "published": 1795471325.0,
-      "fetched_at": "2026-11-24 14:46:44",
+      "fetched_at": "2026-11-24 22:29:01",
       "published_cn": "11-23 22:02"
     },
     {
@@ -273,7 +393,7 @@
       "category": "tech",
       "summary": "The Army said on Sunday that it would carry out the detonation on Wednesday.",
       "published": 1795471114.0,
-      "fetched_at": "2026-11-24 14:46:44",
+      "fetched_at": "2026-11-24 22:29:01",
       "published_cn": "11-23 21:58"
     },
     {
@@ -283,18 +403,8 @@
       "category": "tech",
       "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
       "published": 1795470461.0,
-      "fetched_at": "2026-11-24 14:46:44",
+      "fetched_at": "2026-11-24 22:29:01",
       "published_cn": "11-23 21:47"
-    },
-    {
-      "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
-      "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new a",
-      "published": 1795469808.0,
-      "fetched_at": "2026-11-24 14:46:44",
-      "published_cn": "11-23 21:36"
     },
     {
       "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
@@ -303,7 +413,7 @@
       "category": "tech",
       "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
       "published": 1795469444.0,
-      "fetched_at": "2026-11-24 14:46:44",
+      "fetched_at": "2026-11-24 22:29:01",
       "published_cn": "11-23 21:30"
     },
     {
@@ -313,7 +423,7 @@
       "category": "tech",
       "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
       "published": 1795469142.0,
-      "fetched_at": "2026-11-24 14:46:44",
+      "fetched_at": "2026-11-24 22:29:01",
       "published_cn": "11-23 21:25"
     },
     {
@@ -323,7 +433,7 @@
       "category": "finance",
       "summary": "Treasury Secretary Scott Bessent was becoming the face of an emerging harder line on Nvidia— until he reversed course",
       "published": 1795467659.0,
-      "fetched_at": "2026-11-24 14:46:46",
+      "fetched_at": "2026-11-24 22:29:02",
       "published_cn": "11-23 21:00"
     },
     {
@@ -333,7 +443,7 @@
       "category": "tech",
       "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
       "published": 1795466333.0,
-      "fetched_at": "2026-11-24 14:46:44",
+      "fetched_at": "2026-11-24 22:29:01",
       "published_cn": "11-23 20:38"
     },
     {
@@ -343,8 +453,18 @@
       "category": "tech",
       "summary": "\"I would ask you to please reach out to Roscosmos directly.\"",
       "published": 1795466091.0,
-      "fetched_at": "2026-11-24 14:46:44",
+      "fetched_at": "2026-11-24 22:29:01",
       "published_cn": "11-23 20:34"
+    },
+    {
+      "title": "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Congress members of both parties are sharply questioning President Donald Trump's conclusion that Jensen Huang poses no national security risk leading Nvidia.",
+      "published": 1795465369.0,
+      "fetched_at": "2026-11-24 22:29:02",
+      "published_cn": "11-23 20:22"
     },
     {
       "title": "Surveillance pricing uses our personal data to make us pay more",
@@ -353,7 +473,7 @@
       "category": "tech",
       "summary": "Personalized pricing can mean unfair, and even biased, prices.",
       "published": 1795464703.0,
-      "fetched_at": "2026-11-24 14:46:44",
+      "fetched_at": "2026-11-24 22:29:01",
       "published_cn": "11-23 20:11"
     },
     {
@@ -363,7 +483,7 @@
       "category": "tech",
       "summary": "Amazon now uses its packages for political purposes.",
       "published": 1795462693.0,
-      "fetched_at": "2026-11-24 14:46:44",
+      "fetched_at": "2026-11-24 22:29:01",
       "published_cn": "11-23 19:38"
     },
     {
@@ -373,48 +493,8 @@
       "category": "tech",
       "summary": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
       "published": 1795462301.0,
-      "fetched_at": "2026-11-24 14:46:44",
+      "fetched_at": "2026-11-24 22:29:01",
       "published_cn": "11-23 19:31"
-    },
-    {
-      "title": "Reports: Russia may launch nuclear weapon into orbit as soon as next month",
-      "url": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "A nuclear detonation in space \"could cause rapid and sudden loss or degradation of thousands of satellites.\"",
-      "published": 1795462110.0,
-      "fetched_at": "2026-11-24 14:46:44",
-      "published_cn": "11-23 19:28"
-    },
-    {
-      "title": "為何黃仁勳大到不能被解僱？",
-      "url": "https://www.bbc.com/zhongwen/articles/c6qx5eqgg0rwo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "英偉達能夠發展成為人工智能產業的核心支柱，黃仁勳在當中發揮的關鍵作用，最終成為決定性因素。",
-      "published": 1795461595.0,
-      "fetched_at": "2026-11-24 14:46:46",
-      "published_cn": "11-23 19:19"
-    },
-    {
-      "title": "黃仁勳的崛起、殞落與東山再起",
-      "url": "https://www.bbc.com/zhongwen/articles/cm3wgp60p952o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "英偉達黃仁勳因深陷婚外情醜聞而辭職，短短數天後便戲劇性地東山再起。",
-      "published": 1795461405.0,
-      "fetched_at": "2026-11-24 14:46:46",
-      "published_cn": "11-23 19:16"
-    },
-    {
-      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-      "published": 1795461286.0,
-      "fetched_at": "2026-11-24 14:46:44",
-      "published_cn": "11-23 19:14"
     },
     {
       "title": "从雷曼兄弟到黄仁勋，谁在决定美国公司的命运？",
@@ -423,7 +503,7 @@
       "category": "finance",
       "summary": "傅蔚冈：当年SEC主席不愿意拨打电话，今天美国总统却公开而积极地影响一家上市公司的CEO任免。变化的不只是政治人物的行事风格，也可能是政府介入公司治理的方式。",
       "published": 1795449600.0,
-      "fetched_at": "2026-11-24 14:46:46",
+      "fetched_at": "2026-11-24 22:29:02",
       "published_cn": "11-23 16:00"
     },
     {
@@ -433,48 +513,8 @@
       "category": "finance",
       "summary": "朱兆一 ：“算力美元”能不能成为海湾新的收入支柱，一半看技术和成本，一半看长期合同能否履行到底。如果无法吸引长期资金持续进场，机房照样能建，石油财富却可能换成一批成本高昂、命脉却握在别人手里的资产。",
       "published": 1795449600.0,
-      "fetched_at": "2026-11-24 14:46:46",
+      "fetched_at": "2026-11-24 22:29:02",
       "published_cn": "11-23 16:00"
-    },
-    {
-      "title": "Marvel crams every superhero ever into Avengers: Doomsday final trailer",
-      "url": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "\"All of you have lived stolen lives. But now you must give them back.\"",
-      "published": 1795449312.0,
-      "fetched_at": "2026-11-24 14:46:44",
-      "published_cn": "11-23 15:55"
-    },
-    {
-      "title": "Jensen Huang reinstated as Nvidia CEO, board chair",
-      "url": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Trump says he spoke to the board and that Huang \"did nothing wrong.\"",
-      "published": 1795448778.0,
-      "fetched_at": "2026-11-24 14:46:44",
-      "published_cn": "11-23 15:46"
-    },
-    {
-      "title": "刚刚，黄仁勋重返英伟达！董事会全票通过，盘前大涨 30%",
-      "url": "https://www.ifanr.com/1691103?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "皮衣战神回宫<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1795445412.0,
-      "fetched_at": "2026-11-24 14:46:43",
-      "published_cn": "11-23 14:50"
-    },
-    {
-      "title": "突发！黄仁勋恢复英伟达 CEO 职位，董事会全票通过",
-      "url": "https://www.ifanr.com/1691096?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "黄仁勋回来了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1795444200.0,
-      "fetched_at": "2026-11-24 14:46:43",
-      "published_cn": "11-23 14:30"
     },
     {
       "title": "派评 | 近期值得关注的 App",
@@ -483,7 +523,7 @@
       "category": "tech",
       "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/119438\" target=\"_blank\">查看全文</a>",
       "published": 1795428509.0,
-      "fetched_at": "2026-11-24 14:46:44",
+      "fetched_at": "2026-11-24 22:29:01",
       "published_cn": "11-23 10:08"
     },
     {
@@ -493,28 +533,8 @@
       "category": "tech",
       "summary": "喜欢玩小手机和怪手机的朋友，这两年应该好歹有了点兴奋劲。华为用PuraX系列带回了「阔」屏幕，卖出了百万销量。然后又是一堆宽宽的折叠屏。实体全键盘也不再只有Unihertz一家闷头劳作，做手机键盘壳子 ...<a href=\"https://sspai.com/prime/story/weird-phones-are-returning\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"htt",
       "published": 1795428030.0,
-      "fetched_at": "2026-11-24 14:46:44",
+      "fetched_at": "2026-11-24 22:29:01",
       "published_cn": "11-23 10:00"
-    },
-    {
-      "title": "AI 降本增笑，全世界都在被迫接受审美大降级",
-      "url": "https://www.ifanr.com/1691079?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "日本开始狂用 AI 了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1795427628.0,
-      "fetched_at": "2026-11-24 14:46:43",
-      "published_cn": "11-23 09:53"
-    },
-    {
-      "title": "自变量发布 WALL-API-1.0，主流榜单超越 Astra，扛起具身智能「预训练」的大旗",
-      "url": "https://www.ifanr.com/1691043?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "具身智能的「大结果」终于有了实感<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1795424114.0,
-      "fetched_at": "2026-11-24 14:46:43",
-      "published_cn": "11-23 08:55"
     },
     {
       "title": "养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验",
@@ -523,7 +543,7 @@
       "category": "tech",
       "summary": "今年8月，小米推出了全新的米家智能鱼缸2Pro。米家智能鱼缸系列目前已经推出了三款产品，分别是一代、桌面版（二代）和最新的2Pro。这一系列产品始终围绕一体化设计和智能养鱼展开，降低入门级用户养鱼的门 ...<a href=\"https://sspai.com/post/119023\" target=\"_blank\">查看全文</a>",
       "published": 1795417944.0,
-      "fetched_at": "2026-11-24 14:46:44",
+      "fetched_at": "2026-11-24 22:29:01",
       "published_cn": "11-23 07:12"
     },
     {
@@ -533,28 +553,8 @@
       "category": "tech",
       "summary": "曲线救国，旧的 Apple 设备也能拥有了「充电上限」功能。<a href=\"https://sspai.com/post/118705\" target=\"_blank\">查看全文</a>",
       "published": 1795413653.0,
-      "fetched_at": "2026-11-24 14:46:44",
+      "fetched_at": "2026-11-24 22:29:01",
       "published_cn": "11-23 06:00"
-    },
-    {
-      "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
-      "url": "https://sspai.com/post/119418",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "<p>Anthropic 研究员宣称用 Claude 证明黎曼猜想</p><p>OpenAI 公布反蒸馏举措</p><p>黄仁勋据称将攻击下属作为管理方式</p><p>GTA 6 首日销售额近 40 亿美元</p><p>特斯拉升级 FSD，推出实景渲染功能</p><p>AMD 股票被做空</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/",
-      "published": 1795390467.0,
-      "fetched_at": "2026-11-24 14:46:44",
-      "published_cn": "11-22 23:34"
-    },
-    {
-      "title": "从深圳到上海，少数派的共创故事还在继续",
-      "url": "https://sspai.com/post/119318",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "11月20日，2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ...<a href=\"https://sspai.com/post/119318\" target=\"_blank\">查看全文</a>",
-      "published": 1795309544.0,
-      "fetched_at": "2026-11-24 14:46:44",
-      "published_cn": "11-22 01:05"
     },
     {
       "title": "APEC峰会：中美从更加均衡走向战略稳定",
@@ -563,7 +563,7 @@
       "category": "finance",
       "summary": "金刻羽：深圳APEC峰会正在见证中美关系的一次实力重估。经历多轮博弈后，双方需重新审视彼此的优势与筹码，以及制约与合作的边界。",
       "published": 1795104000.0,
-      "fetched_at": "2026-11-24 14:46:46",
+      "fetched_at": "2026-11-24 22:29:02",
       "published_cn": "11-19 16:00"
     },
     {
@@ -573,7 +573,7 @@
       "category": "finance",
       "summary": "《可能的爱》与《寄生虫》有一点相似，两部影片都认为，通过有限的善意已经无法跨越阶层的区隔。那些根深蒂固的差异性，会不自觉地在日常显影，而当它们一旦露出真容，便会显得更加凛冽可怖。",
       "published": 1795104000.0,
-      "fetched_at": "2026-11-24 14:46:46",
+      "fetched_at": "2026-11-24 22:29:02",
       "published_cn": "11-19 16:00"
     },
     {
@@ -583,7 +583,7 @@
       "category": "finance",
       "summary": "沈建光：地缘政治竞争和人工智能正在冲击全球政经格局，APEC的一些优势可能进一步凸显。与其他全球治理机制相比，APEC有何特点？中国如何继续发挥引领性作用？",
       "published": 1795017600.0,
-      "fetched_at": "2026-11-24 14:46:46",
+      "fetched_at": "2026-11-24 22:29:02",
       "published_cn": "11-18 16:00"
     },
     {
@@ -593,7 +593,7 @@
       "category": "world",
       "summary": "柯志恩以「知識藍」的姿態拉攏中間選民，支持度大幅追貼深耕高雄20年的賴瑞隆，選情咬緊。",
       "published": 1794932749.0,
-      "fetched_at": "2026-11-24 14:46:46",
+      "fetched_at": "2026-11-24 22:29:02",
       "published_cn": "11-17 16:25"
     },
     {
@@ -603,7 +603,7 @@
       "category": "finance",
       "summary": "夏春：中国家庭在国民收入中分到的份额是否公平，工资占比该不该提高，这是正当且必要的争论。黄亚生提出这些问题本身有价值，但这不能兑换成错误论述的豁免权。",
       "published": 1794931200.0,
-      "fetched_at": "2026-11-24 14:46:46",
+      "fetched_at": "2026-11-24 22:29:02",
       "published_cn": "11-17 16:00"
     },
     {
@@ -613,7 +613,7 @@
       "category": "world",
       "summary": "新竹市是民眾黨此前唯一贏得執政權的縣市，現任市長高虹安尋求連任，她這次雖已退出民眾黨、改以無黨籍身分參選，但學者指出其選情不僅將影響雙方未來合作模式能否延續，也可能牽動2028年全國大選的政治布局。",
       "published": 1794908989.0,
-      "fetched_at": "2026-11-24 14:46:46",
+      "fetched_at": "2026-11-24 22:29:02",
       "published_cn": "11-17 09:49"
     },
     {
@@ -623,7 +623,7 @@
       "category": "finance",
       "summary": "美国应加强现有出口管制的执行，而非扩大封锁范围。如果美国迅速转向更为严厉的管制，反而会加快中国寻求国产替代的步伐。",
       "published": 1794844800.0,
-      "fetched_at": "2026-11-24 14:46:46",
+      "fetched_at": "2026-11-24 22:29:02",
       "published_cn": "11-16 16:00"
     },
     {
@@ -633,7 +633,7 @@
       "category": "finance",
       "summary": "中国内地民营医院竞争十分激烈，利润空间收窄，台资的明基医院上市不足一年较发行价跌去七成，但股价暂时仍难言见底。",
       "published": 1794844800.0,
-      "fetched_at": "2026-11-24 14:46:46",
+      "fetched_at": "2026-11-24 22:29:02",
       "published_cn": "11-16 16:00"
     },
     {
@@ -643,7 +643,7 @@
       "category": "world",
       "summary": "台灣在過去七年間，幾乎每年都有大型選舉、罷免或公投。有學者形容台灣政治人物常處於「選舉模式」，在面對不同議題時往往急於回應。",
       "published": 1794566346.0,
-      "fetched_at": "2026-11-24 14:46:46",
+      "fetched_at": "2026-11-24 22:29:02",
       "published_cn": "11-13 10:39"
     }
   ],

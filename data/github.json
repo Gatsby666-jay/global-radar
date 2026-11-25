@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 21:47:22",
+  "updated_at": "2026-11-26 04:21:19",
   "window_days": 7,
   "repos": [
     {
@@ -7,8 +7,8 @@
       "url": "https://github.com/Marvisak/VIctory",
       "desc": "An attempt at running GTA VI on PC",
       "lang": "Rust",
-      "stars": 12110,
-      "forks": 1813,
+      "stars": 12476,
+      "forks": 1989,
       "created": "2026-11-23"
     },
     {
@@ -16,8 +16,8 @@
       "url": "https://github.com/xcl-dev/xcl",
       "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
       "lang": "Rust",
-      "stars": 8136,
-      "forks": 1100,
+      "stars": 8262,
+      "forks": 1126,
       "created": "2026-11-20"
     },
     {
@@ -25,8 +25,8 @@
       "url": "https://github.com/EL4CTEO/fast-anything",
       "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "lang": "Rust",
-      "stars": 3819,
-      "forks": 273,
+      "stars": 3916,
+      "forks": 281,
       "created": "2026-11-21"
     },
     {
@@ -34,8 +34,8 @@
       "url": "https://github.com/AFK-surf/xnulinux",
       "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
       "lang": "C",
-      "stars": 3759,
-      "forks": 176,
+      "stars": 3880,
+      "forks": 183,
       "created": "2026-11-20"
     },
     {
@@ -43,8 +43,8 @@
       "url": "https://github.com/4lwayz/portwatch-vi",
       "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
       "lang": "JavaScript",
-      "stars": 3410,
-      "forks": 97,
+      "stars": 3827,
+      "forks": 111,
       "created": "2026-11-21"
     },
     {
@@ -52,8 +52,8 @@
       "url": "https://github.com/fxceless/victory-fork",
       "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
       "lang": "Rust",
-      "stars": 2752,
-      "forks": 734,
+      "stars": 2959,
+      "forks": 828,
       "created": "2026-11-24"
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://github.com/iamajmeena/neonclipping",
       "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
       "lang": "Python",
-      "stars": 2575,
-      "forks": 162,
+      "stars": 2615,
+      "forks": 163,
       "created": "2026-11-19"
     },
     {
@@ -70,8 +70,8 @@
       "url": "https://github.com/ubiquitarianism/leonida",
       "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
       "lang": "Python",
-      "stars": 2166,
-      "forks": 479,
+      "stars": 2289,
+      "forks": 519,
       "created": "2026-11-23"
     },
     {
@@ -79,35 +79,35 @@
       "url": "https://github.com/R0Y00/Xbox2Windows",
       "desc": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
       "lang": "Python",
-      "stars": 1939,
-      "forks": 225,
+      "stars": 1949,
+      "forks": 227,
       "created": "2026-11-20"
-    },
-    {
-      "repo": "omonkeyz/xbox-emulator",
-      "url": "https://github.com/omonkeyz/xbox-emulator",
-      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
-      "lang": "Rust",
-      "stars": 1839,
-      "forks": 120,
-      "created": "2026-11-21"
     },
     {
       "repo": "os6/nospeaker",
       "url": "https://github.com/os6/nospeaker",
       "desc": "make your macbook's trackpad talk using its haptic motor",
       "lang": "Swift",
-      "stars": 1832,
-      "forks": 97,
+      "stars": 1869,
+      "forks": 98,
       "created": "2026-11-22"
     },
     {
-      "repo": "Zettrox/ztrx",
-      "url": "https://github.com/Zettrox/ztrx",
-      "desc": "Run the Xbox Series build of the game natively on Windows PCs with NVIDIA GPUs",
+      "repo": "omonkeyz/xbox-emulator",
+      "url": "https://github.com/omonkeyz/xbox-emulator",
+      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
       "lang": "Rust",
-      "stars": 1446,
-      "forks": 268,
+      "stars": 1846,
+      "forks": 121,
+      "created": "2026-11-21"
+    },
+    {
+      "repo": "Belobug/VIctory-Belobug-AMD",
+      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
+      "desc": "",
+      "lang": "Rust",
+      "stars": 1600,
+      "forks": 283,
       "created": "2026-11-25"
     },
     {
@@ -115,8 +115,8 @@
       "url": "https://github.com/INK-Q/agy-fast",
       "desc": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
       "lang": "TypeScript",
-      "stars": 1435,
-      "forks": 83,
+      "stars": 1496,
+      "forks": 86,
       "created": "2026-11-19"
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
       "desc": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
       "lang": "Rust",
-      "stars": 1300,
+      "stars": 1297,
       "forks": 0,
       "created": "2026-11-23"
     },
@@ -133,7 +133,7 @@
       "url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
       "desc": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
       "lang": "C#",
-      "stars": 1265,
+      "stars": 1261,
       "forks": 0,
       "created": "2026-11-23"
     },
@@ -142,8 +142,8 @@
       "url": "https://github.com/leanprover-community/riemann-hypothesis",
       "desc": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20) being cleaned up by members of the Lean community.",
       "lang": "Lean",
-      "stars": 1157,
-      "forks": 465,
+      "stars": 1196,
+      "forks": 484,
       "created": "2026-11-20"
     },
     {
@@ -151,89 +151,71 @@
       "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
       "desc": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
       "lang": "Rust",
-      "stars": 1098,
-      "forks": 80,
+      "stars": 1189,
+      "forks": 88,
       "created": "2026-11-22"
-    },
-    {
-      "repo": "Belobug/VIctory-Belobug-AMD",
-      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
-      "desc": "",
-      "lang": "Rust",
-      "stars": 1092,
-      "forks": 180,
-      "created": "2026-11-25"
-    },
-    {
-      "repo": "solv4626/steam-achievement-manager-windows",
-      "url": "https://github.com/solv4626/steam-achievement-manager-windows",
-      "desc": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
-      "lang": "Rust",
-      "stars": 1063,
-      "forks": 0,
-      "created": "2026-11-23"
-    },
-    {
-      "repo": "zero5122/offline-file-converter-windows",
-      "url": "https://github.com/zero5122/offline-file-converter-windows",
-      "desc": "Free offline file converter for Windows – convert PDF, documents, images, audio and video privately.",
-      "lang": "Python",
-      "stars": 1061,
-      "forks": 1,
-      "created": "2026-11-23"
-    },
-    {
-      "repo": "kai415-debug/ffmpeg-video-audio-converter",
-      "url": "https://github.com/kai415-debug/ffmpeg-video-audio-converter",
-      "desc": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding.",
-      "lang": "C++",
-      "stars": 1024,
-      "forks": 0,
-      "created": "2026-11-23"
     },
     {
       "repo": "crhywun/g1-acq",
       "url": "https://github.com/crhywun/g1-acq",
       "desc": "",
       "lang": "JavaScript",
-      "stars": 1022,
-      "forks": 269,
+      "stars": 1185,
+      "forks": 295,
       "created": "2026-11-22"
+    },
+    {
+      "repo": "zero5122/offline-file-converter-windows",
+      "url": "https://github.com/zero5122/offline-file-converter-windows",
+      "desc": "Free offline file converter for Windows – convert PDF, documents, images, audio and video privately.",
+      "lang": "Python",
+      "stars": 1058,
+      "forks": 1,
+      "created": "2026-11-23"
+    },
+    {
+      "repo": "solv4626/steam-achievement-manager-windows",
+      "url": "https://github.com/solv4626/steam-achievement-manager-windows",
+      "desc": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
+      "lang": "Rust",
+      "stars": 1058,
+      "forks": 0,
+      "created": "2026-11-23"
     },
     {
       "repo": "deterministic-machines/deslop-please",
       "url": "https://github.com/deterministic-machines/deslop-please",
       "desc": "Bring (back) sanity to your code",
       "lang": "Rust",
-      "stars": 995,
-      "forks": 47,
+      "stars": 1041,
+      "forks": 49,
       "created": "2026-11-22"
+    },
+    {
+      "repo": "kai415-debug/ffmpeg-video-audio-converter",
+      "url": "https://github.com/kai415-debug/ffmpeg-video-audio-converter",
+      "desc": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding.",
+      "lang": "C++",
+      "stars": 1020,
+      "forks": 0,
+      "created": "2026-11-23"
     },
     {
       "repo": "qianyiai/kurocat",
       "url": "https://github.com/qianyiai/kurocat",
       "desc": "KuroCat — Free open-source desktop typing cat pet & OBS overlay (Bongo Cat alternative, Tauri v2 + Rust + MCP)｜轻量级透明置顶桌面打字小黑猫伴侣（6款猫咪+鲸鱼娘大肥鱼 / 输密码防偷窥 / OBS透明源 / AI捏猫 / Win·Mac·Linux·Android）",
       "lang": "TypeScript",
-      "stars": 894,
-      "forks": 141,
+      "stars": 945,
+      "forks": 146,
       "created": "2026-11-21"
-    },
-    {
-      "repo": "rowanbyte3329/stardew-valley-mod-manager",
-      "url": "https://github.com/rowanbyte3329/stardew-valley-mod-manager",
-      "desc": "Free open-source Stardew Valley mod manager for Windows with SMAPI support, mod updates, and custom mod profiles.",
-      "lang": "C#",
-      "stars": 871,
-      "forks": 0,
-      "created": "2026-11-23"
     },
     {
       "repo": "danielwh2/sprite-stacking",
       "url": "https://github.com/danielwh2/sprite-stacking",
       "desc": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
       "lang": "HTML",
-      "stars": 869,
-      "forks": 72,
+      "stars": 896,
+      "forks": 73,
       "created": "2026-11-20"
     },
     {
@@ -241,8 +223,8 @@
       "url": "https://github.com/sous-labs/songe",
       "desc": "A training engine for your local model, using your idle compute",
       "lang": "Python",
-      "stars": 812,
-      "forks": 70,
+      "stars": 842,
+      "forks": 71,
       "created": "2026-11-20"
     },
     {
@@ -250,27 +232,36 @@
       "url": "https://github.com/sybil-solutions/skill-distill",
       "desc": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
       "lang": "Python",
-      "stars": 782,
-      "forks": 64,
+      "stars": 801,
+      "forks": 65,
       "created": "2026-11-21"
     },
     {
-      "repo": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
-      "url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
-      "desc": "Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, Face Landmarks, Face Compare, Face Matching, Face Pose, Face Expression, Face Attributes, Face Templates Extraction, Face",
-      "lang": "Python",
-      "stars": 743,
-      "forks": 614,
-      "created": "2026-11-19"
+      "repo": "Ahmet-Dedeler/awesome-gta6-reverse-engineering",
+      "url": "https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering",
+      "desc": "Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / RPF9 archive explorers, TTPF texture & ADAT/AWC audio decoders, format docs, and Xbox Series / PS5 translation layers.",
+      "lang": "HTML",
+      "stars": 739,
+      "forks": 40,
+      "created": "2026-11-21"
     },
     {
       "repo": "MSNightmare/FastUnlock",
       "url": "https://github.com/MSNightmare/FastUnlock",
       "desc": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
       "lang": "—",
-      "stars": 733,
-      "forks": 124,
+      "stars": 735,
+      "forks": 126,
       "created": "2026-11-19"
+    },
+    {
+      "repo": "ItsNotRexed/Hookshot",
+      "url": "https://github.com/ItsNotRexed/Hookshot",
+      "desc": "Hookshot Is A Native PC Recompilation Of The Switch 2 Ocarina Of Time Remake",
+      "lang": "C++",
+      "stars": 731,
+      "forks": 38,
+      "created": "2026-11-20"
     }
   ],
   "note": ""

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 21:47:21",
+  "updated_at": "2026-11-26 04:21:18",
   "categories": [
     "tech",
     "finance",
@@ -7,94 +7,324 @@
   ],
   "items": [
     {
-      "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, likely sealing rate hike",
-      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+      "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
       "source": "CNBC",
       "category": "finance",
-      "summary": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.",
-      "published": 1795614253.0,
-      "fetched_at": "2026-11-25 21:47:20",
-      "published_cn": "11-25 13:44"
+      "summary": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
+      "published": 1795637277.0,
+      "fetched_at": "2026-11-26 04:21:18",
+      "published_cn": "11-25 20:07"
+    },
+    {
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+      "published": 1795637007.0,
+      "fetched_at": "2026-11-26 04:21:16",
+      "published_cn": "11-25 20:03"
+    },
+    {
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "published": 1795636497.0,
+      "fetched_at": "2026-11-26 04:21:16",
+      "published_cn": "11-25 19:54"
+    },
+    {
+      "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+      "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
+      "published": 1795636472.0,
+      "fetched_at": "2026-11-26 04:21:16",
+      "published_cn": "11-25 19:54"
+    },
+    {
+      "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+      "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
+      "published": 1795636367.0,
+      "fetched_at": "2026-11-26 04:21:18",
+      "published_cn": "11-25 19:52"
+    },
+    {
+      "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+      "url": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today ",
+      "published": 1795635951.0,
+      "fetched_at": "2026-11-26 04:21:17",
+      "published_cn": "11-25 19:45"
+    },
+    {
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "published": 1795635864.0,
+      "fetched_at": "2026-11-26 04:21:16",
+      "published_cn": "11-25 19:44"
+    },
+    {
+      "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
+      "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Nvidia and other AI-linked stocks fell as investors weighed AI spending, inflation and higher-rate risks.",
+      "published": 1795634345.0,
+      "fetched_at": "2026-11-26 04:21:18",
+      "published_cn": "11-25 19:19"
+    },
+    {
+      "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
+      "url": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Abdulrahman Alfozan, a former OpenAI engineer, is expected to be fitted with an ankle monitor, his attorney, David Rizk, previously told CNBC.",
+      "published": 1795633913.0,
+      "fetched_at": "2026-11-26 04:21:18",
+      "published_cn": "11-25 19:11"
+    },
+    {
+      "title": "1Password breach leaked customer names and emails, but not passwords",
+      "url": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk",
+      "published": 1795633815.0,
+      "fetched_at": "2026-11-26 04:21:17",
+      "published_cn": "11-25 19:10"
+    },
+    {
+      "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+      "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
+      "published": 1795632592.0,
+      "fetched_at": "2026-11-26 04:21:16",
+      "published_cn": "11-25 18:49"
+    },
+    {
+      "title": "Backblaze explains why it's sharing customer information with advertisers",
+      "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+      "published": 1795631909.0,
+      "fetched_at": "2026-11-26 04:21:17",
+      "published_cn": "11-25 18:38"
+    },
+    {
+      "title": "The FCC has authorized SpaceX to deploy 1 million satellites",
+      "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
+      "published": 1795630958.0,
+      "fetched_at": "2026-11-26 04:21:17",
+      "published_cn": "11-25 18:22"
+    },
+    {
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
+      "published": 1795630306.0,
+      "fetched_at": "2026-11-26 04:21:16",
+      "published_cn": "11-25 18:11"
+    },
+    {
+      "title": "The Fairphone 6 Plus is modular, repairable, and $100 off right now",
+      "url": "https://www.theverge.com/gadgets/1041460/fairphone-6-plus-repairable-phone-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, es",
+      "published": 1795629600.0,
+      "fetched_at": "2026-11-26 04:21:17",
+      "published_cn": "11-25 18:00"
+    },
+    {
+      "title": "The loneliest peptide party in New York",
+      "url": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On a",
+      "published": 1795629600.0,
+      "fetched_at": "2026-11-26 04:21:17",
+      "published_cn": "11-25 18:00"
+    },
+    {
+      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing t",
+      "published": 1795628691.0,
+      "fetched_at": "2026-11-26 04:21:17",
+      "published_cn": "11-25 17:44"
+    },
+    {
+      "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
+      "url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.",
+      "published": 1795628211.0,
+      "fetched_at": "2026-11-26 04:21:16",
+      "published_cn": "11-25 17:36"
+    },
+    {
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
+      "published": 1795628158.0,
+      "fetched_at": "2026-11-26 04:21:16",
+      "published_cn": "11-25 17:35"
+    },
+    {
+      "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
+      "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "An independent browser engine arrives on Linux and macOS, and we've tried it.",
+      "published": 1795628010.0,
+      "fetched_at": "2026-11-26 04:21:17",
+      "published_cn": "11-25 17:33"
+    },
+    {
+      "title": "Etsy clarifies AI terms after seller backlash",
+      "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "One veteran illustrator dismisses revisions as \"sugar coating.\"",
+      "published": 1795626777.0,
+      "fetched_at": "2026-11-26 04:21:17",
+      "published_cn": "11-25 17:12"
+    },
+    {
+      "title": "The Verge’s guide to the best gifts under $100",
+      "url": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely to le",
+      "published": 1795626000.0,
+      "fetched_at": "2026-11-26 04:21:17",
+      "published_cn": "11-25 17:00"
+    },
+    {
+      "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
+      "url": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Militaries have many reasons to target data centers and the cloud in wartime.",
+      "published": 1795625234.0,
+      "fetched_at": "2026-11-26 04:21:17",
+      "published_cn": "11-25 16:47"
+    },
+    {
+      "title": "Guilty: Huawei faces steep penalties for stealing T-Mobile, Cisco trade secrets",
+      "url": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Huawei didn’t try very hard to hide thefts of US trade secrets, DOJ says.",
+      "published": 1795624425.0,
+      "fetched_at": "2026-11-26 04:21:17",
+      "published_cn": "11-25 16:33"
+    },
+    {
+      "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+      "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets.",
+      "published": 1795623433.0,
+      "fetched_at": "2026-11-26 04:21:18",
+      "published_cn": "11-25 16:17"
     },
     {
       "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
       "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
       "source": "CNBC",
       "category": "finance",
-      "summary": "The new levies seek to counter foreign trade practices deemed unfair, discriminatory, or burdensome to U.S. commerce.",
-      "published": 1795613855.0,
-      "fetched_at": "2026-11-25 21:47:20",
-      "published_cn": "11-25 13:37"
+      "summary": "The new levies seek to counter foreign trade practices deemed unfair, discriminatory or burdensome to U.S. commerce.",
+      "published": 1795622572.0,
+      "fetched_at": "2026-11-26 04:21:18",
+      "published_cn": "11-25 16:02"
     },
     {
-      "title": "Tapo’s new indoor security camera includes a touchscreen for video calls",
-      "url": "https://www.theverge.com/tech/1041221/tapo-c825-security-indoor-2k-camera-video-calls-tracking-pan-tilt",
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
       "source": "The Verge",
       "category": "tech",
-      "summary": "TP-Link's Tapo smart home brand announced a new indoor security camera that can help keep an eye on your house while you're away or connect you to family and friends while you're at home. The C825 upgrades a 2K pan-and-t",
-      "published": 1795613400.0,
-      "fetched_at": "2026-11-25 21:47:19",
-      "published_cn": "11-25 13:30"
+      "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize yo",
+      "published": 1795622459.0,
+      "fetched_at": "2026-11-26 04:21:17",
+      "published_cn": "11-25 16:00"
     },
     {
-      "title": "Trump’s meddling in Huang scandal reignites voter angst over tech’s outsized political power",
-      "url": "https://www.cnbc.com/2026/11/25/huang-reinstatement-reignites-voter-angst-over-techs-outsized-power.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Nvidia’s decision to reinstate CEO Jensen Huang after pressure from Trump is intensifying bipartisan scrutiny of tech companies' ties to the administration.",
-      "published": 1795612834.0,
-      "fetched_at": "2026-11-25 21:47:20",
-      "published_cn": "11-25 13:20"
-    },
-    {
-      "title": "The Fed is likely to raise rates in December. What it means for your holiday spending",
-      "url": "https://www.cnbc.com/2026/11/25/fed-december-rate-hike-consumer-impact.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "A December rate hike could raise borrowing costs heading into the peak holiday shopping season, at a time when many consumers are already financially strained.",
-      "published": 1795612501.0,
-      "fetched_at": "2026-11-25 21:47:20",
-      "published_cn": "11-25 13:15"
-    },
-    {
-      "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
-      "url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
-      "source": "TechCrunch",
+      "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
+      "url": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
+      "source": "Ars Technica",
       "category": "tech",
-      "summary": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.",
-      "published": 1795612099.0,
-      "fetched_at": "2026-11-25 21:47:19",
-      "published_cn": "11-25 13:08"
+      "summary": "Prior modeling estimated the plume would cover hundreds of square miles.",
+      "published": 1795620917.0,
+      "fetched_at": "2026-11-26 04:21:17",
+      "published_cn": "11-25 15:35"
     },
     {
-      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler.",
-      "published": 1795611600.0,
-      "fetched_at": "2026-11-25 21:47:19",
-      "published_cn": "11-25 13:00"
-    },
-    {
-      "title": "Has vibe coding made open source the new normal for synths?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "title": "The Verge’s guide to affordable holiday gifts under $25",
+      "url": "https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026",
       "source": "The Verge",
       "category": "tech",
-      "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have rem",
-      "published": 1795611600.0,
-      "fetched_at": "2026-11-25 21:47:19",
-      "published_cn": "11-25 13:00"
+      "summary": "Gift-giving on a tight budget is tough, but constraints can also encourage some creative thinking. We thought for a long while (and asked other Verge staffers) about the best items out there, and we're pretty happy with ",
+      "published": 1795618800.0,
+      "fetched_at": "2026-11-26 04:21:17",
+      "published_cn": "11-25 15:00"
     },
     {
-      "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
-      "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+      "title": "A familiar Iranian hacking group has found a new way to cause chaos",
+      "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "France blames an Iranian cyber unit for sabotaging hundreds of supermarket freezers.",
+      "published": 1795616983.0,
+      "fetched_at": "2026-11-26 04:21:17",
+      "published_cn": "11-25 14:29"
+    },
+    {
+      "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
       "source": "CNBC",
       "category": "finance",
-      "summary": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
-      "published": 1795609601.0,
-      "fetched_at": "2026-11-25 21:47:20",
-      "published_cn": "11-25 12:26"
+      "summary": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.",
+      "published": 1795616325.0,
+      "fetched_at": "2026-11-26 04:21:18",
+      "published_cn": "11-25 14:18"
+    },
+    {
+      "title": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
+      "url": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "More consumers are shopping secondhand this holiday season as they emphasize value and uniqueness in their purchases.",
+      "published": 1795616221.0,
+      "fetched_at": "2026-11-26 04:21:18",
+      "published_cn": "11-25 14:17"
     },
     {
       "title": "美國準備公布對全球貿易夥伴加征新關稅的計劃",
@@ -103,18 +333,8 @@
       "category": "world",
       "summary": "新關稅將打擊美國許多最大的貿易夥伴，包括中國和歐盟。",
       "published": 1795609138.0,
-      "fetched_at": "2026-11-25 21:47:21",
+      "fetched_at": "2026-11-26 04:21:18",
       "published_cn": "11-25 12:18"
-    },
-    {
-      "title": "AI may soon change what it means to be a theoretical physicist",
-      "url": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Frontier AI is already solving problems that once took top physicists a full day.",
-      "published": 1795608028.0,
-      "fetched_at": "2026-11-25 21:47:19",
-      "published_cn": "11-25 12:00"
     },
     {
       "title": "BBC事實查核：與中國有關帳號用AI生成影攻擊台灣選舉候選人",
@@ -123,18 +343,8 @@
       "category": "world",
       "summary": "一波與中國有關的帳號用AI生成影片，攻擊台灣執政黨關鍵人物，包括總統賴清德和台北市長候選人沈伯洋。",
       "published": 1795607586.0,
-      "fetched_at": "2026-11-25 21:47:21",
+      "fetched_at": "2026-11-26 04:21:18",
       "published_cn": "11-25 11:53"
-    },
-    {
-      "title": "Microsoft declares ‘Code Red’ after huge Outlook outage",
-      "url": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "This month's Exchange Online and Microsoft Outlook outage has prompted the software giant to declare an unusual \"Code Red\" internally, Reuters reports. The nearly 24-hour outage took down email for millions of customers,",
-      "published": 1795605162.0,
-      "fetched_at": "2026-11-25 21:47:19",
-      "published_cn": "11-25 11:12"
     },
     {
       "title": "翻开 2027， 值得入手的新年日历推荐",
@@ -143,7 +353,7 @@
       "category": "tech",
       "summary": "按照中国的农历纪年法，2027年是羊年，《说文解字》说「羊，祥也」。《诗经・小雅・无羊》云「尔羊来思，其角濈濈」，写羊群缓缓归野，安然相聚，恰合丁未岁的平和气象。一只吉羊，一册日历，便是收纳这一年日常 ...<a href=\"https://sspai.com/post/119264\" target=\"_blank\">查看全文</a>",
       "published": 1795600114.0,
-      "fetched_at": "2026-11-25 21:47:19",
+      "fetched_at": "2026-11-26 04:21:16",
       "published_cn": "11-25 09:48"
     },
     {
@@ -153,18 +363,8 @@
       "category": "world",
       "summary": "這次任務對航天員阿里而言，這是巴基斯坦的榮耀時刻；對中國而言，則是其與美國爭奪太空主導地位競賽中的又一步進展。",
       "published": 1795599858.0,
-      "fetched_at": "2026-11-25 21:47:21",
+      "fetched_at": "2026-11-26 04:21:18",
       "published_cn": "11-25 09:44"
-    },
-    {
-      "title": "Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation",
-      "url": "https://www.cnbc.com/2026/11/25/ukraine-putin-russia-oil-refinery-attacks.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Ukraine’s foreign minister told Putin to end the war if he wants Kyiv to stop attacking Russian refineries, after Putin said retaliation was “inevitable.”",
-      "published": 1795598317.0,
-      "fetched_at": "2026-11-25 21:47:20",
-      "published_cn": "11-25 09:18"
     },
     {
       "title": "拓竹 P3C 发布：国补后 6374 元起，下一代 3D 打印机开始卷性价比",
@@ -173,7 +373,7 @@
       "category": "tech",
       "summary": "打印机开始卷手艺<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795597230.0,
-      "fetched_at": "2026-11-25 21:47:18",
+      "fetched_at": "2026-11-26 04:21:15",
       "published_cn": "11-25 09:00"
     },
     {
@@ -183,18 +383,8 @@
       "category": "tech",
       "summary": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。<a href=\"https://sspai.com/post/119310\" target=\"_blank\">查看全文</a>",
       "published": 1795589956.0,
-      "fetched_at": "2026-11-25 21:47:19",
+      "fetched_at": "2026-11-26 04:21:16",
       "published_cn": "11-25 06:59"
-    },
-    {
-      "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
-      "url": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Big Tech could find it increasingly tough to secure funding from debt markets critical to the AI build-out, as lenders become pickier over corporate bonds.",
-      "published": 1795588186.0,
-      "fetched_at": "2026-11-25 21:47:20",
-      "published_cn": "11-25 06:29"
     },
     {
       "title": "Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2",
@@ -203,7 +393,7 @@
       "category": "tech",
       "summary": "AI 视频「烧钱」终结者<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795584064.0,
-      "fetched_at": "2026-11-25 21:47:18",
+      "fetched_at": "2026-11-26 04:21:15",
       "published_cn": "11-25 05:21"
     },
     {
@@ -213,7 +403,7 @@
       "category": "world",
       "summary": "對許多家庭來說，道歉只是「最低消費」，他們仍在等一個完整的答案。BBC中文接觸了多位遇難者家屬，記錄他們怎樣度過這一年。",
       "published": 1795576890.0,
-      "fetched_at": "2026-11-25 21:47:21",
+      "fetched_at": "2026-11-26 04:21:18",
       "published_cn": "11-25 03:21"
     },
     {
@@ -223,18 +413,8 @@
       "category": "tech",
       "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/118791\" target=\"_blank\">查看全文</a>",
       "published": 1795576061.0,
-      "fetched_at": "2026-11-25 21:47:19",
+      "fetched_at": "2026-11-26 04:21:16",
       "published_cn": "11-25 03:07"
-    },
-    {
-      "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
-      "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that re",
-      "published": 1795568400.0,
-      "fetched_at": "2026-11-25 21:47:19",
-      "published_cn": "11-25 01:00"
     },
     {
       "title": "派早报：华为发布 Mate X8 与 MateBook Fold S、微软将推出自研驱动等",
@@ -243,28 +423,8 @@
       "category": "tech",
       "summary": "豆包 AI 个人助理「小豆」开启公测，Teenage Engineering 推出复古 CD 播放器 EP / BC-1 等。<a href=\"https://sspai.com/post/119527\" target=\"_blank\">查看全文</a>",
       "published": 1795566155.0,
-      "fetched_at": "2026-11-25 21:47:19",
+      "fetched_at": "2026-11-26 04:21:16",
       "published_cn": "11-25 00:22"
-    },
-    {
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal l",
-      "published": 1795565522.0,
-      "fetched_at": "2026-11-25 21:47:19",
-      "published_cn": "11-25 00:12"
-    },
-    {
-      "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
-      "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips ",
-      "published": 1795565427.0,
-      "fetched_at": "2026-11-25 21:47:19",
-      "published_cn": "11-25 00:10"
     },
     {
       "title": "早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台",
@@ -273,168 +433,8 @@
       "category": "tech",
       "summary": "· 华为发布 Mate X8、Mate 90 Air 和小折叠电脑 MateBook Fold S\n· 神舟二十四号任务将开展一年期在轨驻留试验\n· PlayStation 公布《GTA 6》首发数据，四天吸引逾 3900 万玩家<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795565301.0,
-      "fetched_at": "2026-11-25 21:47:18",
+      "fetched_at": "2026-11-26 04:21:15",
       "published_cn": "11-25 00:08"
-    },
-    {
-      "title": "The Verge’s 2026 gift guide for dads",
-      "url": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find somethi",
-      "published": 1795564769.0,
-      "fetched_at": "2026-11-25 21:47:19",
-      "published_cn": "11-24 23:59"
-    },
-    {
-      "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
-      "url": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "The US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out to experts on what to ex",
-      "published": 1795562746.0,
-      "fetched_at": "2026-11-25 21:47:19",
-      "published_cn": "11-24 23:25"
-    },
-    {
-      "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
-      "published": 1795562029.0,
-      "fetched_at": "2026-11-25 21:47:20",
-      "published_cn": "11-24 23:13"
-    },
-    {
-      "title": "Half of NASA's aging Mars fleet knocked offline by technical issues",
-      "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Perseverance is having trouble transmitting to Earth. Odyssey is rapidly burning through its waning fuel supply.",
-      "published": 1795560611.0,
-      "fetched_at": "2026-11-25 21:47:19",
-      "published_cn": "11-24 22:50"
-    },
-    {
-      "title": "Microsoft's historic cloud outage exposed an engineering “fog of war”",
-      "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Internal memos reveal a “Code Red” overhaul and ambitious one-hour recovery goals.",
-      "published": 1795559788.0,
-      "fetched_at": "2026-11-25 21:47:19",
-      "published_cn": "11-24 22:36"
-    },
-    {
-      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
-      "published": 1795559272.0,
-      "fetched_at": "2026-11-25 21:47:19",
-      "published_cn": "11-24 22:27"
-    },
-    {
-      "title": "Huawei found guilty of stealing trade secrets",
-      "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Ch",
-      "published": 1795559007.0,
-      "fetched_at": "2026-11-25 21:47:19",
-      "published_cn": "11-24 22:23"
-    },
-    {
-      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
-      "published": 1795556907.0,
-      "fetched_at": "2026-11-25 21:47:19",
-      "published_cn": "11-24 21:48"
-    },
-    {
-      "title": "GTA VI PC recompilation project shut down by Take-Two",
-      "url": "https://www.theverge.com/news/1041690/grand-theft-auto-6-pc-recompilation-project-leonida-takedown-take-two",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Game modding communities are racing to get Grand Theft Auto VI running on PC, but one big effort has been taken down by Take-Two today. Leonida, a fan project by 15-year-old \"NotRexed,\" has vanished after a DMCA takedown",
-      "published": 1795556354.0,
-      "fetched_at": "2026-11-25 21:47:19",
-      "published_cn": "11-24 21:39"
-    },
-    {
-      "title": "Even the best AI agents struggle with everyday life",
-      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
-      "published": 1795556009.0,
-      "fetched_at": "2026-11-25 21:47:19",
-      "published_cn": "11-24 21:33"
-    },
-    {
-      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
-      "published": 1795555958.0,
-      "fetched_at": "2026-11-25 21:47:19",
-      "published_cn": "11-24 21:32"
-    },
-    {
-      "title": "What's going on with the Riemann hypothesis?",
-      "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
-      "published": 1795552493.0,
-      "fetched_at": "2026-11-25 21:47:19",
-      "published_cn": "11-24 20:34"
-    },
-    {
-      "title": "Back-to-back measles deaths is our new reality; US tally now at 14",
-      "url": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Wisconsin reports 3rd measles death today; Pennsylvania reported its 9th yesterday.",
-      "published": 1795550418.0,
-      "fetched_at": "2026-11-25 21:47:19",
-      "published_cn": "11-24 20:00"
-    },
-    {
-      "title": "Amazon drone crashes on garage after delivering shampoo, draws FAA probe",
-      "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Amazon says Prime Air drones made “hundreds of thousands” of deliveries in 2026.",
-      "published": 1795546077.0,
-      "fetched_at": "2026-11-25 21:47:19",
-      "published_cn": "11-24 18:47"
-    },
-    {
-      "title": "Amazon discovers Falcon 9 and Ariane 6 can deliver when nobody else can",
-      "url": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Amazon has hundreds of satellites in storage waiting for rides to space.",
-      "published": 1795545036.0,
-      "fetched_at": "2026-11-25 21:47:19",
-      "published_cn": "11-24 18:30"
-    },
-    {
-      "title": "How brewers can protect beers from smoke-tainted hops",
-      "url": "https://arstechnica.com/science/2026/11/how-brewers-can-protect-beers-from-smoke-tainted-hops/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Study: Brewers can still use up to 50% of smoke-tainted hops without affecting beer taste and aroma.",
-      "published": 1795544317.0,
-      "fetched_at": "2026-11-25 21:47:19",
-      "published_cn": "11-24 18:18"
     },
     {
       "title": "和誉医药首款自研药在美获批，首笔销售将触发2,000万美元付款",
@@ -443,7 +443,7 @@
       "category": "finance",
       "summary": "和誉自主研发的匹米替尼的全球商业化权益已经授权给德国默克，和誉可按净销售额收取两位数比例的分成。",
       "published": 1795536000.0,
-      "fetched_at": "2026-11-25 21:47:20",
+      "fetched_at": "2026-11-26 04:21:18",
       "published_cn": "11-24 16:00"
     },
     {
@@ -453,7 +453,7 @@
       "category": "finance",
       "summary": "二手交易平台转转靠质检、寄卖及回收转售做出逾200亿元年收入，但服务投入可以留下多少利润，将是投资人关注的焦点。",
       "published": 1795536000.0,
-      "fetched_at": "2026-11-25 21:47:20",
+      "fetched_at": "2026-11-26 04:21:18",
       "published_cn": "11-24 16:00"
     },
     {
@@ -463,7 +463,7 @@
       "category": "finance",
       "summary": "这家深耕中东的社交媒体和游戏公司在第三季度重回营收增长轨道，并预计明年增速将跃升至两位数。",
       "published": 1795536000.0,
-      "fetched_at": "2026-11-25 21:47:20",
+      "fetched_at": "2026-11-26 04:21:18",
       "published_cn": "11-24 16:00"
     },
     {
@@ -473,7 +473,7 @@
       "category": "finance",
       "summary": "郑志刚：如果黄仁勋婚外情引发的离职风波发生在中国，投资者会包容他吗？普通民众会接受他吗？社会各界会认同他吗？",
       "published": 1795536000.0,
-      "fetched_at": "2026-11-25 21:47:20",
+      "fetched_at": "2026-11-26 04:21:18",
       "published_cn": "11-24 16:00"
     },
     {
@@ -483,7 +483,7 @@
       "category": "world",
       "summary": "陳吉寧落馬的時點尤其敏感：距離二十一大換屆不到一年，他本是外界觀察下屆常委佈局的關鍵人物，被查前僅僅六天仍在公開調研。",
       "published": 1795532094.0,
-      "fetched_at": "2026-11-25 21:47:21",
+      "fetched_at": "2026-11-26 04:21:18",
       "published_cn": "11-24 14:54"
     },
     {
@@ -493,7 +493,7 @@
       "category": "tech",
       "summary": "十年之后，比亚迪唐终于卸下了第三排的担子。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795527366.0,
-      "fetched_at": "2026-11-25 21:47:18",
+      "fetched_at": "2026-11-26 04:21:15",
       "published_cn": "11-24 13:36"
     },
     {
@@ -503,7 +503,7 @@
       "category": "tech",
       "summary": "Personal Agent 的下半场，拼的是主动办事<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795518280.0,
-      "fetched_at": "2026-11-25 21:47:18",
+      "fetched_at": "2026-11-26 04:21:15",
       "published_cn": "11-24 11:04"
     },
     {
@@ -513,7 +513,7 @@
       "category": "tech",
       "summary": "一亿台鸿蒙设备之后<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795516204.0,
-      "fetched_at": "2026-11-25 21:47:18",
+      "fetched_at": "2026-11-26 04:21:15",
       "published_cn": "11-24 10:30"
     },
     {
@@ -523,7 +523,7 @@
       "category": "tech",
       "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/119492\" target=\"_blank\">查看全文</a>",
       "published": 1795511651.0,
-      "fetched_at": "2026-11-25 21:47:19",
+      "fetched_at": "2026-11-26 04:21:16",
       "published_cn": "11-24 09:14"
     },
     {
@@ -533,7 +533,7 @@
       "category": "tech",
       "summary": "AI 带来的技术平权，甚至把作弊的门槛也一并打了下来<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795511354.0,
-      "fetched_at": "2026-11-25 21:47:18",
+      "fetched_at": "2026-11-26 04:21:15",
       "published_cn": "11-24 09:09"
     },
     {
@@ -543,7 +543,7 @@
       "category": "tech",
       "summary": "写一篇短文，我们可能只需要一个能让人打开即用的编辑器，比如说Apple用户最常用的系统备忘录，或者广为人知的桌面应用MicrosoftWord。但当文章的篇幅逐渐变长，一些原本不太起眼的事情也会变得麻 ...<a href=\"https://sspai.com/post/119035\" target=\"_blank\">查看全文</a>",
       "published": 1795505922.0,
-      "fetched_at": "2026-11-25 21:47:19",
+      "fetched_at": "2026-11-26 04:21:16",
       "published_cn": "11-24 07:38"
     },
     {
@@ -553,7 +553,7 @@
       "category": "tech",
       "summary": "两年之期已到<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795499723.0,
-      "fetched_at": "2026-11-25 21:47:18",
+      "fetched_at": "2026-11-26 04:21:15",
       "published_cn": "11-24 05:55"
     },
     {
@@ -563,7 +563,7 @@
       "category": "tech",
       "summary": "巴黎市徽上的那艘船，依然留着它的格言：「任凭风浪，亦不沉没。」<a href=\"https://sspai.com/post/119412\" target=\"_blank\">查看全文</a>",
       "published": 1795489390.0,
-      "fetched_at": "2026-11-25 21:47:19",
+      "fetched_at": "2026-11-26 04:21:16",
       "published_cn": "11-24 03:03"
     },
     {
@@ -573,7 +573,7 @@
       "category": "tech",
       "summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...<a href=\"https://sspai.com/post/119460\" target=\"_blank\">查看全文</a>",
       "published": 1795480651.0,
-      "fetched_at": "2026-11-25 21:47:19",
+      "fetched_at": "2026-11-26 04:21:16",
       "published_cn": "11-24 00:37"
     },
     {
@@ -583,7 +583,7 @@
       "category": "finance",
       "summary": "中欧、中英汽车贸易博弈不会止步于一轮配额和关税。欧洲后续可能还会持续打磨本地化规则、经济安全审查工具。",
       "published": 1795449600.0,
-      "fetched_at": "2026-11-25 21:47:20",
+      "fetched_at": "2026-11-26 04:21:18",
       "published_cn": "11-23 16:00"
     },
     {
@@ -593,7 +593,7 @@
       "category": "finance",
       "summary": "李学楠、王小龙：Anthropic在极短时间内调动海量资本、设计资产隔离架构与治理体系的做法，却提供了一本极具参考价值的现代企业资本结构与融资工程案卷。",
       "published": 1795449600.0,
-      "fetched_at": "2026-11-25 21:47:20",
+      "fetched_at": "2026-11-26 04:21:18",
       "published_cn": "11-23 16:00"
     },
     {
@@ -603,7 +603,7 @@
       "category": "finance",
       "summary": "何适、万羽昕：当下跨国投资最值得追问的问题：当地缘政治风险从“背景变量”变成“解释变量”，FDI的区位选择、规模与结构正在如何被改写？",
       "published": 1795449600.0,
-      "fetched_at": "2026-11-25 21:47:20",
+      "fetched_at": "2026-11-26 04:21:18",
       "published_cn": "11-23 16:00"
     },
     {
@@ -613,7 +613,7 @@
       "category": "finance",
       "summary": "傅蔚冈：当年SEC主席不愿意拨打电话，今天美国总统却公开而积极地影响一家上市公司的CEO任免。变化的不只是政治人物的行事风格，也可能是政府介入公司治理的方式。",
       "published": 1795449600.0,
-      "fetched_at": "2026-11-25 21:47:20",
+      "fetched_at": "2026-11-26 04:21:18",
       "published_cn": "11-23 16:00"
     },
     {
@@ -623,7 +623,7 @@
       "category": "world",
       "summary": "柯志恩以「知識藍」的姿態拉攏中間選民，支持度大幅追貼深耕高雄20年的賴瑞隆，選情咬緊。",
       "published": 1794932749.0,
-      "fetched_at": "2026-11-25 21:47:21",
+      "fetched_at": "2026-11-26 04:21:18",
       "published_cn": "11-17 16:25"
     },
     {
@@ -633,7 +633,7 @@
       "category": "world",
       "summary": "新竹市是民眾黨此前唯一贏得執政權的縣市，現任市長高虹安尋求連任，她這次雖已退出民眾黨、改以無黨籍身分參選，但學者指出其選情不僅將影響雙方未來合作模式能否延續，也可能牽動2028年全國大選的政治布局。",
       "published": 1794908989.0,
-      "fetched_at": "2026-11-25 21:47:21",
+      "fetched_at": "2026-11-26 04:21:18",
       "published_cn": "11-17 09:49"
     },
     {
@@ -643,13 +643,12 @@
       "category": "world",
       "summary": "台灣在過去七年間，幾乎每年都有大型選舉、罷免或公投。有學者形容台灣政治人物常處於「選舉模式」，在面對不同議題時往往急於回應。",
       "published": 1794566346.0,
-      "fetched_at": "2026-11-25 21:47:21",
+      "fetched_at": "2026-11-26 04:21:18",
       "published_cn": "11-13 10:39"
     }
   ],
   "feed_failures": [
     "虎嗅: ReadTimeout HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=20)",
-    "华尔街见闻: HTTPError 404 Client Error: Not Found for url: https://wallstreetcn.com/rss",
     "卫报·世界: HTTPError 403 Client Error: Forbidden for url: https://www.theguardian.com/world/rss"
   ]
 }

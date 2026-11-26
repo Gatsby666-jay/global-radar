@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26 04:21:18",
+  "updated_at": "2026-11-26 12:42:40",
   "categories": [
     "tech",
     "finance",
@@ -7,14 +7,274 @@
   ],
   "items": [
     {
-      "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
-      "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
+      "title": "台灣「九合一」選舉：六都市長候選人簡介",
+      "url": "https://www.bbc.com/zhongwen/articles/cwlymzm5mnxyo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "這場選舉將影響藍綠政治版圖，六都選情備受關注，包括台北、新北、桃園、台中、台南、高雄，BBC中文整理各地候選人的簡介。",
+      "published": 1795667374.0,
+      "fetched_at": "2026-11-26 12:42:40",
+      "published_cn": "11-26 04:29"
+    },
+    {
+      "title": "荣耀 700 Pro 上手：4099 元起，主流价位档里的手机异类",
+      "url": "https://www.ifanr.com/1695371?utm_source=rss&utm_medium=rss&utm_campaign",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "有诚意、有新意<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1795667291.0,
+      "fetched_at": "2026-11-26 12:42:37",
+      "published_cn": "11-26 04:28"
+    },
+    {
+      "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
+      "url": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
       "source": "CNBC",
       "category": "finance",
-      "summary": "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
-      "published": 1795637277.0,
-      "fetched_at": "2026-11-26 04:21:18",
-      "published_cn": "11-25 20:07"
+      "summary": "Proposed tariffs of 18% on Bangladesh, Cambodia, Thailand, and 20% on China and Vietnam, subject to their respective trade deals, offer India a competitive advantage.",
+      "published": 1795666338.0,
+      "fetched_at": "2026-11-26 12:42:40",
+      "published_cn": "11-26 04:12"
+    },
+    {
+      "title": "首款鸿蒙小折叠电脑正式发布，生态创新重新定义折叠电脑体验",
+      "url": "https://www.ifanr.com/1695349?utm_source=rss&utm_medium=rss&utm_campaign",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "未来随着更多生态伙伴的加入，鸿蒙电脑还将持续解锁更多场景化创新，为用户带来兼顾便携与高效的桌面生产力新选择。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1795665864.0,
+      "fetched_at": "2026-11-26 12:42:37",
+      "published_cn": "11-26 04:04"
+    },
+    {
+      "title": "OPPO Reno17 Pro 体验：在手机里装进一只猫，分几步？",
+      "url": "https://www.ifanr.com/1691222?utm_source=rss&utm_medium=rss&utm_campaign",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "哈基米，浮出机面<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1795665729.0,
+      "fetched_at": "2026-11-26 12:42:37",
+      "published_cn": "11-26 04:02"
+    },
+    {
+      "title": "Judge blocks FCC early-renewal process for Disney-owned ABC stations, for now",
+      "url": "https://www.cnbc.com/2026/11/26/fcc-disney-abc-stations-judge-block.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "A judge has blocked the FCC's early license renewal process for Disney-owned ABC stations in 'important victory for the First Amendment'",
+      "published": 1795665615.0,
+      "fetched_at": "2026-11-26 12:42:40",
+      "published_cn": "11-26 04:00"
+    },
+    {
+      "title": "专访《影之刃零》梁其伟：我想让年轻人觉得，中国功夫很酷丨多样性公司",
+      "url": "https://www.ifanr.com/1695256?utm_source=rss&utm_medium=rss&utm_campaign",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "中国功夫，也能很酷<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1795664909.0,
+      "fetched_at": "2026-11-26 12:42:37",
+      "published_cn": "11-26 03:48"
+    },
+    {
+      "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+      "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "S&amp;P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker.",
+      "published": 1795663184.0,
+      "fetched_at": "2026-11-26 12:42:40",
+      "published_cn": "11-26 03:19"
+    },
+    {
+      "title": "我用AI做了一张两千年的中国历史地图",
+      "url": "https://sspai.com/post/117510",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。<a href=\"https://sspai.com/post/117510\" target=\"_blank\">查看全文</a>",
+      "published": 1795662833.0,
+      "fetched_at": "2026-11-26 12:42:39",
+      "published_cn": "11-26 03:13"
+    },
+    {
+      "title": "K-beauty stocks rally as Korean brands top Amazon bestseller lists globally ahead of Black Friday",
+      "url": "https://www.cnbc.com/2026/11/26/k-beauty-firms-amazon-sales-black-friday.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "South Korean beauty stocks rose as K-beauty brands dominated Amazon's skincare rankings ahead of Black Friday.",
+      "published": 1795662587.0,
+      "fetched_at": "2026-11-26 12:42:40",
+      "published_cn": "11-26 03:09"
+    },
+    {
+      "title": "Robotaxi 即将开启无人运营、机器人脱稿演讲，小鹏科技日迎来了自己的「奇点时刻」",
+      "url": "https://www.ifanr.com/1695212?utm_source=rss&utm_medium=rss&utm_campaign",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "技术实力的外溢。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1795659924.0,
+      "fetched_at": "2026-11-26 12:42:37",
+      "published_cn": "11-26 02:25"
+    },
+    {
+      "title": "Norse Atlantic flights suspended after warning finances 'critical'",
+      "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Norse Atlantic suspended flights as it warned its financial position was \"critical.\" The airline is seeking short-term financing and exploring a potential takeover.",
+      "published": 1795657940.0,
+      "fetched_at": "2026-11-26 12:42:40",
+      "published_cn": "11-26 01:52"
+    },
+    {
+      "title": "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
+      "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Japan's Nikkei 225 rose 1.21% in early trade, while the Topix edged 0.71% higher. Australia's S&amp;P/ASX 200 was up 0.15%.",
+      "published": 1795657552.0,
+      "fetched_at": "2026-11-26 12:42:40",
+      "published_cn": "11-26 01:45"
+    },
+    {
+      "title": "A社曝光了一份AI整顿职场魔幻实录，请甩给你那位沉迷AI提效的老板",
+      "url": "https://www.ifanr.com/1691748?utm_source=rss&utm_medium=rss&utm_campaign",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "你用公司的 AI 省下的时间是公司的<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1795656510.0,
+      "fetched_at": "2026-11-26 12:42:37",
+      "published_cn": "11-26 01:28"
+    },
+    {
+      "title": "白紙運動四年之後，上海青年公共空間去哪兒了？",
+      "url": "https://www.bbc.com/zhongwen/articles/cwe851kg1kj1o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "白紙運動四年後，BBC中文對話多位上海酒吧、咖啡店老闆和昔日常客、白紙運動親歷者，在他們眼裡，青年空間是如何在四年裡逐漸消失的。",
+      "published": 1795652978.0,
+      "fetched_at": "2026-11-26 12:42:40",
+      "published_cn": "11-26 00:29"
+    },
+    {
+      "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
+      "url": "https://sspai.com/post/119560",
+      "source": "少数派",
+      "category": "tech",
+      "summary": "阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等。<a href=\"https://sspai.com/post/119560\" target=\"_blank\">查看全文</a>",
+      "published": 1795651687.0,
+      "fetched_at": "2026-11-26 12:42:39",
+      "published_cn": "11-26 00:08"
+    },
+    {
+      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+      "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to th",
+      "published": 1795651474.0,
+      "fetched_at": "2026-11-26 12:42:39",
+      "published_cn": "11-26 00:04"
+    },
+    {
+      "title": "早报｜手机厂商集体下调明年出货目标，曝小米降幅达25%/小鹏悠游开启主驾无人载客/宕机后，微软进入「红色警报」",
+      "url": "https://www.ifanr.com/1695128?utm_source=rss&utm_medium=rss&utm_campaign",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "· Counterpoint：2027 年全球智能手机出货量预计再降 6%，2028 年反弹 6%\n· 理想汽车 2026 年 Q3 营收 288.34 亿元，经营与自由现金流转正\n· 26.99 万元起，宝马首款国产新世代车型 iX3 上市并开始交付<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1795651377.0,
+      "fetched_at": "2026-11-26 12:42:37",
+      "published_cn": "11-26 00:02"
+    },
+    {
+      "title": "Amazon loses its latest attempt to get out of handling more recall notices",
+      "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in fav",
+      "published": 1795651004.0,
+      "fetched_at": "2026-11-26 12:42:39",
+      "published_cn": "11-25 23:56"
+    },
+    {
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "published": 1795646672.0,
+      "fetched_at": "2026-11-26 12:42:39",
+      "published_cn": "11-25 22:44"
+    },
+    {
+      "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
+      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
+      "published": 1795646205.0,
+      "fetched_at": "2026-11-26 12:42:39",
+      "published_cn": "11-25 22:36"
+    },
+    {
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The",
+      "published": 1795643486.0,
+      "fetched_at": "2026-11-26 12:42:39",
+      "published_cn": "11-25 21:51"
+    },
+    {
+      "title": "The Verge’s 2026 holiday gift guide for travelers",
+      "url": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they",
+      "published": 1795643280.0,
+      "fetched_at": "2026-11-26 12:42:39",
+      "published_cn": "11-25 21:48"
+    },
+    {
+      "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+      "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
+      "published": 1795640408.0,
+      "fetched_at": "2026-11-26 12:42:40",
+      "published_cn": "11-25 21:00"
+    },
+    {
+      "title": "Google search alternative Kagi launches Gmail rival",
+      "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "The pitch is an unusual combination of privacy promises and AI features.",
+      "published": 1795640229.0,
+      "fetched_at": "2026-11-26 12:42:39",
+      "published_cn": "11-25 20:57"
+    },
+    {
+      "title": "FCC approves SpaceX plan to put AI data centers in space",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+      "source": "TechCrunch",
+      "category": "tech",
+      "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+      "published": 1795640204.0,
+      "fetched_at": "2026-11-26 12:42:39",
+      "published_cn": "11-25 20:56"
+    },
+    {
+      "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+      "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+      "source": "The Verge",
+      "category": "tech",
+      "summary": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platf",
+      "published": 1795638708.0,
+      "fetched_at": "2026-11-26 12:42:39",
+      "published_cn": "11-25 20:31"
     },
     {
       "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
@@ -23,7 +283,7 @@
       "category": "tech",
       "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
       "published": 1795637007.0,
-      "fetched_at": "2026-11-26 04:21:16",
+      "fetched_at": "2026-11-26 12:42:39",
       "published_cn": "11-25 20:03"
     },
     {
@@ -33,7 +293,7 @@
       "category": "tech",
       "summary": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
       "published": 1795636497.0,
-      "fetched_at": "2026-11-26 04:21:16",
+      "fetched_at": "2026-11-26 12:42:39",
       "published_cn": "11-25 19:54"
     },
     {
@@ -43,18 +303,8 @@
       "category": "tech",
       "summary": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
       "published": 1795636472.0,
-      "fetched_at": "2026-11-26 04:21:16",
+      "fetched_at": "2026-11-26 12:42:39",
       "published_cn": "11-25 19:54"
-    },
-    {
-      "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
-      "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
-      "published": 1795636367.0,
-      "fetched_at": "2026-11-26 04:21:18",
-      "published_cn": "11-25 19:52"
     },
     {
       "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
@@ -63,7 +313,7 @@
       "category": "tech",
       "summary": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today ",
       "published": 1795635951.0,
-      "fetched_at": "2026-11-26 04:21:17",
+      "fetched_at": "2026-11-26 12:42:39",
       "published_cn": "11-25 19:45"
     },
     {
@@ -73,28 +323,8 @@
       "category": "tech",
       "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
       "published": 1795635864.0,
-      "fetched_at": "2026-11-26 04:21:16",
+      "fetched_at": "2026-11-26 12:42:39",
       "published_cn": "11-25 19:44"
-    },
-    {
-      "title": "Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return",
-      "url": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Nvidia and other AI-linked stocks fell as investors weighed AI spending, inflation and higher-rate risks.",
-      "published": 1795634345.0,
-      "fetched_at": "2026-11-26 04:21:18",
-      "published_cn": "11-25 19:19"
-    },
-    {
-      "title": "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
-      "url": "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Abdulrahman Alfozan, a former OpenAI engineer, is expected to be fitted with an ankle monitor, his attorney, David Rizk, previously told CNBC.",
-      "published": 1795633913.0,
-      "fetched_at": "2026-11-26 04:21:18",
-      "published_cn": "11-25 19:11"
     },
     {
       "title": "1Password breach leaked customer names and emails, but not passwords",
@@ -103,7 +333,7 @@
       "category": "tech",
       "summary": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk",
       "published": 1795633815.0,
-      "fetched_at": "2026-11-26 04:21:17",
+      "fetched_at": "2026-11-26 12:42:39",
       "published_cn": "11-25 19:10"
     },
     {
@@ -113,7 +343,7 @@
       "category": "tech",
       "summary": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
       "published": 1795632592.0,
-      "fetched_at": "2026-11-26 04:21:16",
+      "fetched_at": "2026-11-26 12:42:39",
       "published_cn": "11-25 18:49"
     },
     {
@@ -123,7 +353,7 @@
       "category": "tech",
       "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
       "published": 1795631909.0,
-      "fetched_at": "2026-11-26 04:21:17",
+      "fetched_at": "2026-11-26 12:42:39",
       "published_cn": "11-25 18:38"
     },
     {
@@ -133,7 +363,7 @@
       "category": "tech",
       "summary": "This constellation would increase the number of satellites in orbit by roughly 50-fold.",
       "published": 1795630958.0,
-      "fetched_at": "2026-11-26 04:21:17",
+      "fetched_at": "2026-11-26 12:42:39",
       "published_cn": "11-25 18:22"
     },
     {
@@ -143,7 +373,7 @@
       "category": "tech",
       "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
       "published": 1795630306.0,
-      "fetched_at": "2026-11-26 04:21:16",
+      "fetched_at": "2026-11-26 12:42:39",
       "published_cn": "11-25 18:11"
     },
     {
@@ -153,48 +383,8 @@
       "category": "tech",
       "summary": "Unlike most smartphones, the Fairphone 6 Plus is designed for home repair, with easily replaceable parts that could help extend its lifespan well into the future. That makes its midrange price point easier to justify, es",
       "published": 1795629600.0,
-      "fetched_at": "2026-11-26 04:21:17",
+      "fetched_at": "2026-11-26 12:42:39",
       "published_cn": "11-25 18:00"
-    },
-    {
-      "title": "The loneliest peptide party in New York",
-      "url": "https://www.theverge.com/column/1041761/optimizer-peptide-parties-afterglow",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. On a",
-      "published": 1795629600.0,
-      "fetched_at": "2026-11-26 04:21:17",
-      "published_cn": "11-25 18:00"
-    },
-    {
-      "title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
-      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing t",
-      "published": 1795628691.0,
-      "fetched_at": "2026-11-26 04:21:17",
-      "published_cn": "11-25 17:44"
-    },
-    {
-      "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
-      "url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.",
-      "published": 1795628211.0,
-      "fetched_at": "2026-11-26 04:21:16",
-      "published_cn": "11-25 17:36"
-    },
-    {
-      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-      "source": "TechCrunch",
-      "category": "tech",
-      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
-      "published": 1795628158.0,
-      "fetched_at": "2026-11-26 04:21:16",
-      "published_cn": "11-25 17:35"
     },
     {
       "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
@@ -203,7 +393,7 @@
       "category": "tech",
       "summary": "An independent browser engine arrives on Linux and macOS, and we've tried it.",
       "published": 1795628010.0,
-      "fetched_at": "2026-11-26 04:21:17",
+      "fetched_at": "2026-11-26 12:42:39",
       "published_cn": "11-25 17:33"
     },
     {
@@ -213,18 +403,8 @@
       "category": "tech",
       "summary": "One veteran illustrator dismisses revisions as \"sugar coating.\"",
       "published": 1795626777.0,
-      "fetched_at": "2026-11-26 04:21:17",
+      "fetched_at": "2026-11-26 12:42:39",
       "published_cn": "11-25 17:12"
-    },
-    {
-      "title": "The Verge’s guide to the best gifts under $100",
-      "url": "https://www.theverge.com/gadgets/1028004/best-gifts-under-100-2026",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Even in an era of inflation like the one we're living through now, $100 can still buy a lot… if you know where to look. In fact, it's enough to get something useful and well-made, but not so pricey that it's likely to le",
-      "published": 1795626000.0,
-      "fetched_at": "2026-11-26 04:21:17",
-      "published_cn": "11-25 17:00"
     },
     {
       "title": "Ars Live recap: Don’t expect military attacks on data centers to stop",
@@ -233,7 +413,7 @@
       "category": "tech",
       "summary": "Militaries have many reasons to target data centers and the cloud in wartime.",
       "published": 1795625234.0,
-      "fetched_at": "2026-11-26 04:21:17",
+      "fetched_at": "2026-11-26 12:42:39",
       "published_cn": "11-25 16:47"
     },
     {
@@ -243,18 +423,8 @@
       "category": "tech",
       "summary": "Huawei didn’t try very hard to hide thefts of US trade secrets, DOJ says.",
       "published": 1795624425.0,
-      "fetched_at": "2026-11-26 04:21:17",
+      "fetched_at": "2026-11-26 12:42:39",
       "published_cn": "11-25 16:33"
-    },
-    {
-      "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-      "url": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "U.S. consumers face higher food, travel and gift costs in 2026 as inflation and Iran-war energy shocks pressure holiday budgets.",
-      "published": 1795623433.0,
-      "fetched_at": "2026-11-26 04:21:18",
-      "published_cn": "11-25 16:17"
     },
     {
       "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
@@ -263,78 +433,68 @@
       "category": "finance",
       "summary": "The new levies seek to counter foreign trade practices deemed unfair, discriminatory or burdensome to U.S. commerce.",
       "published": 1795622572.0,
-      "fetched_at": "2026-11-26 04:21:18",
+      "fetched_at": "2026-11-26 12:42:40",
       "published_cn": "11-25 16:02"
     },
     {
-      "title": "Nothing offers a full look at its AI earbuds and charging case",
-      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize yo",
-      "published": 1795622459.0,
-      "fetched_at": "2026-11-26 04:21:17",
+      "title": "顶住双重压力 达势股份借新店扩张实现增长",
+      "url": "https://www.ftchinese.com/story/19e4e3bb-1d9c-4e01-9090-19f05a1a8a1d",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "达美乐比萨中国大陆及港澳地区特许经营商第三季度净新增84家门店，正稳步迈向今年新开350家门店的目标。",
+      "published": 1795622400.0,
+      "fetched_at": "2026-11-26 12:42:40",
       "published_cn": "11-25 16:00"
     },
     {
-      "title": "Lead azide detonation sends clouds over Iowa as questions of health risks swirl",
-      "url": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "Prior modeling estimated the plume would cover hundreds of square miles.",
-      "published": 1795620917.0,
-      "fetched_at": "2026-11-26 04:21:17",
-      "published_cn": "11-25 15:35"
-    },
-    {
-      "title": "The Verge’s guide to affordable holiday gifts under $25",
-      "url": "https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026",
-      "source": "The Verge",
-      "category": "tech",
-      "summary": "Gift-giving on a tight budget is tough, but constraints can also encourage some creative thinking. We thought for a long while (and asked other Verge staffers) about the best items out there, and we're pretty happy with ",
-      "published": 1795618800.0,
-      "fetched_at": "2026-11-26 04:21:17",
-      "published_cn": "11-25 15:00"
-    },
-    {
-      "title": "A familiar Iranian hacking group has found a new way to cause chaos",
-      "url": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "France blames an Iranian cyber unit for sabotaging hundreds of supermarket freezers.",
-      "published": 1795616983.0,
-      "fetched_at": "2026-11-26 04:21:17",
-      "published_cn": "11-25 14:29"
-    },
-    {
-      "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-      "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-      "source": "CNBC",
+      "title": "AI泡沫破裂之际　亿都交出亮眼转型成绩",
+      "url": "https://www.ftchinese.com/story/03d86fff-81d4-416a-8b5f-b81fe0c15aec",
+      "source": "FT中文网",
       "category": "finance",
-      "summary": "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.",
-      "published": 1795616325.0,
-      "fetched_at": "2026-11-26 04:21:18",
-      "published_cn": "11-25 14:18"
+      "summary": "亿都上半财年收入增长46%，开展仅一年的AI业务收入增至原来的八倍，占总收入比重由一年前的仅5%升至30%。",
+      "published": 1795622400.0,
+      "fetched_at": "2026-11-26 12:42:40",
+      "published_cn": "11-25 16:00"
     },
     {
-      "title": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
-      "url": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html",
-      "source": "CNBC",
+      "title": "英国移民新规与工地的中文涂鸦",
+      "url": "https://www.ftchinese.com/story/588fc634-8e29-491d-b60d-3ecd5c05052a",
+      "source": "FT中文网",
       "category": "finance",
-      "summary": "More consumers are shopping secondhand this holiday season as they emphasize value and uniqueness in their purchases.",
-      "published": 1795616221.0,
-      "fetched_at": "2026-11-26 04:21:18",
-      "published_cn": "11-25 14:17"
+      "summary": "殷岳：英国正在同时失去两类人：有能力离开的人，英国根本留不住；还愿意留下的人，路径却难上加难。",
+      "published": 1795622400.0,
+      "fetched_at": "2026-11-26 12:42:40",
+      "published_cn": "11-25 16:00"
     },
     {
-      "title": "美國準備公布對全球貿易夥伴加征新關稅的計劃",
-      "url": "https://www.bbc.com/zhongwen/articles/cm9d7g967l5lo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "新關稅將打擊美國許多最大的貿易夥伴，包括中國和歐盟。",
-      "published": 1795609138.0,
-      "fetched_at": "2026-11-26 04:21:18",
-      "published_cn": "11-25 12:18"
+      "title": "中国养老金的幸福与痛苦",
+      "url": "https://www.ftchinese.com/story/a064a530-0a80-49ce-b28f-0bd6118e4f63",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "周健：一套养老制度好不好，不是看它怎样安置塔顶的人，而是看它怎样对待最普通的劳动者。",
+      "published": 1795622400.0,
+      "fetched_at": "2026-11-26 12:42:40",
+      "published_cn": "11-25 16:00"
+    },
+    {
+      "title": "放学后的账谁来付？",
+      "url": "https://www.ftchinese.com/story/4ef1fca0-ec8a-4a1b-8a21-4d97763a34be",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "张昕之：手机和社交媒体禁令做的是“减法”：从所有人手里拿走同一样东西，弱者失去更多。手机可以锁进一只三十美元的袋子，但放学后空出来的那几个小时，由谁陪、在哪过、谁付钱，没有出现在任何一份预算案里。",
+      "published": 1795622400.0,
+      "fetched_at": "2026-11-26 12:42:40",
+      "published_cn": "11-25 16:00"
+    },
+    {
+      "title": "专访清华大学蒙克：AI时代，“做自己喜欢的事”为什么不再是一句“鸡汤”？",
+      "url": "https://www.ftchinese.com/story/df786819-2c28-4e17-84da-76f9333d72b7",
+      "source": "FT中文网",
+      "category": "finance",
+      "summary": "只要有足够的时间，我们最终还是会建立起一套适用于AI时代的新标准，重新判断什么是好的作品，什么是有价值的工作。当然，问题就在于，我们这些劳动者能不能坚持到那一天。",
+      "published": 1795622400.0,
+      "fetched_at": "2026-11-26 12:42:40",
+      "published_cn": "11-25 16:00"
     },
     {
       "title": "BBC事實查核：與中國有關帳號用AI生成影攻擊台灣選舉候選人",
@@ -343,7 +503,7 @@
       "category": "world",
       "summary": "一波與中國有關的帳號用AI生成影片，攻擊台灣執政黨關鍵人物，包括總統賴清德和台北市長候選人沈伯洋。",
       "published": 1795607586.0,
-      "fetched_at": "2026-11-26 04:21:18",
+      "fetched_at": "2026-11-26 12:42:40",
       "published_cn": "11-25 11:53"
     },
     {
@@ -353,18 +513,8 @@
       "category": "tech",
       "summary": "按照中国的农历纪年法，2027年是羊年，《说文解字》说「羊，祥也」。《诗经・小雅・无羊》云「尔羊来思，其角濈濈」，写羊群缓缓归野，安然相聚，恰合丁未岁的平和气象。一只吉羊，一册日历，便是收纳这一年日常 ...<a href=\"https://sspai.com/post/119264\" target=\"_blank\">查看全文</a>",
       "published": 1795600114.0,
-      "fetched_at": "2026-11-26 04:21:16",
+      "fetched_at": "2026-11-26 12:42:39",
       "published_cn": "11-25 09:48"
-    },
-    {
-      "title": "神舟二十四號成功發射 首位巴基斯坦航天員登中國「天宮」意味什麼？",
-      "url": "https://www.bbc.com/zhongwen/articles/cm9w91y0pge7o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "這次任務對航天員阿里而言，這是巴基斯坦的榮耀時刻；對中國而言，則是其與美國爭奪太空主導地位競賽中的又一步進展。",
-      "published": 1795599858.0,
-      "fetched_at": "2026-11-26 04:21:18",
-      "published_cn": "11-25 09:44"
     },
     {
       "title": "拓竹 P3C 发布：国补后 6374 元起，下一代 3D 打印机开始卷性价比",
@@ -373,7 +523,7 @@
       "category": "tech",
       "summary": "打印机开始卷手艺<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795597230.0,
-      "fetched_at": "2026-11-26 04:21:15",
+      "fetched_at": "2026-11-26 12:42:37",
       "published_cn": "11-25 09:00"
     },
     {
@@ -383,18 +533,8 @@
       "category": "tech",
       "summary": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。<a href=\"https://sspai.com/post/119310\" target=\"_blank\">查看全文</a>",
       "published": 1795589956.0,
-      "fetched_at": "2026-11-26 04:21:16",
+      "fetched_at": "2026-11-26 12:42:39",
       "published_cn": "11-25 06:59"
-    },
-    {
-      "title": "Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2",
-      "url": "https://www.ifanr.com/1691445?utm_source=rss&utm_medium=rss&utm_campaign",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "AI 视频「烧钱」终结者<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1795584064.0,
-      "fetched_at": "2026-11-26 04:21:15",
-      "published_cn": "11-25 05:21"
     },
     {
       "title": "宏福苑大火一週年：「這條刺永遠都在」，遺屬在傷痛中尋找答案",
@@ -403,7 +543,7 @@
       "category": "world",
       "summary": "對許多家庭來說，道歉只是「最低消費」，他們仍在等一個完整的答案。BBC中文接觸了多位遇難者家屬，記錄他們怎樣度過這一年。",
       "published": 1795576890.0,
-      "fetched_at": "2026-11-26 04:21:18",
+      "fetched_at": "2026-11-26 12:42:40",
       "published_cn": "11-25 03:21"
     },
     {
@@ -413,7 +553,7 @@
       "category": "tech",
       "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/118791\" target=\"_blank\">查看全文</a>",
       "published": 1795576061.0,
-      "fetched_at": "2026-11-26 04:21:16",
+      "fetched_at": "2026-11-26 12:42:39",
       "published_cn": "11-25 03:07"
     },
     {
@@ -423,18 +563,8 @@
       "category": "tech",
       "summary": "豆包 AI 个人助理「小豆」开启公测，Teenage Engineering 推出复古 CD 播放器 EP / BC-1 等。<a href=\"https://sspai.com/post/119527\" target=\"_blank\">查看全文</a>",
       "published": 1795566155.0,
-      "fetched_at": "2026-11-26 04:21:16",
+      "fetched_at": "2026-11-26 12:42:39",
       "published_cn": "11-25 00:22"
-    },
-    {
-      "title": "早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台",
-      "url": "https://www.ifanr.com/1691400?utm_source=rss&utm_medium=rss&utm_campaign",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "· 华为发布 Mate X8、Mate 90 Air 和小折叠电脑 MateBook Fold S\n· 神舟二十四号任务将开展一年期在轨驻留试验\n· PlayStation 公布《GTA 6》首发数据，四天吸引逾 3900 万玩家<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1795565301.0,
-      "fetched_at": "2026-11-26 04:21:15",
-      "published_cn": "11-25 00:08"
     },
     {
       "title": "和誉医药首款自研药在美获批，首笔销售将触发2,000万美元付款",
@@ -443,7 +573,7 @@
       "category": "finance",
       "summary": "和誉自主研发的匹米替尼的全球商业化权益已经授权给德国默克，和誉可按净销售额收取两位数比例的分成。",
       "published": 1795536000.0,
-      "fetched_at": "2026-11-26 04:21:18",
+      "fetched_at": "2026-11-26 12:42:40",
       "published_cn": "11-24 16:00"
     },
     {
@@ -453,27 +583,7 @@
       "category": "finance",
       "summary": "二手交易平台转转靠质检、寄卖及回收转售做出逾200亿元年收入，但服务投入可以留下多少利润，将是投资人关注的焦点。",
       "published": 1795536000.0,
-      "fetched_at": "2026-11-26 04:21:18",
-      "published_cn": "11-24 16:00"
-    },
-    {
-      "title": "游戏业务初见成效 雅乐科技营收增长提速",
-      "url": "https://www.ftchinese.com/story/253100b9-4fa2-43d3-974a-ff734825b9c5",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "这家深耕中东的社交媒体和游戏公司在第三季度重回营收增长轨道，并预计明年增速将跃升至两位数。",
-      "published": 1795536000.0,
-      "fetched_at": "2026-11-26 04:21:18",
-      "published_cn": "11-24 16:00"
-    },
-    {
-      "title": "对充满戏剧性的黄仁勋事件的严肃公司治理思考",
-      "url": "https://www.ftchinese.com/story/a4bcce1a-3f81-4833-a46a-843bc7272241",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "郑志刚：如果黄仁勋婚外情引发的离职风波发生在中国，投资者会包容他吗？普通民众会接受他吗？社会各界会认同他吗？",
-      "published": 1795536000.0,
-      "fetched_at": "2026-11-26 04:21:18",
+      "fetched_at": "2026-11-26 12:42:40",
       "published_cn": "11-24 16:00"
     },
     {
@@ -483,38 +593,18 @@
       "category": "world",
       "summary": "陳吉寧落馬的時點尤其敏感：距離二十一大換屆不到一年，他本是外界觀察下屆常委佈局的關鍵人物，被查前僅僅六天仍在公開調研。",
       "published": 1795532094.0,
-      "fetched_at": "2026-11-26 04:21:18",
+      "fetched_at": "2026-11-26 12:42:40",
       "published_cn": "11-24 14:54"
     },
     {
-      "title": "18.79 万元起！比亚迪唐 EV 正式上市，砍掉七座换来 850km 续航，还有线控底盘",
-      "url": "https://www.ifanr.com/1691381?utm_source=rss&utm_medium=rss&utm_campaign",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "十年之后，比亚迪唐终于卸下了第三排的担子。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1795527366.0,
-      "fetched_at": "2026-11-26 04:21:15",
-      "published_cn": "11-24 13:36"
-    },
-    {
-      "title": "实测小豆：主动办事的背后，AI 正在走向每一个人",
-      "url": "https://www.ifanr.com/1691355?utm_source=rss&utm_medium=rss&utm_campaign",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "Personal Agent 的下半场，拼的是主动办事<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1795518280.0,
-      "fetched_at": "2026-11-26 04:21:15",
-      "published_cn": "11-24 11:04"
-    },
-    {
-      "title": "华为发布了大折叠手机和小折叠电脑，但 1 亿鸿蒙设备才是最大的亮点",
-      "url": "https://www.ifanr.com/1691302?utm_source=rss&utm_medium=rss&utm_campaign",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "一亿台鸿蒙设备之后<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1795516204.0,
-      "fetched_at": "2026-11-26 04:21:15",
-      "published_cn": "11-24 10:30"
+      "title": "宏福苑大火一周年：居民受壓、媒體噤聲，為何悼念變得小心翼翼？",
+      "url": "https://www.bbc.com/zhongwen/articles/cw8dv46pv125o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "宏福苑大火一周年前夕，港府官員稱「政府絕對容許」合法活動，但有遺屬表示悼念活動受壓，也有新聞工作者向BBC中文透露，相關周年報導在製作完成後突然「被抽起」。",
+      "published": 1795515203.0,
+      "fetched_at": "2026-11-26 12:42:40",
+      "published_cn": "11-24 10:13"
     },
     {
       "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
@@ -523,18 +613,8 @@
       "category": "tech",
       "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/119492\" target=\"_blank\">查看全文</a>",
       "published": 1795511651.0,
-      "fetched_at": "2026-11-26 04:21:16",
+      "fetched_at": "2026-11-26 12:42:39",
       "published_cn": "11-24 09:14"
-    },
-    {
-      "title": "在一个长期相信考试可以改变命运的社会里，AI 已经开始动摇人们对成绩的信任",
-      "url": "https://www.ifanr.com/1691270?utm_source=rss&utm_medium=rss&utm_campaign",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "AI 带来的技术平权，甚至把作弊的门槛也一并打了下来<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1795511354.0,
-      "fetched_at": "2026-11-26 04:21:15",
-      "published_cn": "11-24 09:09"
     },
     {
       "title": "[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔",
@@ -543,78 +623,8 @@
       "category": "tech",
       "summary": "写一篇短文，我们可能只需要一个能让人打开即用的编辑器，比如说Apple用户最常用的系统备忘录，或者广为人知的桌面应用MicrosoftWord。但当文章的篇幅逐渐变长，一些原本不太起眼的事情也会变得麻 ...<a href=\"https://sspai.com/post/119035\" target=\"_blank\">查看全文</a>",
       "published": 1795505922.0,
-      "fetched_at": "2026-11-26 04:21:16",
+      "fetched_at": "2026-11-26 12:42:39",
       "published_cn": "11-24 07:38"
-    },
-    {
-      "title": "「试用期」已到，苹果开始给 AI 收费了 | AG&I",
-      "url": "https://www.ifanr.com/1691186?utm_source=rss&utm_medium=rss&utm_campaign",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "两年之期已到<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1795499723.0,
-      "fetched_at": "2026-11-26 04:21:15",
-      "published_cn": "11-24 05:55"
-    },
-    {
-      "title": "写在动荡之后：漫步巴黎的寻常一日",
-      "url": "https://sspai.com/post/119412",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "巴黎市徽上的那艘船，依然留着它的格言：「任凭风浪，亦不沉没。」<a href=\"https://sspai.com/post/119412\" target=\"_blank\">查看全文</a>",
-      "published": 1795489390.0,
-      "fetched_at": "2026-11-26 04:21:16",
-      "published_cn": "11-24 03:03"
-    },
-    {
-      "title": "派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等",
-      "url": "https://sspai.com/post/119460",
-      "source": "少数派",
-      "category": "tech",
-      "summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...<a href=\"https://sspai.com/post/119460\" target=\"_blank\">查看全文</a>",
-      "published": 1795480651.0,
-      "fetched_at": "2026-11-26 04:21:16",
-      "published_cn": "11-24 00:37"
-    },
-    {
-      "title": "欧洲贸易壁垒再起，中国汽车如何突围？",
-      "url": "https://www.ftchinese.com/story/fa3fc842-94da-487a-8bcd-fd2fe73f2862",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "中欧、中英汽车贸易博弈不会止步于一轮配额和关税。欧洲后续可能还会持续打磨本地化规则、经济安全审查工具。",
-      "published": 1795449600.0,
-      "fetched_at": "2026-11-26 04:21:18",
-      "published_cn": "11-23 16:00"
-    },
-    {
-      "title": "如何借鉴？从Anthropic招股书看融资创新、生态杠杆与风险边界",
-      "url": "https://www.ftchinese.com/story/f3437c2e-1327-430a-ba46-1784896df326",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "李学楠、王小龙：Anthropic在极短时间内调动海量资本、设计资产隔离架构与治理体系的做法，却提供了一本极具参考价值的现代企业资本结构与融资工程案卷。",
-      "published": 1795449600.0,
-      "fetched_at": "2026-11-26 04:21:18",
-      "published_cn": "11-23 16:00"
-    },
-    {
-      "title": "地缘政治风险与全球投资：不确定性阴影下的全球投资重构",
-      "url": "https://www.ftchinese.com/story/8b259928-bfcc-4298-bd45-bc2c1317017d",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "何适、万羽昕：当下跨国投资最值得追问的问题：当地缘政治风险从“背景变量”变成“解释变量”，FDI的区位选择、规模与结构正在如何被改写？",
-      "published": 1795449600.0,
-      "fetched_at": "2026-11-26 04:21:18",
-      "published_cn": "11-23 16:00"
-    },
-    {
-      "title": "从雷曼兄弟到黄仁勋，谁在决定美国公司的命运？",
-      "url": "https://www.ftchinese.com/story/001112105",
-      "source": "FT中文网",
-      "category": "finance",
-      "summary": "傅蔚冈：当年SEC主席不愿意拨打电话，今天美国总统却公开而积极地影响一家上市公司的CEO任免。变化的不只是政治人物的行事风格，也可能是政府介入公司治理的方式。",
-      "published": 1795449600.0,
-      "fetched_at": "2026-11-26 04:21:18",
-      "published_cn": "11-23 16:00"
     },
     {
       "title": "高雄選戰「知識藍」對決「新潮流」，國民黨能複製「韓流」嗎？",
@@ -623,7 +633,7 @@
       "category": "world",
       "summary": "柯志恩以「知識藍」的姿態拉攏中間選民，支持度大幅追貼深耕高雄20年的賴瑞隆，選情咬緊。",
       "published": 1794932749.0,
-      "fetched_at": "2026-11-26 04:21:18",
+      "fetched_at": "2026-11-26 12:42:40",
       "published_cn": "11-17 16:25"
     },
     {
@@ -633,18 +643,8 @@
       "category": "world",
       "summary": "新竹市是民眾黨此前唯一贏得執政權的縣市，現任市長高虹安尋求連任，她這次雖已退出民眾黨、改以無黨籍身分參選，但學者指出其選情不僅將影響雙方未來合作模式能否延續，也可能牽動2028年全國大選的政治布局。",
       "published": 1794908989.0,
-      "fetched_at": "2026-11-26 04:21:18",
+      "fetched_at": "2026-11-26 12:42:40",
       "published_cn": "11-17 09:49"
-    },
-    {
-      "title": "九合一前夕：台灣幾乎年年選舉，會引起「投票疲勞」嗎？",
-      "url": "https://www.bbc.com/zhongwen/articles/c63egjkzqpz2o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "台灣在過去七年間，幾乎每年都有大型選舉、罷免或公投。有學者形容台灣政治人物常處於「選舉模式」，在面對不同議題時往往急於回應。",
-      "published": 1794566346.0,
-      "fetched_at": "2026-11-26 04:21:18",
-      "published_cn": "11-13 10:39"
     }
   ],
   "feed_failures": [

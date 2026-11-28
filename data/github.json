@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 03:46:48",
+  "updated_at": "2026-11-28 12:32:12",
   "window_days": 7,
   "repos": [
     {
@@ -7,26 +7,17 @@
       "url": "https://github.com/Marvisak/VIctory",
       "desc": "An attempt at running GTA VI on PC",
       "lang": "Rust",
-      "stars": 13741,
-      "forks": 2351,
+      "stars": 13857,
+      "forks": 2398,
       "created": "2026-11-23"
-    },
-    {
-      "repo": "xcl-dev/xcl",
-      "url": "https://github.com/xcl-dev/xcl",
-      "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
-      "lang": "Rust",
-      "stars": 8708,
-      "forks": 1217,
-      "created": "2026-11-20"
     },
     {
       "repo": "4lwayz/portwatch-vi",
       "url": "https://github.com/4lwayz/portwatch-vi",
       "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
       "lang": "JavaScript",
-      "stars": 6575,
-      "forks": 187,
+      "stars": 6834,
+      "forks": 207,
       "created": "2026-11-21"
     },
     {
@@ -34,26 +25,26 @@
       "url": "https://github.com/EL4CTEO/fast-anything",
       "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#",
       "lang": "Rust",
-      "stars": 4429,
-      "forks": 317,
+      "stars": 4509,
+      "forks": 324,
       "created": "2026-11-21"
     },
     {
-      "repo": "AFK-surf/xnulinux",
-      "url": "https://github.com/AFK-surf/xnulinux",
-      "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
-      "lang": "C",
-      "stars": 4350,
-      "forks": 228,
-      "created": "2026-11-20"
+      "repo": "trustno1-coder/VIctory-NVIDIA",
+      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
+      "desc": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats pan",
+      "lang": "Rust",
+      "stars": 3897,
+      "forks": 1395,
+      "created": "2026-11-25"
     },
     {
       "repo": "fxceless/victory-fork",
       "url": "https://github.com/fxceless/victory-fork",
       "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
       "lang": "Rust",
-      "stars": 3348,
-      "forks": 1017,
+      "stars": 3364,
+      "forks": 1016,
       "created": "2026-11-24"
     },
     {
@@ -61,8 +52,8 @@
       "url": "https://github.com/ProjectLeonida/mandy",
       "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
       "lang": "Python",
-      "stars": 2617,
-      "forks": 591,
+      "stars": 2970,
+      "forks": 645,
       "created": "2026-11-23"
     },
     {
@@ -70,35 +61,17 @@
       "url": "https://github.com/nexu-io/opengame",
       "desc": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish",
       "lang": "TypeScript",
-      "stars": 2113,
-      "forks": 346,
+      "stars": 2394,
+      "forks": 385,
       "created": "2026-11-25"
-    },
-    {
-      "repo": "R0Y00/Xbox2Windows",
-      "url": "https://github.com/R0Y00/Xbox2Windows",
-      "desc": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
-      "lang": "Python",
-      "stars": 2039,
-      "forks": 248,
-      "created": "2026-11-20"
     },
     {
       "repo": "alesha-pro/llm.asm",
       "url": "https://github.com/alesha-pro/llm.asm",
       "desc": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
       "lang": "Assembly",
-      "stars": 2038,
-      "forks": 314,
-      "created": "2026-11-25"
-    },
-    {
-      "repo": "trustno1-coder/VIctory-NVIDIA",
-      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
-      "desc": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats pan",
-      "lang": "Rust",
-      "stars": 2021,
-      "forks": 694,
+      "stars": 2297,
+      "forks": 355,
       "created": "2026-11-25"
     },
     {
@@ -106,8 +79,8 @@
       "url": "https://github.com/os6/nospeaker",
       "desc": "make your macbook's trackpad talk using its haptic motor",
       "lang": "Swift",
-      "stars": 1987,
-      "forks": 107,
+      "stars": 1994,
+      "forks": 108,
       "created": "2026-11-22"
     },
     {
@@ -115,7 +88,7 @@
       "url": "https://github.com/omonkeyz/xbox-emulator",
       "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
       "lang": "Rust",
-      "stars": 1851,
+      "stars": 1848,
       "forks": 124,
       "created": "2026-11-21"
     },
@@ -124,8 +97,8 @@
       "url": "https://github.com/crhywun/g1-acq",
       "desc": "",
       "lang": "JavaScript",
-      "stars": 1778,
-      "forks": 405,
+      "stars": 1810,
+      "forks": 415,
       "created": "2026-11-22"
     },
     {
@@ -133,43 +106,34 @@
       "url": "https://github.com/qianyiai/KuroCat",
       "desc": "KuroCat — Free open-source 3D/2D desktop typing cat & AI coding companion (Bongo Cat alternative · Tauri v2 + Rust + MCP · Claude/Codex/DeepSeek/OBS · Win/Mac/Linux/Android)｜开源3D桌面打字小黑猫与AI伴侣",
       "lang": "TypeScript",
-      "stars": 1755,
-      "forks": 247,
+      "stars": 1796,
+      "forks": 253,
       "created": "2026-11-21"
-    },
-    {
-      "repo": "Avaneesh-Inamdar/Stream-Tube-Desktop",
-      "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
-      "desc": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
-      "lang": "Rust",
-      "stars": 1633,
-      "forks": 143,
-      "created": "2026-11-22"
-    },
-    {
-      "repo": "leanprover-community/riemann-hypothesis",
-      "url": "https://github.com/leanprover-community/riemann-hypothesis",
-      "desc": "Lean formalization of the Riemann Hypothesis (Alpöge, 2026-11-20) being cleaned up by members of the Lean community.",
-      "lang": "Lean",
-      "stars": 1517,
-      "forks": 547,
-      "created": "2026-11-20"
     },
     {
       "repo": "Reukix/Reloc",
       "url": "https://github.com/Reukix/Reloc",
       "desc": "iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA)",
       "lang": "Swift",
-      "stars": 1491,
-      "forks": 309,
+      "stars": 1786,
+      "forks": 364,
       "created": "2026-11-25"
+    },
+    {
+      "repo": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+      "desc": "Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return YouTube Dislike built in",
+      "lang": "Rust",
+      "stars": 1668,
+      "forks": 149,
+      "created": "2026-11-22"
     },
     {
       "repo": "Pixel679-cmyk/windows-titlebar-blur-customizer",
       "url": "https://github.com/Pixel679-cmyk/windows-titlebar-blur-customizer",
       "desc": "Customize Windows 10 and 11 title bar effects with Aero, Acrylic, Mica and advanced DWM blur effects.",
       "lang": "C++",
-      "stars": 1396,
+      "stars": 1505,
       "forks": 0,
       "created": "2026-11-26"
     },
@@ -178,25 +142,7 @@
       "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
       "desc": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
       "lang": "Rust",
-      "stars": 1354,
-      "forks": 1,
-      "created": "2026-11-23"
-    },
-    {
-      "repo": "deterministic-machines/deslop-please",
-      "url": "https://github.com/deterministic-machines/deslop-please",
-      "desc": "Bring (back) sanity to your code",
-      "lang": "Rust",
-      "stars": 1285,
-      "forks": 68,
-      "created": "2026-11-22"
-    },
-    {
-      "repo": "Umbra9179/clipboard-history-manager-windows",
-      "url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
-      "desc": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
-      "lang": "C#",
-      "stars": 1270,
+      "stars": 1371,
       "forks": 1,
       "created": "2026-11-23"
     },
@@ -205,17 +151,44 @@
       "url": "https://github.com/ZigZagBoi1/ScarlettPort",
       "desc": "Native PC port layer for an Xbox Series X|S title: the game's x64 code runs on your CPU and its RDNA2 GPU code is recompiled for your graphics card. Bring your own files.",
       "lang": "Rust",
-      "stars": 1202,
-      "forks": 165,
+      "stars": 1356,
+      "forks": 193,
       "created": "2026-11-24"
+    },
+    {
+      "repo": "deterministic-machines/deslop-please",
+      "url": "https://github.com/deterministic-machines/deslop-please",
+      "desc": "Bring (back) sanity to your code",
+      "lang": "Rust",
+      "stars": 1352,
+      "forks": 74,
+      "created": "2026-11-22"
+    },
+    {
+      "repo": "Umbra9179/clipboard-history-manager-windows",
+      "url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
+      "desc": "Free open-source Windows clipboard manager with searchable history, image previews, tags, editing and backup.",
+      "lang": "C#",
+      "stars": 1272,
+      "forks": 1,
+      "created": "2026-11-23"
     },
     {
       "repo": "solv4626/steam-achievement-manager-windows",
       "url": "https://github.com/solv4626/steam-achievement-manager-windows",
       "desc": "Free open-source Steam Achievement Manager for Windows to manage game achievements and edit Steam game statistics.",
       "lang": "Rust",
-      "stars": 1129,
+      "stars": 1236,
       "forks": 1,
+      "created": "2026-11-23"
+    },
+    {
+      "repo": "Basil0879/steam-game-idler",
+      "url": "https://github.com/Basil0879/steam-game-idler",
+      "desc": "Free Steam idler for trading card farming, achievement management, playtime boosting and multi-account automation on Windows.",
+      "lang": "TypeScript",
+      "stars": 1150,
+      "forks": 0,
       "created": "2026-11-23"
     },
     {
@@ -223,54 +196,81 @@
       "url": "https://github.com/kai415-debug/ffmpeg-video-audio-converter",
       "desc": "Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and multimedia format encoding.",
       "lang": "C++",
-      "stars": 1099,
+      "stars": 1136,
       "forks": 0,
       "created": "2026-11-23"
     },
     {
-      "repo": "danielwh2/sprite-stacking",
-      "url": "https://github.com/danielwh2/sprite-stacking",
-      "desc": "Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works with Claude Code, Codex, Cursor, OpenCode, Gemini CLI, Pi.",
-      "lang": "HTML",
-      "stars": 1083,
-      "forks": 89,
-      "created": "2026-11-20"
+      "repo": "Nebula4207/av1-video-encoder-gui",
+      "url": "https://github.com/Nebula4207/av1-video-encoder-gui",
+      "desc": "Free Windows AV1 video encoder GUI for aomenc, rav1e, SVT-AV1, NVENC, Quick Sync and VP9 with parallel encoding.",
+      "lang": "C#",
+      "stars": 1107,
+      "forks": 1,
+      "created": "2026-11-23"
     },
     {
       "repo": "lsernau/grh-lean",
       "url": "https://github.com/lsernau/grh-lean",
       "desc": "A short Lean 4 proof of the Generalized Riemann Hypothesis",
       "lang": "Lean",
-      "stars": 1025,
-      "forks": 113,
+      "stars": 1065,
+      "forks": 120,
       "created": "2026-11-25"
+    },
+    {
+      "repo": "umbradev315/ffmpeg-video-audio-converter",
+      "url": "https://github.com/umbradev315/ffmpeg-video-audio-converter",
+      "desc": "Free open-source FFmpeg GUI for Windows to convert video and audio, batch process media, and analyze quality.",
+      "lang": "Kotlin",
+      "stars": 1064,
+      "forks": 0,
+      "created": "2026-11-23"
+    },
+    {
+      "repo": "peak85-sketch/stardew-valley-mod-manager",
+      "url": "https://github.com/peak85-sketch/stardew-valley-mod-manager",
+      "desc": "Free open-source Stardew Valley mod manager for Windows with SMAPI support, mod updates and custom profiles.",
+      "lang": "C#",
+      "stars": 1025,
+      "forks": 0,
+      "created": "2026-11-23"
+    },
+    {
+      "repo": "olive527/steam-library-manager-windows",
+      "url": "https://github.com/olive527/steam-library-manager-windows",
+      "desc": "Free Windows game library manager and backup tool for Steam, Origin and Ubisoft Connect with multi-library support.",
+      "lang": "C#",
+      "stars": 1023,
+      "forks": 0,
+      "created": "2026-11-23"
     },
     {
       "repo": "sybil-solutions/skill-distill",
       "url": "https://github.com/sybil-solutions/skill-distill",
       "desc": "Distill a good Claude Code / Codex session into a skill an open-weight model can follow to reproduce the task",
       "lang": "Python",
-      "stars": 991,
-      "forks": 84,
+      "stars": 1009,
+      "forks": 86,
       "created": "2026-11-21"
+    },
+    {
+      "repo": "DeadInternetStudios/100x-engineer-skill",
+      "url": "https://github.com/DeadInternetStudios/100x-engineer-skill",
+      "desc": "100x is a skill by a former Cursor engineer that turns prompts into formally verified, production-ready code",
+      "lang": "JavaScript",
+      "stars": 987,
+      "forks": 137,
+      "created": "2026-11-23"
     },
     {
       "repo": "xikhar/papercraft",
       "url": "https://github.com/xikhar/papercraft",
       "desc": "Agent skill to build games, interactive scenes, web pages and animations in a handcrafted pop-up papercraft style",
       "lang": "JavaScript",
-      "stars": 928,
-      "forks": 101,
+      "stars": 982,
+      "forks": 108,
       "created": "2026-11-21"
-    },
-    {
-      "repo": "sous-labs/songe",
-      "url": "https://github.com/sous-labs/songe",
-      "desc": "A training engine for your local model, using your idle compute",
-      "lang": "Python",
-      "stars": 925,
-      "forks": 75,
-      "created": "2026-11-20"
     }
   ],
   "note": ""

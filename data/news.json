@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28 12:32:11",
+  "updated_at": "2026-11-28 20:37:56",
   "categories": [
     "tech",
     "finance",
@@ -7,13 +7,83 @@
   ],
   "items": [
     {
+      "title": "2026 Kindle Paperwhite review: Page-turn buttons are back, for a price",
+      "url": "https://arstechnica.com/gadgets/2026/11/2026-kindle-paperwhite-review-page-turn-buttons-are-back-for-a-price/",
+      "source": "Ars Technica",
+      "category": "tech",
+      "summary": "Kindles are getting costlier faster than they're getting better.",
+      "published": 1795867220.0,
+      "fetched_at": "2026-11-28 20:37:54",
+      "published_cn": "11-28 12:00"
+    },
+    {
+      "title": "台灣「九合一」選舉BBC視像直播",
+      "url": "https://www.bbc.com/zhongwen/articles/cwkgry00vk48o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "BBC中文在台灣「九合一」選舉投票結束後進行視像直播，除了專家分析選舉結果，亦會在投票站和競選總部進行現場報道。",
+      "published": 1795857611.0,
+      "fetched_at": "2026-11-28 20:37:56",
+      "published_cn": "11-28 09:20"
+    },
+    {
+      "title": "台灣「九合一」選舉與核電公投：開票結果實時更新",
+      "url": "https://www.bbc.com/zhongwen/articles/ck0jxz70e4z5o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "台灣「九合一」選舉與核能政策公投投票結束，全台1.8萬餘處投票所隨即即場點票。BBC中文緊貼開票進展。",
+      "published": 1795854683.0,
+      "fetched_at": "2026-11-28 20:37:56",
+      "published_cn": "11-28 08:31"
+    },
+    {
+      "title": "中國崛起的背後：異議人士稱他們的聲音正被淹沒",
+      "url": "https://www.bbc.com/zhongwen/articles/cqrmgenjvkgxo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "world",
+      "summary": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
+      "published": 1795847948.0,
+      "fetched_at": "2026-11-28 20:37:56",
+      "published_cn": "11-28 06:39"
+    },
+    {
+      "title": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
+      "url": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "The Kingdom is moving from \"spending and delivery at any cost\" to \"spending and delivery at the right cost,\" Economic Minister Faisal Alibrahim told CNBC.",
+      "published": 1795845601.0,
+      "fetched_at": "2026-11-28 20:37:56",
+      "published_cn": "11-28 06:00"
+    },
+    {
+      "title": "Africa’s richest man is taking his mega-refinery public in a blockbuster IPO",
+      "url": "https://www.cnbc.com/2026/11/28/dangote-refinery-oil-ipo-nigeria-africa-energy.html",
+      "source": "CNBC",
+      "category": "finance",
+      "summary": "Dangote Refinery’s IPO could value the company at about $47 billion, in what is expected to be Africa’s biggest stock market listing.",
+      "published": 1795845601.0,
+      "fetched_at": "2026-11-28 20:37:56",
+      "published_cn": "11-28 06:00"
+    },
+    {
+      "title": "德系最大 SUV 来了！奥迪 Q9 国内首秀，车长超 5 米 3，还有一台大 V6丨广州车展",
+      "url": "https://www.ifanr.com/1696001?utm_source=rss&utm_medium=rss&utm_campaign",
+      "source": "爱范儿",
+      "category": "tech",
+      "summary": "奥迪也拥有了他们的「大 9 系」。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "published": 1795842114.0,
+      "fetched_at": "2026-11-28 20:37:53",
+      "published_cn": "11-28 05:01"
+    },
+    {
       "title": "「黑五」值得买：不容错过的数码硬件优惠",
       "url": "https://sspai.com/post/119651",
       "source": "少数派",
       "category": "tech",
       "summary": "除了软件服务，这个黑五还有这些硬件值得一看。<a href=\"https://sspai.com/post/119651\" target=\"_blank\">查看全文</a>",
       "published": 1795836600.0,
-      "fetched_at": "2026-11-28 12:32:09",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-28 03:30"
     },
     {
@@ -23,7 +93,7 @@
       "category": "tech",
       "summary": "If you’ve been holding off on buying a new MacBook Air since Apple raised prices by $200 in June, you’re in luck. The 13-inch M5 MacBook Air is on sale at Amazon and Best Buy with 16GB of RAM and 512GB of storage startin",
       "published": 1795836600.0,
-      "fetched_at": "2026-11-28 12:32:09",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-28 03:30"
     },
     {
@@ -33,7 +103,7 @@
       "category": "tech",
       "summary": "Black Friday is nearly over, but many of this year’s best deals are still available. You can still find some of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, robot vacuums, and ",
       "published": 1795836512.0,
-      "fetched_at": "2026-11-28 12:32:09",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-28 03:28"
     },
     {
@@ -43,7 +113,7 @@
       "category": "tech",
       "summary": "Between holiday travel, gifts, and the rising cost of just about everything, expenses can quickly add up during this time of year. Thankfully, you don’t have to dip too far into your savings to take advantage of some of ",
       "published": 1795829400.0,
-      "fetched_at": "2026-11-28 12:32:09",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-28 01:30"
     },
     {
@@ -53,7 +123,7 @@
       "category": "tech",
       "summary": "以上便是部分近期值得探讨的新游信息汇总，个人角度仅供参考。本期不设特定有奖互动话题，欢迎你在评论区分享11月新作游玩体验，可以是本文出现的，也可以是本文未提及、但你特别想推荐给派友的。我们下期再见！> ...<a href=\"https://sspai.com/post/119686\" target=\"_blank\">查看全文</a>",
       "published": 1795826867.0,
-      "fetched_at": "2026-11-28 12:32:09",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-28 00:47"
     },
     {
@@ -63,17 +133,17 @@
       "category": "tech",
       "summary": "Electric minivans could be the ultimate in utility, with room for passengers, gear, and huge batteries. While VW's ID Buzz only gave us 200 miles of real-world driving on a charge in 2023, China's BYD has just announced ",
       "published": 1795824169.0,
-      "fetched_at": "2026-11-28 12:32:09",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-28 00:02"
     },
     {
-      "title": "台灣「九合一」選舉開始投票 核電政策公投同步舉行",
+      "title": "台灣九合一選舉：沈伯洋承認敗選 蔣萬安連任台北市長",
       "url": "https://www.bbc.com/zhongwen/live/c60evlqlpx32t/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
       "category": "world",
       "summary": "台灣1965萬選民將票選縣市長、地方議員、鄉鎮村里長等將近1.11萬名公職人員，同時公投決定日後能源政策。",
       "published": 1795824000.0,
-      "fetched_at": "2026-11-28 12:32:11",
+      "fetched_at": "2026-11-28 20:37:56",
       "published_cn": "11-28 00:00"
     },
     {
@@ -83,7 +153,7 @@
       "category": "tech",
       "summary": "Black Friday is entering the evening, which means one of the best times of the year to save some cash on a new pair of AirPods or the latest Apple Watch is coming to a close. After all, the holiday savings can help offse",
       "published": 1795823599.0,
-      "fetched_at": "2026-11-28 12:32:09",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-27 23:53"
     },
     {
@@ -93,7 +163,7 @@
       "category": "tech",
       "summary": "Black Friday is here, and if you want a little help keeping your floors clean this holiday season, now is a great time to pick up a robot vacuum. Some of the best models we’ve tested over the last year or two are on sale",
       "published": 1795822337.0,
-      "fetched_at": "2026-11-28 12:32:09",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-27 23:32"
     },
     {
@@ -103,7 +173,7 @@
       "category": "tech",
       "summary": "Instead of purely looking forward with its headphone designs, Sony went back to its popular WH-1000XM4 design and made some improvements to make it even better. The 2026 version, called the WH-1000XM4C, sounds nearly as ",
       "published": 1795822320.0,
-      "fetched_at": "2026-11-28 12:32:09",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-27 23:32"
     },
     {
@@ -113,7 +183,7 @@
       "category": "tech",
       "summary": "Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th. Unfortunately for Xbox owners, the developer says",
       "published": 1795822232.0,
-      "fetched_at": "2026-11-28 12:32:09",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-27 23:30"
     },
     {
@@ -123,18 +193,8 @@
       "category": "finance",
       "summary": "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
       "published": 1795816857.0,
-      "fetched_at": "2026-11-28 12:32:11",
+      "fetched_at": "2026-11-28 20:37:56",
       "published_cn": "11-27 22:00"
-    },
-    {
-      "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
-      "url": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "SpaceX shares jumped in trading Friday after Elon Musk said on X that he would donate shares to American children every year.",
-      "published": 1795803846.0,
-      "fetched_at": "2026-11-28 12:32:11",
-      "published_cn": "11-27 18:24"
     },
     {
       "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
@@ -143,7 +203,7 @@
       "category": "finance",
       "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
       "published": 1795803632.0,
-      "fetched_at": "2026-11-28 12:32:11",
+      "fetched_at": "2026-11-28 20:37:56",
       "published_cn": "11-27 18:20"
     },
     {
@@ -153,7 +213,7 @@
       "category": "tech",
       "summary": "Perhaps some commerce, to help all the Turkey Day leftovers go down easier?",
       "published": 1795799137.0,
-      "fetched_at": "2026-11-28 12:32:10",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-27 17:05"
     },
     {
@@ -163,7 +223,7 @@
       "category": "tech",
       "summary": "新世代的宝马，依旧是「驾驶者之车」。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795797697.0,
-      "fetched_at": "2026-11-28 12:32:08",
+      "fetched_at": "2026-11-28 20:37:53",
       "published_cn": "11-27 16:41"
     },
     {
@@ -173,7 +233,7 @@
       "category": "world",
       "summary": "這場選舉將影響藍綠政治版圖，六都選情備受關注，包括台北、新北、桃園、台中、台南、高雄，BBC中文整理各地候選人的簡介。",
       "published": 1795795441.0,
-      "fetched_at": "2026-11-28 12:32:11",
+      "fetched_at": "2026-11-28 20:37:56",
       "published_cn": "11-27 16:04"
     },
     {
@@ -183,7 +243,7 @@
       "category": "finance",
       "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
       "published": 1795794720.0,
-      "fetched_at": "2026-11-28 12:32:11",
+      "fetched_at": "2026-11-28 20:37:56",
       "published_cn": "11-27 15:52"
     },
     {
@@ -193,7 +253,7 @@
       "category": "tech",
       "summary": "生活方式，可大可小。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795793374.0,
-      "fetched_at": "2026-11-28 12:32:08",
+      "fetched_at": "2026-11-28 20:37:53",
       "published_cn": "11-27 15:29"
     },
     {
@@ -203,7 +263,7 @@
       "category": "finance",
       "summary": "The November sell-off has so far pushed the S&amp;P 500 into a correction. History shows that a correction doesn't always lead to a bear market, or a recession.",
       "published": 1795785716.0,
-      "fetched_at": "2026-11-28 12:32:11",
+      "fetched_at": "2026-11-28 20:37:56",
       "published_cn": "11-27 13:21"
     },
     {
@@ -213,7 +273,7 @@
       "category": "finance",
       "summary": "While the average price of a new car hit $51,109 in October, according to Kelley Blue Book, many buyers are spending far less on their purchase. Here's how.",
       "published": 1795785301.0,
-      "fetched_at": "2026-11-28 12:32:11",
+      "fetched_at": "2026-11-28 20:37:56",
       "published_cn": "11-27 13:15"
     },
     {
@@ -223,7 +283,7 @@
       "category": "tech",
       "summary": "十年前为中国造大空间，十年后用中国场景定义全球车。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795782017.0,
-      "fetched_at": "2026-11-28 12:32:08",
+      "fetched_at": "2026-11-28 20:37:53",
       "published_cn": "11-27 12:20"
     },
     {
@@ -233,7 +293,7 @@
       "category": "tech",
       "summary": "15 万级家用车车主，也在认真用高阶智驾了。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795781792.0,
-      "fetched_at": "2026-11-28 12:32:08",
+      "fetched_at": "2026-11-28 20:37:53",
       "published_cn": "11-27 12:16"
     },
     {
@@ -243,7 +303,7 @@
       "category": "tech",
       "summary": "穿西装的方盒子。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795781620.0,
-      "fetched_at": "2026-11-28 12:32:08",
+      "fetched_at": "2026-11-28 20:37:53",
       "published_cn": "11-27 12:13"
     },
     {
@@ -253,7 +313,7 @@
       "category": "tech",
       "summary": "一个配置打天下。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795781479.0,
-      "fetched_at": "2026-11-28 12:32:08",
+      "fetched_at": "2026-11-28 20:37:53",
       "published_cn": "11-27 12:11"
     },
     {
@@ -263,7 +323,7 @@
       "category": "tech",
       "summary": "辅助驾驶上大分。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
       "published": 1795781354.0,
-      "fetched_at": "2026-11-28 12:32:08",
+      "fetched_at": "2026-11-28 20:37:53",
       "published_cn": "11-27 12:09"
     },
     {
@@ -273,7 +333,7 @@
       "category": "tech",
       "summary": "Intel faced pressure to surrender a 10% stake to unlock billions in promised grants.",
       "published": 1795781101.0,
-      "fetched_at": "2026-11-28 12:32:10",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-27 12:05"
     },
     {
@@ -283,28 +343,8 @@
       "category": "tech",
       "summary": "We polled the Ars staff about their favorite pickups this year; here's the list.",
       "published": 1795779004.0,
-      "fetched_at": "2026-11-28 12:32:10",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-27 11:30"
-    },
-    {
-      "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
-      "url": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
-      "source": "CNBC",
-      "category": "finance",
-      "summary": "Chinese stocks rebounded sharply after a rare intraday state media readout cheered investors as top policymakers pledged market liquidity support.",
-      "published": 1795774424.0,
-      "fetched_at": "2026-11-28 12:32:11",
-      "published_cn": "11-27 10:13"
-    },
-    {
-      "title": "Agent 上车元年，支付宝造了一个行动座舱",
-      "url": "https://www.ifanr.com/1695888?utm_source=rss&utm_medium=rss&utm_campaign",
-      "source": "爱范儿",
-      "category": "tech",
-      "summary": "智能座舱的下半场，正在从「对话智能」步入「行动智能」。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "published": 1795773695.0,
-      "fetched_at": "2026-11-28 12:32:08",
-      "published_cn": "11-27 10:01"
     },
     {
       "title": "本周看什么 | 最近值得一看的 8 部作品",
@@ -313,7 +353,7 @@
       "category": "tech",
       "summary": "☕️TL;DR近期佳作推荐：[电影]泥面人、[电影]峡湾、[电影]童话继姊妹、[英剧]警之光第四季、[加拿大]槲寄生谋杀案第三季、[国产]今天是太阳雨、[纪录片]一切如你所见、[真人秀]魔鬼的计谋：死 ...<a href=\"https://sspai.com/post/119658\" target=\"_blank\">查看全文</a>",
       "published": 1795768366.0,
-      "fetched_at": "2026-11-28 12:32:09",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-27 08:32"
     },
     {
@@ -323,18 +363,8 @@
       "category": "tech",
       "summary": "There’s just one thing we still don’t know: How much will they cost?",
       "published": 1795766453.0,
-      "fetched_at": "2026-11-28 12:32:10",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-27 08:00"
-    },
-    {
-      "title": "押注英偉達發展AI，亞洲在黃仁勳復職後前景如何？",
-      "url": "https://www.bbc.com/zhongwen/articles/cq62p0n4er0wo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "黃仁勳戲劇性地重返英偉達執行長職位，引發亞洲股市劇烈波動，也暴露出區內經濟體高度依賴AI產業及英偉達所帶來的風險。",
-      "published": 1795765238.0,
-      "fetched_at": "2026-11-28 12:32:11",
-      "published_cn": "11-27 07:40"
     },
     {
       "title": "為何特朗普新一輪關稅的威脅不如以往？",
@@ -343,7 +373,7 @@
       "category": "world",
       "summary": "面對特朗普首輪關稅攻勢，世界各國已調整貿易流向，繞過美國的關稅壁壘。如今，各國更將目光投向特朗普卸任後的時代。",
       "published": 1795753368.0,
-      "fetched_at": "2026-11-28 12:32:11",
+      "fetched_at": "2026-11-28 20:37:56",
       "published_cn": "11-27 04:22"
     },
     {
@@ -353,18 +383,8 @@
       "category": "tech",
       "summary": "先预祝大家买得愉快、用得舒心。<a href=\"https://sspai.com/post/119601\" target=\"_blank\">查看全文</a>",
       "published": 1795751297.0,
-      "fetched_at": "2026-11-28 12:32:09",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-27 03:48"
-    },
-    {
-      "title": "失去伊朗石油供應，中國小型煉油廠如何應對？",
-      "url": "https://www.bbc.com/zhongwen/articles/c3qj5y7lwrn9o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "美國對伊朗實施海上封鎖，迫使長期依賴廉價伊朗石油的中國獨立煉油廠轉向伊拉克等產油國，面臨成本上升和經營虧損的壓力。即使封鎖解除，伊朗能否重新贏得這些中國買家，仍取決於油價及美國的制裁政策。",
-      "published": 1795750506.0,
-      "fetched_at": "2026-11-28 12:32:11",
-      "published_cn": "11-27 03:35"
     },
     {
       "title": "派早报：1Password 确认内部系统遭入侵等",
@@ -373,7 +393,7 @@
       "category": "tech",
       "summary": "索尼 WH-1000XM4C 无线降噪耳机国行正式发售，微软公布 Windows Server 2028 功能清理计划等。<a href=\"https://sspai.com/post/119632\" target=\"_blank\">查看全文</a>",
       "published": 1795739258.0,
-      "fetched_at": "2026-11-28 12:32:09",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-27 00:27"
     },
     {
@@ -383,7 +403,7 @@
       "category": "tech",
       "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
       "published": 1795723434.0,
-      "fetched_at": "2026-11-28 12:32:09",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-26 20:03"
     },
     {
@@ -393,7 +413,7 @@
       "category": "tech",
       "summary": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
       "published": 1795723200.0,
-      "fetched_at": "2026-11-28 12:32:09",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-26 20:00"
     },
     {
@@ -403,7 +423,7 @@
       "category": "tech",
       "summary": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
       "published": 1795721510.0,
-      "fetched_at": "2026-11-28 12:32:09",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-26 19:31"
     },
     {
@@ -413,7 +433,7 @@
       "category": "tech",
       "summary": "Ford enters the World Endurance Championship in 2027 with the new prototype.",
       "published": 1795716029.0,
-      "fetched_at": "2026-11-28 12:32:10",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-26 18:00"
     },
     {
@@ -423,7 +443,7 @@
       "category": "tech",
       "summary": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
       "published": 1795712400.0,
-      "fetched_at": "2026-11-28 12:32:09",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-26 17:00"
     },
     {
@@ -433,7 +453,7 @@
       "category": "tech",
       "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
       "published": 1795708800.0,
-      "fetched_at": "2026-11-28 12:32:09",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-26 16:00"
     },
     {
@@ -443,7 +463,7 @@
       "category": "finance",
       "summary": "林原：目前来看，蒋万安阵营新近采取的选举策略较为有效，阻止了“洋流”继续上涨并扩大领先优势。现阶段两人选情处于拉锯状态，非常紧绷。",
       "published": 1795708800.0,
-      "fetched_at": "2026-11-28 12:32:10",
+      "fetched_at": "2026-11-28 20:37:56",
       "published_cn": "11-26 16:00"
     },
     {
@@ -453,7 +473,7 @@
       "category": "finance",
       "summary": "保险公司云锋金融决定将去年募集的相当一部分资金改用于偿还贷款，原先这笔资金拟用于发展虚拟资产相关服务。",
       "published": 1795708800.0,
-      "fetched_at": "2026-11-28 12:32:10",
+      "fetched_at": "2026-11-28 20:37:56",
       "published_cn": "11-26 16:00"
     },
     {
@@ -463,7 +483,7 @@
       "category": "finance",
       "summary": "绿色和平东亚办公室全球政策顾问姚喆认为，气候大会需要与现实中国家的气候行动和能源转型的需求产生更强的关联性，这是破解其“中年危机”的核心。",
       "published": 1795708800.0,
-      "fetched_at": "2026-11-28 12:32:10",
+      "fetched_at": "2026-11-28 20:37:56",
       "published_cn": "11-26 16:00"
     },
     {
@@ -473,7 +493,7 @@
       "category": "finance",
       "summary": "魏城：有人开玩笑说，帝国后人中，地缘战略侃爷特别多，我在土耳其短短的八天旅游行程里，就至少遇到了两个。无论成功与否，土耳其一直在多面下注，为自己争取更大的战略空间。",
       "published": 1795708800.0,
-      "fetched_at": "2026-11-28 12:32:10",
+      "fetched_at": "2026-11-28 20:37:56",
       "published_cn": "11-26 16:00"
     },
     {
@@ -483,7 +503,7 @@
       "category": "finance",
       "summary": "何越：20多年前，读政策新闻，习惯从标题里寻找一个统一的答案。现在读完一篇报道，会提醒自己，那只是看待这件事的一个角度。",
       "published": 1795708800.0,
-      "fetched_at": "2026-11-28 12:32:10",
+      "fetched_at": "2026-11-28 20:37:56",
       "published_cn": "11-26 16:00"
     },
     {
@@ -493,7 +513,7 @@
       "category": "finance",
       "summary": "叶胜舟：新北今年选战复杂胶着，变数最大、危险最大，蓝营强攻火药味越来越猛。对国民党而言更输不起，对民进党而言已有小丰收。",
       "published": 1795708800.0,
-      "fetched_at": "2026-11-28 12:32:10",
+      "fetched_at": "2026-11-28 20:37:56",
       "published_cn": "11-26 16:00"
     },
     {
@@ -503,7 +523,7 @@
       "category": "finance",
       "summary": "这位抽象艺术领域的代表性艺术家，几乎在全球所有顶级美术馆举办过展览；81岁的斯库利近年又开始重新挑战雕塑。",
       "published": 1795708800.0,
-      "fetched_at": "2026-11-28 12:32:10",
+      "fetched_at": "2026-11-28 20:37:56",
       "published_cn": "11-26 16:00"
     },
     {
@@ -513,7 +533,7 @@
       "category": "finance",
       "summary": "一场展品横跨四大洲，时间线索从公元前600年绵延至公元1000年的大型展出，向人们呈现了全球性流通曾经的灵动与活力，也为今天壁垒高企的世界提供了一份对照。",
       "published": 1795708800.0,
-      "fetched_at": "2026-11-28 12:32:10",
+      "fetched_at": "2026-11-28 20:37:56",
       "published_cn": "11-26 16:00"
     },
     {
@@ -523,7 +543,7 @@
       "category": "tech",
       "summary": "Detailed estimate going back to 1800 shows how much carbon is being liberated.",
       "published": 1795695342.0,
-      "fetched_at": "2026-11-28 12:32:10",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-26 12:15"
     },
     {
@@ -533,7 +553,7 @@
       "category": "tech",
       "summary": "Our home offices range from tasteful to \"please explain yourself.\"",
       "published": 1795694414.0,
-      "fetched_at": "2026-11-28 12:32:10",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-26 12:00"
     },
     {
@@ -543,7 +563,7 @@
       "category": "tech",
       "summary": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。<a href=\"https://sspai.com/post/116773\" target=\"_blank\">查看全文</a>",
       "published": 1795685400.0,
-      "fetched_at": "2026-11-28 12:32:09",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-26 09:30"
     },
     {
@@ -553,7 +573,7 @@
       "category": "tech",
       "summary": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。<a href=\"https://sspai.com/post/119563\" target=\"_blank\">查看全文</a>",
       "published": 1795676400.0,
-      "fetched_at": "2026-11-28 12:32:09",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-26 07:00"
     },
     {
@@ -563,18 +583,8 @@
       "category": "tech",
       "summary": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。<a href=\"https://sspai.com/post/117510\" target=\"_blank\">查看全文</a>",
       "published": 1795662833.0,
-      "fetched_at": "2026-11-28 12:32:09",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-26 03:13"
-    },
-    {
-      "title": "白紙運動四年之後，上海青年公共空間去哪兒了？",
-      "url": "https://www.bbc.com/zhongwen/articles/cwe851kg1kj1o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "category": "world",
-      "summary": "白紙運動四年後，BBC中文對話多位上海酒吧、咖啡店老闆和昔日常客、白紙運動親歷者，在他們眼裡，青年空間是如何在四年裡逐漸消失的。",
-      "published": 1795652978.0,
-      "fetched_at": "2026-11-28 12:32:11",
-      "published_cn": "11-26 00:29"
     },
     {
       "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
@@ -583,18 +593,8 @@
       "category": "tech",
       "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
       "published": 1795646672.0,
-      "fetched_at": "2026-11-28 12:32:09",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-25 22:44"
-    },
-    {
-      "title": "European spacecraft finds chaotic scene after asteroid deflection experiment",
-      "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
-      "source": "Ars Technica",
-      "category": "tech",
-      "summary": "\"DART made a really, really large mess. However, we didn’t really know what kind of mess.\"",
-      "published": 1795646205.0,
-      "fetched_at": "2026-11-28 12:32:10",
-      "published_cn": "11-25 22:36"
     },
     {
       "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
@@ -603,7 +603,7 @@
       "category": "finance",
       "summary": "Alan Greenspan famously held the line on interest rates because he believed in the productivity promise of the internet boom. Why can't Kevin Warsh do the same?",
       "published": 1795643803.0,
-      "fetched_at": "2026-11-28 12:32:11",
+      "fetched_at": "2026-11-28 20:37:56",
       "published_cn": "11-25 21:56"
     },
     {
@@ -613,7 +613,7 @@
       "category": "tech",
       "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
       "published": 1795640204.0,
-      "fetched_at": "2026-11-28 12:32:09",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-25 20:56"
     },
     {
@@ -623,7 +623,7 @@
       "category": "tech",
       "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
       "published": 1795637007.0,
-      "fetched_at": "2026-11-28 12:32:09",
+      "fetched_at": "2026-11-28 20:37:54",
       "published_cn": "11-25 20:03"
     },
     {
@@ -633,7 +633,7 @@
       "category": "world",
       "summary": "「廢除非核家園」公投案在今年11月28日的九合一選舉同日投票。這是台灣相隔短短一年後再有公投，也是當地近8年來，第4度舉行關於核電公投。BBC中文整理此次公投的背景和重點。",
       "published": 1793951811.0,
-      "fetched_at": "2026-11-28 12:32:11",
+      "fetched_at": "2026-11-28 20:37:56",
       "published_cn": "11-06 07:56"
     },
     {
@@ -643,12 +643,13 @@
       "category": "world",
       "summary": "台灣的地方選舉又稱「九合一」選舉，每四年一次，多數落在總統任期中段的年底，故被視為總統的「期中考」。",
       "published": 1789534046.0,
-      "fetched_at": "2026-11-28 12:32:11",
+      "fetched_at": "2026-11-28 20:37:56",
       "published_cn": "09-16 04:47"
     }
   ],
   "feed_failures": [
     "虎嗅: ReadTimeout HTTPSConnectionPool(host='www.huxiu.com', port=443): Read timed out. (read timeout=20)",
+    "华尔街见闻: HTTPError 404 Client Error: Not Found for url: https://wallstreetcn.com/rss",
     "卫报·世界: HTTPError 403 Client Error: Forbidden for url: https://www.theguardian.com/world/rss"
   ]
 }
